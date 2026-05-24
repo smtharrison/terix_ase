@@ -1,0 +1,4466 @@
+哈喽大家好, 欢迎收听硅谷101, 我是红军
+Hā lòu dà jiā hǎo, huān yíng shōu tīng guī gǔ 101, wǒ shì hóng jūn
+
+每年三月份是硅谷最热闹的时候, 整个科技圈都在关注英伟达的GTC大会
+Měi nián sān yuè fèn shì guī gǔ zuì rè nào de shí hòu, zhěng gè kē jì quān dōu zài guān zhù yīng wěi dá de GTC dà huì
+
+所以呢我们也举办了第一次的线下播客录制
+Suǒ yǐ ne wǒ men yě jǔ bàn le dì yī cì de xiàn xià bō kè lù zhì
+
+邀请各地来的朋友参与到我们的现场讨论中
+Yāo qǐng gè dì lái de péng yǒu cān yù dào wǒ men de xiàn chǎng tǎo lùn zhōng
+
+那今年黄仁勋站在台上说
+Nà jīn nián huáng rén xūn zhàn zài tái shàng shuō
+
+2027年底Blackwell和Varubin两个平台的累计订单预计会至少1万亿美元
+2027 nián dǐ Blackwell hé Varubin liǎng gè píng tái de lěi jì dìng dān yù jì huì zhì shǎo 1 wàn yì měi yuán
+
+我看到2027年底下, 至少1亿美元
+Wǒ kàn dào 2027 nián dǐ xià, zhì shǎo 1 yì měi yuán
+
+要知道2024年全球半导体产业的销售额也就6000多亿美元
+Yào zhī dào 2024 nián quán qiú bàn dǎo tǐ chǎn yè de xiāo shòu é yě jiù 6000 duō yì měi yuán
+
+所以这也是我看到AI产业最核心的一组矛盾
+Suǒ yǐ zhè yě shì wǒ kàn dào AI chǎn yè zuì hé xīn de yī zǔ máo dùn
+
+需求端是万亿美元的疯狂订单
+Xū qiú duān shì wàn yì měi yuán de fēng kuáng dìng dān
+
+而供给端从先进的封装产能、内存到电力配送
+Ér gōng jǐ duān cóng xiān jìn de fēng zhuāng chǎn néng, nèi cún dào diàn lì pèi sòng
+
+几乎每一个环节都在遭遇瓶颈
+Jī hū měi yī gè huán jié dōu zài zāo yù píng jǐng
+
+这期节目我邀请到了四位嘉宾来帮我一起拆解
+Zhè qī jié mù wǒ yāo qǐng dào le sì wèi jiā bīn lái bāng wǒ yī qǐ chāi jiě
+
+英伟达的万亿野心到底能不能落地
+Yīng wěi dá de wàn yì yě xīn dào dǐ néng bù néng luò dì
+
+以及他的护城河是否正在被竞争对手围剿
+Yǐ jí tā de hù chéng hé shì fǒu zhèng zài bèi jìng zhēng duì shǒu wéi jiǎo
+
+那这期节目我分成两个部分
+Nà zhè qī jié mù wǒ fēn chéng liǎng gè bù fèn
+
+参与我们第一部分讨论的嘉宾是大家的老朋友 Fusion Fund的创始管理合伙人张璐
+Cān yù wǒ men dì yī bù fèn tǎo lùn de jiā bīn shì dà jiā de lǎo péng yǒu Fusion Fund de chuàng shǐ guǎn lǐ hé huǒ rén zhāng lù
+
+还有两位新朋友
+Hái yǒu liǎng wèi xīn péng yǒu
+
+一位是Agentries的创始人与CEO Mark仁博士
+Yī wèi shì Agentries de chuàng shǐ rén yǔ CEO Mark rén bó shì
+
+他也是英伟达的研究总监
+Tā yě shì yīng wěi dá de yán jiū zǒng jiān
+
+还有一位是Zflow AI的创始人与CEO 肖志斌博士
+Hái yǒu yī wèi shì Zflow AI de chuàng shǐ rén yǔ CEO xiào zhì bīn bó shì
+
+他是前CASPA的主席与董事会顾问
+Tā shì qián CASPA de zhǔ xí yǔ dǒng shì huì gù wèn
+
+那我们前半段的讨论中
+Nà wǒ men qián bàn duàn de tǎo lùn zhōng
+
+有AI的投资人
+Yǒu AI de tóu zī rén
+
+也有在英伟达内部用AI做芯片设计的Mark
+Yě yǒu zài yīng wěi dá nèi bù yòng AI zuò xīn piàn shè jì de Mark
+
+还有亲手设计过芯片的志斌
+Hái yǒu qīn shǒu shè jì guò xīn piàn de zhì bīn
+
+以及在后半场还会有GPU云的创业者Alex加入我们
+Yǐ jí zài hòu bàn chǎng hái huì yǒu GPU yún de chuàng yè zhě Alex jiā rù wǒ men
+
+因为Alex他的母语是英文
+Yīn wèi Alex tā de mǔ yǔ shì yīng wén
+
+所以后半部分会有大量的中英夹杂
+Suǒ yǐ hòu bàn bù fèn huì yǒu dà liàng de zhōng yīng jiā zá
+
+加上我们的嘉宾基本上都在硅谷工作了十几年
+Jiā shàng wǒ men de jiā bīn jī běn shàng dōu zài guī gǔ gōng zuò le shí jǐ nián
+
+所以如果这期节目的中英夹杂影响了大家的理解
+Suǒ yǐ rú guǒ zhè qī jié mù de zhōng yīng jiā zá yǐng xiǎng le dà jiā de lǐ jiě
+
+大家可以在B站和YouTube上搜索我们的字幕板
+Dà jiā kě yǐ zài B zhàn hé YouTube shàng sōu suǒ wǒ men de zì mù bǎn
+
+也请大家能够多多包涵
+Yě qǐng dà jiā néng gòu duō duō bāo hán
+
+那下面就跟我一起正式进入到我们线下录制的会场
+Nà xià miàn jiù gēn wǒ yī qǐ zhèng shì jìn rù dào wǒ men xiàn xià lù zhì de huì chǎng
+
+我们先从四个数字开始
+Wǒ men xiān cóng sì gè shù zì kāi shǐ
+
+今年我也去老黄的T-Note的主题演讲了
+Jīn nián wǒ yě qù lǎo huáng de T-Note de zhǔ tí yǎn jiǎng le
+
+其实准确地说我大概已经是去了好多年的GTC的活动了
+Qí shí zhǔn què de shuō wǒ dà gài yǐ jīng shì qù le hǎo duō nián de GTC de huó dòng le
+
+我跟大家先总结一下他在这个演讲上的几个关键数字
+Wǒ gēn dà jiā xiān zǒng jié yī xià tā zài zhè gè yǎn jiǎng shàng de jǐ gè guān jiàn shù zì
+
+第一个数字呢是1万亿
+Dì yī gè shù zì ne shì 1 wàn yì
+
+Jensen说到2027年Blackwell跟Vero Rubin的订单规模累计将达到1万亿美元
+Jensen shuō dào 2027 nián Blackwell gēn Vero Rubin de dìng dān guī mó lěi jì jiāng dá dào 1 wàn yì měi yuán
+
+去年的这个数字是5000亿美元
+Qù nián de zhè gè shù zì shì 5000 yì měi yuán
+
+我觉得应该现在全球商业史上是很难有人能达到这个销售的规模的
+Wǒ jué de yīng gāi xiàn zài quán qiú shāng yè shǐ shàng shì hěn nán yǒu rén néng dá dào zhè gè xiāo shòu de guī mó de
+
+第二个呢就是7块新芯片
+Dì èr gè ne jiù shì 7 kuài xīn xīn piàn
+
+Vero Rubin它的平台是一次性发布了7块新的芯片
+Vero Rubin tā de píng tái shì yī cì xìng fā bù le 7 kuài xīn de xīn piàn
+
+而且已经全部进入量产了
+Ér qiě yǐ jīng quán bù jìn rù liàng chǎn le
+
+也可以说这是英伟达有史以来规模最大的一次同步发布
+Yě kě yǐ shuō zhè shì yīng wěi dá yǒu shǐ yǐ lái guī mó zuì dà de yī cì tóng bù fā bù
+
+还有一个就是10倍
+Hái yǒu yī gè jiù shì 10 bèi
+
+就是Vero Rubin它NVL72相比Blackwell推理效率提升了10倍
+Jiù shì Vero Rubin tā NVL72 xiāng bǐ Blackwell tuī lǐ xiào lǜ tí shēng le 10 bèi
+
+每个Token的成本降了十分之一
+Měi gè Token de chéng běn jiàng le shí fēn zhī yī
+
+另外呢就是还有一个数字是35倍
+Lìng wài ne jiù shì hái yǒu yī gè shù zì shì 35 bèi
+
+就是今年大家很火的一个概念
+Jiù shì jīn nián dà jiā hěn huǒ de yī gè gài niàn
+
+就是Token per Watt性能提升了35倍
+Jiù shì Token per Watt xìng néng tí shēng le 35 bèi
+
+不然我们就先从第一个数字开始分析起
+Bù rán wǒ men jiù xiān cóng dì yī gè shù zì kāi shǐ fēn xī qǐ
+
+就是1万亿的销售规模
+Jiù shì 1 wàn yì de xiāo shòu guī mó
+
+仅仅靠Blackwell跟Vero Rubin
+Jǐn jǐn kào Blackwell gēn Vero Rubin
+
+路啊你怎么看这个销售规模
+Lù a nǐ zěn me kàn zhè gè xiāo shòu guī mó
+
+就是你觉得现在市场有这么大的一个需求量吗
+Jiù shì nǐ jué de xiàn zài shì chǎng yǒu zhè me dà de yī gè xū qiú liàng ma
+
+对首先就像你说的
+Duì shǒu xiān jiù xiàng nǐ shuō de
+
+它这个数字其实比上次提到的上限
+Tā zhè gè shù zì qí shí bǐ shàng cì tí dào de shàng xiàn
+
+其实翻了一倍
+Qí shí fān le yī bèi
+
+我觉得这也跟它今年的主题相关
+Wǒ jué de zhè yě gēn tā jīn nián de zhǔ tí xiāng guān
+
+就它已经希望大家不要单纯把英伟达看作一个GPU公司了
+Jiù tā yǐ jīng xī wàng dà jiā bù yào dān chún bǎ yīng wěi dá kàn zuò yī gè GPU gōng sī le
+
+它想把英伟达打造成一个人工智能的基础设施的公司
+Tā xiǎng bǎ yīng wěi dá dǎ zào chéng yī gè rén gōng zhì néng de jī chǔ shè shī de gōng sī
+
+一个巨大的人工智能的一个工厂
+Yī gè jù dà de rén gōng zhì néng de yī gè gōng chǎng
+
+它的产出是未来工作的一个新定义的生产力
+Tā de chǎn chū shì wèi lái gōng zuò de yī gè xīn dìng yì de shēng chǎn lì
+
+就是Token
+Jiù shì Token
+
+所以在这个角度上来讲的话呢
+Suǒ yǐ zài zhè gè jiǎo dù shàng lái jiǎng de huà ne
+
+未来增长空间确实很巨大
+Wèi lái zēng zhǎng kōng jiān què shí hěn jù dà
+
+因为它不只是单纯说我们平时要去训练一个模型
+Yīn wèi tā bù zhǐ shì dān chún shuō wǒ men píng shí yào qù xùn liàn yī gè mó xíng
+
+那现在在训练模型下一步是什么
+Nà xiàn zài zài xùn liàn mó xíng xià yī bù shì shén me
+
+为什么有那么多讨论在推理层
+Wèi shén me yǒu nà me duō tǎo lùn zài tuī lǐ céng
+
+也是因为现在我们在讨论很多对于agent智能体的应用
+Yě shì yīn wèi xiàn zài wǒ men zài tǎo lùn hěn duō duì yú agent zhì néng tǐ de yìng yòng
+
+agent智能体大规模的铺设之后的话呢
+Agent zhì néng tǐ dà guī mó de pū shè zhī hòu de huà ne
+
+在推理层面上的需求就会进步增强
+Zài tuī lǐ céng miàn shàng de xū qiú jiù huì jìn bù zēng qiáng
+
+其实我们真的去比较训练和推理的话呢
+Qí shí wǒ men zhēn de qù bǐ jiào xùn liàn hé tuī lǐ de huà ne
+
+训练更像是一次性的一个成本投入
+Xùn liàn gèng xiàng shì yī cì xìng de yī gè chéng běn tóu rù
+
+但推理它其实是一个长期的一个现金流
+Dàn tuī lǐ tā qí shí shì yī gè cháng qī de yī gè xiàn jīn liú
+
+不停地去调用
+Bù tíng de qù diào yòng
+
+包括现在有一个长的上下文本
+Bāo kuò xiàn zài yǒu yī gè zhǎng de shàng xià wén běn
+
+就会导致对它的消耗也会更大
+Jiù huì dǎo zhì duì tā de xiāo hào yě huì gèng dà
+
+再加上你又对一些agent真的部署之后
+Zài jiā shàng nǐ yòu duì yī xiē agent zhēn de bù shǔ zhī hòu
+
+它有一些比如说像低延迟 快速反应 还有实施在线的这些需求
+Tā yǒu yī xiē bǐ rú shuō xiàng dī yán chí, kuài sù fǎn yìng, hái yǒu shí shī zài xiàn de zhè xiē xū qiú
+
+对它根本上的token消耗也会更加多
+Duì tā gēn běn shàng de token xiāo hào yě huì gèng jiā duō
+
+所以我在长线层面上
+Suǒ yǐ wǒ zài cháng xiàn céng miàn shàng
+
+我觉得这个预期是对的
+Wǒ jué de zhè gè yù qī shì duì de
+
+当然是不是能够很快达到这个数字
+Dāng rán shì bù shì néng gòu hěn kuài dá dào zhè gè shù zì
+
+也取决于我们在产业AI的整合
+Yě qǔ jué yú wǒ men zài chǎn yè AI de zhěng hé
+
+还有agent的铺设过程中
+Hái yǒu agent de pū shè guò chéng zhōng
+
+能达到什么样的一个快速的速度
+Néng dá dào shén me yàng de yī gè kuài sù de sù dù
+
+所以我觉得这也是为什么
+Suǒ yǐ wǒ jué de zhè yě shì wèi shén me
+
+今年你看它还做了很多其他的发布
+Jīn nián nǐ kàn tā hái zuò le hěn duō qí tā de fā bù
+
+希望在企业级人工智能部署层面上
+Xī wàng zài qǐ yè jí rén gōng zhì néng bù shǔ céng miàn shàng
+
+也可以做进一步的推动
+Yě kě yǐ zuò jìn yī bù de tuī dòng
+
+从侧面去加速它的一万亿的目标的一个达成
+Cóng cè miàn qù jiā sù tā de yī wàn yì de mù biāo de yī gè dá chéng
+
+你刚刚提到一个很好的点 就是推理啊
+Nǐ gāng gāng tí dào yī gè hěn hǎo de diǎn, jiù shì tuī lǐ a
+
+据你观察
+Jù nǐ guān chá
+
+比如说我们现在看到这些顶级的模型厂商中
+Bǐ rú shuō wǒ men xiàn zài kàn dào zhè xiē dǐng jí de mó xíng chǎng shāng zhōng
+
+他们训练跟推理成本
+Tā men xùn liàn gēn tuī lǐ chéng běn
+
+现在比例在呈现一个什么样的变化
+Xiàn zài bǐ lì zài chéng xiàn yī gè shén me yàng de biàn huà
+
+因为我是看见以前大家在芯片上绝大部分都是训练成本
+Yīn wèi wǒ shì kàn jiàn yǐ qián dà jiā zài xīn piàn shàng jué dà bù fèn dōu shì xùn liàn chéng běn
+
+但是现在看起来推理的成本正在拉平训练成本
+Dàn shì xiàn zài kàn qǐ lái tuī lǐ de chéng běn zhèng zài lā píng xùn liàn chéng běn
+
+是的 是的
+Shì de, shì de
+
+这个话题特别有意思
+Zhè gè huà tí tè bié yǒu yì si
+
+我记得大概23年24年的时候
+Wǒ jì de dà gài 23 nián 24 nián de shí hòu
+
+当时我是和应该还是微软的一个CTO
+Dāng shí wǒ shì hé yīng gāi hái shì wēi ruǎn de yī gè CTO
+
+他在提到说
+Tā zài tí dào shuō
+
+他们自己都预计说在未来
+Tā men zì jǐ dōu yù jì shuō zài wèi lái
+
+其实更多的成本是在推理层 而不是训练
+Qí shí gèng duō de chéng běn shì zài tuī lǐ céng, ér bù shì xùn liàn
+
+我觉得23年的时候可能是百分之七八十是在训练
+Wǒ jué de 23 nián de shí hòu kě néng shì bǎi fēn zhī qī bā shí shì zài xùn liàn
+
+那现在可能是一半一半推理和训练
+Nà xiàn zài kě néng shì yī bàn yī bàn tuī lǐ hé xùn liàn
+
+那到在明年或者说后年的话
+Nà dào zài míng nián huò zhě shuō hòu nián de huà
+
+可能最后百分之七八十的成本都会在推理层
+Kě néng zuì hòu bǎi fēn zhī qī bā shí de chéng běn dōu huì zài tuī lǐ céng
+
+所以从这个角度来看
+Suǒ yǐ cóng zhè gè jiǎo dù lái kàn
+
+推理是巨头
+Tuī lǐ shì jù tóu
+
+对 推理觉得是巨头
+Duì, tuī lǐ jué de shì jù tóu
+
+所以我非常相信我刚才说的那句话
+Suǒ yǐ wǒ fēi cháng xiāng xìn wǒ gāng cái shuō de nà jù huà
+
+如果你看长期的现金流
+Rú guǒ nǐ kàn cháng qī de xiàn jīn liú
+
+那一定是来自于推理
+Nà yī dìng shì lái zì yú tuī lǐ
+
+对 那志滨
+Duì, nà zhì bīn
+
+我们刚刚提到了这个一万亿的经济数字
+Wǒ men gāng gāng tí dào le zhè gè yī wàn yì de jīng jì shù zì
+
+但是我觉得它整个背后其实是需要供应链支撑的
+Dàn shì wǒ jué de tā zhěng gè bèi hòu qí shí shì xū yào gōng yìng liàn zhī chēng de
+
+我也跟大家简单介绍一下志滨
+Wǒ yě gēn dà jiā jiǎn dān jiè shào yī xià zhì bīn
+
+志滨其实是芯片架构师
+Zhì bīn qí shí shì xīn piàn jià gòu shī
+
+然后也设计了阿里的含光800的芯片加速器
+Rán hòu yě shè jì le ā lǐ de hán guāng 800 de xīn piàn jiā sù qì
+
+所以它对整个的芯片供应链是非常了解的
+Suǒ yǐ tā duì zhěng gè de xīn piàn gōng yìng liàn shì fēi cháng liǎo jiě de
+
+那从你的角度啊
+Nà cóng nǐ de jiǎo dù a
+
+这个一万亿对应了多少的晶圆产能
+Zhè gè yī wàn yì duì yìng le duō shǎo de jīng yuán chǎn néng
+
+然后现在PSMC三纳米的良率跟HBM4
+Rán hòu xiàn zài PSMC sān nà mǐ de liáng lǜ gēn HBM4
+
+它的产能能跟得上吗
+Tā de chǎn néng néng gēn dé shàng ma
+
+这个数字都非常的精准
+Zhè gè shù zì dōu fēi cháng de jīng zhǔn
+
+过去几年有很多人讲一万亿
+Guò qù jǐ nián yǒu hěn duō rén jiǎng yī wàn yì
+
+我们是半导体协会嘛
+Wǒ men shì bàn dǎo tǐ xié huì ma
+
+我们整个2024年半导体的产业就是6000亿美元
+Wǒ men zhěng gè 2024 nián bàn dǎo tǐ de chǎn yè jiù shì 6000 yì měi yuán
+
+当时2024年大家很兴奋说
+Dāng shí 2024 nián dà jiā hěn xīng fèn shuō
+
+2030年我们整个半导体产业会到1万亿
+2030 nián wǒ men zhěng gè bàn dǎo tǐ chǎn yè huì dào 1 wàn yì
+
+这是还整个半导体产业芯片供应链
+Zhè shì hái zhěng gè bàn dǎo tǐ chǎn yè xīn piàn gōng yìng liàn
+
+半导体测试设备
+Bàn dǎo tǐ cè shì shè bèi
+
+去年10月份LISA就是AMD的CEO
+Qù nián 10 yuè fèn LISA jiù shì AMD de CEO
+
+就预测整个数据中心的AI的加速芯片
+Jiù yù cè zhěng gè shù jù zhōng xīn de AI de jiā sù xīn piàn
+
+到2030年到1万亿
+Dào 2030 nián dào 1 wàn yì
+
+今年3月份老黄的重磅大量就是他一加Wiler加Lubin
+Jīn nián 3 yuè fèn lǎo huáng de zhòng bàng dà liàng jiù shì tā yī jiā Wiler jiā Lubin
+
+当然它不是芯片了
+Dāng rán tā bù shì xīn piàn le
+
+它是整个系统
+Tā shì zhěng gè xì tǒng
+
+它已经到了供应链这个层面
+Tā yǐ jīng dào le gōng yìng liàn zhè gè céng miàn
+
+但是在供应链上能不能在2027年能做到1万亿
+Dàn shì zài gōng yìng liàn shàng néng bù néng zài 2027 nián néng zuò dào 1 wàn yì
+
+这是非常的challenging
+Zhè shì fēi cháng de challenging
+
+包括三纳米的产能
+Bāo kuò sān nà mǐ de chǎn néng
+
+包括新晋风装COVAS
+Bāo kuò xīn jìn fēng zhuāng COVAS
+
+因为我们以前半导体产业
+Yīn wèi wǒ men yǐ qián bàn dǎo tǐ chǎn yè
+
+我们相当于是乙方
+Wǒ men xiāng dāng yú shì yǐ fāng
+
+所以我们是vendor
+Suǒ yǐ wǒ men shì vendor
+
+那现在有点结社互换了
+Nà xiàn zài yǒu diǎn jié shè hù huàn le
+
+现在变成了卖方市场
+Xiàn zài biàn chéng le mài fāng shì chǎng
+
+就是我们半导体的产能是卖方市场
+Jiù shì wǒ men bàn dǎo tǐ de chǎn néng shì mài fāng shì chǎng
+
+所以三纳米的产能我觉得是跟得上
+Suǒ yǐ sān nà mǐ de chǎn néng wǒ jué de shì gēn dé shàng
+
+但是COVAS的产能就很难说了
+Dàn shì COVAS de chǎn néng jiù hěn nán shuō le
+
+因为2024年到现在台积电COVAS的产能
+Yīn wèi 2024 nián dào xiàn zài tái jī diàn COVAS de chǎn néng
+
+基本上涨了三倍
+Jī běn shàng zhǎng le sān bèi
+
+还在持续的疯狂的扩产
+Hái zài chí xù de fēng kuáng de kuò chǎn
+
+HBM这一块的话
+HBM zhè yī kuài de huà
+
+就3月份美光跟三星宣布
+Jiù 3 yuè fèn měi guāng gēn sān xīng xuān bù
+
+HBM4已经量产了
+HBM4 yǐ jīng liàng chǎn le
+
+同时美光三星跟HINES
+Tóng shí měi guāng sān xīng gēn HINES
+
+他们在做HBM4E的定制发的方案
+Tā men zài zuò HBM4E de dìng zhì fā de fāng àn
+
+所以现在也是各家都在各显其能
+Suǒ yǐ xiàn zài yě shì gè jiā dōu zài gè xiǎn qí néng
+
+在供应链上达到老房的要求
+Zài gōng yìng liàn shàng dá dào lǎo fáng de yāo qiú
+
+是不是所有的朋友都是半导体的背景
+Shì bù shì suǒ yǒu de péng yǒu dōu shì bàn dǎo tǐ de bèi jǐng
+
+我觉得其实很多人可能不了解的是
+Wǒ jué de qí shí hěn duō rén kě néng bù liǎo jiě de shì
+
+哪怕我们现在聊说需求端非常旺盛
+Nǎ pà wǒ men xiàn zài liáo shuō xū qiú duān fēi cháng wàng shèng
+
+需要更大的产能
+Xū yào gèng dà de chǎn néng
+
+但其实半导体行业就是这样
+Dàn qí shí bàn dǎo tǐ háng yè jiù shì zhè yàng
+
+你需要更大的产能
+Nǐ xū yào gèng dà de chǎn néng
+
+你从供应链端
+Nǐ cóng gōng yìng liàn duān
+
+你需要存储 需要switch
+Nǐ xū yào cún chǔ, xū yào switch
+
+但是它要去先投产
+Dàn shì tā yào qù xiān tóu chǎn
+
+需要做很多的预投资
+Xū yào zuò hěn duō de yù tóu zī
+
+这个预投资去它生产线
+Zhè gè yù tóu zī qù tā shēng chǎn xiàn
+
+然后再去我们说这个过程控制去优化
+Rán hòu zài qù wǒ men shuō zhè gè guò chéng kòng zhì qù yōu huà
+
+这个周期是没有办法用钱砸出来的
+Zhè gè zhōu qī shì méi yǒu bàn fǎ yòng qián zá chū lái de
+
+所以哪怕你现在说我需要额外的产能
+Suǒ yǐ nǎ pà nǐ xiàn zài shuō wǒ xū yào é wài de chǎn néng
+
+那你可能确实需要等到一两年之后
+Nà nǐ kě néng què shí xū yào děng dào yī liǎng nián zhī hòu
+
+这个产能才能实现
+Zhè gè chǎn néng cái néng shí xiàn
+
+一两年之后的话
+Yī liǎng nián zhī hòu de huà
+
+可能有更多附加的一个要求
+Kě néng yǒu gèng duō fù jiā de yī gè yāo qiú
+
+所以这并不是像软件一样
+Suǒ yǐ zhè bìng bù shì xiàng ruǎn jiàn yī yàng
+
+你有多大的需求
+Nǐ yǒu duō dà de xū qiú
+
+你可以马上产出多大的销售
+Nǐ kě yǐ mǎ shàng chǎn chū duō dà de xiāo shòu
+
+因为你的产能限制和硬件层面上
+Yīn wèi nǐ de chǎn néng xiàn zhì hé yìng jiàn céng miàn shàng
+
+供应链层面上的生产周期是确定的
+Gōng yìng liàn céng miàn shàng de shēng chǎn zhōu qī shì què dìng de
+
+对 刚刚我也说了
+Duì, gāng gāng wǒ yě shuō le
+
+其实还有一个数字 就是七块新芯片
+Qí shí hái yǒu yī gè shù zì, jiù shì qī kuài xīn xīn piàn
+
+VeroRubin它的平台是一次发了七款的新芯片
+VeroRubin tā de píng tái shì yī cì fā le qī kuǎn de xīn xīn piàn
+
+Mark有一个背景
+Mark yǒu yī gè bèi jǐng
+
+就是Mark之前是在英伟达内部
+Jiù shì Mark zhī qián shì zài yīng wěi dá nèi bù
+
+用AI去真正做芯片设计的人
+Yòng AI qù zhēn zhèng zuò xīn piàn shè jì de rén
+
+所以我们今天真正地把
+Suǒ yǐ wǒ men jīn tiān zhēn zhèng de bǎ
+
+造出这些芯片的人
+Zào chū zhè xiē xīn piàn de rén
+
+请到了现场
+Qǐng dào le xiàn chǎng
+
+我对英伟达内部比较好奇的一个问题就是
+Wǒ duì yīng wěi dá nèi bù bǐ jiào hǎo qí de yī gè wèn tí jiù shì
+
+它怎么可以把芯片的设计速度
+Tā zěn me kě yǐ bǎ xīn piàn de shè jì sù dù
+
+拉到这么快
+Lā dào zhè me kuài
+
+我是去年12月份离开英伟达的
+Wǒ shì qù nián 12 yuè fèn lí kāi yīng wěi dá de
+
+所以我的数据不是最新的
+Suǒ yǐ wǒ de shù jù bù shì zuì xīn de
+
+我记得是两年前
+Wǒ jì de shì liǎng nián qián
+
+Jensen说过
+Jensen shuō guò
+
+本来是两年NVD要出一块芯片
+Běn lái shì liǎng nián NVD yào chū yī kuài xīn piàn
+
+后来说是一年出一块芯片
+Hòu lái shuō shì yī nián chū yī kuài xīn piàn
+
+现在是一年出好几块芯片
+Xiàn zài shì yī nián chū hǎo jǐ kuài xīn piàn
+
+为什么能提升速度
+Wèi shén me néng tí shēng sù dù
+
+当然第一个传统的大家
+Dāng rán dì yī gè chuán tǒng de dà jiā
+
+就是去招人嘛
+Jiù shì qù zhāo rén ma
+
+更多的团队来做
+Gèng duō de tuán duì lái zuò
+
+第二个其实AI的帮助是非常大的
+Dì èr gè qí shí AI de bāng zhù shì fēi cháng dà de
+
+我们公司内百分之百都在用AI
+Wǒ men gōng sī nèi bǎi fēn zhī bǎi dōu zài yòng AI
+
+包括这种Coding Agent
+Bāo kuò zhè zhǒng Coding Agent
+
+工程师的效率是提高很多
+Gōng chéng shī de xiào lǜ shì tí gāo hěn duō
+
+内部也有很多的 AI芯片设计的项目
+Nèi bù yě yǒu hěn duō de AI xīn piàn shè jì de xiàng mù
+
+您刚刚问的就说芯片的多少
+Nín gāng gāng wèn de jiù shuō xīn piàn de duō shǎo
+
+其实我觉得多少不是主要的问题
+Qí shí wǒ jué de duō shǎo bù shì zhǔ yào de wèn tí
+
+主要的问题还是说
+Zhǔ yào de wèn tí hái shì shuō
+
+你里面的优化做的是什么
+Nǐ lǐ miàn de yōu huà zuò de shì shén me
+
+这里面更是需要AI的帮助
+Zhè lǐ miàn gèng shì xū yào AI de bāng zhù
+
+来优化的更好
+Lái yōu huà de gèng hǎo
+
+对 今年大家非常关注的点就是
+Duì, jīn nián dà jiā fēi cháng guān zhù de diǎn jiù shì
+
+Grock它的推理芯片的推出
+Grock tā de tuī lǐ xīn piàn de tuī chū
+
+包括这次
+Bāo kuò zhè cì
+
+它其实是在整个的
+Tā qí shí shì zài zhěng gè de
+
+英伟达大会上是推出了LPU
+Yīng wěi dá dà huì shàng shì tuī chū le LPU
+
+并且老黄他提出了一个建议
+Bìng qiě lǎo huáng tā tí chū le yī gè jiàn yì
+
+未来他建议所有的数据中心留25%的空间给Grock
+Wèi lái tā jiàn yì suǒ yǒu de shù jù zhōng xīn liú 25% de kōng jiān gěi Grock
+
+跟大家的推理芯片
+Gēn dà jiā de tuī lǐ xīn piàn
+
+因为Grock其实从创业开始
+Yīn wèi Grock qí shí cóng chuàng yè kāi shǐ
+
+它在硅谷就一直是一个明星公司
+Tā zài guī gǔ jiù yī zhí shì yī gè míng xīng gōng sī
+
+看起来呢
+Kàn qǐ lái ne
+
+现在英伟达对这个收购的整合也是挺成功的
+Xiàn zài yīng wěi dá duì zhè gè shōu gòu de zhěng hé yě shì tǐng chéng gōng de
+
+因为去年年底收购
+Yīn wèi qù nián nián dǐ shōu gòu
+
+今年三月份就直接开始在GTC上发产品了
+Jīn nián sān yuè fèn jiù zhí jiē kāi shǐ zài GTC shàng fā chǎn pǐn le
+
+还是一个非常重量级的产品
+Hái shì yī gè fēi cháng zhòng liàng jí de chǎn pǐn
+
+我也想请现场的嘉宾给不太了解Grock
+Wǒ yě xiǎng qǐng xiàn chǎng de jiā bīn gěi bù tài liǎo jiě Grock
+
+它的推理芯片优势到底在哪里的
+Tā de tuī lǐ xīn piàn yōu shì dào dǐ zài nǎ lǐ de
+
+听众们解释一下
+Tīng zhòng men jiě shì yī xià
+
+Grok相比于其他的推理芯片
+Grok xiāng bǐ yú qí tā de tuī lǐ xīn piàn
+
+它的优势在哪里
+Tā de yōu shì zài nǎ lǐ
+
+那我就来讲了
+Nà wǒ jiù lái jiǎng le
+
+因为我从2017年一直在做AI推理芯片
+Yīn wèi wǒ cóng 2017 nián yī zhí zài zuò AI tuī lǐ xīn piàn
+
+2017年给阿里巴巴做了第一款AI推理芯片
+2017 nián gěi ā lǐ bā bā zuò le dì yī kuǎn AI tuī lǐ xīn piàn
+
+当时没有TradGPD 没有BERT
+Dāng shí méi yǒu TradGPD, méi yǒu BERT
+
+当时更多的是Computer Vision
+Dāng shí gèng duō de shì Computer Vision
+
+所以我们当时也是纯SRAM的架构
+Suǒ yǐ wǒ men dāng shí yě shì chún SRAM de jià gòu
+
+Grock的这个芯片其实是一个纯的
+Grock de zhè gè xīn piàn qí shí shì yī gè chún de
+
+我不知道大家知不知道SRAM DRAM这些
+Wǒ bù zhī dào dà jiā zhī bù zhī dào SRAM DRAM zhè xiē
+
+SRAM是静态的存储
+SRAM shì jìng tài de cún chǔ
+
+它跟我们的芯片设计的时候
+Tā gēn wǒ men de xīn piàn shè jì de shí hòu
+
+它是用的逻辑的工艺
+Tā shì yòng de luó jí de gōng yì
+
+所以它的latency非常的短 就1到2纳秒
+Suǒ yǐ tā de latency fēi cháng de duǎn, jiù 1 dào 2 nà miǎo
+
+就是访问一次
+Jiù shì fǎng wèn yī cì
+
+它不需要动态刷新
+Tā bù xū yào dòng tài shuā xīn
+
+但是它的成本是比DRAM高的
+Dàn shì tā de chéng běn shì bǐ DRAM gāo de
+
+DRAM是一个transistor
+DRAM shì yī gè transistor
+
+SRAM是6个晶体管
+SRAM shì 6 gè jīng tǐ guǎn
+
+DRAM你可以density可以做得非常大
+DRAM nǐ kě yǐ density kě yǐ zuò dé fēi cháng dà
+
+但是latency非常大
+Dàn shì latency fēi cháng dà
+
+而且你还有dynamic refresh的这个问题
+Ér qiě nǐ hái yǒu dynamic refresh de zhè gè wèn tí
+
+大部分的这个AI芯片都是有DRAM的
+Dà bù fèn de zhè gè AI xīn piàn dōu shì yǒu DRAM de
+
+因为DRAM的成本比较低
+Yīn wèi DRAM de chéng běn bǐ jiào dī
+
+capacity比较大
+capacity bǐ jiào dà
+
+然后你的模型就可以放得更大
+Rán hòu nǐ de mó xíng jiù kě yǐ fàng dé gèng dà
+
+但是Glock就是见走偏锋
+Dàn shì Glock jiù shì jiàn zǒu piān fēng
+
+完全去掉了DRAM
+Wán quán qù diào le DRAM
+
+只是通过on-chip SRAM
+Zhǐ shì tōng guò on-chip SRAM
+
+把你的模型的参数
+Bǎ nǐ de mó xíng de cān shù
+
+跟你模型中间产生的这些kvcache
+Gēn nǐ mó xíng zhōng jiān chǎn shēng de zhè xiē kvcache
+
+结果存在这个片上
+Jié guǒ cún zài zhè gè piàn shàng
+
+通过极致的互联把它扩展到更大的集群
+Tōng guò jí zhì de hù lián bǎ tā kuò zhǎn dào gèng dà de jí qún
+
+这带来的一个好处就是对于这种agentic应用
+Zhè dài lái de yī gè hǎo chù jiù shì duì yú zhè zhǒng agentic yìng yòng
+
+它的latency非常非常的短
+Tā de latency fēi cháng fēi cháng de duǎn
+
+就是非常快
+Jiù shì fēi cháng kuài
+
+就token per second per user可以做得非常好
+Jiù token per second per user kě yǐ zuò dé fēi cháng hǎo
+
+这是老黄在他的slides上面讲的
+Zhè shì lǎo huáng zài tā de slides shàng miàn jiǎng de
+
+就是对于token per second per user要求非常高的那些应用
+Jiù shì duì yú token per second per user yāo qiú fēi cháng gāo de nà xiē yìng yòng
+
+它直接就是把GPU的那个效率提升了三十多倍
+Tā zhí jiē jiù shì bǎ GPU de nà gè xiào lǜ tí shēng le sān shí duō bèi
+
+可以把那个曲线保持比较平稳的那个状态
+Kě yǐ bǎ nà gè qū xiàn bǎo chí bǐ jiào píng wěn de nà gè zhuàng tài
+
+GPU其实不大适合做agentic应用的
+GPU qí shí bù dà shì hé zuò agentic yìng yòng de
+
+其实从推理的应用来讲
+Qí shí cóng tuī lǐ de yìng yòng lái jiǎng
+
+你可以想象lenguage model它有两部分
+Nǐ kě yǐ xiǎng xiàng language model tā yǒu liǎng bù fèn
+
+有一部分叫encoder 一部分叫decoder
+Yǒu yī bù fèn jiào encoder, yī bù fèn jiào decoder
+
+encoder它是适合一个high throughput的一个批量的过程
+Encoder tā shì shì hé yī gè high throughput de yī gè pī liàng de guò chéng
+
+非常适合GPU
+Fēi cháng shì hé GPU
+
+decoder这边呢
+Decoder zhè biān ne
+
+它是一个token一个token来做的
+Tā shì yī gè token yī gè token lái zuò de
+
+生成每一个token的computer并没有那么多
+Shēng chéng měi yī gè token de computer bìng méi yǒu nà me duō
+
+但是要中间要很多communication
+Dàn shì yào zhōng jiān yào hěn duō communication
+
+就是它要把那个大元模型的全值
+Jiù shì tā yào bǎ nà gè dà yuán mó xíng de quán zhí
+
+从memory里面把它load上来
+Cóng memory lǐ miàn bǎ tā load shàng lái
+
+这个过程是非常take time
+Zhè gè guò chéng shì fēi cháng take time
+
+如果说我每生成一个token
+Rú guǒ shuō wǒ měi shēng chéng yī gè token
+
+我都要重新load全部的weight上来的话
+Wǒ dōu yào chóng xīn load quán bù de weight shàng lái de huà
+
+那你大部分时间其实都在那抓weight communication
+Nà nǐ dà bù fèn shí jiān qí shí dōu zài nà zhuā weight communication
+
+不是在compute
+Bù shì zài compute
+
+Glocker的做法就是说
+Glocker de zuò fǎ jiù shì shuō
+
+它是把这个weight放在芯片里面
+Tā shì bǎ zhè gè weight fàng zài xīn piàn lǐ miàn
+
+那它就不需要来回去grab那个weight了
+Nà tā jiù bù xū yào lái huí qù grab nà gè weight le
+
+这样就减少了communication的时间
+Zhè yàng jiù jiǎn shǎo le communication de shí jiān
+
+其实就是说将来的这个AI system会是hybrid
+Qí shí jiù shì shuō jiāng lái de zhè gè AI system huì shì hybrid
+
+将来可能还有更多的芯片进去
+Jiāng lái kě néng hái yǒu gèng duō de xīn piàn jìn qù
+
+depend到将来model会怎么样
+depend dào jiāng lái model huì zěn me yàng
+
+不同的芯片可能会适合于不同的算子
+Bù tóng de xīn piàn kě néng huì shì hé yú bù tóng de suàn zǐ
+
+比如说encoder decoder是不同的算子
+Bǐ rú shuō encoder decoder shì bù tóng de suàn zǐ
+
+那将来可能还有个什么middle layer都有可能
+Nà jiāng lái kě néng hái yǒu gè shén me middle layer dōu yǒu kě néng
+
+其实刚才两位都提到一个非常关键的词 就是communication
+Qí shí gāng cái liǎng wèi dōu tí dào yī gè fēi cháng guān jiàn de cí, jiù shì communication
+
+刚才提到一个很大的优势
+Gāng cái tí dào yī gè hěn dà de yōu shì
+
+其实LPE它是延迟比较低
+Qí shí LPE tā shì yán chí bǐ jiào dī
+
+对于agentic的workflow
+Duì yú agentic de workflow
+
+它是非常非常有帮助的
+Tā shì fēi cháng fēi cháng yǒu bāng zhù de
+
+就是我们开始用agent的时候
+Jiù shì wǒ men kāi shǐ yòng agent de shí hòu
+
+你对它的需求一定是希望它经常在线的
+Nǐ duì tā de xū qiú yī dìng shì xī wàng tā jīng cháng zài xiàn de
+
+而且它是一个持续性的一个inquiry
+Ér qiě tā shì yī gè chí xù xìng de yī gè inquiry
+
+你不是说调音次就结束
+Nǐ bù shì shuō diào yīn cì jiù jié shù
+
+除了它低延迟之外的话呢
+Chú le tā dī yán chí zhī wài de huà ne
+
+因为它优化了communication很重要的一点
+Yīn wèi tā yōu huà le communication hěn zhòng yào de yī diǎn
+
+就是它能耗也会降低
+Jiù shì tā néng hào yě huì jiàng dī
+
+其实很多时候我们不会讨论到这一点
+Qí shí hěn duō shí hòu wǒ men bù huì tǎo lùn dào zhè yī diǎn
+
+现在你会发现
+Xiàn zài nǐ huì fā xiàn
+
+当然一方面是compute的一个能耗
+Dāng rán yī fāng miàn shì compute de yī gè néng hào
+
+另外还有一个communication的能耗
+Lìng wài hái yǒu yī gè communication de néng hào
+
+compute能耗是在降低的
+Compute néng hào shì zài jiàng dī de
+
+但是communication的能耗并没有降低
+Dàn shì communication de néng hào bìng méi yǒu jiàng dī
+
+那在未来它比例会越来越高
+Nà zài wèi lái tā bǐ lì huì yuè lái yuè gāo
+
+我记得我大概是在一两个月前
+Wǒ jì de wǒ dà gài shì zài yī liǎng gè yuè qián
+
+正好在Stanford有一个Ferset chat的时候
+Zhèng hǎo zài Stanford yǒu yī gè Ferset chat de shí hòu
+
+和之前斯坦福的老校长John Hanneson
+Hé zhī qián sī tǎn fú de lǎo xiào zhǎng John Hanneson
+
+我们其实就讨论到这一天
+Wǒ men qí shí jiù tǎo lùn dào zhè yī tiān
+
+但它有一个论断
+Dàn tā yǒu yī gè lùn duàn
+
+它说将来其实它觉得communication的耗电量
+Tā shuō jiāng lái qí shí tā jué de communication de hào diàn liàng
+
+是compute的十倍以上
+Shì compute de shí bèi yǐ shàng
+
+所以我们怎么样去解决这个问题
+Suǒ yǐ wǒ men zěn me yàng qù jiě jué zhè gè wèn tí
+
+这也是另外一个LPO潜在的一个优势
+Zhè yě shì lìng wài yī gè LPO qián zài de yī gè yōu shì
+
+另外刚才红军提到说
+Lìng wài gāng cái hóng jūn tí dào shuō
+
+为什么现在英伟达可以发芯片发得这么快
+Wèi shén me xiàn zài yīng wěi dá kě yǐ fā xīn piàn fā dé zhè me kuài
+
+我觉得还有很重要的一点
+Wǒ jué de hái yǒu hěn zhòng yào de yī diǎn
+
+就是传统的芯片公司厂商呢
+Jiù shì chuán tǒng de xīn piàn gōng sī chǎng shāng ne
+
+它其实是一个单独的芯片公司
+Tā qí shí shì yī gè dān dú de xīn piàn gōng sī
+
+我芯片供应出去之后客户反馈
+Wǒ xīn piàn gōng yìng chū qù zhī hòu kè hù fǎn kuì
+
+然后再反怀再进化
+Rán hòu zài fǎn huái zài jìn huà
+
+它是一个相对长一点的一个沟通的过程
+Tā shì yī gè xiāng duì cháng yī diǎn de yī gè gōu tōng de guò chéng
+
+但现在因为英伟达它其实已经
+Dàn xiàn zài yīn wèi yīng wěi dá tā qí shí yǐ jīng
+
+不想只是GPU公司了
+Bù xiǎng zhǐ shì GPU gōng sī le
+
+它也自己组建了一个非常大的生态系统
+Tā yě zì jǐ zǔ jiàn le yī gè fēi cháng dà de shēng tài xì tǒng
+
+它这个生态系统有Cuda System
+Tā zhè gè shēng tài xì tǒng yǒu Cuda System
+
+在网上的话有很多企业级优化
+Zài wǎng shàng de huà yǒu hěn duō qǐ yè jí yōu huà
+
+所以它就自我形成了一个非常强的反馈体系
+Suǒ yǐ tā jiù zì wǒ xíng chéng le yī gè fēi cháng qiáng de fǎn kuì tǐ xì
+
+这个反馈体系就把我刚才提到的
+Zhè gè fǎn kuì tǐ xì jiù bǎ wǒ gāng cái tí dào de
+
+沟通的周期虚头周期大规模简短
+Gōu tōng de zhōu qī xū tóu zhōu qī dà guī mó jiǎn duǎn
+
+所以我觉得这种系统优化的能力
+Suǒ yǐ wǒ jué de zhè zhǒng xì tǒng yōu huà de néng lì
+
+也帮助它在一定程度上
+Yě bāng zhù tā zài yī dìng chéng dù shàng
+
+可以以更加高效的方式去决定
+Kě yǐ yǐ gèng jiā gāo xiào de fāng shì qù jué dìng
+
+我到底要做哪个方向的芯片优化
+Wǒ dào dǐ yào zuò nǎ gè fāng xiàng de xīn piàn yōu huà
+
+其实这个决定是很重要的
+Qí shí zhè gè jué dìng shì hěn zhòng yào de
+
+因为英伟达它还有能力去做
+Yīn wèi yīng wěi dá tā hái yǒu néng lì qù zuò
+
+时间二十件事
+Shí jiān èr shí jiàn shì
+
+怎么样可以在二十件事中
+Zěn me yàng kě yǐ zài èr shí jiàn shì zhōng
+
+找到它前三前五前七的
+Zhǎo dào tā qián sān qián wǔ qián qī de
+
+最高的优先级
+Zuì gāo de yōu xiān jí
+
+这个很重要的
+Zhè gè hěn zhòng yào de
+
+它这种系统全战式的优化模式
+Tā zhè zhǒng xì tǒng quán zhàn shì de yōu huà mó shì
+
+也帮助它可以更快地
+Yě bāng zhù tā kě yǐ gèng kuài dì
+
+确定自己内部的优先级
+Què dìng zì jǐ nèi bù de yōu xiān jí
+
+再通过刚才有两位提到的
+Zài tōng guò gāng cái yǒu liǎng wèi tí dào de
+
+AI优化
+AI yōu huà
+
+包括它跟产业链的一些紧密的合作
+Bāo kuò tā gēn chǎn yè liàn de yī xiē jǐn mì de hé zuò
+
+就可以更快地去进行新的芯片的发送
+Jiù kě yǐ gèng kuài dì qù jìn xíng xīn de xīn piàn de fā sòng
+
+因为我以前在读书的时候
+Yīn wèi wǒ yǐ qián zài dú shū de shí hòu
+
+学的是材料科学工程 Material Science
+Xué de shì cái liào kē xué gōng chéng Material Science
+
+当时我记得还在散服读书的时候
+Dāng shí wǒ jì de hái zài sàn fú dú shū de shí hòu
+
+那个时候就看比如说一些传统的半导体芯片厂商
+Nà gè shí hòu jiù kàn bǐ rú shuō yī xiē chuán tǒng de bàn dǎo tǐ xīn piàn chǎng shāng
+
+真的一年能发一两个芯片
+Zhēn de yī nián néng fā yī liǎng gè xīn piàn
+
+是非常好的了
+Shì fēi cháng hǎo de le
+
+但现在就看到它说一次能够发七个真的是非常让你惊艳
+Dàn xiàn zài jiù kàn dào tā shuō yī cì néng gòu fā qī gè zhēn de shì fēi cháng ràng nǐ jīng yàn
+
+对 我们知道之前在芯片创业的时候
+Duì, wǒ men zhī dào zhī qián zài xīn piàn chuàng yè de shí hòu
+
+它是非常火的
+Tā shì fēi cháng huǒ de
+
+大家也主要是在做推理芯片
+Dà jiā yě zhǔ yào shì zài zuò tuī lǐ xīn piàn
+
+而不是训练芯片
+Ér bù shì xùn liàn xīn piàn
+
+因为训练芯片它的那个难度是更高的
+Yīn wèi xùn liàn xīn piàn tā de nà gè nán dù shì gèng gāo de
+
+而且我知道很多投资人
+Ér qiě wǒ zhī dào hěn duō tóu zī rén
+
+他也是在投推理芯片这一块的
+Tā yě shì zài tóu tuī lǐ xīn piàn zhè yī kuài de
+
+那你们觉得
+Nà nǐ men jué de
+
+现在英伟达收购了Grock
+Xiàn zài yīng wěi dá shōu gòu le Grock
+
+然后他也开始进推理市场
+Rán hòu tā yě kāi shǐ jìn tuī lǐ shì chǎng
+
+创业公司现在做推理芯片还有机会吗
+Chuàng yè gōng sī xiàn zài zuò tuī lǐ xīn piàn hái yǒu jī huì ma
+
+我觉得任何市场都不是完全没有机会
+Wǒ jué de rèn hé shì chǎng dōu bù shì wán quán méi yǒu jī huì
+
+但是我觉得机会空间比较小
+Dàn shì wǒ jué de jī huì kōng jiān bǐ jiào xiǎo
+
+因为刚才我提到
+Yīn wèi gāng cái wǒ tí dào
+
+它有这个全战士系统的一个能力之后
+Tā yǒu zhè gè quán zhàn shì xì tǒng de yī gè néng lì zhī hòu
+
+它现在确实是从整个AI基础设施层面上
+Tā xiàn zài què shí shì cóng zhěng gè AI jī chǔ shè shī céng miàn shàng
+
+进行优化
+Jìn xíng yōu huà
+
+所以它的创新能力内部也是非常强的
+Suǒ yǐ tā de chuàng xīn néng lì nèi bù yě shì fēi cháng qiáng de
+
+我觉得英伟达它的好处是
+Wǒ jué de yīng wěi dá tā de hǎo chù shì
+
+它有一个很强的生态的概念
+Tā yǒu yī gè hěn qiáng de shēng tài de gài niàn
+
+就比如说它的 Inception Program
+Jiù bǐ rú shuō tā de Inception Program
+
+从17年做到现在
+Cóng 17 nián zuò dào xiàn zài
+
+从几百家的初创企业的一个生态
+Cóng jǐ bǎi jiā de chū chuàng qǐ yè de yī gè shēng tài
+
+到现在变成了两万多家
+Dào xiàn zài biàn chéng le liǎng wàn duō jiā
+
+所以它是愿意支持初创生态的
+Suǒ yǐ tā shì yuàn yì zhī chí chū chuàng shēng tài de
+
+那初创企业也要想清楚
+Nà chū chuàng qǐ yè yě yào xiǎng qīng chu
+
+英伟达它能做10件事 20件事
+Yīng wěi dá tā néng zuò 10 jiàn shì, 20 jiàn shì
+
+但如果说这三件和5件是它的优先选项的话呢
+Dàn rú guǒ shuō zhè sān jiàn hé 5 jiàn shì tā de yōu xiān xuǎn xiàng de huà ne
+
+它能够投入的资源
+Tā néng gòu tóu rù de zī yuán
+
+和效率的提升的能力是比初创企业要多得多的
+Hé xiào lǜ de tí shēng de néng lì shì bǐ chū chuàng qǐ yè yào duō dé duō de
+
+所以我会给创业者的建议是
+Suǒ yǐ wǒ huì gěi chuàng yè zhě de jiàn yì shì
+
+你可以看看英伟达它现在可能不是在它最优先级的那几个选项
+Nǐ kě yǐ kàn kàn yīng wěi dá tā xiàn zài kě néng bù shì zài tā zuì yōu xiān jí de nà jǐ gè xuǎn xiàng
+
+还有它的短板在哪
+Hái yǒu tā de duǎn bǎn zài nǎ
+
+去帮它补全这个短板
+Qù bāng tā bǔ quán zhè gè duǎn bǎn
+
+如果你能帮它补全短板的话呢
+Rú guǒ nǐ néng bāng tā bǔ quán duǎn bǎn de huà ne
+
+当然会有收购机会
+Dāng rán huì yǒu shōu gòu jī huì
+
+那它也可能在自己的生态上和你进行紧密合作
+Nà tā yě kě néng zài zì jǐ de shēng tài shàng hé nǐ jìn xíng jǐn mì hé zuò
+
+然后把你抓入到你的生态来
+Rán hòu bǎ nǐ zhuā rù dào nǐ de shēng tài lái
+
+所以我觉得不是说不能去做推理芯片
+Suǒ yǐ wǒ jué de bù shì shuō bù néng qù zuò tuī lǐ xīn piàn
+
+但还是要去评估一下
+Dàn hái shì yào qù píng gū yī xià
+
+到底现在这么快的一个迭代速度里面
+Dào dǐ xiàn zài zhè me kuài de yī gè dié dài sù dù lǐ miàn
+
+初创企业你的竞争优势在哪里
+Chū chuàng qǐ yè nǐ de jìng zhēng yōu shì zài nǎ lǐ
+
+就比如说我们去年投了一个公司
+Jiù bǐ rú shuō wǒ men qù nián tóu le yī gè gōng sī
+
+我最早还有在看 Optical Compute
+Wǒ zuì zǎo hái yǒu zài kàn Optical Compute
+
+然后我们大概知道英伟达内部的
+Rán hòu wǒ men dà gài zhī dào yīng wěi dá nèi bù de
+
+大概进展之后的话呢
+Dà gài jìn zhǎn zhī hòu de huà ne
+
+我们就去看了更多的像Switch和Interconnect
+Wǒ men jiù qù kàn le gèng duō de xiàng Switch hé Interconnect
+
+像我们今年有一家公司叫Everdue
+Xiàng wǒ men jīn nián yǒu yī jiā gōng sī jiào Everdue
+
+它做的就是下一代的Interconnect和Switch
+Tā zuò de jiù shì xià yī dài de Interconnect hé Switch
+
+那现在真的你会看到
+Nà xiàn zài zhēn de nǐ huì kàn dào
+
+如果我们相信未来人工智能基础设施的大的发展速度
+Rú guǒ wǒ men xiāng xìn wèi lái rén gōng zhì néng jī chǔ shè shī de dà de fā zhǎn sù dù
+
+还有大规模的数据中心的扩展
+Hái yǒu dà guī mó de shù jù zhōng xīn de kuò zhǎn
+
+你这时候就会发现
+Nǐ zhè shí hòu jiù huì fā xiàn
+
+你想做大规模的人工智能铺设
+Nǐ xiǎng zuò dà guī mó de rén gōng zhì néng pū shè
+
+它的瓶颈其实也是在Interconnect和Switch这边
+Tā de píng jǐng qí shí yě shì zài Interconnect hé Switch zhè biān
+
+那这个对于初创企业来讲就是非常好的一个创新机会
+Nà zhè gè duì yú chū chuàng qǐ yè lái jiǎng jiù shì fēi cháng hǎo de yī gè chuàng xīn jī huì
+
+那你这样的技术做出来之后
+Nà nǐ zhè yàng de jì shù zuò chū lái zhī hòu
+
+和英伟达这样的公司也有战略协同
+Hé yīng wěi dá zhè yàng de gōng sī yě yǒu zhàn lüè xié tóng
+
+因为我一直在尝试Bit英伟达
+Yīn wèi wǒ yī zhí zài cháng shì Bit yīng wěi dá
+
+我们从2017年开始做了第一代的AI芯片
+Wǒ men cóng 2017 nián kāi shǐ zuò le dì yī dài de AI xīn piàn
+
+那当时我们在阿里巴巴也是纯SRAM的
+Nà dāng shí wǒ men zài ā lǐ bā bā yě shì chún SRAM de
+
+我们MFPerf做得非常好
+Wǒ men MFPerf zuò dé fēi cháng hǎo
+
+世界第一
+Shì jiè dì yī
+
+老黄也非常紧张
+Lǎo huáng yě fēi cháng jǐn zhāng
+
+他就说他们到底做了些什么
+Tā jiù shuō tā men dào dǐ zuò le xiē shén me
+
+就是纯SRAM
+Jiù shì chún SRAM
+
+但是问题是在哪里
+Dàn shì wèn tí shì zài nǎ lǐ
+
+当时一个应用并不能支持这种专用化的AI推理芯片
+Dāng shí yī gè yìng yòng bìng bù néng zhī chí zhè zhǒng zhuān yòng huà de AI tuī lǐ xīn piàn
+
+所以一旦后面的应用又迭代了以后
+Suǒ yǐ yī dàn hòu miàn de yìng yòng yòu dié dài le yǐ hòu
+
+大家又回到GPU软件生态
+Dà jiā yòu huí dào GPU ruǎn jiàn shēng tài
+
+创业公司很难Keep up
+Chuàng yè gōng sī hěn nán Keep up
+
+但是我阿里出来以后
+Dàn shì wǒ ā lǐ chū lái yǐ hòu
+
+我又不死心
+Wǒ yòu bù sǐ xīn
+
+又做了另外一家AI芯片公司
+Yòu zuò le lìng wài yī jiā AI xīn piàn gōng sī
+
+那个我们叫深度稀疏 叫Deep Spots
+Nà gè wǒ men jiào shēn dù xī shū, jiào Deep Spots
+
+就是把模型做压缩
+Jiù shì bǎ mó xíng zuò yā suō
+
+然后做了AI的芯片架构
+Rán hòu zuò le AI de xīn piàn jià gòu
+
+跟去执行这个压缩的模型
+Gēn qù zhí xíng zhè gè yā suō de mó xíng
+
+然后可以把memory跟工艺的要求都可以降低
+Rán hòu kě yǐ bǎ memory gēn gōng yì de yāo qiú dōu kě yǐ jiàng dī
+
+那一家也在MFPerf上当时我们也Bit英伟达
+Nà yī jiā yě zài MFPerf shàng dāng shí wǒ men yě Bit yīng wěi dá
+
+就在Bert
+Jiù zài Bert
+
+当时就我们四个芯片跟它一个H100比
+Dāng shí jiù wǒ men sì gè xīn piàn gēn tā yī gè H100 bǐ
+
+但是它需要软硬件深度的协同
+Dàn shì tā xū yào ruǎn yìng jiàn shēn dù de xié tóng
+
+然后后来大模型来了
+Rán hòu hòu lái dà mó xíng lái le
+
+做Post Training
+Zuò Post Training
+
+因为我们要做压缩
+Yīn wèi wǒ men yào zuò yā suō
+
+Post Training那个成本非常高
+Post Training nà gè chéng běn fēi cháng gāo
+
+所以我们做一位一家创业公司
+Suǒ yǐ wǒ men zuò yī wèi yī jiā chuàng yè gōng sī
+
+其实是很难去做这种大模型的Post Training
+Qí shí shì hěn nán qù zuò zhè zhǒng dà mó xíng de Post Training
+
+这又碰到了一个瓶颈
+Zhè yòu pèng dào le yī gè píng jǐng
+
+当然这家公司还在持续往前
+Dāng rán zhè jiā gōng sī hái zài chí xù wǎng qián
+
+包括Deep Seek 包括国内的很多公司
+Bāo kuò Deep Seek, bāo kuò guó nèi de hěn duō gōng sī
+
+大家都在做各种稀疏的尝试
+Dà jiā dōu zài zuò gè zhǒng xī shū de cháng shì
+
+软件的办法去解这些硬件的瓶颈
+Ruǎn jiàn de bàn fǎ qù jiě zhè xiē yìng jiàn de píng jǐng
+
+那我现在新的公司
+Nà wǒ xiàn zài xīn de gōng sī
+
+就做系统级的优化了
+Jiù zuò xì tǒng jí de yōu huà le
+
+我已经看到了未来的处理中心绝对是这种异构的
+Wǒ yǐ jīng kàn dào le wèi lái de chǔ lǐ zhōng xīn jué duì shì zhè zhǒng yì gòu de
+
+像GPU 包括Switch 包括光的Switch LPU的架构
+Xiàng GPU, bāo kuò Switch, bāo kuò guāng de Switch LPU de jià gòu
+
+甚至于现在英伟达的GPU跟LPU
+Shèn zhì yú xiàn zài yīng wěi dá de GPU gēn LPU
+
+它现在还是两个机柜
+Tā xiàn zài hái shì liǎng gè jī guì
+
+包括这一次英伟达在GTC上并没有出Benchmark
+Bāo kuò zhè yī cì yīng wěi dá zài GTC shàng bìng méi yǒu chū Benchmark
+
+说明它内部软件还在持续地优化
+Shuō míng tā nèi bù ruǎn jiàn hái zài chí xù dì yōu huà
+
+同时它这个架构也不是现在最优的
+Tóng shí tā zhè gè jià gòu yě bù shì xiàn zài zuì yōu de
+
+后面package 包括3D堆叠
+Hòu miàn package, bāo kuò 3D duī dié
+
+是不是能做在一个package里面
+Shì bù shì néng zuò zài yī gè package lǐ miàn
+
+其实后面有很多很多的整合的工作
+Qí shí hòu miàn yǒu hěn duō hěn duō de zhěng hé de gōng zuò
+
+整合的工作不仅仅是芯片 也有软件
+Zhěng hé de gōng zuò bù jǐn jǐn shì xīn piàn, yě yǒu ruǎn jiàn
+
+所以我现在这家公司就叫做
+Suǒ yǐ wǒ xiàn zài zhè jiā gōng sī jiù jiào zuò
+
+做AI infrastructure的自动优化
+Zuò AI infrastructure de zì dòng yōu huà
+
+而且我们是一个neutral的
+Ér qiě wǒ men shì yī gè neutral de
+
+我们通过仿增加优化的方法来做这个事情
+Wǒ men tōng guò fǎng zēng jiā yōu huà de fāng fǎ lái zuò zhè gè shì qíng
+
+我们可以仿真 Google的TPU AMD的GPU或者英伟达的
+Wǒ men kě yǐ fǎng zhēn Google de TPU, AMD de GPU, huò zhě yīng wěi dá de
+
+我们是一个neutral layer kernel level
+Wǒ men shì yī gè neutral layer kernel level
+
+我们就交给芯片公司 他们做得很好
+Wǒ men jiù jiāo gěi xīn piàn gōng sī, tā men zuò dé hěn hǎo
+
+然后我们做上升的这些东西
+Rán hòu wǒ men zuò shàng shēng de zhè xiē dōng xī
+
+好 我很同意那个路和志斌的说法
+Hǎo, wǒ hěn tóng yì nà gè lù hé zhì bīn de shuō fǎ
+
+其实在整个这个新的industry起来
+Qí shí zài zhěng gè zhè gè xīn de industry qǐ lái
+
+AI factory这样的compute的形式起来以后
+AI factory zhè yàng de compute de xíng shì qǐ lái yǐ hòu
+
+从整个stack来看的话
+Cóng zhěng gè stack lái kàn de huà
+
+是有很多很多机会的
+Shì yǒu hěn duō hěn duō jī huì de
+
+Inference的芯片 推理芯片
+Inference de xīn piàn, tuī lǐ xīn piàn
+
+只是其中的一小块
+Zhǐ shì qí zhōng de yī xiǎo kuài
+
+物理上你看整个机柜
+Wù lǐ shàng nǐ kàn zhěng gè jī guì
+
+其实那个芯片是那么小的
+Qí shí nà gè xīn piàn shì nà me xiǎo de
+
+整个机柜里东西特别多
+Zhěng gè jī guì lǐ dōng xī tè bié duō
+
+机会外面还有software软件
+Jī huì wài miàn hái yǒu software ruǎn jiàn
+
+我从业时间也很长
+Wǒ cóng yè shí jiān yě hěn cháng
+
+原来在IBM 当时是做云计算
+Yuán lái zài IBM, dāng shí shì zuò yún jì suàn
+
+那个是很大的一个shift
+Nà gè shì hěn dà de yī gè shift
+
+在那个shift当中
+Zài nà gè shift dāng zhōng
+
+其实有很多startup就会找中间的一些stack里面可以做的事情
+Qí shí yǒu hěn duō startup jiù huì zhǎo zhōng jiān de yī xiē stack lǐ miàn kě yǐ zuò de shì qíng
+
+去优化去做
+Qù yōu huà qù zuò
+
+它只要做得好的话就会被一些leading的厂商收购
+Tā zhǐ yào zuò dé hǎo de huà jiù huì bèi yī xiē leading de chǎng shāng shōu gòu
+
+有一种办法就是说
+Yǒu yī zhǒng bàn fǎ jiù shì shuō
+
+你去看看过去的几次的computing的革命里面
+Nǐ qù kàn kàn guò qù de jǐ cì de computing de gé mìng lǐ miàn
+
+都有些创业者是在做什么
+Dōu yǒu xiē chuàng yè zhě shì zài zuò shén me
+
+他们是怎么去切入
+Tā men shì zěn me qù qiē rù
+
+在开发中的stack里面
+Zài kāi fā zhōng de stack lǐ miàn
+
+去解决什么样的问题
+Qù jiě jué shén me yàng de wèn tí
+
+那么在现在新出来的这个AI computer里面
+Nà me zài xiàn zài xīn chū lái de zhè gè AI computer lǐ miàn
+
+会有同样的性质的问题
+Huì yǒu tóng yàng de xìng zhì de wèn tí
+
+你想去把它解决
+Nǐ xiǎng qù bǎ tā jiě jué
+
+其实就会有机会
+Qí shí jiù huì yǒu jī huì
+
+对 那整体看下来
+Duì, nà zhěng tǐ kàn xià lái
+
+其实在芯片的细分领域
+Qí shí zài xīn piàn de xì fēn lǐng yù
+
+不管是不同function的芯片
+Bù guǎn shì bù tóng function de xīn piàn
+
+还是在它的中间层的生态里面
+Hái shì zài tā de zhōng jiān céng de shēng tài lǐ miàn
+
+还是有很多机会的
+Hái shì yǒu hěn duō jī huì de
+
+我注意到今年Jensen在Keynote
+Wǒ zhù yì dào jīn nián Jensen zài Keynote
+
+包括他之后也有一个open source的panel
+Bāo kuò tā zhī hòu yě yǒu yī gè open source de panel
+
+他提到的最多的一个词是open cloud
+Tā tí dào de zuì duō de yī gè cí shì open cloud
+
+其实今年open cloud的出现
+Qí shí jīn nián open cloud de chū xiàn
+
+应该说它是帮助算力在大幅的增长的
+Yīng gāi shuō tā shì bāng zhù suàn lì zài dà fú de zēng zhǎng de
+
+因为大家在调用这个agent的时候需要使用更多的算力
+Yīn wèi dà jiā zài diào yòng zhè gè agent de shí hòu xū yào shǐ yòng gèng duō de suàn lì
+
+他今年也在舞台上
+Tā jīn nián yě zài wǔ tái shàng
+
+我觉得他已经从AI工厂的叙述
+Wǒ jué de tā yǐ jīng cóng AI gōng chǎng de xù shù
+
+一直在说他的token经济学
+Yī zhí zài shuō tā de token jīng jì xué
+
+在现场他还推了一个叫做Nemo Cloud的软件生态
+Zài xiàn chǎng tā hái tuī le yī gè jiào zuò Nemo Cloud de ruǎn jiàn shēng tài
+
+这个软件生态跟open cloud可以打通
+Zhè gè ruǎn jiàn shēng tài gēn open cloud kě yǐ dǎ tōng
+
+大家怎么看他推的这个软件生态
+Dà jiā zěn me kàn tā tuī de zhè gè ruǎn jiàn shēng tài
+
+他要做什么
+Tā yào zuò shén me
+
+包括之兵还有Mark
+Bāo kuò zhī bīng hái yǒu Mark
+
+你们都是芯片领域的创业者
+Nǐ men dōu shì xīn piàn lǐng yù de chuàng yè zhě
+
+比如说这个生态推出来以后
+Bǐ rú shuō zhè gè shēng tài tuī chū lái yǐ hòu
+
+对你们自己而言
+Duì nǐ men zì jǐ ér yán
+
+因为它相当于有了一个中间层
+Yīn wèi tā xiāng dāng yú yǒu le yī gè zhōng jiān céng
+
+它到底跟你们是一个合作关系 利好关系 还是一个竞争关系
+Tā dào dǐ gēn nǐ men shì yī gè hé zuò guān xì, lì hǎo guān xì, hái shì yī gè jìng zhēng guān xì
+
+Open Cloud就是带来了token量的巨大的提升
+Open Cloud jiù shì dài lái le token liàng de jù dà de tí shēng
+
+这就是老黄说的1000倍的token使用量的提升
+Zhè jiù shì lǎo huáng shuō de 1000 bèi de token shǐ yòng liàng de tí shēng
+
+我是天天关注我自己token使用量
+Wǒ shì tiān tiān guān zhù wǒ zì jǐ token shǐ yòng liàng
+
+因为用cloud的话它太贵了
+Yīn wèi yòng cloud de huà tā tài guì le
+
+所以我会混着用
+Suǒ yǐ wǒ huì hùn zhe yòng
+
+我的主力模型是Kimi 2.5
+Wǒ de zhǔ lì mó xíng shì Kimi 2.5
+
+因为Kimi相对于cloud是便宜10倍
+Yīn wèi Kimi xiāng duì yú cloud shì pián yí 10 bèi
+
+阿里的最近也在尝试
+Ā lǐ de zuì jìn yě zài cháng shì
+
+但是对于普通用户来说其实就比较头痛
+Dàn shì duì yú pǔ tōng yòng hù lái shuō qí shí jiù bǐ jiào tóu tòng
+
+对吧 你到底怎么样省钱
+Duì ba, nǐ dào dǐ zěn me yàng shěng qián
+
+省钱的过程中又能保证性能不掉
+Shěng qián de guò chéng zhōng yòu néng bǎo zhèng xìng néng bù diào
+
+这是一个问题
+Zhè shì yī gè wèn tí
+
+其实我们公司目前也在做一个工具
+Qí shí wǒ men gōng sī mù qián yě zài zuò yī gè gōng jù
+
+专门针对这种东西Open Cloud
+Zhuān mén zhēn duì zhè zhǒng dōng xī Open Cloud
+
+我们叫token simulator 叫auto-optimize
+Wǒ men jiào token simulator, jiào auto-optimize
+
+我们马上要开源这个东西
+Wǒ men mǎ shàng yào kāi yuán zhè gè dōng xī
+
+揭露到这个生态里面
+Jiē lù dào zhè gè shēng tài lǐ miàn
+
+就你用户只要plag in进去
+Jiù nǐ yòng hù zhǐ yào plug in jìn qù
+
+那你就不用管了
+Nà nǐ jiù bù yòng guǎn le
+
+它会帮你自动在后台帮你规划你的行为
+Tā huì bāng nǐ zì dòng zài hòu tái bāng nǐ guī huà nǐ de xíng wéi
+
+看你的profile 帮你做自动的优化
+Kàn nǐ de profile, bāng nǐ zuò zì dòng de yōu huà
+
+我觉得Open Cloud对我们公司做的这种agent for chip design这样的项目来说
+Wǒ jué de Open Cloud duì wǒ men gōng sī zuò de zhè zhǒng agent for chip design zhè yàng de xiàng mù lái shuō
+
+应该是个利好
+Yīng gāi shì gè lì hǎo
+
+现在所有的大厂都在推自己的cloud
+Xiàn zài suǒ yǒu de dà chǎng dōu zài tuī zì jǐ de cloud
+
+从大厂的角度来讲
+Cóng dà chǎng de jiǎo dù lái jiǎng
+
+他们应该是通过cloud拿流量
+Tā men yīng gāi shì tōng guò cloud ná liú liàng
+
+因为这是一个killer app infra build了这么多GPU在那跑
+Yīn wèi zhè shì yī gè killer app infra build le zhè me duō GPU zài nà pǎo
+
+那么需要有流量来支撑
+Nà me xū yào yǒu liú liàng lái zhī chēng
+
+需要把token变现变成应用 变成能使用的东西
+Xū yào bǎ token biàn xiàn biàn chéng yìng yòng, biàn chéng néng shǐ yòng de dōng xī
+
+那我们做agent for chip design本身也是一种变现的手段
+Nà wǒ men zuò agent for chip design běn shēn yě shì yī zhǒng biàn xiàn de shǒu duàn
+
+所以跟所有的大厂来讲没有什么竞争的关系
+Suǒ yǐ gēn suǒ yǒu de dà chǎng lái jiǎng méi yǒu shén me jìng zhēng de guān xì
+
+最关键的是说Open Cloud它是一个适用于普通用户的系统
+Zuì guān jiàn de shì shuō Open Cloud tā shì yī gè shì yòng yú pǔ tōng yòng hù de xì tǒng
+
+这个利好我觉得是在生态
+Zhè gè lì hǎo wǒ jué de shì zài shēng tài
+
+当有了Open Cloud以后
+Dāng yǒu le Open Cloud yǐ hòu
+
+那么会有很多的工具都会适配它
+Nà me huì yǒu hěn duō de gōng jù dōu huì shì pèi tā
+
+很多过去的工具原来是agent的不是很友好的
+Hěn duō guò qù de gōng jù yuán lái shì agent de bù shì hěn yǒu hǎo de
+
+因为有了Open Cloud可能都会变得很agent友好
+Yīn wèi yǒu le Open Cloud kě néng dōu huì biàn dé hěn agent yǒu hǎo
+
+那这样的话我们做垂液的时候就会很简单的一点
+Nà zhè yàng de huà wǒ men zuò chuí yè de shí hòu jiù huì hěn jiǎn dān de yī diǎn
+
+至少有一些通用工具你不用自己去做了
+Zhì shǎo yǒu yī xiē tōng yòng gōng jù nǐ bù yòng zì jǐ qù zuò le
+
+有人把你做好了
+Yǒu rén bǎ nǐ zuò hǎo le
+
+刚才两位嘉宾也提到了
+Gāng cái liǎng wèi jiā bīn yě tí dào le
+
+各大的公司都在做自己的企业级
+Gè dà de gōng sī dōu zài zuò zì jǐ de qǐ yè jí
+
+它其实也是在上面加一层安全的一个部署
+Tā qí shí yě shì zài shàng miàn jiā yī céng ān quán de yī gè bù shǔ
+
+我对于英伟达做这个Nemo Cloud的一个感觉
+Wǒ duì yú yīng wěi dá zuò zhè gè Nemo Cloud de yī gè gǎn jué
+
+我并不觉得说他真的想去抓应用层的这些收入或者是机会
+Wǒ bìng bù jué de shuō tā zhēn de xiǎng qù zhuā yìng yòng céng de zhè xiē shōu rù huò zhě shì jī huì
+
+我觉得他更多的是想确定自己在agent的deployment层面上
+Wǒ jué de tā gèng duō de shì xiǎng què dìng zì jǐ zài agent de deployment céng miàn shàng
+
+他有一个规则制定的地位
+Tā yǒu yī gè guī zé zhì dìng de dì wèi
+
+他可以成为一个大家将来做这方面的一个准入的时候
+Tā kě yǐ chéng wéi yī gè dà jiā jiāng lái zuò zhè fāng miàn de yī gè zhǔn rù de shí hòu
+
+我是一个安全的层级
+Wǒ shì yī gè ān quán de céng jí
+
+你都要在我的平台上去推进
+Nǐ dōu yào zài wǒ de píng tái shàng qù tuī jìn
+
+而且我不知道大家平时用Cloud用得多不多
+Ér qiě wǒ bù zhī dào dà jiā píng shí yòng Cloud yòng dé duō bù duō
+
+我们公司里面其实用Cloud Coworker很多
+Wǒ men gōng sī lǐ miàn qí shí yòng Cloud Coworker hěn duō
+
+当然我也知道像你说的token比较贵
+Dāng rán wǒ yě zhī dào xiàng nǐ shuō de token bǐ jiào guì
+
+但是真的从企业层级的安全化部署
+Dàn shì zhēn de cóng qǐ yè céng jí de ān quán huà bù shǔ
+
+还有高质量的各种Task完成的话
+Hái yǒu gāo zhì liàng de gè zhǒng Task wán chéng de huà
+
+我个人还是会更喜欢Cloud Coworker
+Wǒ gè rén hái shì huì gèng xǐ huān Cloud Coworker
+
+今天Cloud新发布了Dispatch
+Jīn tiān Cloud xīn fā bù le Dispatch
+
+这个也是有点像跟OpenCloud对标的产品
+Zhè gè yě shì yǒu diǎn xiàng gēn OpenCloud duì biāo de chǎn pǐn
+
+我觉得对于大型的企业来讲
+Wǒ jué de duì yú dà xíng de qǐ yè lái jiǎng
+
+它更追求的其实第一层级就是安全部署
+Tā gèng zhuī qiú de qí shí dì yī céng jí jiù shì ān quán bù shǔ
+
+第二层级是一个准确性和精准度
+Dì èr céng jí shì yī gè zhǔn què xìng hé jīng zhǔn dù
+
+OpenCloud我也用了
+OpenCloud wǒ yě yòng le
+
+我其实感觉是说
+Wǒ qí shí gǎn jué shì shuō
+
+它会诱惑要把这个事情做完
+Tā huì yòu huò yào bǎ zhè gè shì qíng zuò wán
+
+它并不会说要去优化这个事情做好
+Tā bìng bù huì shuō yào qù yōu huà zhè gè shì qíng zuò hǎo
+
+但是如果真的是到产业企业级的这样的应用层级的话
+Dàn shì rú guǒ zhēn de shì dào chǎn yè qǐ yè jí de zhè yàng de yìng yòng céng jí de huà
+
+它对质量和完成度的要求是比较高的
+Tā duì zhì liàng hé wán chéng dù de yāo qiú shì bǐ jiào gāo de
+
+因为我自己其实也用了一下OpenCloud
+Yīn wèi wǒ zì jǐ qí shí yě yòng le yī xià OpenCloud
+
+然后我觉得它接下来对很多领域的颠覆会非常的大
+Rán hòu wǒ jué de tā jiē xià lái duì hěn duō lǐng yù de diān fù huì fēi cháng de dà
+
+就比如说很短的时间内它就可以自己写一个企业的CRM系统
+Jiù bǐ rú shuō hěn duǎn de shí jiān nèi tā jiù kě yǐ zì jǐ xiě yī gè qǐ yè de CRM xì tǒng
+
+就是说以前这些CRM我可能是要跟SaaS厂商去定制的
+Jiù shì shuō yǐ qián zhè xiē CRM wǒ kě néng shì yào gēn SaaS chǎng shāng qù dìng zhì de
+
+它还没有那么好用
+Tā hái méi yǒu nà me hǎo yòng
+
+因为它不能百分之百的适合你的公司的商业模式业务场景
+Yīn wèi tā bù néng bǎi fēn zhī bǎi de shì hé nǐ de gōng sī de shāng yè mó shì yè wù chǎng jǐng
+
+你刚刚讲到就是NemoCloud
+Nǐ gāng gāng jiǎng dào jiù shì NemoCloud
+
+我觉得有几个点特别好
+Wǒ jué de yǒu jǐ gè diǎn tè bié hǎo
+
+其实他们隐私安全 好用
+Qí shí tā men yǐn sī ān quán, hǎo yòng
+
+这真的是企业级的需求
+Zhè zhēn de shì qǐ yè jí de xū qiú
+
+它跟2C的需求是完全不一样的
+Tā gēn 2C de xū qiú shì wán quán bù yī yàng de
+
+今年其实Jensen他在他自己的演讲上
+Jīn nián qí shí Jensen tā zài tā zì jǐ de yǎn jiǎng shàng
+
+他也说了一个新的模式叫做Agent as a Service
+Tā yě shuō le yī gè xīn de mó shì jiào zuò Agent as a Service
+
+对应之前的那个SaaS
+Duì yìng zhī qián de nà gè SaaS
+
+所以自从Atherapic他们的Cowork推出来以后
+Suǒ yǐ zì cóng Atherapic tā men de Cowork tuī chū lái yǐ hòu
+
+现在业界也有一个讨论
+Xiàn zài yè jiè yě yǒu yī gè tǎo lùn
+
+整个SaaS它的商业模式会彻底地改变吗
+Zhěng gè SaaS tā de shāng yè mó shì huì chè dǐ dì gǎi biàn ma
+
+然后这个问题想请路回答
+Rán hòu zhè gè wèn tí xiǎng qǐng lù huí dá
+
+对 我觉得真的如果看所有的科技创新
+Duì, wǒ jué de zhēn de rú guǒ kàn suǒ yǒu de kē jì chuàng xīn
+
+它是三个阶段
+Tā shì sān gè jiē duàn
+
+基础技术创新 技术应用创新 商业模式创新
+Jī chǔ jì shù chuàng xīn, jì shù yìng yòng chuàng xīn, shāng yè mó shì chuàng xīn
+
+所以就像你提到
+Suǒ yǐ jiù xiàng nǐ tí dào
+
+我们未来如果真的可以很快地进入到这个时代
+Wǒ men wèi lái rú guǒ zhēn de kě yǐ hěn kuài dì jìn rù dào zhè gè shí dài
+
+有一个大规模的智能体Agent的铺设计的话
+Yǒu yī gè dà guī mó de zhì néng tǐ Agent de pū shè jì de huà
+
+它对传统的企业级软件就是一个商业模式的巨大挑战
+Tā duì chuán tǒng de qǐ yè jí ruǎn jiàn jiù shì yī gè shāng yè mó shì de jù dà tiǎo zhàn
+
+这个可能不只是技术层面上
+Zhè gè kě néng bù zhǐ shì jì shù céng miàn shàng
+
+是我们一个商业理念层面上的
+Shì wǒ men yī gè shāng yè lǐ niàn céng miàn shàng de
+
+传统的这些SaaS的公司提供的是什么
+Chuán tǒng de zhè xiē SaaS de gōng sī tí gōng de shì shén me
+
+是一个标准化的软件服务
+Shì yī gè biāo zhǔn huà de ruǎn jiàn fú wù
+
+就不管什么公司用的都是一样的软件
+Jiù bù guǎn shén me gōng sī yòng de dōu shì yī yàng de ruǎn jiàn
+
+但是Agent它未来可以做到的
+Dàn shì Agent tā wèi lái kě yǐ zuò dào de
+
+实际上就是像你说的高度的定制化和个性化
+Shí jì shàng jiù shì xiàng nǐ shuō de gāo dù de dìng zhì huà hé gè xìng huà
+
+未来的软件公司它到底卖的是软件还是什么
+Wèi lái de ruǎn jiàn gōng sī tā dào dǐ mài de shì ruǎn jiàn hái shì shén me
+
+是服务吗
+Shì fú wù ma
+
+我觉得都不一定是服务
+Wǒ jué de dōu bù yī dìng shì fú wù
+
+如果说你相信我们未来的整个公司的架构会改变
+Rú guǒ shuō nǐ xiāng xìn wǒ men wèi lái de zhěng gè gōng sī de jià gòu huì gǎi biàn
+
+它不只是有我们叫Human Labor 人力的劳动力
+Tā bù zhǐ shì yǒu wǒ men jiào Human Labor, rén lì de láo dòng lì
+
+还有AI Labor
+Hái yǒu AI Labor
+
+那未来可能做软件的这些公司或做Agent的这些公司
+Nà wèi lái kě néng zuò ruǎn jiàn de zhè xiē gōng sī huò zuò Agent de zhè xiē gōng sī
+
+它就变成了一个劳动力输出方
+Tā jiù biàn chéng le yī gè láo dòng lì shū chū fāng
+
+它可能会有成千上万的智能体
+Tā kě néng huì yǒu chéng qiān shàng wàn de zhì néng tǐ
+
+这种专属化的智能体去符合你各种各样的要求
+Zhè zhǒng zhuān shǔ huà de zhì néng tǐ qù fú hé nǐ gè zhǒng gè yàng de yāo qiú
+
+你在想你的这个时候的商业模式是什么样的一个模式
+Nǐ zài xiǎng nǐ de zhè gè shí hòu de shāng yè mó shì shì shén me yàng de yī gè mó shì
+
+好消息是说现在你可能卖软件
+Hǎo xiāo xī shì shuō xiàn zài nǐ kě néng mài ruǎn jiàn
+
+你用的预算是IT的预算
+Nǐ yòng de yù suàn shì IT de yù suàn
+
+那将来的话你的输出实际上是一个人工智能劳动力
+Nà jiāng lái de huà nǐ de shū chū shí jì shàng shì yī gè rén gōng zhì néng láo dòng lì
+
+你可以用到劳动力的预算
+Nǐ kě yǐ yòng dào láo dòng lì de yù suàn
+
+所以你可能可以去卖到更大的预算
+Suǒ yǐ nǐ kě néng kě yǐ qù mài dào gèng dà de yù suàn
+
+但是它对人工智能的劳动力的要求也会更高
+Dàn shì tā duì rén gōng zhì néng de láo dòng lì de yāo qiú yě huì gèng gāo
+
+比如说你是一个公司的CEO
+Bǐ rú shuō nǐ shì yī gè gōng sī de CEO
+
+你要去招人
+Nǐ yào qù zhāo rén
+
+那你招人的一个标准是不是希望你招了这个人能做你这个职位90%以上的工作
+Nà nǐ zhāo rén de yī gè biāo zhǔn shì bù shì xī wàng nǐ zhāo le zhè gè rén néng zuò nǐ zhè gè zhí wèi 90% yǐ shàng de gōng zuò
+
+同时要超过90%以上的人的一个能力
+Tóng shí yào chāo guò 90% yǐ shàng de rén de yī gè néng lì
+
+那可能这也是未来对于AI agent的要求
+Nà kě néng zhè yě shì wèi lái duì yú AI agent de yāo qiú
+
+所以如果拿这个要求去看的话
+Suǒ yǐ rú guǒ ná zhè gè yāo qiú qù kàn de huà
+
+现在agent的能力确实还有一定的距离
+Xiàn zài agent de néng lì què shí hái yǒu yī dìng de jù lí
+
+所以我并没有那么悲观
+Suǒ yǐ wǒ bìng méi yǒu nà me bēi guān
+
+觉得因为前一段大家也看到股市上一些SaaS公司的股价跌得非常惨
+Jué de yīn wèi qián yī duàn dà jiā yě kàn dào gǔ shì shàng yī xiē SaaS gōng sī de gǔ jià diē dé fēi cháng cǎn
+
+我觉得并不是说这个产业全部都消灭掉
+Wǒ jué de bìng bù shì shuō zhè gè chǎn yè quán bù dōu xiāo miè diào
+
+因为它本身企业及销售它不单纯是一个产品
+Yīn wèi tā běn shēn qǐ yè jí xiāo shòu tā bù dān chún shì yī gè chǎn pǐn
+
+它也是一个售后服务 销售网络等等
+Tā yě shì yī gè shòu hòu fú wù, xiāo shòu wǎng luò děng děng
+
+它是一个集合体
+Tā shì yī gè jí hé tǐ
+
+但是如果说SaaS公司它自己本身没有AI模型能力的话呢
+Dàn shì rú guǒ shuō SaaS gōng sī tā zì jǐ běn shēn méi yǒu AI mó xíng néng lì de huà ne
+
+确实大概率未来可能就会消失 会被替代掉
+Què shí dà gài lǜ wèi lái kě néng jiù huì xiāo shī, huì bèi tì dài diào
+
+但是还是有很多的SaaS公司它自己本身是有模型能力的
+Dàn shì hái shì yǒu hěn duō de SaaS gōng sī tā zì jǐ běn shēn shì yǒu mó xíng néng lì de
+
+我觉得这方面还是会有机会的
+Wǒ jué de zhè fāng miàn hái shì huì yǒu jī huì de
+
+另外一点创业者也要考虑
+Lìng wài yī diǎn chuàng yè zhě yě yào kǎo lǜ
+
+到底你的机会在哪里
+Dào dǐ nǐ de jī huì zài nǎ lǐ
+
+是哪些SaaS公司可能会要消失掉
+Shì nǎ xiē SaaS gōng sī kě néng huì yào xiāo shī diào
+
+那它的市场你是不是可以快速地占领
+Nà tā de shì chǎng nǐ shì bù shì kě yǐ kuài sù dì zhàn lǐng
+
+这也是可以去探索的一个方向
+Zhè yě shì kě yǐ qù tàn suǒ de yī gè fāng xiàng
+
+我觉得这新的SaaS公司如果它现在不做剧烈的改变
+Wǒ jué de zhè xīn de SaaS gōng sī rú guǒ tā xiàn zài bù zuò jù liè de gǎi biàn
+
+很快会被这些agent platform替代
+Hěn kuài huì bèi zhè xiē agent platform tì dài
+
+它以前是通过招人或者是把它的服务做上去
+Tā yǐ qián shì tōng guò zhāo rén huò zhě shì bǎ tā de fú wù zuò shàng qù
+
+但是现在的话是需要通过买算力
+Dàn shì xiàn zài de huà shì xū yào tōng guò mǎi suàn lì
+
+怎么样把这个算力加上你原来对行业的理解
+Zěn me yàng bǎ zhè gè suàn lì jiā shàng nǐ yuán lái duì háng yè de lǐ jiě
+
+也要adopt这些agent
+Yě yào adopt zhè xiē agent
+
+这是他们现在非常critical point
+Zhè shì tā men xiàn zài fēi cháng critical point
+
+对于这些SaaS公司
+Duì yú zhè xiē SaaS gōng sī
+
+同时买算力以后你可能还要做优化
+Tóng shí mǎi suàn lì yǐ hòu nǐ kě néng hái yào zuò yōu huà
+
+就是说你的算力到你的service输出的成本ROI是最好的
+Jiù shì shuō nǐ de suàn lì dào nǐ de service shū chū de chéng běn ROI shì zuì hǎo de
+
+这一块原来就是通过人来做
+Zhè yī kuài yuán lái jiù shì tōng guò rén lái zuò
+
+那现在直接是针对算力去做优化
+Nà xiàn zài zhí jiē shì zhēn duì suàn lì qù zuò yōu huà
+
+所以这两个事情一个是算力优化
+Suǒ yǐ zhè liǎng gè shì qíng yī gè shì suàn lì yōu huà
+
+第二是把原来的有的你的经验赶紧跟agent或者是现在的AI平台去结合
+Dì èr shì bǎ yuán lái de yǒu de nǐ de jīng yàn gǎn jǐn gēn agent huò zhě shì xiàn zài de AI píng tái qù jié hé
+
+这样才有机会
+Zhè yàng cái yǒu jī huì
+
+我觉得其实在未来每个企业都要想想
+Wǒ jué de qí shí zài wèi lái měi gè qǐ yè dōu yào xiǎng xiǎng
+
+你未来的一个公司的组织架构是不是都不一样了
+Nǐ wèi lái de yī gè gōng sī de zǔ zhī jià gòu shì bù shì dōu bù yī yàng le
+
+那现在可能是说你的一个是人才密集型的产业
+Nà xiàn zài kě néng shì shuō nǐ de yī gè shì rén cái mì jí xíng de chǎn yè
+
+就是你人才越多公司的价值越高
+Jiù shì nǐ rén cái yuè duō gōng sī de jià zhí yuè gāo
+
+但在未来可能一个公司的核心是二三十个人
+Dàn zài wèi lái kě néng yī gè gōng sī de hé xīn shì èr sān shí gè rén
+
+那它其他的很多的职能比如说HR CFO 财务这些都可以外包
+Nà tā qí tā de hěn duō de zhí néng bǐ rú shuō HR, CFO, cái wù zhè xiē dōu kě yǐ wài bāo
+
+外包给各种各样的AI agent
+Wài bāo gěi gè zhǒng gè yàng de AI agent
+
+那这些AI agent也不需要是全职在这个公司工作
+Nà zhè xiē AI agent yě bù xū yào shì quán zhí zài zhè gè gōng sī gōng zuò
+
+它可能是以项目形式存在的周期性的
+Tā kě néng shì yǐ xiàng mù xíng shì cún zài de zhōu qī xìng de
+
+这个对于未来可能说你做一个公司的leader CEO
+Zhè gè duì yú wèi lái kě néng shuō nǐ zuò yī gè gōng sī de leader CEO
+
+包括初创企业你要想一下
+Bāo kuò chū chuàng qǐ yè nǐ yào xiǎng yī xià
+
+你具备什么样的能力去管理这样的一个新型的公司架构
+Nǐ jù bèi shén me yàng de néng lì qù guǎn lǐ zhè yàng de yī gè xīn xíng de gōng sī jià gòu
+
+你不仅要管人的人才
+Nǐ bù jǐn yào guǎn rén de rén cái
+
+你还要管AI agent
+Nǐ hái yào guǎn AI agent
+
+然后你还要去定义说哪些职位是人为主导的
+Rán hòu nǐ hái yào qù dìng yì shuō nǎ xiē zhí wèi shì rén wéi zhǔ dǎo de
+
+是一个核心部门
+Shì yī gè hé xīn bù mén
+
+哪些职位可能是可以外包的用AI agent
+Nǎ xiē zhí wèi kě néng shì kě yǐ wài bāo de yòng AI agent
+
+Jensen今年已经说了
+Jensen jīn nián yǐ jīng shuō le
+
+他说以后的招聘会变成招聘一个工程师以外
+Tā shuō yǐ hòu de zhāo pìn huì biàn chéng zhāo pìn yī gè gōng chéng shī yǐ wài
+
+你要告诉这个工程师
+Nǐ yào gào sù zhè gè gōng chéng shī
+
+你除了每年你的年薪是多少
+Nǐ chú le měi nián nǐ de nián xīn shì duō shǎo
+
+你还有多少的Token额度可以用
+Nǐ hái yǒu duō shǎo de Token é dù kě yǐ yòng
+
+就是说你可以管理多少跟你的Agent的实习生或者员工可以打配合
+Jiù shì shuō nǐ kě yǐ guǎn lǐ duō shǎo gēn nǐ de Agent de shí xí shēng huò zhě yuán gōng kě yǐ dǎ pèi hé
+
+另外他也说了在Nvidia内部很多工程师
+Lìng wài tā yě shuō le zài Nvidia nèi bù hěn duō gōng chéng shī
+
+大家基本上都用Cloud Code了
+Dà jiā jī běn shàng dōu yòng Cloud Code le
+
+然后这个就想跟Mark求证一下
+Rán hòu zhè gè jiù xiǎng gēn Mark qiú zhèng yī xià
+
+你们平时在工作中是不是都已经开始用AI设计芯片跟用AI写代码了
+Nǐ men píng shí zài gōng zuò zhōng shì bù shì dōu yǐ jīng kāi shǐ yòng AI shè jì xīn piàn gēn yòng AI xiě dài mǎ le
+
+Jensen说的是对的了
+Jensen shuō de shì duì de le
+
+就是我们在应该是去年年初开始
+Jiù shì wǒ men zài yīng gāi shì qù nián nián chū kāi shǐ
+
+在一两个月之内
+Zài yī liǎng gè yuè zhī nèi
+
+公司从没有人用Coding Agent到百分之百
+Gōng sī cóng méi yǒu rén yòng Coding Agent dào bǎi fēn zhī bǎi
+
+这个也不光是因为达了
+Zhè gè yě bù guāng shì yīn wèi dá le
+
+其他的芯片公司也已经启动了这样的流程
+Qí tā de xīn piàn gōng sī yě yǐ jīng qǐ dòng le zhè yàng de liú chéng
+
+就是内部也是很大范围地在覆盖这样的Coding Agent
+Jiù shì nèi bù yě shì hěn dà fàn wéi dì zài fù gài zhè yàng de Coding Agent
+
+我知道你在Nvidia内部是在领导用AI设计芯片的这样的一个项目的
+Wǒ zhī dào nǐ zài Nvidia nèi bù shì zài lǐng dǎo yòng AI shè jì xīn piàn de zhè yàng de yī gè xiàng mù de
+
+你可不可以跟大家讲一下AI它是怎么做芯片设计的
+Nǐ kě bù kě yǐ gēn dà jiā jiǎng yī xià AI tā shì zěn me zuò xīn piàn shè jì de
+
+谢谢这个问题
+Xiè xiè zhè gè wèn tí
+
+我在英伟达是负责设计自动化的研究团队的
+Wǒ zài yīng wěi dá shì fù zé shè jì zì dòng huà de yán jiū tuán duì de
+
+主要的任务是说我一直在思考如何用GPU和AI做芯片设计
+Zhǔ yào de rèn wu shì shuō wǒ yī zhí zài sī kǎo rú hé yòng GPU hé AI zuò xīn piàn shè jì
+
+我们这团队做了好几年了
+Wǒ men zhè tuán duì zuò le hǎo jǐ nián le
+
+在AI一开始还在CNN和GNN的时代
+Zài AI yī kāi shǐ hái zài CNN hé GNN de shí dài
+
+图像的model的时代
+Tú xiàng de model de shí dài
+
+我们就开始考虑怎么用AI来做芯片设计
+Wǒ men jiù kāi shǐ kǎo lǜ zěn me yòng AI lái zuò xīn piàn shè jì
+
+我们觉得现在的Line工学model或者Agent
+Wǒ men jué de xiàn zài de Line gōng xué model huò zhě Agent
+
+他们是真正能够通用性的来解决芯片设计的问题
+Tā men shì zhēn zhèng néng gòu tōng yòng xìng de lái jiě jué xīn piàn shè jì de wèn tí
+
+在过去如果当时还是实施Machine Learning传统的那些机器学习的算法
+Zài guò qù rú guǒ dāng shí hái shì shí shī Machine Learning chuán tǒng de nà xiē jī qì xué xí de suàn fǎ
+
+或者说是即使是像图像识别这种CNN的算法
+Huò zhě shuō shì jí shǐ shì xiàng tú xiàng shí bié zhè zhǒng CNN de suàn fǎ
+
+他们能够解决一些芯片设计的问题
+Tā men néng gòu jiě jué yī xiē xīn piàn shè jì de wèn tí
+
+但是是很局部的
+Dàn shì shì hěn jú bù de
+
+有了大语言模型以后
+Yǒu le dà yǔ yán mó xíng yǐ hòu
+
+特别是Agent的技术起来以后
+Tè bié shì Agent de jì shù qǐ lái yǐ hòu
+
+它能够真正形成一个通用的设计能力
+Tā néng gòu zhēn zhèng xíng chéng yī gè tōng yòng de shè jì néng lì
+
+这是我们一直在探索的
+Zhè shì wǒ men yī zhí zài tàn suǒ de
+
+其实我们在三年前
+Qí shí wǒ men zài sān nián qián
+
+二三年的时候
+èr sān nián de shí hòu
+
+就发布了一个项目叫做Chip Nemo
+Jiù fā bù le yī gè xiàng mù jiào zuò Chip Nemo
+
+Chip Nemo是我们用英伟达内部的数据
+Chip Nemo shì wǒ men yòng yīng wěi dá nèi bù de shù jù
+
+我们当时收集了二十几个Billion的Token
+Wǒ men dāng shí shōu jí le èr shí jǐ gè Billion de Token
+
+在内部的网上找到的数据
+Zài nèi bù de wǎng shàng zhǎo dào de shù jù
+
+去训练了当时的一个Base Model
+Qù xùn liàn le dāng shí de yī gè Base Model
+
+像Mama的Model
+Xiàng Mama de Model
+
+还有英伟达自己的NemoChair Model
+Hái yǒu yīng wěi dá zì jǐ de NemoChair Model
+
+然后用这些Model来做芯片设计
+Rán hòu yòng zhè xiē Model lái zuò xīn piàn shè jì
+
+现在的主要的趋势就是说
+Xiàn zài de zhǔ yào de qū shì jiù shì shuō
+
+第一个像这样的Chatbot能够跟你的Document进行交互
+Dì yī gè xiàng zhè yàng de Chatbot néng gòu gēn nǐ de Document jìn xíng jiāo hù
+
+那你可以理解设计的需求
+Nà nǐ kě yǐ lǐ jiě shè jì de xū qiú
+
+另外就是说Coding Agent
+Lìng wài jiù shì shuō Coding Agent
+
+就是因为你能code
+Jiù shì yīn wèi nǐ néng code
+
+它写code不一定只是写Software Code
+Tā xiě code bù yī dìng zhǐ shì xiě Software Code
+
+现在写RTL 就是Harvard这些code也是能写的
+Xiàn zài xiě RTL, jiù shì Harvard zhè xiē code yě shì néng xiě de
+
+虽然说质量还没有那么高
+Suī rán shuō zhì liàng hái méi yǒu nà me gāo
+
+有一定的进步的空间
+Yǒu yī dìng de jìn bù de kōng jiān
+
+将来的话真正的难点是说
+Jiāng lái de huà zhēn zhèng de nán diǎn shì shuō
+
+你怎么做一个底站
+Nǐ zěn me zuò yī gè dǐ zhàn
+
+不光是能把它生成出来
+Bù guāng shì néng bǎ tā shēng chéng chū lái
+
+还要把它优化得好
+Hái yào bǎ tā yōu huà dé hǎo
+
+对 那接下来
+Duì, nà jiē xià lái
+
+我有几个大家可能最关注的关于市场竞争的问题
+Wǒ yǒu jǐ gè dà jiā kě néng zuì guān zhù de guān yú shì chǎng jìng zhēng de wèn tí
+
+就是我们在GTC大概是前一周刚刚发了一期节目是讲谷歌的TPU的
+Jiù shì wǒ men zài GTC dà gài shì qián yī zhōu gāng gāng fā le yī qī jié mù shì jiǎng gǔ gē de TPU de
+
+因为现在包括像Atherapic Meta 还有苹果他们也都在用谷歌的TPU训练模型
+Yīn wèi xiàn zài bāo kuò xiàng Atherapic, Meta, hái yǒu píng guǒ tā men yě dōu zài yòng gǔ gē de TPU xùn liàn mó xíng
+
+所以大家认为未来谷歌的TPU会动摇英伟达在芯片领域的垄断地位吗
+Suǒ yǐ dà jiā rèn wéi wèi lái gǔ gē de TPU huì dòng yáo yīng wěi dá zài xīn piàn lǐng yù de lǒng duàn dì wèi ma
+
+对 如果说未来整个全产业都要进行人工智能整合的话
+Duì, rú guǒ shuō wèi lái zhěng gè quán chǎn yè dōu yào jìn xíng rén gōng zhì néng zhěng hé de huà
+
+你单纯靠一家公司英伟达去支持它的这个需求量也是很难做到的
+Nǐ dān chún kào yī jiā gōng sī yīng wěi dá qù zhī chí tā de zhè gè xū qiú liàng yě shì hěn nán zuò dào de
+
+所以我觉得英伟达它现在本身把自己打造成不只是一个GPU公司
+Suǒ yǐ wǒ jué de yīng wěi dá tā xiàn zài běn shēn bǎ zì jǐ dǎ zào chéng bù zhǐ shì yī gè GPU gōng sī
+
+而是形成了一个人工智能基础设施的公司
+Ér shì xíng chéng le yī gè rén gōng zhì néng jī chǔ shè shī de gōng sī
+
+就是因为它希望成为整个人工智能基础设施一个龙头老大
+Jiù shì yīn wèi tā xī wàng chéng wéi zhěng gè rén gōng zhì néng jī chǔ shè shī yī gè lóng tóu lǎo dà
+
+但我觉得在这个基础之上并不妨碍其他的公司提供多样化的芯片架构的一个解决方案
+Dàn wǒ jué de zài zhè gè jī chǔ zhī shàng bìng bù fáng ài qí tā de gōng sī tí gōng duō yàng huà de xīn piàn jià gòu de yī gè jiě jué fāng àn
+
+就比如说像TPU是其中一个解决方案
+Jiù bǐ rú shuō xiàng TPU shì qí zhōng yī gè jiě jué fāng àn
+
+TPU它其实还是在谷歌内部全体系全战式的优化情况下
+TPU tā qí shí hái shì zài gǔ gē nèi bù quán tǐ xì quán zhàn shì de yōu huà qíng kuàng xià
+
+它做到的一个表现效果和训练效果是最好的
+Tā zuò dào de yī gè biǎo xiàn xiào guǒ hé xùn liàn xiào guǒ shì zuì hǎo de
+
+谷歌自己用的话呢
+Gǔ gē zì jǐ yòng de huà ne
+
+我记得它的那个training成本可能只有XGPT的三分之一左右
+Wǒ jì de tā de nà gè training chéng běn kě néng zhǐ yǒu XGPT de sān fēn zhī yī zuǒ yòu
+
+但是其他的公司去用的话可能做不到这么低的训练成本
+Dàn shì qí tā de gōng sī qù yòng de huà kě néng zuò bù dào zhè me dī de xùn liàn chéng běn
+
+所以还是因为说它自己本身也是做了一个系统优化
+Suǒ yǐ hái shì yīn wèi shuō tā zì jǐ běn shēn yě shì zuò le yī gè xì tǒng yōu huà
+
+但是英伟达因为这么多年
+Dàn shì yīng wěi dá yīn wèi zhè me duō nián
+
+它其实作为是一个第三方在服务很多家企业
+Tā qí shí zuò wéi shì yī gè dì sān fāng zài fú wù hěn duō jiā qǐ yè
+
+所以它的这个体系不只是GPU
+Suǒ yǐ tā de zhè gè tǐ xì bù zhǐ shì GPU
+
+还有包括它的Cuda System等等
+Hái yǒu bāo kuò tā de Cuda System děng děng
+
+它是希望可以针对各个不同客户的需求都可以做到效能的最大优化
+Tā shì xī wàng kě yǐ zhēn duì gè gè bù tóng kè hù de xū qiú dōu kě yǐ zuò dào xiào néng de zuì dà yōu huà
+
+所以我觉得其实短期来看的话呢
+Suǒ yǐ wǒ jué de qí shí duǎn qī lái kàn de huà ne
+
+它的系统优势还是很明显的
+Tā de xì tǒng yōu shì hái shì hěn míng xiǎn de
+
+那科技公司希望也去用TPU的话呢
+Nà kē jì gōng sī xī wàng yě qù yòng TPU de huà ne
+
+也是因为一来确实芯片短缺
+Yě shì yīn wèi yī lái què shí xīn piàn duǎn quē
+
+需求量很大
+Xū qiú liàng hěn dà
+
+二来的话呢谁也不希望说我只有一个供应商
+èr lái de huà ne shuí yě bù xī wàng shuō wǒ zhǐ yǒu yī gè gōng yìng shāng
+
+这样的话呢在未来可能在行进的过程中也会有很多的挑战
+Zhè yàng de huà ne zài wèi lái kě néng zài xíng jìn de guò chéng zhōng yě huì yǒu hěn duō de tiǎo zhàn
+
+那除了这个之外的话
+Nà chú le zhè gè zhī wài de huà
+
+包括苹果的芯片人工智能芯片一直做的也非常好
+Bāo kuò píng guǒ de xīn piàn rén gōng zhì néng xīn piàn yī zhí zuò de yě fēi cháng hǎo
+
+它们是自己的一个体系
+Tā men shì zì jǐ de yī gè tǐ xì
+
+还有另外一点我们就会看到很多新的一些创新的模型架构
+Hái yǒu lìng wài yī diǎn wǒ men jiù huì kàn dào hěn duō xīn de yī xiē chuàng xīn de mó xíng jià gòu
+
+它可以在CPU上运行比GPU更高效
+Tā kě yǐ zài CPU shàng yùn xíng bǐ GPU gèng gāo xiào
+
+所以也就是说意味着未来对CPU的使用量也会逐渐增加
+Suǒ yǐ yě jiù shì shuō yì wèi zhe wèi lái duì CPU de shǐ yòng liàng yě huì zhú jiàn zēng jiā
+
+这也是为什么今年其实你看到Jensen在NVIDIA的GTC层面上也有去强调未来CPU的一个市场的增量
+Zhè yě shì wèi shén me jīn nián qí shí nǐ kàn dào Jensen zài NVIDIA de GTC céng miàn shàng yě yǒu qù qiáng diào wèi lái CPU de yī gè shì chǎng de zēng liàng
+
+所以我觉得未来的市场会是一个多样化的市场
+Suǒ yǐ wǒ jué de wèi lái de shì chǎng huì shì yī gè duō yàng huà de shì chǎng
+
+根据不同的应用场景
+Gēn jù bù tóng de yìng yòng chǎng jǐng
+
+你不同的应用的优化系统的需求
+Nǐ bù tóng de yìng yòng de yōu huà xì tǒng de xū qiú
+
+你可以选用不同的芯片
+Nǐ kě yǐ xuǎn yòng bù tóng de xīn piàn
+
+我个人觉得英伟达它的一个领头的位置还是会比较强劲
+Wǒ gè rén jué de yīng wěi dá tā de yī gè lǐng tóu de wèi zhì hái shì huì bǐ jiào qiáng jìng
+
+它已经成为人工智能基础设施了
+Tā yǐ jīng chéng wéi rén gōng zhì néng jī chǔ shè shī le
+
+所以就像大的一个电力厂一样
+Suǒ yǐ jiù xiàng dà de yī gè diàn lì chǎng yī yàng
+
+不管你用什么样的芯片层
+Bù guǎn nǐ yòng shén me yàng de xīn piàn céng
+
+你可能在未来都会用到它的基础设施层
+Nǐ kě néng zài wèi lái dōu huì yòng dào tā de jī chǔ shè shī céng
+
+Google因为17年就发布TPU
+Google yīn wèi 17 nián jiù fā bù TPU
+
+持续做了很多代
+Chí xù zuò le hěn duō dài
+
+其实Google的做系统或者云的这些能力
+Qí shí Google de zuò xì tǒng huò zhě yún de zhè xiē néng lì
+
+包括里面的做互联的能力
+Bāo kuò lǐ miàn de zuò hù lián de néng lì
+
+做垂直供电这些能力其实是超过英伟达的
+Zuò chuí zhí gōng diàn zhè xiē néng lì qí shí shì chāo guò yīng wěi dá de
+
+比英伟达厉害
+Bǐ yīng wěi dá lì hài
+
+但是Google是针对它自己的跑的这个应用场景做了很多的优化
+Dàn shì Google shì zhēn duì tā zì jǐ de pǎo de zhè gè yìng yòng chǎng jǐng zuò le hěn duō de yōu huà
+
+包括里面做embedding的processing啊 加速啊
+Bāo kuò lǐ miàn zuò embedding de processing a, jiā sù a
+
+还有splash的加速
+Hái yǒu splash de jiā sù
+
+它是有一些自己的特定的customize定制化之后的话
+Tā shì yǒu yī xiē zì jǐ de tè dìng de customize dìng zhì huà zhī hòu de huà
+
+Google把它的那个能力外放到叫Athlopic或者其他一些公司
+Google bǎ tā de nà gè néng lì wài fàng dào jiào Athlopic huò zhě qí tā yī xiē gōng sī
+
+我们也有一些朋友的公司
+Wǒ men yě yǒu yī xiē péng yǒu de gōng sī
+
+在围绕着TPU在做优化
+Zài wéi rào zhe TPU zài zuò yōu huà
+
+提供服务给外面的这些公司
+Tí gōng fú wù gěi wài miàn de zhè xiē gōng sī
+
+第二就是AI的帮助
+Dì èr jiù shì AI de bāng zhù
+
+让AI做优化或者是算子啊
+Ràng AI zuò yōu huà huò zhě shì suàn zǐ a
+
+或者层级的优化其实是越来越方便了
+Huò zhě céng jí de yōu huà qí shí shì yuè lái yuè fāng biàn le
+
+Kuda的Mod已经从Kernel到更大的是在system level的这些
+Kuda de Mod yǐ jīng cóng Kernel dào gèng dà de shì zài system level de zhè xiē
+
+所以Google对外的这种更可以接受的程度会越来越大
+Suǒ yǐ Google duì wài de zhè zhǒng gèng kě yǐ jiē shòu de chéng dù huì yuè lái yuè dà
+
+同时Google又有自己的Gemini的这些模型的能力
+Tóng shí Google yòu yǒu zì jǐ de Gemini de zhè xiē mó xíng de néng lì
+
+应用的能力
+Yìng yòng de néng lì
+
+还有它的视频YouTube
+Hái yǒu tā de shì pín YouTube
+
+后面就是它的能力是全方位的
+Hòu miàn jiù shì tā de néng lì shì quán fāng wèi de
+
+甚至于OpenAI这些也要做自己的芯片嘛
+Shèn zhì yú OpenAI zhè xiē yě yào zuò zì jǐ de xīn piàn ma
+
+所以对老黄来说这些其实都是比较实实在在的威胁
+Suǒ yǐ duì lǎo huáng lái shuō zhè xiē qí shí dōu shì bǐ jiào shí shí zài zài de wēi xié
+
+但是Jensen或者是英伟达有他自己的优势
+Dàn shì Jensen huò zhě shì yīng wěi dá yǒu tā zì jǐ de yōu shì
+
+就是他的执行力
+Jiù shì tā de zhí xíng lì
+
+包括用AI来设计芯片
+Bāo kuò yòng AI lái shè jì xīn piàn
+
+包括他们内部一年推出七款芯片这种执行力
+Bāo kuò tā men nèi bù yī nián tuī chū qī kuǎn xīn piàn zhè zhǒng zhí xíng lì
+
+因为在硅谷执行力特别强的芯片公司英伟达和Blockham这两家公司执行力非常非常强
+Yīn wèi zài guī gǔ zhí xíng lì tè bié qiáng de xīn piàn gōng sī yīng wěi dá hé Blockham zhè liǎng jiā gōng sī zhí xíng lì fēi cháng fēi cháng qiáng
+
+还有就是老黄对于供应链的控制
+Hái yǒu jiù shì lǎo huáng duì yú gōng yìng liàn de kòng zhì
+
+即使AMD接到了订单或者Google接到了订单
+Jí shǐ AMD jiē dào le dìng dān huò zhě Google jiē dào le dìng dān
+
+其实老黄跟台积电的关系特别好
+Qí shí lǎo huáng gēn tái jī diàn de guān xì tè bié hǎo
+
+所以他的Covac的产能就是拿到了大部分在他手上
+Suǒ yǐ tā de Covac de chǎn néng jiù shì ná dào le dà bù fèn zài tā shǒu shàng
+
+所以这也是老黄的另外一个非常大的优势
+Suǒ yǐ zhè yě shì lǎo huáng de lìng wài yī gè fēi cháng dà de yōu shì
+
+这也是多年的信任建立起来的
+Zhè yě shì duō nián de xìn rèn jiàn lì qǐ lái de
+
+对 可以把刚刚志斌老师提到的英伟达的核心护城河总结为两点
+Duì, kě yǐ bǎ gāng gāng zhì bīn lǎo shī tí dào de yīng wěi dá de hé xīn hù chéng hé zǒng jié wéi liǎng diǎn
+
+第一点就是说快速地执行的能力
+Dì yī diǎn jiù shì shuō kuài sù dì zhí xíng de néng lì
+
+第二个是供应链的把控的能力
+Dì èr gè shì gōng yìng liàn de bǎ kòng de néng lì
+
+现在我们看他已经是芯片之王了
+Xiàn zài wǒ men kàn tā yǐ jīng shì xīn piàn zhī wáng le
+
+未来在哪些方向上他可能会面临挑战
+Wèi lái zài nǎ xiē fāng xiàng shàng tā kě néng huì miàn lín tiǎo zhàn
+
+因为这个市场足够大
+Yīn wèi zhè gè shì chǎng zú gòu dà
+
+所以有可能他虽然执行力非常强
+Suǒ yǐ yǒu kě néng tā suī rán zhí xíng lì fēi cháng qiáng
+
+但是会有各种不同的应用从垂直的领域去进攻英伟达
+Dàn shì huì yǒu gè zhǒng bù tóng de yìng yòng cóng chuí zhí de lǐng yù qù jìn gōng yīng wěi dá
+
+包括机器人的AI芯片
+Bāo kuò jī qì rén de AI xīn piàn
+
+以后从数学中心到Physical AI
+Yǐ hòu cóng shù xué zhōng xīn dào Physical AI
+
+Physical AI对芯片的需求是非常大的
+Physical AI duì xīn piàn de xū qiú shì fēi cháng dà de
+
+而且谁把控了Physical AI的路口
+Ér qiě shuí bǎ kòng le Physical AI de lù kǒu
+
+那数学中心后面其实是会引流的
+Nà shù xué zhōng xīn hòu miàn qí shí shì huì yǐn liú de
+
+所以Robotics AI芯片目前还没有converge
+Suǒ yǐ Robotics AI xīn piàn mù qián hái méi yǒu converge
+
+因为我两年前其实有想做Robotics AI芯片
+Yīn wèi wǒ liǎng nián qián qí shí yǒu xiǎng zuò Robotics AI xīn piàn
+
+但是那个市场还不成熟
+Dàn shì nà gè shì chǎng hái bù chéng shú
+
+包括机器人的芯片的BOMS成本可能是整个机器人大概7% 8%
+Bāo kuò jī qì rén de xīn piàn de BOMS chéng běn kě néng shì zhěng gè jī qì rén dà gài 7%, 8%
+
+也不是那时候的瓶颈
+Yě bù shì nà shí hòu de píng jǐng
+
+包括机器人的Foundation Model也不成熟
+Bāo kuò jī qì rén de Foundation Model yě bù chéng shú
+
+但是这一块是有机会的
+Dàn shì zhè yī kuài shì yǒu jī huì de
+
+这也是为什么OpenCloud出来了以后
+Zhè yě shì wèi shén me OpenCloud chū lái le yǐ hòu
+
+它有点像这种Data Center Digital Agent Digital Robot
+Tā yǒu diǎn xiàng zhè zhǒng Data Center Digital Agent Digital Robot
+
+所以老黄快速推出了DGX角的BOK
+Suǒ yǐ lǎo huáng kuài sù tuī chū le DGX jiǎo de BOK
+
+前两天又出出来一个这种Workstation它可以跑更大的模型
+Qián liǎng tiān yòu chū chū lái yī gè zhè zhǒng Workstation tā kě yǐ pǎo gèng dà de mó xíng
+
+其实老黄对于这种边缘端私有化部署是比较担心的
+Qí shí lǎo huáng duì yú zhè zhǒng biān yuán duān sī yǒu huà bù shǔ shì bǐ jiào dān xīn de
+
+所以它的动作非常快
+Suǒ yǐ tā de dòng zuò fēi cháng kuài
+
+对 我觉得对听众来讲的话
+Duì, wǒ jué de duì tīng zhòng lái jiǎng de huà
+
+是不是用TPU还是用GPU
+Shì bù shì yòng TPU hái shì yòng GPU
+
+除非你做投资
+Chú fēi nǐ zuò tóu zī
+
+一般来说也不一定有直接的利益
+Yī bān lái shuō yě bù yī dìng yǒu zhí jiē de lì yì
+
+但是你可能考虑的是说
+Dàn shì nǐ kě néng kǎo lǜ de shì shuō
+
+你将来的你的AI要用什么Vender
+Nǐ jiāng lái de nǐ de AI yào yòng shén me Vender
+
+比如说TPU那肯定就是Gemini
+Bǐ rú shuō TPU nà kěn dìng jiù shì Gemini
+
+是不是将来Anthropic会有TPU
+Shì bù shì jiāng lái Anthropic huì yǒu TPU
+
+这个现在的未知数
+Zhè gè xiàn zài de wèi zhī shù
+
+但是其他的都是在GPU上
+Dàn shì qí tā de dōu shì zài GPU shàng
+
+所以我觉得真正关注的应该是说
+Suǒ yǐ wǒ jué de zhēn zhèng guān zhù de yīng gāi shì shuō
+
+你的性能是不是能提高呢
+Nǐ de xìng néng shì bù shì néng tí gāo ne
+
+将来是不是TPU能够做到什么一万个Token一个second
+Jiāng lái shì bù shì TPU néng gòu zuò dào shén me yī wàn gè Token yī gè second
+
+如果说有技术上的明显的进步的话
+Rú guǒ shuō yǒu jì shù shàng de míng xiǎn de jìn bù de huà
+
+那可能比如说你在做你的创业
+Nà kě néng bǐ rú shuō nǐ zài zuò nǐ de chuàng yè
+
+或者说你的工作的时候
+Huò zhě shuō nǐ de gōng zuò de shí hòu
+
+你会考虑到 OK 那我是不是要用Gemini
+Nǐ huì kǎo lǜ dào OK, nà wǒ shì bù shì yào yòng Gemini
+
+我觉得是从应用的角度可能关注这方面的信息会比较有用
+Wǒ jué de shì cóng yìng yòng de jiǎo dù kě néng guān zhù zhè fāng miàn de xìn xī huì bǐ jiào yǒu yòng
+
+但我个人觉得可能暂时不会出现很大的性能的差距
+Dàn wǒ gè rén jué de kě néng zàn shí bù huì chū xiàn hěn dà de xìng néng de chā jù
+
+现在不管是用TPU还是用GPU
+Xiàn zài bù guǎn shì yòng TPU hái shì yòng GPU
+
+可能从end user来讲可能都是差不多的
+Kě néng cóng end user lái jiǎng kě néng dōu shì chà bù duō de
+
+对 我觉得刚才两位讲的都非常好
+Duì, wǒ jué de gāng cái liǎng wèi jiǎng de dōu fēi cháng hǎo
+
+我们刚才已经提到在训练和推理层面上
+Wǒ men gāng cái yǐ jīng tí dào zài xùn liàn hé tuī lǐ céng miàn shàng
+
+到底哪个部分它为了成本更高或者消耗更高
+Dào dǐ nǎ gè bù fèn tā wèi le chéng běn gèng gāo huò zhě xiāo hào gèng gāo
+
+那现在既然我们有一个共识说推理的成本会越来越高的话呢
+Nà xiàn zài jì rán wǒ men yǒu yī gè gòng shí shuō tuī lǐ de chéng běn huì yuè lái yuè gāo de huà ne
+
+整个推理的一个权重会越来越大
+Zhěng gè tuī lǐ de yī gè quán zhòng huì yuè lái yuè dà
+
+它也并不只是让英伟达去受益
+Tā yě bìng bù zhǐ shì ràng yīng wěi dá qù shòu yì
+
+其他的CPU产商比如说AMD可能也会受益
+Qí tā de CPU chǎn shāng bǐ rú shuō AMD kě néng yě huì shòu yì
+
+所以这可能会是它短期的一个小小的挑战
+Suǒ yǐ zhè kě néng huì shì tā duǎn qī de yī gè xiǎo xiǎo de tiǎo zhàn
+
+另外一点的话呢刚才这位提到的就是私有化部署
+Lìng wài yī diǎn de huà ne gāng cái zhè wèi tí dào de jiù shì sī yǒu huà bù shǔ
+
+其实真的你去看企业及人工智能的应用还有Agent的部署的话呢
+Qí shí zhēn de nǐ qù kàn qǐ yè jí rén gōng zhì néng de yìng yòng hái yǒu Agent de bù shǔ de huà ne
+
+大部分的传统行业因为它高监管的缘故
+Dà bù fèn de chuán tǒng háng yè yīn wèi tā gāo jiān guǎn de yuán gù
+
+因为它对于数据隐私的要求
+Yīn wèi tā duì yú shù jù yǐn sī de yāo qiú
+
+它其实是更偏向于私有化部署
+Tā qí shí shì gèng piān xiàng yú sī yǒu huà bù shǔ
+
+包括我们和就你刚才提到另外一家公司Broadcom去聊的话
+Bāo kuò wǒ men hé jiù nǐ gāng cái tí dào lìng wài yī jiā gōng sī Broadcom qù liáo de huà
+
+像高通他们的一些都是在压于人工智能在边缘端
+Xiàng gāo tōng tā men de yī xiē dōu shì zài yā yú rén gōng zhì néng zài biān yuán duān
+
+我们也一直非常看好Edge Computing Edge AI这方面的一个应用
+Wǒ men yě yī zhí fēi cháng kàn hǎo Edge Computing Edge AI zhè fāng miàn de yī gè yìng yòng
+
+像Qualcomm它有NPU
+Xiàng Qualcomm tā yǒu NPU
+
+这个也是重点是在怎么样可以一些低能耗的进行边缘端的人工智能的一个部署
+Zhè gè yě shì zhòng diǎn shì zài zěn me yàng kě yǐ yī xiē dī néng hào de jìn xíng biān yuán duān de rén gōng zhì néng de yī gè bù shǔ
+
+所以我觉得这些可能都是一些现在看起来还不是很大的市场
+Suǒ yǐ wǒ jué de zhè xiē kě néng dōu shì yī xiē xiàn zài kàn qǐ lái hái bù shì hěn dà de shì chǎng
+
+但是一旦开始推进了之后它增长速度很快的
+Dàn shì yī dàn kāi shǐ tuī jìn le zhī hòu tā zēng zhǎng sù dù hěn kuài de
+
+可能因为它还没有非常强的现在的一个部署或者整合的方向
+Kě néng yīn wèi tā hái méi yǒu fēi cháng qiáng de xiàn zài de yī gè bù shǔ huò zhě zhěng hé de fāng xiàng
+
+我觉得这些可能都是它短期会面临的一些挑战
+Wǒ jué de zhè xiē kě néng dōu shì tā duǎn qī huì miàn lín de yī xiē tiǎo zhàn
+
+另外一点我可能想提一点就是跟技术不一定直接相关的
+Lìng wài yī diǎn wǒ kě néng xiǎng tí yī diǎn jiù shì gēn jì shù bù yī dìng zhí jiē xiāng guān de
+
+就是它成了一个市值如此之大的一家企业
+Jiù shì tā chéng le yī gè shì zhí rú cǐ zhī dà de yī jiā qǐ yè
+
+其实一方面它被资本推崇也会被资本裹挟
+Qí shí yī fāng miàn tā bèi zī běn tuī chóng yě huì bèi zī běn guǒ xié
+
+当你的资金量还有市值到达了一个数量级之后的话
+Dāng nǐ de zī jīn liàng hái yǒu shì zhí dào dá le yī gè shù liàng jí zhī hòu de huà
+
+作为公司的CEO还有你需要为你的股东负责董事会负责的话
+Zuò wéi gōng sī de CEO hái yǒu nǐ xū yào wèi nǐ de gǔ dōng fù zé dǒng shì huì fù zé de huà
+
+你可能就要去排下优先级
+Nǐ kě néng jiù yào qù pái xià yōu xiān jí
+
+可能优先级第一位是怎么样排这个市值去维持住
+Kě néng yōu xiān jí dì yī wèi shì zěn me yàng pái zhè gè shì zhí qù wéi chí zhù
+
+而且市值要持续增长
+Ér qiě shì zhí yào chí xù zēng zhǎng
+
+那这个时候在公司内部资源分配
+Nà zhè gè shí hòu zài gōng sī nèi bù zī yuán fēn pèi
+
+到底是更多的优化至短期的收入的增长
+Dào dǐ shì gèng duō de yōu huà zhì duǎn qī de shōu rù de zēng zhǎng
+
+还是说去进行一些长线的技术创新的投入
+Hái shì shuō qù jìn xíng yī xiē cháng xiàn de jì shù chuàng xīn de tóu rù
+
+这个权重可能也会受到影响
+Zhè gè quán zhòng kě néng yě huì shòu dào yǐng xiǎng
+
+我觉得这也不只是因为达任何公司到了这样的一个位置
+Wǒ jué de zhè yě bù zhǐ shì yīn wèi dá rèn hé gōng sī dào le zhè yàng de yī gè wèi zhì
+
+CEO和董事会都会面临这样的一个压力
+CEO hé dǒng shì huì dōu huì miàn lín zhè yàng de yī gè yā lì
+
+好的 对 我觉得大家总结的都非常全面了
+Hǎo de, duì, wǒ jué de dà jiā zǒng jié de dōu fēi cháng quán miàn le
+
+那今天我们也开放两个问题给我们现场的观众
+Nà jīn tiān wǒ men yě kāi fàng liǎng gè wèn tí gěi wǒ men xiàn chǎng de guān zhòng
+
+大家请在提问的时候指定你想要谁来回答好不好
+Dà jiā qǐng zài tí wèn de shí hòu zhǐ dìng nǐ xiǎng yào shuí lái huí dá hǎo bù hǎo
+
+非常感谢各位嘉宾的分享
+Fēi cháng gǎn xiè gè wèi jiā bīn de fēn xiǎng
+
+我叫Christina 我主要是做AI投资的
+Wǒ jiào Christina, wǒ zhǔ yào shì zuò AI tóu zī de
+
+我可以从二级市场角度分享一下
+Wǒ kě yǐ cóng èr jí shì chǎng jiǎo dù fēn xiǎng yī xià
+
+为什么这个英伟达完吹炼这个出来以后其实股价没有怎么动
+Wèi shén me zhè gè yīng wěi dá wán chuī liàn zhè gè chū lái yǐ hòu qí shí gǔ jià méi yǒu zěn me dòng
+
+就是因为我们很多华尔街的投资人在之前做模型的时候已经拆除了大概这样的一个数字
+Jiù shì yīn wèi wǒ men hěn duō huá ěr jiē de tóu zī rén zài zhī qián zuò mó xíng de shí hòu yǐ jīng chāi chú le dà gài zhè yàng de yī gè shù zì
+
+那我的问题想问的更细致一点
+Nà wǒ de wèn tí xiǎng wèn de gèng xì zhì yī diǎn
+
+主要是问两位芯片领域的专家吧
+Zhǔ yào shì wèn liǎng wèi xīn piàn lǐng yù de zhuān jiā ba
+
+红军刚才也说到说Guaq发布的并不想象的那么快嘛
+Hóng jūn gāng cái yě shuō dào shuō Guaq fā bù de bìng bù xiǎng xiàng de nà me kuài ma
+
+那Guaq它主要的代工其实是三星
+Nà Guaq tā zhǔ yào de dài gōng qí shí shì sān xīng
+
+另外呢Intel也在说他们技术特别是packaging已经赶上台积电了
+Lìng wài ne Intel yě zài shuō tā men jì shù tè bié shì packaging yǐ jīng gǎn shàng tái jī diàn le
+
+他们技术上也有新的突破打算去做英伟达下一代的产品
+Tā men jì shù shàng yě yǒu xīn de tū pò dǎ suàn qù zuò yīng wěi dá xià yī dài de chǎn pǐn
+
+我是想理解一下
+Wǒ shì xiǎng lǐ jiě yī xià
+
+这个是英伟达因为供需关系逼迫他们不得不牺牲一部分良率去做这个事情
+Zhè gè shì yīng wěi dá yīn wèi gōng xū guān xì bī pò tā men bù dé bù xī shēng yī bù fèn liáng lǜ qù zuò zhè gè shì qíng
+
+还是说呢确实Intel和三星的这个技术表现得很不错
+Hái shì shuō ne què shí Intel hé sān xīng de zhè gè jì shù biǎo xiàn dé hěn bù cuò
+
+有可能以后会成为这个双代工这样的一个局面
+Yǒu kě néng yǐ hòu huì chéng wéi zhè gè shuāng dài gōng zhè yàng de yī gè jú miàn
+
+其实是这样的
+Qí shí shì zhè yàng de
+
+过去的叙事是compute
+Guò qù de xù shì shì compute
+
+就Broadcom跟Google TPU 包括NVIDIA
+Jiù Broadcom gēn Google TPU, bāo kuò NVIDIA
+
+那去年的这个叙事就是这些compute后面的其他这些物理的真实瓶颈
+Nà qù nián de zhè gè xù shì jiù shì zhè xiē compute hòu miàn de qí tā zhè xiē wù lǐ de zhēn shí píng jǐng
+
+所以去年因为你做二级投资嘛
+Suǒ yǐ qù nián yīn wèi nǐ zuò èr jí tóu zī ma
+
+比较火的要么就是memory 要么storage 要么现在是光
+Bǐ jiào huǒ de yào me jiù shì memory, yào me storage, yào me xiàn zài shì guāng
+
+因为CPU在后面还会有半导体测试设备 还有光的测试设备
+Yīn wèi CPU zài hòu miàn hái huì yǒu bàn dǎo tǐ cè shì shè bèi, hái yǒu guāng de cè shì shè bèi
+
+反正所有这些物理的瓶颈
+Fǎn zhèng suǒ yǒu zhè xiē wù lǐ de píng jǐng
+
+Intel的EMIP其实封装技术是非常好的
+Intel de EMIP qí shí fēng zhuāng jì shù shì fēi cháng hǎo de
+
+现在大家都想着用台积电的片然后用Intel的EMIP来做这个事
+Xiàn zài dà jiā dōu xiǎng zhe yòng tái jī diàn de piàn rán hòu yòng Intel de EMIP lái zuò zhè gè shì
+
+目前还没有人正式validate
+Mù qián hái méi yǒu rén zhèng shì validate
+
+因为商业上它不成立
+Yīn wèi shāng yè shàng tā bù chéng lì
+
+可能台积电不想把我的片子拿出来给Intel封装
+Kě néng tái jī diàn bù xiǎng bǎ wǒ de piàn zi ná chū lái gěi Intel fēng zhuāng
+
+Intel说你要用我的封装你必须用我的foundry
+Intel shuō nǐ yào yòng wǒ de fēng zhuāng nǐ bì xū yòng wǒ de foundry
+
+说是商业上的是有一些悖论
+Shuō shì shāng yè shàng de shì yǒu yī xiē bèi lùn
+
+但是其实业界是有这种尝试
+Dàn shì qí shí yè jiè shì yǒu zhè zhǒng cháng shì
+
+确实Intel的EMIP在一些hyperscaler其实是已经证明了用得蛮好的
+Què shí Intel de EMIP zài yī xiē hyperscaler qí shí shì yǐ jīng zhèng míng le yòng dé mán hǎo de
+
+三星当然也是需要catch up
+Sān xīng dāng rán yě shì xū yào catch up
+
+因为三星它自己有HBM嘛
+Yīn wèi sān xīng tā zì jǐ yǒu HBM ma
+
+三星的良率可能会相对于台积电要差一些
+Sān xīng de liáng lǜ kě néng huì xiāng duì yú tái jī diàn yào chà yī xiē
+
+但是作为second source其实还是可以的
+Dàn shì zuò wéi second source qí shí hái shì kě yǐ de
+
+就是说你的产品像因为达一年出七个芯片
+Jiù shì shuō nǐ de chǎn pǐn xiàng yīn wèi dá yī nián chū qī gè xīn piàn
+
+那它总有不同的芯片的需求
+Nà tā zǒng yǒu bù tóng de xīn piàn de xū qiú
+
+其实就是现在尽可能地要把产能用上
+Qí shí jiù shì xiàn zài jìn kě néng dì yào bǎ chǎn néng yòng shàng
+
+各家都有自己独特的一些优势
+Gè jiā dōu yǒu zì jǐ dú tè de yī xiē yōu shì
+
+那优势在哪里
+Nà yōu shì zài nǎ lǐ
+
+那这个就是要跟英伟达去迭代了
+Nà zhè gè jiù shì yào gēn yīng wěi dá qù dié dài le
+
+英伟达是一直同时在evaluate每个foundry的
+Yīng wěi dá shì yī zhí tóng shí zài evaluate měi gè foundry de
+
+时时刻刻在进行的
+Shí shí kè kè zài jìn xíng de
+
+这个不是说是今年突然想到要用三星
+Zhè gè bù shì shuō shì jīn nián tū rán xiǎng dào yào yòng sān xīng
+
+他们对每个foundry是什么技术能力都是很清楚的
+Tā men duì měi gè foundry shì shén me jì shù néng lì dōu shì hěn qīng chu de
+
+Block这个事情的话也有可能就是说没有产能
+Block zhè gè shì qíng de huà yě yǒu kě néng jiù shì shuō méi yǒu chǎn néng
+
+因为是一个很突然的事情
+Yīn wèi shì yī gè hěn tū rán de shì qíng
+
+可能它跟台积电的订单可能就没有来得及放进去
+Kě néng tā gēn tái jī diàn de dìng dān kě néng jiù méi yǒu lái de jí fàng jìn qù
+
+然后三星正好有产能 那可能就用了
+Rán hòu sān xīng zhèng hǎo yǒu chǎn néng, nà kě néng jiù yòng le
+
+也许是这样 我只能猜
+Yě xǔ shì zhè yàng, wǒ zhǐ néng cāi
+
+因为我不知道
+Yīn wèi wǒ bù zhī dào
+
+我叫陈飞 我是做二级市场投资
+Wǒ jiào chén fēi, wǒ shì zuò èr jí shì chǎng tóu zī
+
+我有一个小问题
+Wǒ yǒu yī gè xiǎo wèn tí
+
+就最近一直困扰着
+Jiù zuì jìn yī zhí kùn rǎo zhe
+
+从Anthropic的Cowork到后面的Coding Agent
+Cóng Anthropic de Cowork dào hòu miàn de Coding Agent
+
+就老黄的护城河这么多年其实最大的就是Cuda
+Jiù lǎo huáng de hù chéng hé zhè me duō nián qí shí zuì dà de jiù shì Cuda
+
+Cuda也是一个软件
+Cuda yě shì yī gè ruǎn jiàn
+
+那最近一直都在担心
+Nà zuì jìn yī zhí dōu zài dān xīn
+
+它会不会被Coding Agent或者是Anthropic把它也写一个Cuda出来
+Tā huì bù huì bèi Coding Agent huò zhě shì Anthropic bǎ tā yě xiě yī gè Cuda chū lái
+
+可能很快的速度接近于它的80%或者90%多少
+Kě néng hěn kuài de sù dù jiē jìn yú tā de 80% huò zhě 90% duō shǎo
+
+这个护城河壁垒是不是在快速的被削弱
+Zhè gè hù chéng hé bì lěi shì bù shì zài kuài sù de bèi xuē ruò
+
+特别好
+Tè bié hǎo
+
+这个问题其实我也想问
+Zhè gè wèn tí qí shí wǒ yě xiǎng wèn
+
+然后今天考虑到时间关系就没有问
+Rán hòu jīn tiān kǎo lǜ dào shí jiān guān xì jiù méi yǒu wèn
+
+终于有人帮我问出来了
+Zhōng yú yǒu rén bāng wǒ wèn chū lái le
+
+的确Coding Agent能做很多事情
+Dí què Coding Agent néng zuò hěn duō shì qíng
+
+但是现在Coding Agent能够做出很多高性能的code还是有待看一看的
+Dàn shì xiàn zài Coding Agent néng gòu zuò chū hěn duō gāo xìng néng de code hái shì yǒu dài kàn yī kàn de
+
+Cuda的话它肯定是需要最高performance
+Cuda de huà tā kěn dìng shì xū yào zuì gāo performance
+
+它所有的很多code都是优化过的
+Tā suǒ yǒu de hěn duō code dōu shì yōu huà guò de
+
+Kernel都是优化过的
+Kernel dōu shì yōu huà guò de
+
+首先这是一个技术壁垒
+Shǒu xiān zhè shì yī gè jì shù bì lěi
+
+另外Cuda是不是还是唯一的护城河
+Lìng wài Cuda shì bù shì hái shì wéi yī de hù chéng hé
+
+还有很多full stack的护城河
+Hái yǒu hěn duō full stack de hù chéng hé
+
+变成AI基础设施以后
+Biàn chéng AI jī chǔ shè shī yǐ hòu
+
+它已经不再是一个芯片的问题了
+Tā yǐ jīng bù zài shì yī gè xīn piàn de wèn tí le
+
+所以我觉得从护城河上去看好像多了很多
+Suǒ yǐ wǒ jué de cóng hù chéng hé shàng qù kàn hǎo xiàng duō le hěn duō
+
+所以我觉得这个可能不再是那么一个最重要的问题了
+Suǒ yǐ wǒ jué de zhè gè kě néng bù zài shì nà me yī gè zuì zhòng yào de wèn tí le
+
+在Cuda这个角度能不能够reproduce Cuda
+Zài Cuda zhè gè jiǎo dù néng bù néng gòu reproduce Cuda
+
+我觉得好像这件事曾经说过
+Wǒ jué de hǎo xiàng zhè jiàn shì céng jīng shuō guò
+
+它都可以什么开源Cuda什么的
+Tā dōu kě yǐ shén me kāi yuán Cuda shén me de
+
+就曾经说过类似这样的话
+Jiù céng jīng shuō guò lèi sì zhè yàng de huà
+
+Cuda在Kernel level的mode
+Cuda zài Kernel level de mode
+
+我根据很多大厂的工程师的反馈
+Wǒ gēn jù hěn duō dà chǎng de gōng chéng shī de fǎn kuì
+
+其实越来越弱了
+Qí shí yuè lái yuè ruò le
+
+因为大家用AI写的基本上可以90%以上的跟手动优化差不多到这个程度
+Yīn wèi dà jiā yòng AI xiě de jī běn shàng kě yǐ 90% yǐ shàng de gēn shǒu dòng yōu huà chà bù duō dào zhè gè chéng dù
+
+但是呢因为英伟达已经变成了系统公司
+Dàn shì ne yīn wèi yīng wěi dá yǐ jīng biàn chéng le xì tǒng gōng sī
+
+然后系统公司里面有很多硬件的这些know how data这种类似的这些hardware knowledge
+Rán hòu xì tǒng gōng sī lǐ miàn yǒu hěn duō yìng jiàn de zhè xiē know how data zhè zhǒng lèi sì de zhè xiē hardware knowledge
+
+这些东西这些coding agent现在还没有
+Zhè xiē dōng xī zhè xiē coding agent xiàn zài hái méi yǒu
+
+这些东西它可以自己内部在消化去做自己的优化
+Zhè xiē dōng xī tā kě yǐ zì jǐ nèi bù zài xiāo huà qù zuò zì jǐ de yōu huà
+
+这一个层
+Zhè yī gè céng
+
+这也是我自己现在这家公司要做的一个事情
+Zhè yě shì wǒ zì jǐ xiàn zài zhè jiā gōng sī yào zuò de yī gè shì qíng
+
+就是我们是对数据中心或者是GPU或者AI芯片里面
+Jiù shì wǒ men shì duì shù jù zhōng xīn huò zhě shì GPU huò zhě AI xīn piàn lǐ miàn
+
+我们会加得很多的数据
+Wǒ men huì jiā dé hěn duō de shù jù
+
+那些数据变成了我们的壁垒
+Nà xiē shù jù biàn chéng le wǒ men de bì lěi
+
+我们用这个数据对整个AI infrastructure做仿真在做优化
+Wǒ men yòng zhè gè shù jù duì zhěng gè AI infrastructure zuò fǎng zhēn zài zuò yōu huà
+
+而且不做Kernel Level
+Ér qiě bù zuò Kernel Level
+
+偏middle layer
+Piān middle layer
+
+所以我现在有点担心
+Suǒ yǐ wǒ xiàn zài yǒu diǎn dān xīn
+
+因为我们公司也用coding agent
+Yīn wèi wǒ men gōng sī yě yòng coding agent
+
+就是说我们是自己有很多的know how
+Jiù shì shuō wǒ men shì zì jǐ yǒu hěn duō de know how
+
+所以我们会换着用
+Suǒ yǐ wǒ men huì huàn zhe yòng
+
+不要所有东西都给Anthropic或者Codex
+Bù yào suǒ yǒu dōng xī dōu gěi Anthropic huò zhě Codex
+
+还有有些数据你就在私有化能够部署做一些事情
+Hái yǒu yǒu xiē shù jù nǐ jiù zài sī yǒu huà néng gòu bù shǔ zuò yī xiē shì qíng
+
+其实大家都要有这种担心
+Qí shí dà jiā dōu yào yǒu zhè zhǒng dān xīn
+
+你的know how 你的knowledge
+Nǐ de know how, nǐ de knowledge
+
+其实它是一直在学的
+Qí shí tā shì yī zhí zài xué de
+
+这就是为什么其实你看很多gaming studio
+Zhè jiù shì wèi shén me qí shí nǐ kàn hěn duō gaming studio
+
+他们其实在用这种coding agent的时候就会非常非常小心
+Tā men qí shí zài yòng zhè zhǒng coding agent de shí hòu jiù huì fēi cháng fēi cháng xiǎo xīn
+
+因为这个是它核心的IP
+Yīn wèi zhè gè shì tā hé xīn de IP
+
+所以从这个角度上来讲的话就私有化部署非常的重要
+Suǒ yǐ cóng zhè gè jiǎo dù shàng lái jiǎng de huà jiù sī yǒu huà bù shǔ fēi cháng de zhòng yào
+
+所以刚才两位都说得很好
+Suǒ yǐ gāng cái liǎng wèi dōu shuō dé hěn hǎo
+
+Kuda它其实已经形成了一个全体系
+Kuda tā qí shí yǐ jīng xíng chéng le yī gè quán tǐ xì
+
+所以它的护城河还是在那边的
+Suǒ yǐ tā de hù chéng hé hái shì zài nà biān de
+
+当然也就像你提到的
+Dāng rán yě jiù xiàng nǐ tí dào de
+
+这个kernel kuda optimization它可能会现在好做一点
+Zhè gè kernel kuda optimization tā kě néng huì xiàn zài hǎo zuò yī diǎn
+
+但是其他的芯片厂商也一直在做类似kuda system
+Dàn shì qí tā de xīn piàn chǎng shāng yě yī zhí zài zuò lèi sì kuda system
+
+然后也做了好长时间
+Rán hòu yě zuò le hǎo cháng shí jiān
+
+还包括拉一些大的软件公司去合作
+Hái bāo kuò lā yī xiē dà de ruǎn jiàn gōng sī qù hé zuò
+
+但是你看到现在也没有做出来
+Dàn shì nǐ kàn dào xiàn zài yě méi yǒu zuò chū lái
+
+所以它也不是一个简单的一个软件层
+Suǒ yǐ tā yě bù shì yī gè jiǎn dān de yī gè ruǎn jiàn céng
+
+还有很重要一点就是kuda它也形成了一个开发者的一个族群
+Hái yǒu hěn zhòng yào yī diǎn jiù shì kuda tā yě xíng chéng le yī gè kāi fā zhě de yī gè zú qún
+
+它也是一个community
+Tā yě shì yī gè community
+
+所以这个community的凝聚力还有它的向心力
+Suǒ yǐ zhè gè community de níng jù lì hái yǒu tā de xiàng xīn lì
+
+包括它对于环境它的一个舒适度
+Bāo kuò tā duì yú huán jìng tā de yī gè shū shì dù
+
+也是它的一个小的护城河
+Yě shì tā de yī gè xiǎo de hù chéng hé
+
+这是为什么它在大规模的去做这种投入
+Zhè shì wèi shén me tā zài dà guī mó de qù zuò zhè zhǒng tóu rù
+
+对于像inception program去培育这么多的
+Duì yú xiàng inception program qù péi yù zhè me duō de
+
+不只是它现在这些大客户
+Bù zhǐ shì tā xiàn zài zhè xiē dà kè hù
+
+而说它未来的这些潜在的大客户
+Ér shuō tā wèi lái de zhè xiē qián zài de dà kè hù
+
+其实我跟谷歌的人也聊过这个问题
+Qí shí wǒ gēn gǔ gē de rén yě liáo guò zhè gè wèn tí
+
+他们自己的观点是说
+Tā men zì jǐ de guān diǎn shì shuō
+
+可以有一部分coding agent的可以帮忙
+Kě yǐ yǒu yī bù fèn coding agent de kě yǐ bāng máng
+
+但是呢从底层上你还是不敢把你底层的这个权限交出去
+Dàn shì ne cóng dǐ céng shàng nǐ hái shì bù gǎn bǎ nǐ dǐ céng de zhè gè quán xiàn jiāo chū qù
+
+好 那谢谢
+Hǎo, nà xiè xiè
+
+谢谢路 谢谢志斌 谢谢Mark
+Xiè xiè lù, xiè xiè zhì bīn, xiè xiè Mark
+
+好的 刚刚我们的几位嘉宾从芯片设计 投资 供应链的角度
+Hǎo de, gāng gāng wǒ men de jǐ wèi jiā bīn cóng xīn piàn shè jì, tóu zī, gōng yìng liàn de jiǎo dù
+
+把英伟达的这次GTC发布拆解了一遍
+Bǎ yīng wěi dá de zhè cì GTC fā bù chāi jiě le yī biàn
+
+那黄仁勋说的万亿帝国
+Nà huáng rén xūn shuō de wàn yì dì guó
+
+最终呢是要落在一个个真实的数据中心里
+Zuì zhōng ne shì yào luò zài yī gè gè zhēn shí de shù jù zhōng xīn lǐ
+
+所以接下来我想把一位真正在建数据中心的人请到我们的对话中来
+Suǒ yǐ jiē xià lái wǒ xiǎng bǎ yī wèi zhēn zhèng zài jiàn shù jù zhōng xīn de rén qǐng dào wǒ men de duì huà zhōng lái
+
+他是Alex 是GMI Cloud的创始人
+Tā shì Alex, shì GMI Cloud de chuàng shǐ rén
+
+他们做的事情就是给全球的AI公司提供GPU算力
+Tā men zuò de shì qíng jiù shì gěi quán qiú de AI gōng sī tí gōng GPU suàn lì
+
+所以他每天会直接面临很多需求端的真实信号
+Suǒ yǐ tā měi tiān huì zhí jiē miàn lín hěn duō xū qiú duān de zhēn shí xìn hào
+
+那接下来我们再次进入到我们的线下会场
+Nà jiē xià lái wǒ men zài cì jìn rù dào wǒ men de xiàn xià huì chǎng
+
+以下是我与Alex的对话
+Yǐ xià shì wǒ yǔ Alex de duì huà
+
+我们刚刚一直在讨论老黄说的今年它是两款的芯片组合
+Wǒ men gāng gāng yī zhí zài tǎo lùn lǎo huáng shuō de jīn nián tā shì liǎng kuǎn de xīn piàn zǔ hé
+
+它要到2027年总共的销量会达到1万亿
+Tā yào dào 2027 nián zǒng gòng de xiāo shòu liàng huì dá dào 1 wàn yì
+
+所有人呢都觉得这个数字听起来非常夸张
+Suǒ yǒu rén ne dōu jué de zhè gè shù zì tīng qǐ lái fēi cháng kuā zhāng
+
+但是呢我们顺着这个推理它也是有可能的
+Dàn shì ne wǒ men shùn zhe zhè gè tuī lǐ tā yě shì yǒu kě néng de
+
+因为作为数据中心我觉得你的感官是最直接的
+Yīn wèi zuò wéi shù jù zhōng xīn wǒ jué de nǐ de gǎn guān shì zuì zhí jiē de
+
+可不可以跟我们分享一下
+Kě bù kě yǐ gēn wǒ men fēn xiǎng yī xià
+
+今年你对大家铺设GPU包括数据中心它的速度的感知是怎么样的
+Jīn nián nǐ duì dà jiā pū shè GPU bāo kuò shù jù zhōng xīn tā de sù dù de gǎn zhī shì zěn me yàng de
+
+我觉得对于数据中心的铺设事实上是非常快的
+Wǒ jué de duì yú shù jù zhōng xīn de pū shè shì shí shàng shì fēi cháng kuài de
+
+可是最终的Bottleneck事实上还是卡在Line & Power
+Kě shì zuì zhōng de Bottleneck shì shí shàng hái shì kǎ zài Line & Power
+
+现在的整个发展
+Xiàn zài de zhěng gè fā zhǎn
+
+美国的The Grid已经是Bone Dry
+Měi guó de The Grid yǐ jīng shì Bone Dry
+
+没有任何的东西
+Méi yǒu rèn hé de dōng xī
+
+那你是不可能是拿到10兆啊以上的电
+Nà nǐ shì bù kě néng shì ná dào 10 zhào a yǐ shàng de diàn
+
+那现在90%新的Data Center建设都是Behind the Meter
+Nà xiàn zài 90% xīn de Data Center jiàn shè dōu shì Behind the Meter
+
+就是意思就是On Site
+Jiù shì yì si jiù shì On Site
+
+都是用Gas Gen的方式
+Dōu shì yòng Gas Gen de fāng shì
+
+就是说我哪里有气管
+Jiù shì shuō wǒ nǎ lǐ yǒu qì guǎn
+
+我直接扩大直接放天然气的Gas Gen放在上面直接燃烧
+Wǒ zhí jiē kuò dà zhí jiē fàng tiān rán qì de Gas Gen fàng zài shàng miàn zhí jiē rán shāo
+
+直接在旧地去盖这个数据中心
+Zhí jiē zài jiù dì qù gài zhè gè shù jù zhōng xīn
+
+事实上现在也就是所有的Data Center开发
+Shì shí shàng xiàn zài yě jiù shì suǒ yǒu de Data Center kāi fā
+
+基本上都是找一些旧的Brownfield的地产吧
+Jī běn shàng dōu shì zhǎo yī xiē jiù de Brownfield de dì chǎn ba
+
+直接去改建成新的数据中心
+Zhí jiē qù gǎi jiàn chéng xīn de shù jù zhōng xīn
+
+过去的用钢筋水泥这样子盖也不存在了
+Guò qù de yòng gāng jīn shuǐ ní zhè yàng zi gài yě bù cún zài le
+
+以前Hyperscaler可能还是有抗拒
+Yǐ qián Hyperscaler kě néng hái shì yǒu kàng jù
+
+基本上这几个Q基本上都没有人在乎了
+Jī běn shàng zhè jǐ gè Q jī běn shàng dōu méi yǒu rén zài hū le
+
+全部都是用container的方式来做
+Quán bù dōu shì yòng container de fāng shì lái zuò
+
+直接送40次海运柜
+Zhí jiē sòng 40 cì hǎi yùn guì
+
+里面就是Pre-RAC, CTU
+Lǐ miàn jiù shì Pre-RAC, CTU
+
+所有的Fiber加HVAC加UPS全部都一起上
+Suǒ yǒu de Fiber jiā HVAC jiā UPS quán bù dōu yī qǐ shàng
+
+过去至少我们都是以几百兆瓦和几个G瓦的方式在建
+Guò qù zhì shǎo wǒ men dōu shì yǐ jǐ bǎi zhào wǎ hé jǐ gè G wǎ de fāng shì zài jiàn
+
+一个天然气发电厂的Average Size通常是差不多300到500的MW
+Yī gè tiān rán qì fā diàn chǎng de Average Size tōng cháng shì chà bù duō 300 dào 500 de MW
+
+一个Nuclear Power Plant差不多是两个GW到四个GW
+Yī gè Nuclear Power Plant chà bù duō shì liǎng gè GW dào sì gè GW
+
+事实上还蛮不够的
+Shì shí shàng hái mán bù gòu de
+
+基本上现在美国的大厂和中国大厂都是开始包核能发电厂
+Jī běn shàng xiàn zài měi guó de dà chǎng hé zhōng guó dà chǎng dōu shì kāi shǐ bāo hé néng fā diàn chǎng
+
+也说你也别卖一个Grid了
+Yě shuō nǐ yě bié mài yī gè Grid le
+
+你全部给我
+Nǐ quán bù gěi wǒ
+
+我全部就地直接做一个Substation降电直接盖
+Wǒ quán bù jiù dì zhí jiē zuò yī gè Substation jiàng diàn zhí jiē gài
+
+回答你的问题
+Huí dá nǐ de wèn tí
+
+要达到一万亿美元的营收的话
+Yào dá dào yī wàn yì měi yuán de yíng shōu de huà
+
+最终就是看你到底能多快的时间能把整个Data Center建起来
+Zuì zhōng jiù shì kàn nǐ dào dǐ néng duō kuài de shí jiān néng bǎ zhěng gè Data Center jiàn qǐ lái
+
+所以现在其实大家是在比拼建Data Center的速度
+Suǒ yǐ xiàn zài qí shí dà jiā shì zài bǐ pīn jiàn Data Center de sù dù
+
+你刚刚提到了现在建数据中心最缺的是电
+Nǐ gāng gāng tí dào le xiàn zài jiàn shù jù zhōng xīn zuì quē de shì diàn
+
+你觉得它是缺哪一部分呢
+Nǐ jué de tā shì quē nǎ yī bù fèn ne
+
+它是整个供应链的短缺
+Tā shì zhěng gè gōng yìng liàn de duǎn quē
+
+比如说涡轮发电机的短缺
+Bǐ rú shuō wō lún fā diàn jī de duǎn quē
+
+变电器的短缺
+Biàn diàn qì de duǎn quē
+
+还是它是已经有了电
+Hái shì tā shì yǐ jīng yǒu le diàn
+
+但是它要并入电网让这部分电不是居民用电
+Dàn shì tā yào bìng rù diàn wǎng ràng zhè bù fèn diàn bù shì jū mín yòng diàn
+
+它作为工业用电跟数据中心的用电
+Tā zuò wéi gōng yè yòng diàn gēn shù jù zhōng xīn de yòng diàn
+
+它是卡在哪个环节上了
+Tā shì kǎ zài nǎ gè huán jié shàng le
+
+我觉得是multiparts的一个比较complex的situation吧
+Wǒ jué de shì multiparts de yī gè bǐ jiào complex de situation ba
+
+那美国事实上是不缺电
+Nà měi guó shì shí shàng shì bù quē diàn
+
+美国是有很多的transmission power
+Měi guó shì yǒu hěn duō de transmission power
+
+在高压电上面都是有330kV的电
+Zài gāo yā diàn shàng miàn dōu shì yǒu 330kV de diàn
+
+重点是distribution
+Zhòng diǎn shì distribution
+
+就是说到可用电
+Jiù shì shuō dào kě yòng diàn
+
+过去是400V嘛
+Guò qù shì 400V ma
+
+那现在是800V
+Nà xiàn zài shì 800V
+
+重点是要到这个情况基本上还是被regulation绑住吧
+Zhòng diǎn shì yào dào zhè gè qíng kuàng jī běn shàng hái shì bèi regulation bǎng zhù ba
+
+因为你要建一个变电站
+Yīn wèi nǐ yào jiàn yī gè biàn diàn zhàn
+
+你影响到可能是以整个德州的grid的这个stability
+Nǐ yǐng xiǎng dào kě néng shì yǐ zhěng gè dé zhōu de grid de zhè gè stability
+
+所以当然是要做比较多的study
+Suǒ yǐ dāng rán shì yào zuò bǐ jiào duō de study
+
+美国的grid事实上就是它是老旧的
+Měi guó de grid shì shí shàng jiù shì tā shì lǎo jiù de
+
+就是油和油的人
+Jiù shì yóu hé yóu de rén
+
+那他们不是tech guys
+Nà tā men bù shì tech guys
+
+他们动作事实上是没有在硅谷这么快的
+Tā men dòng zuò shì shí shàng shì méi yǒu zài guī gǔ zhè me kuài de
+
+所以基本上都被卡住
+Suǒ yǐ jī běn shàng dōu bèi kǎ zhù
+
+所以现在他们才转而是说好啦你慢慢搞吧
+Suǒ yǐ xiàn zài tā men cái zhuǎn ér shì shuō hǎo la nǐ màn màn gǎo ba
+
+我现在就直接就是用柴油发电机或者天然气机组直接先上
+Wǒ xiàn zài jiù zhí jiē jiù shì yòng chái yóu fā diàn jī huò zhě tiān rán qì jī zǔ zhí jiē xiān shàng
+
+对那刚刚我们讲到了基础设施层面
+Duì, nà gāng gāng wǒ men jiǎng dào le jī chǔ shè shī céng miàn
+
+因为其实你们一端是基础设施一端是用户
+Yīn wèi qí shí nǐ men yī duān shì jī chǔ shè shī yī duān shì yòng hù
+
+从你的感知上来说
+Cóng nǐ de gǎn zhī shàng lái shuō
+
+今年用户在企业他在享用这个GPU Cloud的时候
+Jīn nián yòng hù zài qǐ yè tā zài xiǎng yòng zhè gè GPU Cloud de shí hòu
+
+以哪一类企业增长最迅速
+Yǐ nǎ yī lèi qǐ yè zēng zhǎng zuì xùn sù
+
+我觉得分成两块吧
+Wǒ jué de fēn chéng liǎng kuài ba
+
+一个是Enterprise和Hyperscaler
+Yī gè shì Enterprise hé Hyperscaler
+
+Hyperscaler事实上就是一个他们自己有可能是不知道几个percent的是在做自己的大模型开发
+Hyperscaler shì shí shàng jiù shì yī gè tā men zì jǐ yǒu kě néng shì bù zhī dào jǐ gè percent de shì zài zuò zì jǐ de dà mó xíng kāi fā
+
+一部分是卖给不同的客户
+Yī bù fèn shì mài gěi bù tóng de kè hù
+
+不同客户分出来基本上就是Enterprise
+Bù tóng kè hù fēn chū lái jī běn shàng jiù shì Enterprise
+
+那Enterprise有分三种吧
+Nà Enterprise yǒu fēn sān zhǒng ba
+
+一个是做不同的大模型的training 就是pre-training或是post-training
+Yī gè shì zuò bù tóng de dà mó xíng de training, jiù shì pre-training huò shì post-training
+
+第二个的话就是Gen AI以multimedia的这块在增长
+Dì èr gè de huà jiù shì Gen AI yǐ multimedia de zhè kuài zài zēng zhǎng
+
+第三个就是AI coding的增速
+Dì sān gè jiù shì AI coding de zēng sù
+
+那还有第四块事实上我们也才刚开始
+Nà hái yǒu dì sì kuài shì shí shàng wǒ men yě cái gāng kāi shǐ
+
+就是整个Open Cloud真正的Agentic的这个落地
+Jiù shì zhěng gè Open Cloud zhēn zhèng de Agentic de zhè gè luò dì
+
+那是才起苗头
+Nà shì cái qǐ miáo tóu
+
+可是发展速度非常快
+Kě shì fā zhǎn sù dù fēi cháng kuài
+
+我觉得中国已经有意识到这个东西
+Wǒ jué de zhōng guó yǐ jīng yǒu yì shí dào zhè gè dōng xī
+
+可是在美国可能还没有中国这么快
+Kě shì zài měi guó kě néng hái méi yǒu zhōng guó zhè me kuài
+
+我记得今年老黄在他的Open Source的Panel上
+Wǒ jì de jīn nián lǎo huáng zài tā de Open Source de Panel shàng
+
+他说中国已经开始赛龙虾了
+Tā shuō zhōng guó yǐ jīng kāi shǐ sài lóng xiā le
+
+就美国的速度就还没有中国在Open Cloud这件事情上这么疯狂
+Jiù měi guó de sù dù jiù hái méi yǒu zhōng guó zài Open Cloud zhè jiàn shì qíng shàng zhè me fēng kuáng
+
+那从你们的体感上来说啊
+Nà cóng nǐ men de tǐ gǎn shàng lái shuō a
+
+因为其实一旦接入龙虾以后
+Yīn wèi qí shí yī dàn jiē rù lóng xiā yǐ hòu
+
+他们烧token量
+Tā men shāo token liàng
+
+它的消耗速度比传统的Agent或者比我们刚刚说到的这种Coding Agent
+Tā de xiāo hào sù dù bǐ chuán tǒng de Agent huò zhě bǐ wǒ men gāng gāng shuō dào de zhè zhǒng Coding Agent
+
+它的量对比你会有一个直观的感受吗
+Tā de liàng duì bǐ nǐ huì yǒu yī gè zhí guān de gǎn shòu ma
+
+我觉得我现在还是蛮难估的吧
+Wǒ jué de wǒ xiàn zài hái shì mán nán gū de ba
+
+我可以做一个比较简单的预判吧
+Wǒ kě yǐ zuò yī gè bǐ jiào jiǎn dān de yù pàn ba
+
+History doesn't repeat but that definitely rhymes
+History doesn't repeat but that definitely rhymes
+
+过去的数据中心事实上也是从个人的或是企业内部的server开始的
+Guò qù de shù jù zhōng xīn shì shí shàng yě shì cóng gè rén de huò shì qǐ yè nèi bù de server kāi shǐ de
+
+现在是拿Mac mini或是拿DGX Sparks来玩
+Xiàn zài shì ná Mac mini huò shì ná DGX Sparks lái wán
+
+可是还是属于early adopter中的early adopter
+Kě shì hái shì shǔ yú early adopter zhōng de early adopter
+
+你要会去使用这个东西
+Nǐ yào huì qù shǐ yòng zhè gè dōng xī
+
+最后企业的话肯定不会给你每个人发一台Mac mini
+Zuì hòu qǐ yè de huà kěn dìng bù huì gěi nǐ měi gè rén fā yī tái Mac mini
+
+肯定就是公司内部的一台server这个机会去搞
+Kěn dìng jiù shì gōng sī nèi bù de yī tái server zhè gè jī huì qù gǎo
+
+这东西是very unscalable 不可能的
+Zhè dōng xī shì very unscalable, bù kě néng de
+
+最后全部上云的
+Zuì hòu quán bù shàng yún de
+
+互联网大家也看得出来
+Hù lián wǎng dà jiā yě kàn dé chū lái
+
+Privacy is overrated to be honest like no one true users consumers they don't really care
+Privacy is overrated to be honest like no one true users consumers they don't really care
+
+就是想要有方便性
+Jiù shì xiǎng yào yǒu fāng biàn xìng
+
+那龙虾现在还是developer居多
+Nà lóng xiā xiàn zài hái shì developer jū duō
+
+Again I think it's not even 1%的user能去使用
+Again I think it's not even 1% de user néng qù shǐ yòng
+
+那到最后的话I'm pretty sure I've seen a lot of companies in the last couple weeks and months
+Nà dào zuì hòu de huà I'm pretty sure I've seen a lot of companies in the last couple weeks and months
+
+已经有很多的agent公司推出一个user-friendly UI
+Yǐ jīng yǒu hěn duō de agent gōng sī tuī chū yī gè user-friendly UI
+
+UI做得非常好的一键部署的
+UI zuò dé fēi cháng hǎo de yī jiàn bù shǔ de
+
+那这种东西最后绝对都是用云服务的方式来做
+Nà zhè zhǒng dōng xī zuì hòu jué duì dōu shì yòng yún fú wù de fāng shì lái zuò
+
+所以I think for someone that's very technical very care about privacy
+Suǒ yǐ I think for someone that's very technical very care about privacy
+
+可能你会有自己一台主机
+Kě néng nǐ huì yǒu zì jǐ yī tái zhǔ jī
+
+我相信大部分的使用者还是会去上云的方式
+Wǒ xiāng xìn dà bù fèn de shǐ yòng zhě hái shì huì qù shàng yún de fāng shì
+
+And that revolution hasn't started
+And that revolution hasn't started
+
+因为现在做这些cloud-based solution的这些公司可能还在种子轮
+Yīn wèi xiàn zài zuò zhè xiē cloud-based solution de zhè xiē gōng sī kě néng hái zài zhǒng zǐ lún
+
+Right not even series A
+Right not even series A
+
+所以他们可能还是需要差不多一年两年内
+Suǒ yǐ tā men kě néng hái shì xū yào chà bù duō yī nián liǎng nián nèi
+
+我觉得会有一个更大的爆发
+Wǒ jué de huì yǒu yī gè gèng dà de bào fā
+
+And it's not even here yet
+And it's not even here yet
+
+那我们已经有multimedia的发展非常可怕
+Nà wǒ men yǐ jīng yǒu multimedia de fā zhǎn fēi cháng kě pà
+
+大家可能也在期待什么seedance啊这些东西
+Dà jiā kě néng yě zài qī dài shén me seedance a zhè xiē dōng xī
+
+It's gonna be bananas
+It's gonna be bananas
+
+那多模态是不是也是一个挺好token的量
+Nà duō mó tài shì bù shì yě shì yī gè tǐng hǎo token de liàng
+
+但是它起来了吗
+Dàn shì tā qǐ lái le ma
+
+你觉得今年开始大量的消耗这种token了吗
+Nǐ jué de jīn nián kāi shǐ dà liàng de xiāo hào zhè zhǒng token le ma
+
+在抖音小红书或是在instagram reel上面可能看到已经有很多的AI的短剧
+Zài dǒu yīn xiǎo hóng shū huò shì zài instagram reel shàng miàn kě néng kàn dào yǐ jīng yǒu hěn duō de AI de duǎn jù
+
+短剧在国内已经很火了
+Duǎn jù zài guó nèi yǐ jīng hěn huǒ le
+
+现在美国才开始做短剧这个东西
+Xiàn zài měi guó cái kāi shǐ zuò duǎn jù zhè gè dōng xī
+
+中国还是比较有优势吧
+Zhōng guó hái shì bǐ jiào yǒu yōu shì ba
+
+那知道美国也是消耗token量都是非常可怕的
+Nà zhī dào měi guó yě shì xiāo hào token liàng dōu shì fēi cháng kě pà de
+
+对那从你今年的观察来看
+Duì, nà cóng nǐ jīn nián de guān chá lái kàn
+
+就你觉得在整个GTC的发布中
+Jiù nǐ jué de zài zhěng gè GTC de fā bù zhōng
+
+你自己印象最深的一个产品
+Nǐ zì jǐ yìn xiàng zuì shēn de yī gè chǎn pǐn
+
+或者说跟你的业务直接相关的一个产品是什么
+Huò zhě shuō gēn nǐ de yè wù zhí jiē xiāng guān de yī gè chǎn pǐn shì shén me
+
+跟我业务最相关可能就是Vera Rubin
+Gēn wǒ yè wù zuì xiāng guān kě néng jiù shì Vera Rubin
+
+Vera Rubin Ultra吧
+Vera Rubin Ultra ba
+
+不只是老黄自己讲的
+Bù zhǐ shì lǎo huáng zì jǐ jiǎng de
+
+就是说有很多的其他的供应链吧
+Jiù shì shuō yǒu hěn duō de qí tā de gōng yìng liàn ba
+
+所做出的一些因为求速度而而的改变
+Suǒ zuò chū de yī xiē yīn wèi qiú sù dù ér ér de gǎi biàn
+
+像是整个data center还有racking and stacking的modular solution
+Xiàng shì zhěng gè data center hái yǒu racking and stacking de modular solution
+
+越来越多
+Yuè lái yuè duō
+
+而且会越来越频繁
+Ér qiě huì yuè lái yuè pín fán
+
+从土地concrete有电concrete再到数据中心的白地板架高架什么的
+Cóng tǔ dì concrete yǒu diàn concrete zài dào shù jù zhōng xīn de bái dì bǎn jià gāo jià shén me de
+
+水电Fiber差不多四个月的时间
+Shuǐ diàn Fiber chà bù duō sì gè yuè de shí jiān
+
+那你从白地板再到rackspace把server塞进去
+Nà nǐ cóng bái dì bǎn zài dào rackspace bǎ server sāi jìn qù
+
+再需要dependent多大
+Zài xū yào dependent duō dà
+
+两个月到四个月的时间
+Liǎng gè yuè dào sì gè yuè de shí jiān
+
+dependent on the time
+dependent on the time
+
+现在事实上就有直接模组化的solution
+Xiàn zài shì shí shàng jiù yǒu zhí jiē mó zǔ huà de solution
+
+一上来就是container都是架好所有的线路
+Yī shàng lái jiù shì container dōu shì jià hǎo suǒ yǒu de xiàn lù
+
+那这种速度就会再加速
+Nà zhè zhǒng sù dù jiù huì zài jiā sù
+
+所以就从过去的可能是18个月到20个月的lead time
+Suǒ yǐ jiù cóng guò qù de kě néng shì 18 gè yuè dào 20 gè yuè de lead time
+
+从greenfield到serving可能现在可以压缩到六个月到九个月的时间
+Cóng greenfield dào serving kě néng xiàn zài kě yǐ yā suō dào liù gè yuè dào jiǔ gè yuè de shí jiān
+
+这是不是他说的那个AI工厂的概念
+Zhè shì bù shì tā shuō de nà gè AI gōng chǎng de gài niàn
+
+它其实是从以前是比如说卖GPU到卖一组一组的GPU
+Tā qí shí shì cóng yǐ qián shì bǐ rú shuō mài GPU dào mài yī zǔ yī zǔ de GPU
+
+现在已经开始就是卖AI工厂
+Xiàn zài yǐ jīng kāi shǐ jiù shì mài AI gōng chǎng
+
+它相当于全套各种打包好给你做更多的设计方案
+Tā xiāng dāng yú quán tào gè zhǒng dǎ bāo hǎo gěi nǐ zuò gèng duō de shè jì fāng àn
+
+然后让大家可以加速落地
+Rán hòu ràng dà jiā kě yǐ jiā sù luò dì
+
+对因为scaling也起来了
+Duì yīn wèi scaling yě qǐ lái le
+
+那I think NVIDIA就是有设了很好的这个目标
+Nà I think NVIDIA jiù shì yǒu shè le hěn hǎo de zhè gè mù biāo
+
+它每年的更新都会提早去跟供应链去沟通
+Tā měi nián de gēng xīn dōu huì tí zǎo qù gēn gōng yìng liàn qù gōu tōng
+
+所以供应链也是跟着NVIDIA的guidance往前走的
+Suǒ yǐ gōng yìng liàn yě shì gēn zhe NVIDIA de guidance wǎng qián zǒu de
+
+所以节奏速度会继续加快
+Suǒ yǐ jié zòu sù dù huì jì xù jiā kuài
+
+那你怎么看老黄他说
+Nà nǐ zěn me kàn lǎo huáng tā shuō
+
+过去两年整个推理计算增长量是增加了一万倍的
+Guò qù liǎng nián zhěng gè tuī lǐ jì suàn zēng zhǎng liàng shì zēng jiā le yī wàn bèi de
+
+它的使用量是增加了一百倍
+Tā de shǐ yòng liàng shì zēng jiā le yī bǎi bèi
+
+所以过去两年它的计算需求是增加了一百万倍的
+Suǒ yǐ guò qù liǎng nián tā de jì suàn xū qiú shì zēng jiā le yī bǎi wàn bèi de
+
+从推理来看
+Cóng tuī lǐ lái kàn
+
+你觉得现在的推理在中美两边它的发展是怎么样的
+Nǐ jué de xiàn zài de tuī lǐ zài zhōng měi liǎng biān tā de fā zhǎn shì zěn me yàng de
+
+我们的一个集群基本上都有三到四家超大型的公司
+Wǒ men de yī gè jí qún jī běn shàng dōu yǒu sān dào sì jiā chāo dà xíng de gōng sī
+
+在抢同一个集群
+Zài qiǎng tóng yī gè jí qún
+
+大陆的话就是养龙虾还有coding agent这块速度发展非常快
+Dà lù de huà jiù shì yǎng lóng xiā hái yǒu coding agent zhè kuài sù dù fā zhǎn fēi cháng kuài
+
+基本上所有的大模型公司像是Kimi GLM等等
+Jī běn shàng suǒ yǒu de dà mó xíng gōng sī xiàng shì Kimi, GLM děng děng
+
+他们现在主要的营收也都是min token开始起来
+Tā men xiàn zài zhǔ yào de yíng shōu yě dōu shì min token kāi shǐ qǐ lái
+
+美国的话主要也是两个吧
+Měi guó de huà zhǔ yào yě shì liǎng gè ba
+
+一样是AI coding还有多模态的video models
+Yī yàng shì AI coding hái yǒu duō mó tài de video models
+
+中国这边的话主要也是coding还有agent
+Zhōng guó zhè biān de huà zhǔ yào yě shì coding hái yǒu agent
+
+就是龙虾的agent
+Jiù shì lóng xiā de agent
+
+这样子
+Zhè yàng zi
+
+coding现在用的是哪一块的芯片啊
+coding xiàn zài yòng de shì nǎ yī kuài de xīn piàn a
+
+因为今年就是老黄他是在那个会场说
+Yīn wèi jīn nián jiù shì lǎo huáng tā shì zài nà gè huì chǎng shuō
+
+建议未来会把那个25%留给做推理
+Jiàn yì wèi lái huì bǎ nà gè 25% liú gěi zuò tuī lǐ
+
+因为你其实训练跟推理
+Yīn wèi nǐ qí shí xùn liàn gēn tuī lǐ
+
+就是你同时要求高吞吐跟低延迟
+Jiù shì nǐ tóng shí yāo qiú gāo tūn tǔ gēn dī yán chí
+
+它其实是两个完全不一样的方向
+Tā qí shí shì liǎng gè wán quán bù yī yàng de fāng xiàng
+
+所以以后大家在配置数据中心的时候
+Suǒ yǐ yǐ hòu dà jiā zài pèi zhì shù jù zhōng xīn de shí hòu
+
+它可能也是完全不一样的方向
+Tā kě néng yě shì wán quán bù yī yàng de fāng xiàng
+
+芯片的话基本上大厂都会习惯用算推一体啦
+Xīn piàn de huà jī běn shàng dà chǎng dōu huì xí guàn yòng suàn tuī yī tǐ la
+
+就只要做好比较好的load balancing和scheduling的话就好了
+Jiù zhǐ yào zuò hǎo bǐ jiào hǎo de load balancing hé scheduling de huà jiù hǎo le
+
+主要还是以N卡居多
+Zhǔ yào hái shì yǐ N kǎ jū duō
+
+因为in terms of就是company它做budget planning的时候
+Yīn wèi in terms of jiù shì company tā zuò budget planning de shí hòu
+
+如果说它一个厂是做training一个厂是做inferencing的话
+Rú guǒ shuō tā yī gè chǎng shì zuò training yī gè chǎng shì zuò inferencing de huà
+
+你要花两次钱
+Nǐ yào huā liǎng cì qián
+
+就算是AMD的卡或是其他的卡
+Jiù suàn shì AMD de kǎ huò shì qí tā de kǎ
+
+那为什么它不能把inference和训练的东西混在一起做
+Nà wèi shén me tā bù néng bǎ inference hé xùn liàn de dōng xī hùn zài yī qǐ zuò
+
+市场上主要是以NVIDIA的卡居多啦
+Shì chǎng shàng zhǔ yào shì yǐ NVIDIA de kǎ jū duō la
+
+coding的话主要就是cloud code obviously is the number one
+coding de huà zhǔ yào jiù shì cloud code obviously is the number one
+
+那我看GLM5 KIMI 2.5事实上都是非常popular的open source solutions
+Nà wǒ kàn GLM5, KIMI 2.5 shì shí shàng dōu shì fēi cháng popular de open source solutions
+
+来做一个算是平替吧
+Lái zuò yī gè suàn shì píng tì ba
+
+从你们现在的感知来看
+Cóng nǐ men xiàn zài de gǎn zhī lái kàn
+
+你觉得现在市场上NVIDIA它的哪些产品是处在一个比较紧缺的状态中
+Nǐ jué de xiàn zài shì chǎng shàng NVIDIA tā de nǎ xiē chǎn pǐn shì chǔ zài yī gè bǐ jiào jǐn quē de zhuàng tài zhōng
+
+还是整个的它的芯片的供应都是ok的
+Hái shì zhěng gè de tā de xīn piàn de gōng yìng dōu shì ok de
+
+产能上我觉得power这个当然是一个huge issue
+Chǎn néng shàng wǒ jué de power zhè gè dāng rán shì yī gè huge issue
+
+可是就是有不同的bottleneck嘛
+Kě shì jiù shì yǒu bù tóng de bottleneck ma
+
+因为我们事实上是有做component能力的公司
+Yīn wèi wǒ men shì shí shàng shì yǒu zuò component néng lì de gōng sī
+
+事实上就是中美两个的hyperscaler就那七家吧
+Shì shí shàng jiù shì zhōng měi liǎng gè de hyperscaler jiù nà qī jiā ba
+
+另外一个Neo Cloud可能就是Nebius
+Lìng wài yī gè Neo Cloud kě néng jiù shì Nebius
+
+有这个component的能力
+Yǒu zhè gè component de néng lì
+
+它不是直接买off the shelf product像是什么Dell gear这种Supermicro gear
+Tā bù shì zhí jiē mǎi off the shelf product xiàng shì shén me Dell gear zhè zhǒng Supermicro gear
+
+那我们事实上也是另外一家Neo Cloud have this capabilities
+Nà wǒ men shì shí shàng yě shì lìng wài yī jiā Neo Cloud have this capabilities
+
+我们是直接去跟这个ODM直接下单去订每一个指定供货商或是指定代理商
+Wǒ men shì zhí jiē qù gēn zhè gè ODM zhí jiē xià dān qù dìng měi yī gè zhǐ dìng gōng huò shāng huò shì zhǐ dìng dài lǐ shāng
+
+那我们对这个东西也是非常敏感
+Nà wǒ men duì zhè gè dōng xī yě shì fēi cháng mǐn gǎn
+
+我们也是做forward projection就是锁定2027的所有的capacity
+Wǒ men yě shì zuò forward projection jiù shì suǒ dìng 2027 de suǒ yǒu de capacity
+
+至少我们能确定是说我们的capacity是有可是价格无法确定
+Zhì shǎo wǒ men néng què dìng shì shuō wǒ men de capacity shì yǒu kě shì jià gé wú fǎ què dìng
+
+现在的话就是从Obviously everyone already knows memory is kind of crazy
+Xiàn zài de huà jiù shì cóng Obviously everyone already knows memory is kind of crazy
+
+去年到现在的话已经涨100到200%了
+Qù nián dào xiàn zài de huà yǐ jīng zhǎng 100 dào 200% le
+
+DDR4
+DDR4
+
+现在的话CX7转到Bluefield
+Xiàn zài de huà CX7 zhuǎn dào Bluefield
+
+事实上也都是NVIDIA的Solution
+Shì shí shàng yě dōu shì NVIDIA de Solution
+
+Lead Time也在不断的拉长
+Lead Time yě zài bù duàn de lā cháng
+
+Overall在Memory以及还有事实上是因为HBM压缩到了其他的像是DDR就开始缺
+Overall zài Memory yǐ jí hái yǒu shì shí shàng shì yīn wèi HBM yā suō dào le qí tā de xiàng shì DDR jiù kāi shǐ quē
+
+然后现在SSD也开始缺
+Rán hòu xiàn zài SSD yě kāi shǐ quē
+
+我们预估至少跟供应链的沟通的话
+Wǒ men yù gū zhì shǎo gēn gōng yìng liàn de gōu tōng de huà
+
+他们是到27年底吧都不会有好转的迹象
+Tā men shì dào 27 nián dǐ ba dōu bù huì yǒu hǎo zhuǎn de jì xiàng
+
+CX7 Switch gear也在缺
+CX7 Switch gear yě zài quē
+
+现在开始亮黄灯和亮红灯的就是连Intel的CPU也开始缺货
+Xiàn zài kāi shǐ liàng huáng dēng hé liàng hóng dēng de jiù shì lián Intel de CPU yě kāi shǐ quē huò
+
+不只是这个东西还有到CDU就水冷的方案也都是开始缺货的中央
+Bù zhǐ shì zhè gè dōng xī hái yǒu dào CDU jiù shuǐ lěng de fāng àn yě dōu shì kāi shǐ quē huò de zhōng yāng
+
+感觉这些东西在二级市场上都是财富密码
+Gǎn jué zhè xiē dōng xī zài èr jí shì chǎng shàng dōu shì cái fù mì mǎ
+
+对因为我看像英伟达他的财报
+Duì yīn wèi wǒ kàn xiàng yīng wěi dá tā de cái bào
+
+他们其实是有50%的收入是来自于这个市场前五大的云厂商的
+Tā men qí shí shì yǒu 50% de shōu rù shì lái zì yú zhè gè shì chǎng qián wǔ dà de yún chǎng shāng de
+
+其实你们也是做GPU云的
+Qí shí nǐ men yě shì zuò GPU yún de
+
+然后我知道你们也是英伟达的官方合作伙伴
+Rán hòu wǒ zhī dào nǐ men yě shì yīng wěi dá de guān fāng hé zuò huǒ bàn
+
+就是你觉得运营一个GPU的云最核心的能力是什么
+Jiù shì nǐ jué de yùn yíng yī gè GPU de yún zuì hé xīn de néng lì shì shén me
+
+我觉得是Depends on who I am talking to
+Wǒ jué de shì Depends on who I am talking to
+
+就是说对于新创的话Number one就是你要先有
+Jiù shì shuō duì yú xīn chuàng de huà Number one jiù shì nǐ yào xiān yǒu
+
+这是最重要的事情
+Zhè shì zuì zhòng yào de shì qíng
+
+就是有卡
+Jiù shì yǒu kǎ
+
+就是上线
+Jiù shì shàng xiàn
+
+接下来就是说你要做得非常稳定
+Jiē xià lái jiù shì shuō nǐ yào zuò dé fēi cháng wěn dìng
+
+这个稳定呢事实上是一个operational intensive的problem
+Zhè gè wěn dìng ne shì shí shàng shì yī gè operational intensive de problem
+
+供应链要很强
+Gōng yìng liàn yào hěn qiáng
+
+要能support你
+Yào néng support nǐ
+
+因为这些机器它有20多万个unique parts
+Yīn wèi zhè xiē jī qì tā yǒu 20 duō wàn gè unique parts
+
+20多万unique parts factory setting
+20 duō wàn unique parts factory setting
+
+每一个part上至少5%的工厂的fail rate
+Měi yī gè part shàng zhì shǎo 5% de gōng chǎng de fail rate
+
+然后你又把这20万个parts又连上几千台一模一样的东西
+Rán hòu nǐ yòu bǎ zhè 20 wàn gè parts yòu lián shàng jǐ qiān tái yī mú yī yàng de dōng xī
+
+Non-zero chance it will fail
+Non-zero chance it will fail
+
+那你在fail的时候你能不能快速的Dead on arrival的东西能叫供应商马上给我刷跑出来
+Nà nǐ zài fail de shí hòu nǐ néng bù néng kuài sù de Dead on arrival de dōng xī néng jiào gōng yìng shāng mǎ shàng gěi wǒ shuā pǎo chū lái
+
+然后才能维持这个SLA
+Rán hòu cái néng wéi chí zhè gè SLA
+
+那第二个就是说硬件是没有损坏的状况下
+Nà dì èr gè jiù shì shuō yìng jiàn shì méi yǒu sǔn huài de zhuàng kuàng xià
+
+你的DevOps的这个team能不能快速的排查所有的问题
+Nǐ de DevOps de zhè gè team néng bù néng kuài sù de pái chá suǒ yǒu de wèn tí
+
+那这个东西事实上是一个very complex issue
+Nà zhè gè dōng xī shì shí shàng shì yī gè very complex issue
+
+因为你不知道是硬件坏掉
+Yīn wèi nǐ bù zhī dào shì yìng jiàn huài diào
+
+不知道是光模块坏掉
+Bù zhī dào shì guāng mó kuài huài diào
+
+不知道是switch坏掉
+Bù zhī dào shì switch huài diào
+
+还是说你的KBOS坏掉
+Hái shì shuō nǐ de KBOS huài diào
+
+或者说客户 a lot of客户事实上they don't know what they're doing like they honestly don't
+Huò zhě shuō kè hù, a lot of kè hù shì shí shàng they don't know what they're doing like they honestly don't
+
+因为GPU换代换太快了
+Yīn wèi GPU huàn dài huàn tài kuài le
+
+那你大模型公司大部分都是researchers very top-tier researchers
+Nà nǐ dà mó xíng gōng sī dà bù fèn dōu shì researchers very top-tier researchers
+
+but they're not infra people
+but they're not infra people
+
+they're like oh GPUs came out oh I need to get a GPU
+they're like oh GPUs came out oh I need to get a GPU
+
+这是最有效率的
+Zhè shì zuì yǒu xiào lǜ de
+
+but no one has dealt with it before
+but no one has dealt with it before
+
+那这些商量就丢给我们
+Nà zhè xiē shāng liáng jiù diū gěi wǒ men
+
+那还有意思什么ubuntu的这个upgrade啊
+Nà hái yǒu yì si shén me ubuntu de zhè gè upgrade a
+
+所以it's a very complex issue
+Suǒ yǐ it's a very complex issue
+
+从硬件到不同的硬件再到软件K8S或是说不同的solution
+Cóng yìng jiàn dào bù tóng de yìng jiàn zài dào ruǎn jiàn K8S huò shì shuō bù tóng de solution
+
+包含整个firmware的选型都非常重要
+Bāo hán zhěng gè firmware de xuǎn xíng dōu fēi cháng zhòng yào
+
+所以it all contribute to one adjective basically reliability and whether you can solve problem fast
+Suǒ yǐ it all contribute to one adjective basically reliability and whether you can solve problem fast
+
+就translate到这个SLA吧
+Jiù translate dào zhè gè SLA ba
+
+我觉得这是对GPU这一块
+Wǒ jué de zhè shì duì GPU zhè yī kuài
+
+那接下来才是软件层
+Nà jiē xià lái cái shì ruǎn jiàn céng
+
+就是指说model surfaces可能是像是fireworks together在做的事情
+Jiù shì zhǐ shuō model surfaces kě néng shì xiàng shì fireworks together zài zuò de shì qíng
+
+你有这个稳定的GPU的维护能力operation能力才到model surfaces
+Nǐ yǒu zhè gè wěn dìng de GPU de wéi hù néng lì operation néng lì cái dào model surfaces
+
+那你能不能做model surfaces的optimization which actually we're doing too
+Nà nǐ néng bù néng zuò model surfaces de optimization which actually we're doing too
+
+就是指说当你量够大的时候
+Jiù shì zhǐ shuō dāng nǐ liàng gòu dà de shí hòu
+
+你事实上可以做很多的算子操作
+Nǐ shì shí shàng kě yǐ zuò hěn duō de suàn zǐ cāo zuò
+
+做PT和EP
+Zuò PT hé EP
+
+就是做一个集群化的inferencing
+Jiù shì zuò yī gè jí qún huà de inferencing
+
+那你才把这个token cost往下打
+Nà nǐ cái bǎ zhè gè token cost wǎng xià dǎ
+
+那你才能让客户省到钱
+Nà nǐ cái néng ràng kè hù shěng dào qián
+
+对因为你刚刚其实也一直在讲
+Duì yīn wèi nǐ gāng gāng qí shí yě yī zhí zài jiǎng
+
+就是你们其实已经在预定2027年的产能跟最新款的芯片
+Jiù shì nǐ men qí shí yǐ jīng zài yù dìng 2027 nián de chǎn néng gēn zuì xīn kuǎn de xīn piàn
+
+其实这个芯片就像jensen他自己在这个演讲中说的
+Qí shí zhè gè xīn piàn jiù xiàng jensen tā zì jǐ zài zhè gè yǎn jiǎng zhōng shuō de
+
+它的能耗是在不停地降低的
+Tā de néng hào shì zài bù tíng dì jiàng dī de
+
+而且是在指数级地降低的
+Ér qiě shì zài zhǐ shù jí dì jiàng dī de
+
+但是这样就有一个问题了
+Dàn shì zhè yàng jiù yǒu yī gè wèn tí le
+
+大家以前可能还采购了H100 H200
+Dà jiā yǐ qián kě néng hái cǎi gòu le H100 H200
+
+然后到现在他已经能做的AI工厂了
+Rán hòu dào xiàn zài tā yǐ jīng néng zuò de AI gōng chǎng le
+
+就是说芯片现在的GPU的折旧率
+Jiù shì shuō xīn piàn xiàn zài de GPU de zhé jiù lǜ
+
+在比如说一个资本市场的估算中
+Zài bǐ rú shuō yī gè zī běn shì chǎng de gū suàn zhōng
+
+或者在你们自己的一个估算中
+Huò zhě zài nǐ men zì jǐ de yī gè gū suàn zhōng
+
+它是按照几年去折旧的
+Tā shì àn zhào jǐ nián qù zhé jiù de
+
+There's a hedge fund answer 5 years
+There's a hedge fund answer 5 years
+
+就是Wallstreet的做法
+Jiù shì Wallstreet de zuò fǎ
+
+技术角度上来看的话
+Jì shù jiǎo dù shàng lái kàn de huà
+
+你就直接去AWS上面看你能不能租到A100或者V100
+Nǐ jiù zhí jiē qù AWS shàng miàn kàn nǐ néng bù néng zū dào A100 huò zhě V100
+
+你租得到的话Good job
+Nǐ zū dé dào de huà Good job
+
+That's rare
+That's rare
+
+V100是多少 17还18年出的产品
+V100 shì duō shǎo, 17 hái 18 nián chū de chǎn pǐn
+
+7年8年还在用
+7 nián 8 nián hái zài yòng
+
+事实上使用非常的高
+Shì shí shàng shǐ yòng fēi cháng de gāo
+
+现在
+Xiàn zài
+
+所以其实整体上它的预想时间会比资本市场估的那个时间还要长的
+Suǒ yǐ qí shí zhěng tǐ shàng tā de yù xiǎng shí jiān huì bǐ zī běn shì chǎng gū de nà gè shí jiān hái yào cháng de
+
+主要原因是现在需求量太大了
+Zhǔ yào yuán yīn shì xiàn zài xū qiú liàng tài dà le
+
+好那现场的观众有没有要提问的
+Hǎo, nà xiàn chǎng de guān zhòng yǒu méi yǒu yào tí wèn de
+
+我们可以开放问题给大家
+Wǒ men kě yǐ kāi fàng wèn tí gěi dà jiā
+
+嘉宾你好 我也是做二级市场投资的
+Jiā bīn nǐ hǎo, wǒ yě shì zuò èr jí shì chǎng tóu zī de
+
+但是我其实对于咱们这个公司还挺好奇的
+Dàn shì wǒ qí shí duì yú zán men zhè gè gōng sī hái tǐng hǎo qí de
+
+我看咱们定位是一个AI服务的Cloud Service
+Wǒ kàn zán men dìng wèi shì yī gè AI fú wù de Cloud Service
+
+我就想问就是你们这个公司跟比如说Google Cloud Azure他们去竞争的时候
+Wǒ jiù xiǎng wèn jiù shì nǐ men zhè gè gōng sī gēn bǐ rú shuō Google Cloud Azure tā men qù jìng zhēng de shí hòu
+
+你们会有一些什么差异化的策略
+Nǐ men huì yǒu yī xiē shén me chā yì huà de cè lüè
+
+因为我觉得Cloud Service是一个比较需要scale的行业
+Yīn wèi wǒ jué de Cloud Service shì yī gè bǐ jiào xū yào scale de háng yè
+
+作为startup你们是怎么去思考这个问题的
+Zuò wéi startup nǐ men shì zěn me qù sī kǎo zhè gè wèn tí de
+
+That's a great question
+That's a great question
+
+我先讲一下Neo Clouds and Hyperscaler他们的本质上的差异
+Wǒ xiān jiǎng yī xià Neo Clouds and Hyperscaler tā men de běn zhì shàng de chā yì
+
+他们主要是一个CPU云以及存储云
+Tā men zhǔ yào shì yī gè CPU yún yǐ jí cún chǔ yún
+
+经典的云计算
+Jīng diǎn de yún jì suàn
+
+他们的做法就是用VM的方式来做
+Tā men de zuò fǎ jiù shì yòng VM de fāng shì lái zuò
+
+可是你用VM的话事实上是吃10%的compute power
+Kě shì nǐ yòng VM de huà shì shí shàng shì chī 10% de compute power
+
+你在CPU的话No one cares
+Nǐ zài CPU de huà No one cares
+
+一台server就是两三万美金
+Yī tái server jiù shì liǎng sān wàn měi jīn
+
+可是你现在GPU一台就是一栋几百万美金的房子
+Kě shì nǐ xiàn zài GPU yī tái jiù shì yī dòng jǐ bǎi wàn měi jīn de fáng zi
+
+对吧 So you cannot afford to用VM的方式来做
+Duì ba, so you cannot afford to yòng VM de fāng shì lái zuò
+
+我们或是我们这个class的Neo Clouds就是主要是以K8S的方式去做整个集群的管理
+Wǒ men huò shì wǒ men zhè gè class de Neo Clouds jiù shì zhǔ yào shì yǐ K8S de fāng shì qù zuò zhěng gè jí qún de guǎn lǐ
+
+让客户直接能拿到Bare Metal的100%的效率
+Ràng kè hù zhí jiē néng ná dào Bare Metal de 100% de xiào lǜ
+
+So I think that's the very very big difference
+So I think that's the very very big difference
+
+那我们的优势compared to say CoreWeave或Nebius等等
+Nà wǒ men de yōu shì compared to say CoreWeave huò Nebius děng děng
+
+那我觉得我们事实上有两块吧
+Nà wǒ jué de wǒ men shì shí shàng yǒu liǎng kuài ba
+
+product还有以及我们的location
+product hái yǒu yǐ jí wǒ men de location
+
+那我们事实上也是NVIDIA为7家的RA NCP就是Reference Architecture NCP
+Nà wǒ men shì shí shàng yě shì NVIDIA wéi 7 jiā de RA NCP jiù shì Reference Architecture NCP
+
+那什么是RA NCP
+Nà shén me shì RA NCP
+
+搞笑的就是讲说是老黄的白老鼠
+Gǎo xiào de jiù shì jiǎng shuō shì lǎo huáng de bái lǎo shǔ
+
+我们会拿到所有最先进的GPUs first batch alongside with Hyperscaler
+Wǒ men huì ná dào suǒ yǒu zuì xiān jìn de GPUs first batch alongside with Hyperscaler
+
+像我们就是全亚洲第一家去搞到GPU的集群
+Xiàng wǒ men jiù shì quán yà zhōu dì yī jiā qù gǎo dào GPU de jí qún
+
+那现在事实上也在陆陆续上线
+Nà xiàn zài shì shí shàng yě zài lù lù xù xù shàng xiàn
+
+我们建了一个万卡集群也是水冷方案
+Wǒ men jiàn le yī gè wàn kǎ jí qún yě shì shuǐ lěng fāng àn
+
+NVIDIA自己内部也没有搞过
+NVIDIA zì jǐ nèi bù yě méi yǒu gǎo guò
+
+Hyperscaler不会跟他分享经验
+Hyperscaler bù huì gēn tā fēn xiǎng jīng yàn
+
+那我们会分享经验
+Nà wǒ men huì fēn xiǎng jīng yàn
+
+所以我们就是会拿到最新的
+Suǒ yǐ wǒ men jiù shì huì ná dào zuì xīn de
+
+包含我们现在也是下了第一波的Vera Rubin
+Bāo kuò wǒ men xiàn zài yě shì xià le dì yī bō de Vera Rubin
+
+我们事实上也到今年年底也会上线
+Wǒ men shì shí shàng yě dào jīn nián nián dǐ yě huì shàng xiàn
+
+QC也会上线第一波的Vera Rubin at scale
+QC yě huì shàng xiàn dì yī bō de Vera Rubin at scale
+
+这个是What RANCP stands for
+Zhè gè shì What RANCP stands for
+
+全球都7家
+Quán qiú dōu 7 jiā
+
+我们事实上是唯一一家在亚洲有集群在美国有集群的
+Wǒ men shì shí shàng shì wéi yī yī jiā zài yà zhōu yǒu jí qún zài měi guó yǒu jí qún de
+
+我们现在是manage差不多9个Data Center Operational
+Wǒ men xiàn zài shì manage chà bù duō 9 gè Data Center Operational
+
+我们现在有3到4个正在建的
+Wǒ men xiàn zài yǒu 3 dào 4 gè zhèng zài jiàn de
+
+我觉得这是Number One
+Wǒ jué de zhè shì Number One
+
+主要是很多的regulation或是Data Security Issue
+Zhǔ yào shì hěn duō de regulation huò shì Data Security Issue
+
+那有些企业他不想要在美国本土
+Nà yǒu xiē qǐ yè tā bù xiǎng yào zài měi guó běn tǔ
+
+或是说因为Inference Latency Time
+Huò shì shuō yīn wèi Inference Latency Time
+
+那他们需要在Multi Places for Low Latency Possibility
+Nà tā men xū yào zài Multi Places for Low Latency Possibility
+
+Number Two的话我们跟像是CoreWeave的差距就是
+Number Two de huà wǒ men gēn xiàng shì CoreWeave de chā jù jiù shì
+
+一家公司的背景是跟他的老板的背景正相关的
+Yī jiā gōng sī de bèi jǐng shì gēn tā de lǎo bǎn de bèi jǐng zhèng xiāng guān de
+
+那我觉得CoreWeave I think they're phenomenal company
+Nà wǒ jué de CoreWeave I think they're phenomenal company
+
+我觉得They did amazingly well
+Wǒ jué de They did amazingly well
+
+他们毕竟是一个Hedge Fund出身的
+Tā men bì jìng shì yī gè Hedge Fund chū shēn de
+
+他们没有一个所谓的Core的Software核心
+Tā men méi yǒu yī gè suǒ wèi de Core de Software hé xīn
+
+那他们是通过Acquisition
+Nà tā men shì tōng guò Acquisition
+
+It shows in the company
+It shows in the company
+
+他会大量的去买不同的公司来组成他的所谓的这个软件站
+Tā huì dà liàng de qù mǎi bù tóng de gōng sī lái zǔ chéng tā de suǒ wèi de zhè gè ruǎn jiàn zhàn
+
+可是我觉得我们的公司主要是以一个Product为核心的
+Kě shì wǒ jué de wǒ men de gōng sī zhǔ yào shì yǐ yī gè Product wéi hé xīn de
+
+我就想要把做出一个Vertical Solution
+Wǒ jiù xiǎng yào bǎ zuò chū yī gè Vertical Solution
+
+可以让Enterprise让企业让Creators让Developer YouTuber去使用
+Kě yǐ ràng Enterprise ràng qǐ yè ràng Creators ràng Developer YouTuber qù shǐ yòng
+
+我们有做不同的Workflow做Studio等等等等
+Wǒ men yǒu zuò bù tóng de Workflow zuò Studio děng děng děng děng
+
+所以我们不只是做整个K8S的Management Layer再到上面的Model Services
+Suǒ yǐ wǒ men bù zhǐ shì zuò zhěng gè K8S de Management Layer zài dào shàng miàn de Model Services
+
+I think Unique Position
+I think Unique Position
+
+我们也做Kernel的Optimization
+Wǒ men yě zuò Kernel de Optimization
+
+那就是能让客户在稳定的GPU上面
+Nà jiù shì néng ràng kè hù zài wěn dìng de GPU shàng miàn
+
+还有在做Token的降本For our customers
+Hái yǒu zài zuò Token de jiàng běn For our customers
+
+So I think Two Things Right
+So I think Two Things Right
+
+I think Product的整个形态
+I think Product de zhěng gè xíng tài
+
+那就是One Stop Shop
+Nà jiù shì One Stop Shop
+
+You can find OpenAI on us
+You can find OpenAI on us
+
+You can find Gemini on us
+You can find Gemini on us
+
+You can find DeepSeek And Kimi 2.5 Plus GPUs Across the world
+You can find DeepSeek And Kimi 2.5 Plus GPUs Across the world
+
+好的那我们今天的时间也差不多了
+Hǎo de, nà wǒ men jīn tiān de shí jiān yě chà bù duō le
+
+感谢所有坚持到现在的朋友们
+Gǎn xiè suǒ yǒu jiān chí dào xiàn zài de péng yǒu men
+
+那谢谢Alex
+Nà xiè xiè Alex
+
+谢谢大家
+Xiè xiè dà jiā
+
+好那这就是我们今天的节目
+Hǎo, nà zhè jiù shì wǒ men jīn tiān de jié mù
+
+本期节目不构成任何投资建议
+Běn qī jié mù bù gòu chéng rèn hé tóu zī jiàn yì
+
+如果大家对英伟达的GTC有什么自己的想法
+Rú guǒ dà jiā duì yīng wěi dá de GTC yǒu shén me zì jǐ de xiǎng fǎ
+
+可以给我们写评论写留言
+Kě yǐ gěi wǒ men xiě píng lùn xiě liú yán
+
+如果大家喜欢用播客来收听我们的节目
+Rú guǒ dà jiā xǐ huān yòng bō kè lái shōu tīng wǒ men de jié mù
+
+可以在小宇宙 苹果播客 还有Spotify来找到我们
+Kě yǐ zài xiǎo yǔ zhòu, píng guǒ bō kè, hái yǒu Spotify lái zhǎo dào wǒ men
+
+如果大家希望能够看到这期播客的字幕版
+Rú guǒ dà jiā xī wàng néng gòu kàn dào zhè qī bō kè de zì mù bǎn
+
+可以通过B站或者YouTube搜索硅谷101播客来找到我们
+Kě yǐ tōng guò B zhàn huò zhě YouTube sōu suǒ guī gǔ 101 bō kè lái zhǎo dào wǒ men
+
+同时呢你也可以在微信视频号还有小红书上搜硅谷101找到我们
+Tóng shí ne nǐ yě kě yǐ zài wēi xìn shì pín hào hái yǒu xiǎo hóng shū shàng sōu guī gǔ 101 zhǎo dào wǒ men
+
+那我们部分节目的文字稿也会发表在我们的微信公众号硅谷101上
+Nà wǒ men bù fèn jié mù de wén zì gǎo yě huì fā biǎo zài wǒ men de wēi xìn gōng zhòng hào guī gǔ 101 shàng
+
+我是红军
+Wǒ shì hóng jūn
+
+感谢大家的收听
+Gǎn xiè dà jiā de shōu tīng

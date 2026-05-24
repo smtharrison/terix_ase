@@ -1,0 +1,536 @@
+Huān yíng shōu tīng Kuà Guó Chuàn Mén Jì Huà, zhè shì yī dǎng zhuān zhù yú ràng zhōng wén tīng zhòng wú zhàng ài xīn shǎng quán qiú yōu zhì wài yǔ bō kè de jié mù.
+欢迎收听跨国串门计划，这是一档专注于让中文听众无障碍欣赏全球优质外语播客的节目。
+
+Tōng guò xiān jìn de AI shēng wén kè lóng jì shù, wǒ men bù jǐn jiāng nèi róng fān yì chéng zhōng wén, hái wán měi bǎo liú le yuán zhǔ chí rén hé jiā bīn de dú tè shēng yīn.
+通过先进的AI声文克隆技术，我们不仅将内容翻译成中文，还完美保留了原主持人和嘉宾的独特声音，
+
+Wèi nín chéng xiàn quán qiú dǐng jiān de AI cái jīng, jiàn kāng yǔ kē jì lǐng yù jīng pǐn nèi róng.
+为您呈现全球顶尖的AI财经、健康与科技领域精品内容。
+
+Wǒ shì zhǔ bō Yì Kǎi, yī wèi rè zhōng yú AI lǐng yù de chǎn pǐn jīng lǐ, hěn róng xìng néng wèi nín dā jiàn zhè zuò kuà yuè yǔ yán zhàng ài de qiáo liáng.
+我是主播易凯，一位热衷于AI领域的产品经理，很荣幸能为您搭建这座跨越语言障碍的桥梁。
+
+Guān yú běn bō kè de zhì zuò fāng shì, nín kě yǐ zài SPE kuà guó chuàn mén jì huà bèi hòu de gù shì zhōng shēn rù liǎo jiě.
+关于本播客的制作方式，您可以在SPE跨国串门计划背后的故事中深入了解。
+
+Měi qī jié mù de show notes zhōng fù yǒu yuán bō kè xìn xī hé wén zì jīng huá.
+每期节目的show notes中附有原播客信息和文字精华。
+
+Zhè xiē nèi róng jīng guò jīng xīn tí liàn hé zhòng diǎn biāo zhù, biàn yǔ nín kuài sù huò qǔ hé xīn zhī shi.
+这些内容经过精心提炼和重点标注，便于您快速获取核心知识。
+
+Huān yíng gè wèi tīng yǒu jiā rù jiāo liú qún, yī qǐ tǎo lùn zhè xiē guó jì qián yán huà tí.
+欢迎各位听友加入交流群，一起探讨这些国际前沿话题。
+
+Rú guǒ nín fā xiàn le zhí dé fēn xiǎng de yōu zhì wài yǔ bō kè, yě qǐng bù lìng gào zhī.
+如果您发现了值得分享的优质外语播客，也请不吝告知。
+
+Běn qī wǒ men kè lóng de shì zhī míng kāi fā zhě, Tailwind CSS de chuàng shǐ rén Adam Wathan de gè rén bō kè.
+本期我们克隆的是知名开发者，Tailwind CSS创始人Adam Wathan的个人播客。
+
+Zài zhè qī fēi cháng sī mì qiě qíng xù huà de sàn bù suí bǐ zhōng, Adam tǎn chéng dì fēn xiǎng le tā zuò wéi dǐng jí kāi yuán xiàng mù fù zé rén, zài shāng yè jīng yíng shàng zāo yù de jù dà cuò bài, yǐ jí tā bù dé bù cái diào dà bù fen tuán duì chéng yuán de tòng kǔ jīng lì.
+在这期非常私密且情绪化的散步随笔中，Adam坦诚地分享了他作为顶级开源项目负责人，在商业经营上遭遇的巨大挫败，以及他不得不裁掉大部分团队成员的痛苦经历。
+
+Zài jié mù lǐ, tā yǒu jǐ jù yuán huà ràng wǒ yìn xiàng tè bié shēn kè: "Shōu rù yǐ jīng màn màn xià huá hǎo jǐ nián le, dàn zhè ge guò chéng tè bié màn, tè bié wěn, jiù xiàng wēn shuǐ zhǔ qīng wā yī yàng, nǐ jī hū dōu gǎn jué bù dào.
+在节目里，他有几句原话让我印象特别深刻：“收入已经慢慢下滑好几年了，但这个过程特别慢，特别稳，就像温水煮青蛙一样，你几乎都感觉不到。
+
+Wǒ zuò le yī gè fēng kuáng chéng gōng de kāi yuán xiàng mù, jié guǒ shāng yè shàng de chéng gōng, què gēn xiàng mù de liú xíng dù chéng le fǎn bǐ.
+我做了一个疯狂成功的开源项目，结果商业上的成功，却跟项目的流行度成了反比。
+
+Zhè gǎn jué zhēn de tài nán shòu le.
+这感觉真的太难受了。
+
+Zuò wéi lǎo bǎn, zhè kě néng jiù shì nǐ bì xū bēi de guō.
+作为老板，这可能就是你必须背的锅。
+
+Bù xìng de shì, quán shì jiè yǒu shí hou dōu huì jué de nǐ shì gè è mó.
+不幸的是，全世界有时候都会觉得你是个恶魔。
+
+Zuò shēng yì zhēn de hěn nán, bǐ biān chéng nán duō le.
+做生意真的很难，比编程难多了。
+
+Wǒ gēn nǐ shuō, zhè xiē huà bèi hòu yǒu zhe yī gè chōng mǎn zhēng zhá de gù shì.
+我跟你说，这些话背后有着一个充满挣扎的故事。
+
+Jiē xià lái jiù ràng wǒ men yī qǐ zǒu jìn zhè qī wán zhěng de duì huà.
+接下来就让我们一起走进这期完整的对话。
+
+Hǎo le, jīn tiān zǎo shàng yòu chū lái sàn bù le.
+好了，今天早上又出来散步了。
+
+Ān dà lüè shěng nán bù 1 yuè fèn zhè guǐ tiān qì, dōng yǔ xià wán gēn shì jiè mò rì sì de.
+安大略省南部1月份这鬼天气，冬雨下完跟世界末日似的。
+
+Zhè cì xiǎng liáo de shì tǐng duō de, dàn dōu bù shì shén me hǎo shì.
+这次想聊的事挺多的，但都不是什么好事。
+
+Suǒ yǐ wǒ shèn zhì dōu bù què dìng zhè qī yào bù yào fā chū lái.
+所以我甚至都不确定这期要不要发出来。
+
+Kě néng jiù shì lù gěi zì jǐ tīng de, bī zì jǐ bǎ zhè xiē shì shuō chū lái, dào yī dào lā jī, xīn lǐ néng hǎo shòu diǎn.
+可能就是录给自己听的，逼自己把这些事说出来，倒一倒垃圾，心里能好受点。
+
+Yǒu yī diǎn wǒ kě yǐ bǎo zhèng, rú guǒ zhè qī zhēn de fā chū qù le, nà lǐ miàn kěn dìng méi shén me gàn huò, jī běn shàng jiù shì bào yuàn fā xiè, hái yǒu yī duī fù néng liàng ba.
+有一点我可以保证，如果这期真的发出去了，那里面肯定没什么干货，基本上就是抱怨发泄，还有一堆负能量吧。
+
+Gāi cóng nǎr shuō qǐ ne?
+该从哪儿说起呢？
+
+Wǒ xiǎng wèi le gěi zhěng jiàn shì dìng gè diào, wǒ zhī qián zài bō kè lǐ yě tí guò, wǒ men de shōu rù yī zhí zài xià huá, wǒ men yě zài xiǎng bàn fǎ jiě jué.
+我想为了给整件事定个调，我之前在播客里也提过，我们的收入一直在下滑，我们也在想办法解决。
+
+Wǒ yě fēn xiǎng guò wǒ men yī xiē xiǎng niǔ zhuǎn jú miàn de xiǎng fǎ.
+我也分享过我们一些想扭转局面的想法。
+
+Shuō shí huà, wǒ hái shì tǐng lè guān de, duì zhè xiē xīn xiǎng fǎ yě tǐng xīng fèn de.
+说实话，我还是挺乐观的，对这些新想法也挺兴奋的。
+
+Dàn jià qī lǐ, wǒ zǒng suàn zuò le jiàn fù zé rèn de lǎo bǎn zǎo gāi zuò de shì, jiù shì zhèng jīng de zuò le gè yù cè, ér bù shì guāng píng zhí jué, jié guǒ fā xiàn qíng kuàng bǐ wǒ xiǎng de yào zāo de duō.
+但假期里，我总算做了件负责任的老板早该做的事，就是正经地做了个预测，而不是光凭直觉，结果发现情况比我想的要糟得多。
+
+Qí shí shōu rù yǐ jīng màn màn xià huá hǎo jǐ nián le, dàn zhè ge guò chéng tè bié màn tè bié wěn, jiù xiàng wēn shuǐ zhǔ qīng wā yī yàng, nǐ jī hū dōu gǎn jué bù dào.
+其实收入已经慢慢下滑好几年了，但这个过程特别慢特别稳，就像温水煮青蛙一样，你几乎都感觉不到。
+
+Nǐ jiù màn màn xí guàn le, shōu rù biàn dī, jué de zhè hěn zhèng cháng, fǎn zhèng hái néng fù dé qǐ gè zhǒng zhàng dān shén me de.
+你就慢慢习惯了，收入变低，觉得这很正常，反正还能付得起各种账单什么的。
+
+Wǒ gāng cái chà diǎn bèi yī liàng dào chù chē dào de chē gěi zhuàng le, suǒ yǐ yào shì wǒ yǒu diǎn fēn xīn, qǐng duō dān dài.
+我刚才差点被一辆到处车道的车给撞了，所以要是我有点分心，请多担待。
+
+Duì, wǒ gāng cái shuō dào nǎr le, wēn shuǐ zhǔ qīng wā.
+对，我刚才说到哪了，温水煮青蛙。
+
+Měi ge yuè nǐ dōu jué de hái xíng, yīn wèi zhàng dān dōu néng fù, zì jǐ yě néng shèng xià diǎn qián, gǎn jué hái guò dé qù.
+每个月你都觉得还行，因为账单都能付，自己也能剩下点钱，感觉还过得去。
+
+Nǐ jiù xí guàn le měi ge yuè dōu bǐ shàng ge yuè shǎo yī diǎn, màn màn jiù wàng le shàng ge yuè qí shí hái gāo yī xiē.
+你就习惯了每个月都比上个月少一点，慢慢就忘了上个月其实还高一些。
+
+Wǒ nǎo zi lǐ yě yī zhí zài gěi zì jǐ jiǎng gù shì, gào su zì jǐ, suī rán shōu rù dī, dàn yǐ jīng bù zěn me jiàng le, suàn shì wěn zhù le.
+我脑子里也一直在给自己讲故事，告诉自己，虽然收入低，但已经不怎么降了，算是稳住了。
+
+Yīn wèi gǎn jué shàng shōu rù hǎo xiàng yǐ jīng wéi chí zhè ge shuǐ píng hěn jiǔ le.
+因为感觉上收入好像已经维持这个水平很久了。
+
+Dàn zhè cì wǒ zhōng yú qù kàn le zhēn shí shù jù, zuò le tú biǎo, zhèng ér bā jīng de zuò le yù cè, jì suàn le měi ge yuè shōu rù píng jūn xià jiàng duō shǎo, jié guǒ ràng wǒ dà chī yī jīng.
+但这次我终于去看了真实数据，做了图表，正儿八经的做了预测，计算了每个月收入平均下降多少，结果让我大吃一惊。
+
+Gēn běn jiù méi wěn zhù, shōu rù měi ge yuè dōu zài chí xù xià jiàng, shù é jī běn shì gù dìng de, zhè yì wèi zhe xià jiàng de bǎi fēn bǐ yuè lái yuè dà.
+根本就没稳住，收入每个月都在持续下降，数额基本是固定的，这意味着下降的百分比越来越大。
+
+Wǒ bǎ zhè ge qū shì yù cè le yī xià wèi lái yī nián, rú guǒ qíng kuàng zài zhè me xià qù, shén me dōu bù gǎi biàn de huà.
+我把这个趋势预测了一下未来一年，如果情况再这么下去，什么都不改变的话。
+
+Dāng rán le, wǒ men kěn dìng bù néng ràng tā zhè yàng, wǒ men zhèng zài nǔ lì fā zhǎn yè wù, cháng shì xīn xiǎng fǎ, suǒ yǐ wǒ men de mù biāo kěn dìng bù shì ràng zhè ge qū shì jì xù xià qù.
+当然了，我们肯定不能让它这样，我们正在努力发展业务，尝试新想法，所以我们的目标肯定不是让这个趋势继续下去。
+
+Dàn wǒ méi fǎ bǎo zhèng, tā bù huì jì xù, duì ba, zhè shì wǒ kòng zhì bù liǎo de, wǒ zhǐ néng nǔ lì qù yǐng xiǎng tā, dàn méi fǎ kòng zhì jié guǒ.
+但我没法保证，它不会继续，对吧，这事我控制不了，我只能努力去影响它，但没法控制结果。
+
+Rú guǒ qíng kuàng zhēn de shén me dōu bù gǎi biàn, dà yuē liù ge yuè hòu, wǒ men jiù fā bù chū gōng zī le.
+如果情况真的什么都不改变，大概六个月后，我们就发不出工资了。
+
+Yì shí dào zhè yī diǎn, gǎn jué zhèng shì zāo tòu le.
+意识到这一点，感觉正是糟透了。
+
+Liù ge yuè shí jiān zhēn de bù duō, suǒ yǐ jià qī lǐ, wǒ men bù dé bù zuò chū yī gè cán kù de jué dìng, suō jiǎn tuán duì guī mó, ràng gōng sī néng zhēn zhèng fù dān de qǐ.
+六个月时间真的不多，所以假期里，我们不得不做出一个残酷的决定，缩减团队规模，让公司能真正负担得起。
+
+Yīn wèi rú guǒ wǒ men xiàn zài bù zuò, dào shí hòu lián yī bǐ tǐ miàn de qiǎn sàn fèi dōu gěi bù zháo dà jiā, tā men jiù méi shí jiān qù zhǎo xīn gōng zuò le.
+因为如果我们现在不做，到时候连一笔体面的遣散费都给不着大家，他们就没时间去找新工作了。
+
+Zhè duì wǒ lái shuō hěn zhòng yào, yīn wèi rú guǒ wǒ chǔ zài nà ge wèi zhì, wǒ yě xī wàng bié rén néng zhè me duì wǒ.
+这对我来说很重要，因为如果我处在那个位置，我也希望别人能这么对我。
+
+Nǐ xiǎng xiǎng, tū rán fā xiàn zì jǐ shī yè le, yīn wèi gōng sī xiàn jīn liú duàn le, fā bù chū gōng zī, zhè tā mā yā lì tài dà le.
+你想想，突然发现自己失业了，因为公司现金流断了，发不出工资，这他妈压力太大了。
+
+Jīn tiān shì zhōu sān ba, duì, suǒ yǐ zhè zhōu yī, wǒ men zhèng shì cái diào le 75% de gōng chéng tuán duì, wèi le ràng gōng sī néng zài yī gè shōu rù xià jiàng de qíng kuàng xià, yě néng qīng sōng de yǎng huó xiàn zài de yuán gōng.
+今天是周三吧，对，所以这周一，我们正式裁掉了75%的工程团队，为了让公司能在一个收入下降的情况下，也能轻松的养活现在的员工。
+
+Wǒ men gōng sī bù dà, suǒ yǐ 75% tīng qǐ lái xià rén, qí shí bù shì hěn duō rén, jiù shì sān ge rén.
+我们公司不大，所以75%听起来吓人，其实不是很多人，就是三个人。
+
+Dàn wǒ jué de zhè ge bǎi fēn bǐ hěn zhòng yào, yīn wèi rú guǒ zhǐ shuō cái le sān ge rén, tīng qǐ lái hǎo xiàng méi shén me dà bù liǎo de.
+但我觉得这个百分比很重要，因为如果只说裁了三个人，听起来好像没什么大不了的。
+
+Kě shí jì shàng, wǒ men běn lái jiù zhǐ yǒu sì ge gōng chéng shī, xiàn zài zhǐ shèng yī ge le, suǒ yǐ zhè shì ge jù dà de biàn huà.
+可实际上，我们本来就只有四个工程师，现在只剩一个了，所以这是个巨大的变化。
+
+Zhè shì er, wǒ bù zhī dào zěn me shuō, zhè shì tài cǎo dàn le.
+这事儿，我不知道怎么说，这是太操蛋了。
+
+Zhè sān ge rén dōu shì wǒ tè bié xǐ huān hé zuò de tóng shì, shì wǒ hé zuò guò zuì yǒu cái huá de rén zhī zhōng de sān ge.
+这三个人都是我特别喜欢合作的同事，是我合作过最有才华的人之中的三个。
+
+Wǒ běn lái hái tè bié qī dài néng hé tā men yī qǐ jì xù chuàng zào xīn dōng xī, wǒ nǎo zi lǐ yǒu yī dà duī wǒ men kě yǐ yī qǐ zuò de xiàng mù.
+我本来还特别期待能和他们一起继续创造新东西，我脑子里有一大堆我们可以一起做的项目。
+
+Dàn xiàn shí jiù shì, wǒ yào me ràng tā men miǎn fèi zài zhè gàn huó, yào me jiù zhǐ néng ràng tā men zǒu, qù zhǎo ge néng àn yuè fā gōng zī de xīn gōng zuò.
+但现实就是，我要么让他们免费在这干活，要么就只能让他们走，去找个能按月发工资的新工作。
+
+Nǐ zhī dào wǒ jué de zěn me shuō ne, méi zì jǐ kāi guò gōng sī de rén, kě néng bù tài lǐ jiě cái yuán dào dǐ shì zěn me huí shì, huò zhě wèi shén me yào cái yuán.
+你知道我觉得怎么说呢，没自己开过公司的人，可能不太理解裁员到底是怎么回事，或者为什么要裁员。
+
+Wǒ kàn dào Rocket Jeffrey zhè zhōu yě cái yuán le, jié guǒ zài tuī tè shàng bèi jǐ ge rén mà dé gǒu xuè lín tóu.
+我看到Rocket Jeffrey这周也裁员了，结果在推特上被几个人骂得狗血淋头。
+
+Hǎo hái, bǎi fēn zhī jiǔ shí de rén dōu lǐ jiě, méi gēn zhe qǐ hōng, dàn yǒu xiē rén jiù shì jué de, nǐ cái yuán jiù shì yīn wèi nǐ tān lán, huò zhě gēn běn bù zài hu yuán gōng sǐ huó.
+还好，百分之九十的人都理解，没跟着起哄，但有些人就是觉得，你裁员就是因为你贪婪，或者根本不在乎员工死活。
+
+Wǒ bù zhī dào, zuò wéi lǎo bǎn, zhè tā mā jiù shì nǐ děi bēi de guō.
+我不知道，作为老板，这他妈就是你得背的锅。
+
+Bù xìng de shì, quán shì jiè dōu tā mā tǎo yàn nǐ, jué de nǐ shì ge è mó.
+不幸的是，全世界都他妈讨厌你，觉得你是个恶魔。
+
+Āi, zǒng zhī zhè shì er tài zāo le, wǒ nán shòu de wèi téng, jué de zì jǐ shì ge shī bài zhě.
+哎，总之这事儿太糟了，我难受的胃疼，觉得自己是个失败者。
+
+Wǒ tā mā zuò le zhè me ge fēng kuáng chéng gōng de kāi yuán xiàng mù, jié guǒ shāng yè shàng de chéng gōng, què gēn zhè ge xiàng mù de liú xíng dù chéng le fǎn bǐ, zhè gǎn jué tài nán shòu le.
+我他妈做了这么个疯狂成功的开源项目，结果商业上的成功，却跟这个项目的流行度成了反比，这感觉太难受了。
+
+Wǒ bù zhī dào, wǒ jiù shì jué de, běn zhe zhè ge bō kè yī guàn de tǎn chéng jīng shén, wǒ yīng gāi fēn xiǎng yī xià zhè ge jìn zhǎn.
+我不知道，我就是觉得，本着这个播客一贯的坦诚精神，我应该分享一下这个进展。
+
+Dàn jiù xiàng wǒ shuō de, wǒ nǎo zi lǐ méi yǒu yī gè qīng xī de yào diǎn liè biǎo, wǒ jiù shì zài dà shēng zì yán zì yǔ, chà bù duō shì wèi le zhì yù zì jǐ, bǎ zhè xiē shì cóng xīn lǐ dào chū lái.
+但就像我说的，我脑子里没有一个清晰的要点列表，我就是在大声自言自语，差不多是为了治愈自己，把这些事从心里倒出来。
+
+Dàn qíng kuàng què shí bù miào, suǒ yǐ wǒ yě bù zhī dào, jiē xià lái gāi liáo diǎn shá le.
+但情况确实不妙，所以我也不知道，接下来该聊点啥了。
+
+Wǒ nǎo zi lǐ hái yǒu jǐ jiàn shì, yī ge jiù shì wǒ men jiē xià lái gāi zěn me bàn.
+我脑子里还有几件事，一个就是我们接下来该怎么办。
+
+Wǒ xiǎng shuō wǒ hái shì lè guān de, wǒ de gōng zuò yāo qiú wǒ bì xū lè guān, ér qiě wǒ què shí shì.
+我想说我还是乐观的，我的工作要求我必须乐观，而且我确实是。
+
+Wǒ jué de wǒ men jià qī qián jiù zài zuò de nèi xiē xīn xiǎng fǎ shì hǎo zhǔ yì, yī dàn wǒ men bǎ gèng duō dōng xī tuī chū lái, wǒ jiān xìn zhè néng ràng wǒ men de chǎn pǐn biàn de gèng hǎo.
+我觉得我们假期前就在做的那些新想法是好主意，一旦我们把更多东西推出来，我坚信这能让我们的产品变得更好。
+
+Wǒ xī wàng gèng hǎo de chǎn pǐn néng xī yǐn gèng duō kè hù, ràng gōng sī néng gèng kě chí xù de fā zhǎn xià qù.
+我希望更好的产品能吸引更多客户，让公司能更可持续的发展下去。
+
+Wǒ men tuán duì de Peter zài hé zuò huǒ bàn xiàng mù shàng zuò dé fēi cháng chū sè, bāng wǒ men zhǎo dào le hěn duō hé zuò huǒ bàn, zhè jí dà de fēng fù le wǒ men de shōu rù lái yuán, yě gěi le wǒ men gèng kě yù cè de jīng cháng xìng shōu rù, zhè tài bàng le.
+我们团队的Peter在合作伙伴项目上做得非常出色，帮我们找到了很多合作伙伴，这极大的丰富了我们的收入来源，也给了我们更可预测的经常性收入，这太棒了。
+
+Suǒ yǐ wǒ men xī wàng néng bǎ zhè kuài yě jì xù zuò dà.
+所以我们希望能把这块也继续做大。
+
+Dàn shuō shí huà, yòng zhè me xiǎo de tuán duì qù dǎ yī chǎng yìng zhàng, kěn dìng huì hěn jiān nán.
+但说实话，用这么小的团队去打一场硬仗，肯定会很艰难。
+
+Zhè me shuō ba, xiàn zài shèng xià de tuán duì jiù shì wǒ men sān ge chuàng shǐ rén, wǒ Steve jiù shì zuò Refactoring UI de nà ge, yī zhí fù zé wǒ men de shè jì, hái yǒu Jonathan Rennick, tā dāng chū bāng wǒ yī qǐ chuàng jiàn le Tailwind, yě shì Inertia JS de zuò zhě.
+这么说吧，现在剩下的团队就是我们三个创始人，我Steve就是做Refactoring UI的那个，一直负责我们的设计，还有Jonathan Rennick，他当初帮我一起创建了Tailwind，也是Inertia JS的作者。
+
+Chú le wǒ men sā, jiù zhǐ shèng xià yī ge gōng chéng shī Robin, tā kāi fā le Headless UI, gēn wǒ yī qǐ cóng líng kāi shǐ zuò le Tailwind 3 hé Tailwind 4, yě shì tuán duì lǐ dài de zuì jiǔ de rén.
+除了我们仨，就只剩下一个工程师Robin，他开发了Headless UI，跟我一起从零开始做了Tailwind 3和Tailwind 4，也是团队里待的最久的人。
+
+Rán hòu jiù shì Peter, tā suàn shì jiān zhí fù zé yùn yíng hé zuò xiàng mù, chǔ lǐ yī xiē zá shì hé kè hù zhī chí.
+然后就是Peter，他算是兼职负责运营合作项目，处理一些杂事和客户支持。
+
+Tuán duì jiù zhè me duō rén le, sān ge hé huǒ rén, liǎng ge yuán gōng, zhè jiù shì wǒ men jiē xià lái zuò dōng xī néng yòng de quán bù zī yuán le.
+团队就这么多人了，三个合伙人，两个员工，这就是我们接下来做东西能用的全部资源了。
+
+Suǒ yǐ shì qíng bì xū dé gǎi biàn, wǒ zì jǐ kěn dìng yào chóng xīn huí dào gèng zhí jiē de yī xiàn kāi fā de jué sè shàng qù le, zhè bǐ wǒ guò qù jǐ nián zuò de yào duō de duō.
+所以事情必须得改变，我自己肯定要重新回到更直接的一线开发的角色上去了，这比我过去几年做的要多得多。
+
+Cóng mǒu zhǒng chéng dù shàng shuō, zhè yě xǔ suàn shì yī xiàn xī wàng ba, yīn wèi zhè cái shì wǒ zhēn zhèng xǐ huān zuò de shì.
+从某种程度上说，这也许算是一线希望吧，因为这才是我真正喜欢做的事。
+
+Dàn suí zhe tuán duì biàn dà, wǒ de jué sè biàn dé gèng hóng guān, gèng piān zhàn lüè le, yào qù xiǎng wǒ men gāi zuò shén me, gēn tuán duì chéng yuán hé zuò, què bǎo wǒ men zuò de shì qíng shì duì de, yòng de fāng fǎ yě shì wǒ rèn wéi hé lǐ de.
+但随着团队变大，我的角色变得更宏观，更偏战略了，要去想我们该做什么，跟团队成员合作，确保我们做的事情是对的，用的方法也是我认为合理的。
+
+Hái yào guān zhù nǎ xiē shì xū yào zuò, rán hòu fēn pèi gěi hé shì de rén.
+还要关注哪些事需要做，然后分配给合适的人。
+
+Wǒ zì jǐ yě hái zuò hěn duō yī xiàn kāi fā de gōng zuò, dàn yě fēn pèi chū qù le hěn duō huó, ér fēn pèi gōng zuò bìng bù néng gěi wǒ dài lái xiàng qīn shǒu chuàng zào dōng xī nà yàng de mǎn zú gǎn.
+我自己也还做很多一线开发的工作，但也分配出去了很多活，而分配工作并不能给我带来像亲手创造东西那样的满足感。
+
+Suǒ yǐ rú guǒ fēi yào lè guān yī diǎn kàn, zhè suàn shì ge hǎo xiāo xī ba, wǒ tǐng qī dài zhè zhǒng bié wú xuǎn zé, zhǐ néng qīn zì xià chǎng gàn gèng duō huó de zhuàng tài.
+所以如果非要乐观一点看，这算是个好消息吧，我挺期待这种别无选择，只能亲自下场干更多活的状态。
+
+Wǒ jué de AI zhè dōng xī xiǎn rán shì bǎ shuāng rèn jiàn, wǒ rèn wéi AI shì wǒ men yè wù xiàn rù kùn jìng de yī ge zhòng yào yuán yīn, jǐn guǎn tā yě ràng Tailwind de bǐ yǐ wǎng rèn hé shí hòu dōu gèng shòu huān yíng.
+我觉得AI这东西显然是把双刃剑，我认为AI是我们业务陷入困境的一个重要原因，尽管它也让Tailwind比以往任何时候都更受欢迎。
+
+Dàn shì wǒ yě rèn wéi tā shì yī xiàng liǎo bù qǐ de jì shù, wǒ hěn xīng fèn tā néng bāng zhù dào wǒ.
+但是我也认为它是一项了不起的技术，我很兴奋它能帮助到我。
+
+Zài wǒ men xiàn zài zhè ge chǔ jìng xià, wǒ men shì bèi bī zhe yào xiǎng bàn fǎ zěn me lì yòng hǎo zhè xiē gōng jù, lái chǔ lǐ suǒ yǒu wǒ men bì xū chǔ lǐ de shì qíng.
+在我们现在这个处境下，我们是被逼着要想办法怎么利用好这些工具，来处理所有我们必须处理的事情。
+
+Wǒ hái bù tài qīng chǔ jù tǐ yào zěn me zuò, dàn yǒu xiē xiǎng fǎ, bǐ rú kàn kàn wǒ men néng bù néng yòng AI lái chǔ lǐ yī xiē GitHub issue de fēn lèi gōng zuò, zhè lèi shì qíng guò qù zhàn yòng le wǒ men dà liàng shí jiān.
+我还不太清楚具体要怎么做，但有些想法，比如看看我们能不能用AI来处理一些GitHub Issue的分类工作，这类事情过去占用了我们大量时间。
+
+Jiù shuō zuó tiān ba, wǒ men yǒu tái fú wù qì nèi cún hé CPU dōu bào le, gǎo xiào de shì, wǒ men zuì zhōng jiě jué wèn tí de fāng fǎ shì, Robin tí le ge xiǎng fǎ jiàng dī le CPU zhàn yòng, dàn jiù suàn shì zài zhěn duàn wèn tí de shí hòu, wǒ men yě shì zhí jiē SSH lián shàng fú wù qì, zhuāng le ge Cloud Code, jiù bǎ Cloud dàng chéng yī ge DevOps gōng chéng shī lái yòng, wèn tā wèn tí shì ràng tā bāng máng zhěn duàn.
+就说昨天吧，我们有台服务器内存和CPU都爆了，搞笑的是，我们最终解决问题的方法是，Robin提了个想法降低了CPU占用，但就算是在诊断问题的时候，我们也是直接SSH连上服务器，装了个Cloud Code，就把Cloud当成一个DevOps工程师来用，问他问题是让他帮忙诊断。
+
+Zhì shǎo shì tā bāng wǒ men gǎo qīng chǔ le, zhè tái jī qì chū wèn tí shì yīn wéi fù zài tài gāo, ér bù shì dài mǎ lǐ yǒu shén me tè dìng de bug.
+至少是他帮我们搞清楚了，这台机器出问题是因为负载太高，而不是代码里有什么特定的bug。
+
+Kào zhe tā, wǒ men pái chá wèn tí de sù dù, bǐ zì jǐ shǒu dòng qù chá, gāi zài zhōng duān lǐ qiāo shén me mìng lìng, kàn yī dà duī shù jù yào kuài dé duō.
+靠着它，我们排查问题的速度，比自己手动去查，该在终端里敲什么命令，看一堆数据要快得多。
+
+Suǒ yǐ zhè shì wǒ men jiē xià lái bì xū yī lài de dōng xī, xìng yùn de shì xiàn zài zhèng hǎo yǒu zhè zhǒng jì shù cún zài.
+所以这是我们接下来必须依赖的东西，幸运的是现在正好有这种技术存在。
+
+Dàn shì wǒ nán dào bù xī wàng wǒ men hái shì yǐ qián nà ge bā ge rén de tuán duì, yǒu nà xiē cái huá héng yì de rén zài shēn biān yī qǐ chuàng zào dōng xī ma? Wǒ tā mā dāng rán xiǎng le.
+但是我难道不希望我们还是以前那个八个人的团队，有那些才华横溢的人在身边一起创造东西吗？我他妈当然想了。
+
+Dàn wǒ men zhǐ néng zài xiàn yǒu tiáo jiàn xià zuò dào zuì hǎo le.
+但我们只能在现有条件下做到最好了。
+
+Suǒ yǐ wǒ bù zhī dào, zhè chǔ jìng tǐng cǎo dàn de.
+所以我不知道，这处境挺操蛋的。
+
+Zhè zhōu yīn wèi zhè shì wǒ zài chǔ lǐ bié de shì qíng shí, yě biàn de hěn qíng xù huà.
+这周因为这事我在处理别的事情时，也变得很情绪化。
+
+Bǐ rú bù jiǔ qián, yǒu rén zài Tailwind de wén dàng cāng kù tí le ge PR, xiǎng gěi suǒ yǒu wén dàng yè miàn jiā shàng fù zhì wéi markdown de àn niǔ, yīn wèi xiàn zài dà jiā dōu zài zhè me gàn, zhè yàng yòng AI huì gèng fāng biàn.
+比如不久前，有人在Tailwind的文档仓库提了个PR，想给所有文档页面加上复制为markdown的按钮，因为现在大家都在这么干，这样用AI会更方便。
+
+Wǒ jué de zhè shì ge hǎo zhǔ yì, tǐ yàn yě bù cuò, shì wǒ men xiǎng tí gōng gěi yòng hù de gōng néng.
+我觉得这是个好主意，体验也不错，是我们想提供给用户的功能。
+
+Dàn zhè shì ràng wǒ yā lì hěn dà, yīn wèi wǒ men wén dàng de liú liàng yǐ jīng cóng fēng zhí diào le dà yuē 40% le, jǐn guǎn Tailwind de shòu huān yíng chéng dù, shì liú liàng fēng zhí shí de sān bèi.
+但这事让我压力很大，因为我们文档的流量已经从峰值掉了大概40%了，尽管Tailwind的受欢迎程度，是流量峰值时的三倍。
+
+Ér yòng hù liǎo jiě wǒ men fù fèi chǎn pǐn de wéi yī qú dào, jiù shì tōng guò wén dàng, zhè shì wǒ men quán bù de fēn fā qú dào.
+而用户了解我们付费产品的唯一渠道，就是通过文档，这是我们全部的分发渠道。
+
+Zhǐ yǒu dāng rén men mǎi le wǒ men de chǎn pǐn, wǒ men cái yǒu qián qù yǎng huó rén, lái wéi hù zhè ge miǎn fèi de kāi yuán kuàng jià.
+只有当人们买了我们的产品，我们才有钱去养活人，来维护这个免费的开源框架。
+
+Suǒ yǐ rú guǒ yīn wèi rén men dōu yī lài dà yuán mó xíng qù pá qǔ markdown jiē kǒu zhī lèi de, dǎo zhì gèng shǎo de rén lái kàn wén dàng, nà jiù yì wèi zhe gèng shǎo de rén huì zhī dào wǒ men de fù fèi chǎn pǐn, yīn wèi xiàn zài de markdown wén jiàn běn shēn bìng bù huì gào su rén men wǒ men hái yǒu shāng yè chǎn pǐn.
+所以如果因为人们都依赖大语言模型去爬取markdown接口之类的，导致更少的人来看文档，那就意味着更少的人会知道我们的付费产品，因为现在的markdown文件本身并不会告诉人们我们还有商业产品。
+
+Zǒng zhī yǒu rén tí le zhè ge PR, fàng le yī duàn shí jiān, rán hòu jiù bù duàn yǒu rén huí fù shuō, zhè shì zěn me kǎ zhù le, zěn me hái méi rén hé bìng.
+总之有人提了这个PR，放了一段时间，然后就不断有人回复说，这事怎么卡住了，怎么还没人合并。
+
+Wa, nǐ men zěn me huí shì, jiù shì nà zhǒng diǎn xíng de, lǐ suǒ dāng rán de kāi yuán shè qū de pì huà.
+哇，你们怎么回事，就是那种典型的，理所当然的开源社区的屁话。
+
+Zuó tiān wǒ kàn dào zuì xīn yī tiáo bào yuàn, wǒ men wèi shén me bù hé bìng de píng lùn, yǒu diǎn shàng tóu jiù qù huí fù le.
+昨天我看到最新一条抱怨，我们为什么不合并的评论，有点上头就去回复了。
+
+Wǒ jù tǐ zěn me shuō de jì bù qīng le, dàn dà yì shì, "Hēi, wǒ men xiàn zài méi jīng lì yōu xiān chǔ lǐ zhè ge, wǒ men xiàn zài bì xū zhuān zhù yú zuò néng bāng gōng sī zhuàn qián de shì, fǒu zé zhè ge kuàng jià jiù méi fǎ chí xù xià qù le.
+我具体怎么说的记不清了，但大意是，“嘿，我们现在没精力优先处理这个，我们现在必须专注于做能帮公司赚钱的事，否则这个框架就没法持续下去了。
+
+ér qiě zuò zhè ge gōng néng, hái yǒu kě néng huì ràng wǒ men de shōu rù biàn dé gèng shǎo, wǒ men xiàn zài méi fǎ yōu xiān kǎo lǜ zhè zhǒng gōng zuò.
+而且做这个功能，还有可能会让我们的收入变得更少，我们现在没法优先考虑这种工作。
+
+Suǒ yǐ wǒ zàn shí guān bì le zhè ge PR.
+所以我暂时关闭了这个PR。
+
+Dāng rán píng lùn qū yī duī rén jiù bù shuǎng le, shuō shén me, Wa, zhè duì shè qū tài bù yǒu hǎo le, nǐ men jiù zhǐ xiǎng zhe zhuàn qián, tài shī wàng le zhī lèi de.
+当然评论区一堆人就不爽了，说什么，哇，这对社区太不友好了，你们就只想着赚钱，太失望了之类的。
+
+Zuó wǎn wǒ xiě le yī dà duàn huí fù, jī běn yì sī jiù shì, "Xíng le, shǎ bī men, tīng hǎo le, wǒ men zhè zhōu yī gāng cái le sān ge rén, yīn wèi shōu rù yī zhí zài jiàng.
+昨晚我写了一大段回复，基本意思就是，“行了，傻逼们，听好了，我们这周一刚裁了三个人，因为收入一直在降。
+
+Wǒ měi huā yī miǎo zhōng qù review yī ge gěi wǎng zhàn jiā LM wén dàng gōng néng de PR, jiù shǎo le yī miǎo zhōng qù xiǎng bàn fǎ niǔ zhuǎn gōng sī de shōu rù, hǎo ràng wǒ men néng jì xù gěi shèng xià de rén fā gōng zī.
+我每花一秒钟去review一个给网站加LLM文档功能的PR，就少了一秒钟去想办法扭转公司的收入，好让我们能继续给剩下的人发工资。
+
+ér qiě zhè ge gōng néng shí jì shàng, hái yǒu kě néng jìn yī bù jiǎn shǎo wǒ men de shōu rù.
+而且这个功能实际上，还有可能进一步减少我们的收入。
+
+suī rán wǒ hěn xǐ huān zhè ge gōng néng de xiǎng fǎ, dàn rú guǒ yào shí xiàn tā, wǒ men bì xū xiān jiě jué yī ge wèn tí, zěn me zài shí xiàn tā de tóng shí, bù jìn yī bù de mái mò hé yǐn cáng wǒ men shāng yè chǎn pǐn de cún zài.
+虽然我很喜欢这个功能的想法，但如果要实现它，我们必须先解决一个问题，怎么在实现它的同时，不进一步的埋没和隐藏我们商业产品的存在。
+
+Zài wǒ kàn lái, wéi yī néng ràng dà yuán mó xíng bù zhí jiē hū lüè diào zhè xiē xìn xī de fāng fǎ, jiù shì xiǎng bàn fǎ bǎ shāng yè chǎn pǐn de xìn xī, yǐ yī zhǒng yǒu yòng de fāng shì, zhěng hé dào wén dàng lǐ, zhè yàng dà yuán mó xíng cái kě néng huì gào su yòng hù, shùn biàn shuō yī xià, hǎo xiàng yǒu zhè me ge dōng xī cún zài, rú guǒ nǐ xū yào gèng duō bāng zhù, kě néng huì duì nǐ yǒu yòng.
+在我看来，唯一能让大语言模型不直接忽略掉这些信息的方法，就是想办法把商业产品的信息，以一种有用的方式，整合到文档里，这样大语言模型才可能会告诉用户，顺便说一下，好像有这么个东西存在，如果你需要更多帮助，可能会对你有用。
+
+Zhè shì lǐ xiǎng qíng kuàng, dàn wèn tí shì, yào zài wǎng zhàn shàng jǐ bǎi ge yè miàn lǐ, zhēn duì měi ge yè miàn jù tǐ qíng kuàng, qù gǎo qīng chǔ zěn me zuò bìng zhí xíng, hǎo, shì ge dà gōng chéng.
+这是理想情况，但问题是，要在网站上几百个页面里，针对每个页面具体情况，去搞清楚怎么做并执行，好，是个大工程。
+
+Hěn nán, ér qiě wǒ yě bù zhī dào zhè me zuò de tóu zī huí bào lǜ néng mǎ shàng tǐ xiàn chū lái duō shǎo.
+很难，而且我也不知道这么做的投资回报率能马上体现出来多少。
+
+Suǒ yǐ hěn nán bǎ tā pái zài yōu xiān wèi zhì.
+所以很难把它排在优先位置。
+
+Zhè jiù shì wèi shén me wǒ yào guān bì zhè ge PR, yīn wèi tā bù shì wǒ xiàn zài xiǎng zài wǎng zhàn shàng shí xiàn zhè ge gōng néng de fāng shì.
+这就是为什么我要关闭这个PR，因为它不是我现在想在网站上实现这个功能的方式。
+
+Zài shuō yī cì, rú guǒ wǒ néng huī huì mó zhàng, wǒ dāng rán xī wàng tā néng mǎ shàng shàng xiàn, bìng qiě jiě jué diào nà ge wèn tí.
+再说一次，如果我能挥挥魔杖，我当然希望它能马上上线，并且解决掉那个问题。
+
+Dàn wǒ xiàn zài méi shí jiān huā zài zhè shàng miàn, wǒ bì xū bǎ shí jiān huā zài gǎi jìn Tailwind Plus zhè ge chǎn pǐn shàng, xiǎng bàn fǎ wèi tā zhǎo dào gèng duō kè hù.
+但我现在没时间花在这上面，我必须把时间花在改进Tailwind Plus这个产品上，想办法为它找到更多客户。
+
+Yě xǔ zhè běn shēn jiù shì zhǎo dào gèng duō kè hù de fāng fǎ zhī yī, wǒ tā mā yě bù zhī dào.
+也许这本身就是找到更多客户的方法之一，我他妈也不知道。
+
+Dàn GitHub shàng nà bāng rén tā mā de jiù jué de, zhǐ yào nǐ bù hé bìng tā mā de PR, jiù shì gēn tā ge rén yǒu chóu.
+但GitHub上那帮人他妈的就觉得，只要你不合并他妈的PR，就是跟他个人有仇。
+
+Kě xiàn shí shì, nàr yǒu liù bǎi duō ge PR, ér wǒ men de shí jiān hé jīng lì jiù nà me diǎn.
+可现实是，那儿有六百多个PR，而我们的时间和精力就那么点。
+
+Zài wǒ men xiàn zài zhè zhǒng qíng kuàng xià, wǒ men bì xū fēi cháng wú qíng de huà fēn yōu xiān jí, jí shǐ shì wǒ men jué dìng yào zuò de nèi xiē shì, yě bì xū xiǎng bàn fǎ yǐ zuì kuài de sù dù jiāo fù, bù néng yī bù xiǎo xīn jiù xiàn rù yī xiē wèi le jiāo fù ér zuò de xiǎo rèn wù lǐ.
+在我们现在这种情况下，我们必须非常无情的划分优先级，即使是我们决定要做的那些事，也必须想办法以最快的速度交付，不能一不小心就陷入一些为了交付而做的小任务里。
+
+Huò zhě shuō yào xiǎng bàn fǎ ràng yī xiē gōng zuò biàn dé bù bì yào, zhè yàng wǒ men cái néng zhuān zhù yú zhēn zhèng néng dài lái zuì gāo huí bào de shì qíng shàng.
+或者说要想办法让一些工作变得不必要，这样我们才能专注于真正能带来最高回报的事情上。
+
+Zài shuō yī biàn, bù shì yīn wèi wǒ shì ge tān lán de hùn dàn, xiǎng zhuàn jìn kě néng duō de qián, ér shì yīn wèi wǒ men de shōu rù zhèng zài qū xiàng yú líng, wǒ gāng gāng cái diào le wǒ zhè bèi zi jiàn guò de sān ge zuì yǒu cái huá de rén, wǒ bù xiǎng qíng kuàng biàn dé gèng zāo.
+再说一遍，不是因为我是个贪婪的混蛋，想赚尽可能多的钱，而是因为我们的收入正在趋向于零，我刚刚裁掉了我这辈子见过的三个最有才华的人，我不想情况变得更糟。
+
+Suǒ yǐ jiù zhè yàng ba, zhè jiù shì wǒ shuō de, zhè qī bō kè bù huì tí gōng shén me jià zhí, wǒ jiù shì tā mā de zài páo xiào hé mà rén, yīn wèi zhè zhōu què shí bù hǎo guò.
+所以就这样吧，这就是我说的，这期播客不会提供什么价值，我就是他妈的在咆哮和骂人，因为这周确实不好过。
+
+Wǒ hěn qíng xù huà, duì shì qíng de fǎn yìng yě hěn qíng xù huà, zuì zhōng wǒ shèn zhì bǎ Tailwind CSS de cāng kù shè chéng le sī yǒu, jiù shì wèi le zàn shí bù yòng chǔ lǐ rèn hé issue hé PR.
+我很情绪化，对事情的反应也很情绪化，最终我甚至把Tailwind CSS的仓库设成了私有，就是为了暂时不用处理任何issue和PR。
+
+Shuì le yī jiào zhī hòu, wǒ kě néng huì gǎi biàn zhè ge jué dìng, dàn lián wǒ zì jǐ dōu zài shuì yī jiào hòu kě néng gǎi biàn zhǔ yì zhè ge shì shí, běn shēn jiù shuō míng le wǒ zhè zhōu de qíng xù yǒu duō bù wěn dìng, yīn wèi zhè zhōu jiù shì zhè me ge cāo dàn de xīng qī.
+睡了一觉之后，我可能会改变这个决定，但连我自己都在睡一觉后可能改变主意这个事实，本身就说明了我这周的情绪有多不稳定，因为这周就是这么个操蛋的星期。
+
+Suǒ yǐ qíng kuàng jiù shì zhè yàng le, wǒ jué de wǒ zhī qián kě néng yě tí guò yī diǎn, zhěng jiàn shì duì wǒ lái shuō zuì nán de yī diǎn shì, wǒ gǎn jué zì jǐ xiàng ge tā mā de shǎ zi.
+所以情况就是这样了，我觉得我之前可能也提过一点，整件事对我来说最难的一点是，我感觉自己像个他妈的傻子。
+
+Wǒ jū rán néng zuò chū zhè me yī gè fēng mí quán qiú, dào chù dōu zài yòng de CSS kuàng jià, jié guǒ què gǎo bù dìng zěn me ràng tā zhuàn dào zú gòu yǎng huó bā ge rén de qián.
+我居然能做出这么一个风靡全球，到处都在用的CSS框架，结果却搞不定怎么让他赚到足够养活八个人的钱。
+
+Bā ge rén gēn běn jiù bù duō, zhè zhǒng xiǎng fǎ yī zhí zài nǎo zi lǐ pán xuán, ràng nǐ jué de zì jǐ zhēn shì ge chè tóu chè wěi de bái chī.
+八个人根本就不多，这种想法一直在脑子里盘旋，让你觉得自己真是个彻头彻尾的白痴。
+
+Suǒ yǐ xī wàng wǒ men néng gǎo dìng ba.
+所以希望我们能搞定吧。
+
+Bù guǎn zěn yàng, wǒ dà yuē hái yǒu bù dào shí fēn zhōng jiù dào jiā le, suǒ yǐ wǒ xiǎng yòng bō kè shèng xià de zhè diǎn shí jiān, liáo yī liáo wǒ men bù dé bù cái diào de jǐ wèi tóng shì, tā men hěn kuài jiù yào zhǎo xīn gōng zuò le.
+不管怎样，我大概还有不到十分钟就到家了，所以我想用播客剩下的这点时间，聊一聊我们不得不裁掉的几位同事，他们很快就要找新工作了。
+
+Wǒ bù zhī dào tā men jù tǐ de jì huà shì shén me, dàn wǒ xiàng tā men bǎo zhèng guò, yě xiǎng jìn wǒ suǒ néng bāng tā men zhǎo dào zhēn zhèng hǎo de, ràng tā men xīng fèn de gōng zuò.
+我不知道他们具体的计划是什么，但我向他们保证过，也想尽我所能帮他们找到真正好的，让他们兴奋的工作。
+
+Yě xǔ tīng zhè ge bō kè de rén jiù zài yī jiā hěn kù de gōng sī gōng zuò, ér qiě zhèng zài zhāo fēi cháng yǒu cái huá de gōng chéng shī, suǒ yǐ wǒ jiù jiǎn dān jiè shào yī xià zhè jǐ wèi xiōng dì, xī wàng néng duì tā men yǒu bāng zhù, yě xī wàng rú guǒ nǐ zhèng zài zhāo pìn, yě xǔ tā men zhōng de mǒu yī wèi huì fēi cháng shì hé nǐ de gōng sī.
+也许听这个播客的人就在一家很酷的公司工作，而且正在招非常有才华的工程师，所以我就简单介绍一下这几位兄弟，希望能对他们有帮助，也希望如果你正在招聘，也许他们中的某一位会非常适合你的公司。
+
+Shǒu xiān shì Philip, tā yī nián bàn qián jiā rù wǒ men, dān rèn tuán duì de gōng chéng shī, lái wǒ men zhè qián tā zài Sourcegraph gōng zuò, zhī qián zài Facebook de React hé xīn tuán duì.
+首先是Philip，他一年半前加入我们，担任团队的工程师，来我们这之前他在Sourcegraph工作，之前在Facebook的React核心团队。
+
+Oh bù duì, wǒ bù què dìng tā zài Facebook shì bù shì quán zhí zuò React de hé xīn tuán duì chéng yuán, wǒ jì de tā hǎo xiàng yě zuò guò Facebook Workplace hé qí tā yī xiē xiàng mù.
+哦不对，我不确定他在Facebook是不是全职做React的核心团队成员，我记得他好像也做过Facebook Workplace和其他一些项目。
+
+Dàn zhè ge gē men jiǎn zhí shì ge tiān cái, tā shì Torsen bāo tuī jiàn gěi wǒ de, rú guǒ nǐ wán Twitter, nǐ kě néng rèn shi Torsen, tā yě shì ge tiān cái gōng chéng shī, tā gēn wǒ shuō Philip shì tā hé zuò guò zuì yōu xiù de rén zhī yī, wǒ jiù shì zhè me zhǎo dào bìng gù yòng le Philip.
+但这个哥们简直是个天才，他是Torsen包推荐给我的，如果你玩Twitter，你可能认识Torsen，他也是个天才工程师，他跟我说Philip是他合作过最优秀的人之一，我就是这么找到并雇用了Philip。
+
+Tā zài wǒ men gōng sī jǐ hū shì lì kè jiù néng shàng shǒu, shén me dōu néng gàn.
+他在我们公司几乎是立刻就能上手，什么都能干。
+
+Tā zuò guò Tailwind de hé xīn kù, zuì jìn hái gòu jiàn le Tailwind Plus de Elements kù, tā wèi wǒ men zhèng zài zuò de Tailwind Plus xīn shè jì, kāi fā le gè zhǒng fēng kuáng de qián duān iframe, xiǎng yìng shì suō fàng, zǔ jiàn yù lǎn jiè miàn.
+他做过Tailwind的核心库，最近还构建了Tailwind Plus的Elements库，他为我们正在做的Tailwind Plus新设计，开发了各种疯狂的前端iframe，响应式缩放，组件预览界面。
+
+Tā jī běn shàng wú suǒ bù néng, gōng zuò xiào lǜ chāo gāo, ér qiě shì AI de zhòng dù yòng hù, kàn tā wán AI tè bié yǒu yì sī.
+他基本上无所不能，工作效率超高，而且是AI的重度用户，看他玩AI特别有意思。
+
+Tā zǒng shì zǒu zài jì shù qián yán, chōng mǎn hào qí xīn, bù duàn xué xí, tā gōu tōng néng lì chāo bàng, yǒu fēi cháng hǎo de shāng yè hé chǎn pǐn xiù jué, bǐ yī bān gōng chéng shī qiáng duō le.
+他总是走在技术前沿，充满好奇心，不断学习，他沟通能力很棒，有非常好的商业和产品嗅觉，比一般工程师强多了。
+
+Tā zǒng shì zài wèn, zhè dōng xī zěn me wèi yè wù chuàng zào jià zhí, zhè huó er zhí dé zuò ma, gēn jù wǒ men néng dé dào de huí bào, zài zhè shàng miàn tóu rù chāo guò X tiān de shí jiān hé lǐ ma.
+他总是在问，这东西怎么为业务创造价值，这活儿值得做吗，根据我们能得到的回报，在这上面投入超过X天的时间合理吗。
+
+Tā sī kǎo wèn tí de fāng shì, jiù shì rèn hé yī gè lǎo bǎn dōu xī wàng gōng chéng shī néng yǒu de sī kǎo fāng shì, gēn tā hé zuò jué duì shì yī zhǒng xiǎng shòu.
+他思考问题的方式，就是任何一个老板都希望工程师能有的思考方式，跟他合作绝对是一种享受。
+
+Wǒ shèn zhì dōu shuō bù chū tā zài nǎ xiē tè dìng lǐng yù yǒu zhuān cháng, yīn wèi tā shén me dōu néng zuò, tā jiù shì ge cōng míng rén, zhī dào zěn me ràng diàn nǎo àn tā de xiǎng fǎ gōng zuò, ér qiě tā rén yě tè bié hǎo, shì ge hěn bàng de tóng shì, wǒ ài Philip, qī dài kàn dào tā jiē xià lái de fā zhǎn.
+我甚至都说不出他在哪些特定领域有专长，因为他什么都能做，他就是个聪明人，知道怎么让电脑按他的想法工作，而且他人也特别好，是个很棒的同事，我爱Philip，期待看到他接下来的发展。
+
+Xià yī wèi shì wǒ men tuán duì de Jordan, hěn duō nián qián tā céng jīng shì LiveR Mix de yī ge gāo jí gòng xiàn zhě, nà yě shì yī ge gòu jiàn gōng jù, nǐ kàn wǒ men zuò de shì qíng dōu yǒu diǎn lèi sì, wǒ jiù shì nà me rèn shi Jordan de.
+下一位是我们团队的Jordan，很多年前他曾经是LiveR Mix的一个高级贡献者，那也是一个构建工具，你看我们做的事情都有点类似，我就是那么认识Jordan的。
+
+Tiān a, zhè jiā huo nǎo zi lǐ zhuāng de nèi xiē shén mì yòu shēn ào de zhī shi, bǐ wǒ jiàn guò de rèn hé rén dōu duō.
+天啊，这家伙脑子里装的那些神秘又深奥的知识，比我见过的任何人都多。
+
+Rú guǒ wǒ men yù dào shén me méi rén dǒng de qí guài bug, tā zǒng néng gěi chū dá àn, "O, shì de, zhè shì Safari huò zhě WebKit yǐn qíng lǐ de yī ge bug, huì dǎo zhì zhè yàng nà yàng de wèn tí, wǒ zhī dào zhè shì, liàn jiē zài zhè lǐ."
+如果我们遇到什么没人懂的奇怪bug，他总能给出答案，“哦，是的，这是Safari或者WebKit引擎里的一个bug，会导致这样那样的问题，我知道这个，链接在这里。”
+
+Ér qiě zhè xiē dōng xī bù shì tā qù yán jiū cái zhǎo dào de, shì tā běn lái jiù zhī dào, tā jiù shì shén me dōu zhī dào.
+而且这些东西不是他去研究才找到的，是他本来就知道，他就是什么都知道。
+
+Wǒ zhè bèi zi cóng lái méi jiàn guò rèn hé rén néng xiàng tā yī yàng, miàn duì yī gè wán quán mò shēng de, cóng wèi jiàn guò de dài mǎ kù, zhí jiē tiào jìn qù jiù néng gǎo míng bái zěn me yòng.
+我这辈子从来没见过任何人能像他一样，面对一个完全陌生的，从未见过的代码库，直接跳进去就能搞明白怎么用。
+
+Gēn wǒ bǐ, rú guǒ nǐ bǎ wǒ rēng jìn yī ge wǒ méi jiàn guò de dài mǎ kù, wǒ huì jué de yā lì hěn dà, shèn zhì yǒu diǎn hài pà.
+跟我比，如果你把我扔进一个我没见过的代码库，我会觉得压力很大，甚至有点害怕。
+
+Zhè jiā huo duì rèn hé dài mǎ kù dōu háo wú wèi jù, rú guǒ wǒ men xiǎng xiū fù shàng yóu mǒu ge kù lǐ de wèn tí, huò zhě xiǎng xiū fù mǒu ge kuàng jià huò gōng jù lǐ de wèn tí, lái gǎi shàn yǔ Tailwind de jiān róng xìng, tā jué duì shì chǔ lǐ zhè zhǒng shì de bù èr rén xuǎn.
+这家伙对任何代码库都毫无畏惧，如果我们想修复上游某个库里的问题，或者想修复某个框架或工具里的问题，来改善与Tailwind的兼容性，他绝对是处理这种事的不二人选。
+
+Tā huì háo wú wèi jù de zhā jìn nèi xiē dài mǎ kù, zhǎo dào wèn tí, rán hòu tí jiāo yī ge PR jiù gǎo dìng le.
+他会毫无畏惧地扎进那些代码库，找到问题，然后提交一个PR就搞定了。
+
+Wǒ gǎn jué, zhè jiā huo jiǎn zhí jiù shì AI chū xiàn zhī qián de rén ròu, wǒ zhēn de méi jiàn guò rèn hé rén néng xiàng tā yī yàng, nà me kuài, nà me kě kào de pái chá hé zhěn duàn wèn tí.
+我感觉，这家伙简直就是AI出现之前的人肉，我真的没见过任何人能像他一样，那么快，那么可靠的排查和诊断问题。
+
+ér qiě tā de zhī shi miàn guǎng de xià rén, bǐ rú tā zuò guò wǒ men de React kù, headless UI, dàn rú guǒ wǒ men yù dào xì tǒng guǎn lǐ huò fú wù qì wèn tí, tā yě shì wǒ men dì yī ge huì qù zhǎo de rén.
+而且他的知识面广的吓人，比如他做过我们的React库，headless UI，但如果我们遇到系统管理或服务器问题，他也是我们第一个会去找的人。
+
+Tā shén me dōu néng zuò, zhēn de shì ge fēi cháng fēi cháng cōng míng de rén, wǒ cóng lái méi yǒu rēng gěi tā yī ge tā zhěn duàn bù chū lái huò zhě zhǎo bù dào jiě jué fāng àn de wèn tí.
+他什么都能做，真的是个非常非常聪明的人，我从来没有扔给他一个他诊断不出来或者找不到解决方案的问题。
+
+Suǒ yǐ wǒ yě huì hěn xiǎng niàn hé Jordan yī qǐ gōng zuò de rì zi, dàn tā zài rèn hé gōng sī dōu huì shì jù dà de cái fù, tā zhēn de shì ge fēi cháng cōng míng de jiā huo.
+所以我也会很想念和Jordan一起工作的日子，但他在任何公司都会是巨大的财富，他真的是个非常聪明的家伙。
+
+Tā pái chá hé zhěn duàn wèn tí de néng lì, yǐ jí zài mò shēng dài mǎ kù lǐ gōng zuò de néng lì, wǒ zěn me kuā dōu bù guò fèn, zhēn de shì ge fēi cháng yǒu tiān fù de rén.
+他排查和诊断问题的能力，以及在陌生代码库里工作的能力，我怎么夸都不过分，真的是个非常有天赋的人。
+
+Zuì hòu shì wǒ men tuán duì de Dan, tā zhè lǐ de jué sè shì shè jì gōng chéng shī, wǒ tā mā tài ài Dan le.
+最后是我们团队的Dan，他这里的角色是设计工程师，我他妈太爱Dan了。
+
+Shuō zhēn de, tā shì ge fēi cháng yǒu cái huá de shè jì shī, yě shì ge néng lì hěn qiáng de gōng chéng shī.
+说真的，他是个非常有才华的设计师，也是个能力很强的工程师。
+
+Tā jiě jué wèn tí de néng lì chāo qiáng, jī běn shàng bù huì bèi rèn hé shì qíng kǎ zhù huò nán zhù, tā zǒng néng xiǎng bàn fǎ gǎo dìng, jí shǐ nèi xiē shì wán quán chāo chū le tā de zhuān yè fàn wéi.
+他解决问题的能力超强，基本上不会被任何事情卡住或难住，他总能想办法搞定，即使那些事完全超出了他的专业范围。
+
+Tā hái shì yī ge jí jù tiān fù de jiào yù zhě hé zuò zhě, shuō shí huà, zhè zhèng shì wǒ zuì xiǎng hé tā hé zuò de yī diǎn, yīn wèi zhè ge jì néng tài xī yǒu le.
+他还是一个极具天赋的教育者和作者，说实话，这正是我最想和他合作的一点，因为这个技能太稀有了。
+
+Rú guǒ nǐ zài tuī tè shàng jiàn guò Dan, huò zhě méi zhù yì dào tā, dàn zhǐ yào nǐ jiàn guò nà zhǒng bìng dú shì chuán bō de, dài yǒu hěn duō děng zhóu cè huì tú hé tú biǎo de tuī wén chuàn, 90% de kě néng shì Dan zuò de.
+如果你在推特上见过Dan，或者没注意到他，但只要你见过那种病毒式传播的，带有很多等轴测绘图和图表的推文串，90%的可能都是Dan做的。
+
+Wǒ jué de Dan zài zhǎo xià yī fèn gōng zuò qián, huì xiān xiū xī yī zhèn zi, yīn wèi tā zhèng zài xiě yī běn shū, wǎng zhǐ shì Making Software Calk, nà běn shū jiù xiàng shì yī ge dú lì de wén zhāng hé lùn wén jí, yòng gè zhǒng tú biǎo shēn rù jiǎng jiě jì suàn jī hé ruǎn jiàn lǐ bù tóng dōng xī de gōng zuò yuán lǐ.
+我觉得Dan在找下一份工作前，会先休息一阵子，因为他正在写一本书，网址是Making Software Calk，那本书就像是一个独立的文章和论文集，用各种图表深入讲解计算机和软件里不同东西的工作原理。
+
+Bǐ rú dà yuē mó xíng shì zěn me gōng zuò de, diàn nǎo xiǎn shì qì shì zěn me gōng zuò de, huò zhě Ouch color xì tǒng shì zěn me gōng zuò de.
+比如大语言模型是怎么工作的，电脑显示器是怎么工作的，或者Ouch颜色系统是怎么工作的。
+
+Tā shēn rù yán jiū le hěn duō dōng xī, bìng xiǎng bàn fǎ jiě shì gěi bié rén tīng, wǒ jué de zhè huì shì ge hěn yǒu qù de zī yuán, wǒ hěn qī dài kàn dào tā néng zuò chū shén me lái.
+他深入研究了很多东西，并想办法解释给别人听，我觉得这会是个很有趣的资源，我很期待看到他能做出什么来。
+
+Hé tā hé zuò fēi cháng yú kuài, tā shì ge chāo jí yǒu cái huá de shè jì shī, ér qiě shì yī ge zhēn zhèng dǒng gōng chéng de shè jì shī, néng qīn zì dòng shǒu zuò gōng chéng.
+和他合作非常愉快，他是个超级有才华的设计师，而且是一个真正懂工程的设计师，能亲自动手做工程。
+
+Bǐ rú tā shì gōng sī lǐ wǒ men zuì xìn rèn de néng qù gǎo wǒ men zì dìng yì yǔ fǎ gāo liàng zhǔ tí de rén, yīn wèi tā zhī dào gāi xuǎn shén me yán sè, tā míng bái, zhù shì méi yǒu hán shù míng zhòng yào, zhè duì yī ge bù dǒng gōng chéng de shè jì shī lái shuō, shì hěn nán zuò dào de.
+比如他是公司里我们最信任的能去搞我们自定义语法高亮主题的人，因为他知道该选什么颜色，他明白，注释没有函数名重要，这对一个不懂工程的设计师来说，是很难做到的。
+
+Dàn zhēn de shén me dōu néng zuò, ér qiě tài dù zǒng shì tè bié hǎo, tā bāng wǒ men xiě le dà yuē yī bàn de jiǎ nèi róng, yōu mò gǎn chāo qiáng.
+但真的什么都能做，而且态度总是特别好，他帮我们写了大概一半的假内容，幽默感超强。
+
+Tā wèi wǒ men shè jì le dà liàng de dōng xī, yóu qí shì zài Tailwind 4 de pǐn pái chóng sù hé xīn wài guān shàng bāng le dà máng, tā hái wèi Tailwind 4 shè jì le suǒ yǒu xīn de P3 yán sè, shèn zhì wèi le tiāo xuǎn hé yù lǎn zhè xiē yán sè, zì jǐ zuò le zhěng tào dìng zhì gōng jù.
+他为我们设计了大量的东西，尤其是在Tailwind 4的品牌重塑和新外观上帮了大忙，他还为Tailwind 4设计了所有新的P3颜色，甚至为了挑选和预览这些颜色，自己做了整套定制工具。
+
+Wǒ bù zhī dào hái néng zěn me kuā Dan le, néng zhǎo dào yī ge zhēn zhèng dǒng gōng chéng, zhī dào rú hé zài méi jiè de xiàn zhì xià gōng zuò, bìng qiě huì zì jǐ kāi fā gōng jù, lái jiě jué zì jǐ wèn tí de shè jì shī, tài nán dé le.
+我不知道还能怎么夸Dan了，能找到一个真正懂工程，知道如何在媒介的限制下工作，并且会自己开发工具，来解决自己问题的设计师，太难得了。
+
+ér qiě tā zǒng shì zǒu zài zuì qián yán, yě shì yī ge xǐ huān wán AI, xiǎng bàn fǎ bǎ zhè xiē dōng xī jié hé qǐ lái de rén, wǒ men zuì jìn zuò de kè chéng píng tái lǐ, nèi xiē jiǎ de cǎi fǎng shì pín, dōu shì tā zuò de.
+而且他总是走在最前沿，也是一个喜欢玩AI，想办法把这些东西结合起来的人，我们最近做的课程平台里，那些假的采访视频，都是他做的。
+
+Bù néng hé Dan yī qǐ gōng zuò le, wǒ yě huì fēi cháng nán guò.
+不能和Dan一起工作了，我也会非常难过。
+
+Suǒ yǐ, rú guǒ nǐ zài yī jiā hěn kù de gōng sī gōng zuò, bìng qiě zhèng zài zhāo pìn fēi cháng yǒu cái huá de rén, huān yíng zhí jiē lián xì tā men, huò zhě lián xì wǒ yě xíng, wǒ hěn lè yì wèi tā men suǒ yǒu rén tí gōng rè qíng yáng yì de tuī jiàn.
+所以，如果你在一家很酷的公司工作，并且正在招聘非常有才华的人，欢迎直接联系他们，或者联系我也行，我很乐意为他们所有人提供热情洋溢的推荐。
+
+Zǒng zhī qíng kuàng jiù shì zhè yàng, zhè shì duǎn hēi àn de shí qī, shì hēi àn de yī zhōu, dàn wǒ réng rán lè guān, zhè kěn dìng suàn shì yī cì chóng zhì.
+总之情况就是这样，这是段黑暗的时期，是黑暗的一周，但我仍然乐观，这肯定算是一次重置。
+
+Shì de wǒ bù zhī dào, wǒ hěn lè guān, duì wǒ men zhèng zài zuò de shì qíng gǎn dào xīng fèn, dàn zhè bìng bù néng gǎi biàn wǒ men zhè zhōu bù dé bù zuò chū de gǎi biàn, zhè xiē gǎi biàn zhēn de ràng rén jǔ sàng hé cuò bài, dàn méi bàn fǎ, zuò shēng yì jiù shì hěn nán, bǐ tā mā de biān chéng nán duō le.
+是的我不知道，我很乐观，对我们正在做的事情感到兴奋，但这并不能改变我们这周不得不做出的改变，这些改变真的让人沮丧和挫败，但没办法，做生意就是很难，比他妈的编程难多了。
+
+Wǒ gēn nǐ shuō, hǎo le, yǐng yòng Kaleb Perzio de huà shuō, huí tóu jiàn.
+我跟你说，好了，引用Kaleb Perzio的话说，回头见。
+
+Duì bù qǐ.
+对不起。

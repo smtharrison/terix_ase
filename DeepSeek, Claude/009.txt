@@ -1,0 +1,407 @@
+Jīn tiān wǒ men yào jiě dú de shì, Claude Skills wán quán zhǐ nán, 2025 nián 12 yuè, zhè piān wén dàng xì tǒng shū lǐ de Claude Skills de hé xīn gài niàn, jì shù jià gòu hé shí jiàn fāng fǎ.
+今天我们要解读的是，Claude Skills完全指南，2025年12月，这篇文档系统梳理的Claude Skills的核心概念、技术架构和实践方法。
+
+Cóng yán jiū bèi jǐng lái kàn, suí zhe dà yuē mó xíng zài qǐ yè chǎng jǐng de shēn rù yìng yòng, yòng hù hé kāi fā zhě miàn lín sān ge guān jiàn tòng diǎn.
+从研究背景来看，随着大语言模型在企业场景的深入应用，用户和开发者面临三个关键痛点。
+
+Yī shì chóng fù xìng gōng zuò de dī xiào, bǐ rú měi cì shēng chéng bào gào de chóng fù shuō míng gé shì yāo qiú.
+一是重复性工作的低效，比如每次生成报告的重复说明格式要求。
+
+Èr shì shàng xià wén chuāng kǒu de làng fèi, chuán tǒng fāng shì zhōng suǒ yǒu zhǐ lìng dōu zhàn yòng bǎo guì de shàng xià wén zī yuán.
+二是上下文窗口的浪费，传统方式中所有指令都占用宝贵的上下文资源。
+
+Sān shì zhuān yè lǐng yù zhī shi de fù yōng kùn nán, xiàng yī liáo zhěn duàn liú chéng, fǎ lǜ wén shū shěn chá zhè lèi jié gòu huà zhī shi nán yǐ gāo xiào gòng xiǎng.
+三是专业领域知识的附庸困难，像医疗诊断流程、法律文书审查这类结构化知识难以高效共享。
+
+Zhè piān zhǐ nán de yán jiū mù dì zhèng shì tōng guò tí chū Claude Skills zhè yī mó kuài huà néng lì kuò zhǎn jī zhì, xì tǒng xìng jiě jué zhè xiē wèn tí.
+这篇指南的研究目的正是通过提出Claude Skills这一模块化能力扩展机制，系统性解决这些问题。
+
+Qí hé xīn jià zhí zài yú shí xiàn zhī shi de gāo xiào fù yòng, jiàng dī Token xiāo hào, tí shēng mó xíng zài zhuān yè lǐng yù de yìng yòng shēn dù.
+其核心价值在于实现知识的高效复用，降低Token消耗，提升模型在专业领域的应用深度。
+
+Wǒ men xiān lái kàn hé xīn gài niàn bù fèn.
+我们先来看核心概念部分。
+
+Claude Skills kě yǐ dìng yì wéi mó kuài huà de néng lì, bāo hán zhǐ lìng, yuán shù jù hé kě xuǎn zī yuán.
+Claude Skills可以定义为模块化的能力，包含指令、元数据和可选资源。
+
+Ràng Claude zài xū yào shí zì dòng jiā zǎi hé shǐ yòng, cóng tōng sú jiǎo dù lǐ jiě.
+让Claude在需要时自动加载和使用，从通俗角度理解。
+
+Tā jiù xiàng shì gěi Claude zhǔn bèi de gōng zuò shǒu cè kù, píng shí zhǐ xū yào zhī dào shǒu cè mù lù, xū yào shí cái dǎ kāi jù tǐ zhāng jié.
+它就像是给Claude准备的工作手册库，平时只需要知道手册目录，需要时才打开具体章节。
+
+Zhè zhǒng shè jì jì bǎo zhèng le dī chéng běn cún chǔ, yòu shí xiàn le àn xū shǐ yòng.
+这种设计既保证了低成本存储，又实现了按需使用。
+
+Cóng jì shù céng miàn kàn, Skills cǎi yòng wén jiàn xì tǒng qū dòng jià gòu.
+从技术层面看，Skills采用文件系统驱动架构。
+
+Měi ge Skill bāo hán Skill.md zhǔ wén jiàn, Scripts jiǎo běn mù lù, Reference cān kǎo wén dàng hé Assets zī yuán wén jiàn děng.
+每个Skill包含Skill.md主文件、Scripts脚本目录、Reference参考文档和Assets资源文件等。
+
+Guān jiàn jì shù tè xìng bāo kuò jī yú wén jiàn xì tǒng de Bash mìng lì fǎng wèn, jiàn jìn shì pī lù jià gòu yǐ jí mó xíng wú guān xìng.
+关键技术特性包括基于文件系统的Bash命令访问，渐进式披露架构以及模型无关性。
+
+Zhè xiē tè xìng gòng tóng zhī chēng le Skills de gāo xiào yùn xíng.
+这些特性共同支撑了Skills的高效运行。
+
+Jiē zhe kàn wèi shén me xū yào Skills.
+接着看为什么需要Skills。
+
+Dì yī ge hé xīn wèn tí shì chóng fù xìng gōng zuò de dī xiào.
+第一个核心问题是重复性工作的低效。
+
+Chuán tǒng fāng shì zhōng, yòng hù měi cì dōu yào chóng fù miáo shù gōng zuò liú chéng, ér Skills tōng guò yù dìng yì néng lì bāo, ràng Claude zì dòng zhàn yòng biāo zhǔn liú chéng.
+传统方式中，用户每次都要重复描述工作流程，而Skills通过预定义能力包，让Claude自动沿用标准流程。
+
+Bǐ rú bào gào shēng chéng Skill, zhǐ xū yào dìng yì hǎo bāo hán fēng miàn yè, shù jù fēn xī, tú biǎo shēng chéng děng bù zhòu de zhǐ lìng.
+比如报告生成Skill，只需要定义好包含封面页、数据分析、图表生成等步骤的指令。
+
+Yòng hù hòu xù zhǐ xū tí chū xū qiú jí kě.
+用户后续只需提出需求即可。
+
+Dì èr ge wèn tí shì, shàng xià wén chuāng kǒu de làng fèi.
+第二个问题是，上下文窗口的浪费。
+
+Chuán tǒng fāng shì zhōng, suǒ yǒu zhǐ lìng dōu zhàn yòng shàng xià wén, ér Skills cǎi yòng sān céng jiā zǎi jī zhì.
+传统方式中，所有指令都占用上下文，而Skills采用三层加载机制。
+
+Yuán shù jù jiē duàn jǐn xiāo hào yuē 100 ge Token.
+元数据阶段仅消耗约100个Token。
+
+Zhǐ lìng jiē duàn zài xū yào shí jiā zǎi shǎo yú 5000 de Token, zī yuán jiē duàn zé tōng guò wén jiàn xì tǒng shí xiàn jī hū wú xiàn kuò zhǎn.
+指令阶段在需要时加载少于5000的Token，资源阶段则通过文件系统实现几乎无限扩展。
+
+Dì sān ge wèn tí shì, zhuān yè lǐng yù zhī shi de fù yòng kùn nán.
+第三个问题是，专业领域知识的复用困难。
+
+Skills zhī shi jié gòu huà cún chǔ, tuán duì gòng xiǎng, bǎn běn guǎn lǐ hé kuà píng tái shǐ yòng.
+Skills知识结构化存储，团队共享、版本管理和跨平台使用。
+
+Wán měi shì pèi yī liáo, fǎ lǜ, dài mǎ shěn jì děng zhuān yè chǎng jǐng de zhī shi fù yòng xū qiú.
+完美适配医疗、法律、代码审计等专业场景的知识复用需求。
+
+Jì shù jià gòu shì Claude Skills de hé xīn chuàng xīn diǎn, qí zhōng sān céng jiā zǎi jī zhì Progressive Disclosure yóu wéi guān jiàn.
+技术架构是Claude Skills的核心创新点，其中三层加载机制Progressive Disclosure尤为关键。
+
+Level 1 shì yuán shù jù céng, bāo hán Skill.md de YAML qián zhì xìn xī.
+Level 1是元数据层，包含Skill.md的YAML前置信息。
+
+Qǐ dòng shí jiā zǎi dào xì tǒng tí shì, jǐn xiāo hào yuē 100 ge Token, ràng Claude zhī dào yǒu nǎ xiē Skills kě yòng jí chù fā chǎng jǐng.
+启动时加载到系统提示，仅消耗约100个Token，让Claude知道有哪些Skills可用及触发场景。
+
+Level 2 shì zhǐ lìng céng, jí Skill.md de zhǔ tǐ bù fèn.
+Level 2是指令层，即Skill.md的主体部分。
+
+Zài yòng hù qǐng qiú pǐ pèi Skill miáo shù shí, tōng guò Bash mìng lìng dú qǔ, xiāo hào shǎo yú 5000 ge Token, tí gōng xiáng xì cāo zuò zhǐ nán.
+在用户请求匹配Skill描述时，通过Bash命令读取，消耗少于5000个Token，提供详细操作指南。
+
+Level 3 jí yǐ shàng shì zī yuán hé dài mǎ céng, bāo kuò é wài wén dàng, kě zhí xíng jiǎo běn hé mú bǎn wén jiàn.
+Level 3及以上是资源和代码层，包括额外文档、可执行脚本和模板文件。
+
+Jǐn zài zhǐ lìng yǐn yòng shí jiā zǎi, qí zhōng jiǎo běn zhí xíng bù xiāo hào shàng xià wén, jǐn shū chū jié guǒ zhàn yòng Token.
+仅在指令引用时加载，其中脚本执行不消耗上下文，仅输出结果占用Token。
+
+Zhè zhǒng shè jì jì bǎo zhèng le néng lì de fēng fù xìng, yòu zuì dà huà jiàng dī le Token xiāo hào.
+这种设计既保证了能力的丰富性，又最大化降低了Token消耗。
+
+Wǒ men kě yǐ tōng guò PDF chǔ lǐ de lì zi lái lǐ jiě jiā zǎi guò chéng.
+我们可以通过PDF处理的例子来理解加载过程。
+
+Qǐ dòng jiē duàn, xì tǒng tí shì bāo hán suǒ yǒu Skills de yuán shù jù.
+启动阶段，系统提示包含所有Skills的元数据。
+
+Bǐ rú PDF Processing: Extract Text and Tables from PDF, 10 ge Skills jǐn xiāo hào 1000 ge Token.
+比如PDF Processing: Extract Text and Tables from PDF，10个Skills仅消耗1000个Token。
+
+Rú guǒ xū yào tí qǔ biǎo gé, zài zhí xíng Python jiǎo běn, jǐn xiāo hào 200 ge Token de shū chū jié guǒ.
+如果需要提取表格，再执行Python脚本，仅消耗200个Token的输出结果。
+
+Zǒng Token xiāo hào yuē 4200 ge, yuǎn dī yú chuán tǒng MCP fāng shì de 100000 jiā ge Token, huò Prompt fāng shì de měi cì 3000 jiā ge Token.
+总Token消耗约4200个，远低于传统MCP方式的100000+个Token，或Prompt方式的每次3000+个Token。
+
+Zhè zhǒng àn xū jiā zài de jī zhì jí dà tí shēng le Token shǐ yòng xiào lǜ.
+这种按需加载的机制极大提升了Token使用效率。
+
+Cóng jì shù jià gòu lái kàn, Skills yùn xíng zài dài mǎ zhí xíng huán jìng zhōng.
+从技术架构来看，Skills运行在代码执行环境中。
+
+Claude tōng guò shēng chéng Bash mìng lìng fǎng wèn xū nǐ jī nèi de wén jiàn xì tǒng, wén jiàn nèi róng jìn rù shàng xià wén chuāng kǒu, jiǎo běn zhí xíng jié guǒ fǎn huí gěi Claude.
+Claude通过生成Bash命令访问虚拟机内的文件系统，文件内容进入上下文窗口，脚本执行结果返回给Claude。
+
+Yǔ chuán tǒng Tools xiāng bǐ, Skills gèng zhù zhòng duì huà shì de néng lì kuò zhǎn ér fēi zhí jiē zhí xíng, jué cè luó ji jī yú LLM tuī lǐ ér fēi dài mǎ lù yóu, jù yǒu duì huà qī jiān de zhuàng tài bǎo chí tè xìng.
+与传统Tools相比，Skills更注重对话式的能力扩展而非直接执行，决策逻辑基于LLM推理而非代码路由，具有对话期间的状态保持特性。
+
+Zài yǔ qí tā fāng àn de duì bǐ zhōng, Skills yǔ Prompt de qū bié zài yǔ shēng mìng zhōu qī kuà duì huà fù yòng VS dān cì duì huà, zuò yòng yù quán jú VS dāng qián duì huà, hé Token chéng běn àn xū VS quán liàng.
+在与其他方案的对比中，Skills与Prompt的区别在于生命周期跨对话复用VS单次对话，作用域全局VS当前对话，和Token成本按需VS全量。
+
+Yǔ MCP de hé xīn qū bié zài yú, jià gòu dìng wèi MCP shì lián jiē wài bù xì tǒng de qiáo liáng, ér Skills shì shǐ yòng néng lì de shuō míng shū, liǎng zhě hù bǔ ér fēi jìng zhēng.
+与MCP的核心区别在于，架构定位MCP是连接外部系统的桥梁，而Skills是使用能力的说明书，两者互补而非竞争。
+
+Bǐ rú, shēng chéng xiāo shòu bào gào shí, MCP tí gōng shù jù lián jiē, Skills tí gōng gōng zuò liú chéng.
+比如，生成销售报告时，MCP提供数据连接，Skills提供工作流程。
+
+Zài chuàng jiàn hé shǐ yòng Skills fāng miàn, zuì xiǎo kě xíng Skills jǐn xū bāo hán name hé description zì duàn de SKILL.md wén jiàn, ér wán zhěng Skills jié gòu zé bāo hán scripts, references, assets děng mù lù.
+在创建和使用Skills方面，最小可行Skills仅需包含name和description字段的SKILL.md文件，而完整Skills结构则包含scripts、references、assets等目录。
+
+SKILL.md de biān xiě xū yào zūn xún guī fàn, description zì duàn jì yào shuō míng gōng néng, yě yào bāo hán chù fā guān jiàn cí hé shǐ yòng chǎng jǐng.
+SKILL.md的编写需要遵循规范，description字段既要说明功能，也要包含触发关键词和使用场景。
+
+Zài bù tóng píng tái, shǐ yòng Skills de fāng shì yǒu suǒ bù tóng.
+在不同平台，使用Skills的方式有所不同。
+
+Claude API tōng guò betas cān shù hé tools pèi zhì shǐ yòng yù zhì huò zì dìng yì Skills.
+Claude API通过betas参数和tools配置使用预制或自定义Skills。
+
+Claude Code zhī chí chuàng jiàn gè rén huò xiàng mù jí Skill, yě kě tōng guò chā jiàn shì chǎng ān zhuāng.
+Claude Code支持创建个人或项目级Skill，也可通过插件市场安装。
+
+Claude.ai nèi zhì le bù fèn Skills, Pro yǐ shàng jì huà zhī chí shàng chuán zì dìng yì Skills.
+Claude.ai内置了部分Skills，Pro以上计划支持上传自定义Skills。
+
+Claude Agents SDK zé tōng guò pèi zhì wén jiàn zhǐ dìng Skills directory, zì dòng jiā zǎi Skills.
+Claude Agents SDK则通过配置文件指定Skills directory，自动加载Skills。
+
+Zuì jiā shí jiàn bù fèn tí chū le jǐ ge guān jiàn yuán zé.
+最佳实践部分提出了几个关键原则。
+
+Yī shì description shè jì yào qīng xī jù tǐ, bāo hán hé xīn gōng néng, chù fā chǎng jǐng, guān jiàn cí hé kě yòng gōng jù, bāng zhù LLM zhǔn què pǐ pèi yòng hù yì tú.
+一是description设计要清晰具体，包含核心功能、触发场景、关键词和可用工具，帮助LLM准确匹配用户意图。
+
+Èr shì jiàn jìn shì pī lù, zhǐ zài xū yào shí yǐn yòng xiáng xì wén dàng, bǎo chí Skill.md jiǎn jié, fù zá nèi róng fàng zài cān kǎo wén dàng zhōng.
+二是渐进式披露，只在需要时引用详细文档，保持Skill.md简洁，复杂内容放在参考文档中。
+
+Sān shì jiǎo běn yōu xiān yú shēng chéng dài mǎ, yù zhì jiǎo běn bù jìn rù shàng xià wén, què dìng xìng qiáng qiě kě fù yòng.
+三是脚本优先于生成代码，预制脚本不进入上下文，确定性强且可复用。
+
+Sì shì mó kuài huà shè jì, měi ge Skills zhuān zhù dān yī zhí zé, tōng guò zǔ hé duō ge Skills wán chéng fù zá rèn wu.
+四是模块化设计，每个Skills专注单一职责，通过组合多个Skills完成复杂任务。
+
+Wǔ shì lù jìng kě yí zhí xìng, shǐ yòng biàn liàng ér fēi jué duì lù jìng, què bǎo Skills zài bù tóng huán jìng zhōng zhèng cháng yùn xíng.
+五是路径可移植性，使用变量而非绝对路径，确保Skills在不同环境中正常运行。
+
+Liù shì ān quán xìng kǎo lǜ, zhǐ shǐ yòng kě xìn lái yuán de Skills, bìng tōng guò shěn jì qīng dān jiǎn chá jiǎo běn dài mǎ, wǎng luò qǐng qiú hé wén jiàn fǎng wèn děng.
+六是安全性考虑，只使用可信来源的Skills，并通过审计清单检查脚本代码、网络请求和文件访问等。
+
+Zuì hòu kàn zhēn shí àn lì fēn xī.
+最后看真实案例分析。
+
+Cionic AI de ML yán jiū tuán duì, miàn lín shí yàn zhī shi fù yòng kùn nán de wèn tí.
+Cionic AI的ML研究团队，面临实验知识复用困难的问题。
+
+Yán jiū yuán jīng cháng chóng fù cè shì xiāng tóng de mó xíng cān shù zǔ hé, làng fèi dà liàng shí jiān.
+研究员经常重复测试相同的模型参数组合，浪费大量时间。
+
+Bǐ rú Sigrid huā sān tiān cè shì BERT cān shù, fā xiàn 4000 zì fú kuài dà xiǎo de yōu shì, dàn zhè yī zhī shi jǐn cún zài yú Slack xiàn chéng zhōng, dǎo zhì hòu xù yán jiū yuán chóng fù tóu rù shí jiān.
+比如Sigrid花三天测试BERT参数，发现4000字符块大小的优势，但这一知识仅存在于Slack线程中，导致后续研究员重复投入时间。
+
+Jiě jué fāng àn shì chuàng jiàn liǎng ge guān jiàn Skill, yī ge shì shí yàn cān shù yōu huà Skill, bāo hán jīng guò yàn zhèng de cān shù zǔ hé hé tiáo yōu liú chéng.
+解决方案是创建两个关键Skill，一个是实验参数优化Skill，包含经过验证的参数组合和调优流程。
+
+Lìng yī ge shì shí yàn jié guǒ jì lù Skill, zì dòng zhěng lǐ hé cún chǔ shí yàn shù jù jí jié lùn.
+另一个是实验结果记录Skill，自动整理和存储实验数据及结论。
+
+Tōng guò zhè liǎng ge Skill de yìng yòng, tuán duì chéng gōng jiǎn shǎo le chóng fù láo dòng, tí shēng le yán jiū xiào lǜ.
+通过这两个Skill的应用，团队成功减少了重复劳动，提升了研究效率。
+
+Zhè ge àn lì chōng fèn tǐ xiàn le Claude Skills zài zhuān yè lǐng yù zhī shi fù yòng zhōng de jià zhí.
+这个案例充分体现了Claude Skills在专业领域知识复用中的价值。
+
+Zōng hé lái kàn, Claude Skills tōng guò mó kuài huà shè jì, jiàn jìn shì jiā zǎi hé wén jiàn xì tǒng qū dòng jià gòu, xì tǒng xìng jiě jué le dà yǔ yán mó xíng yìng yòng zhōng de dī xiào, zī yuán làng fèi hé zhī shi fù yòng wèn tí.
+综合来看，Claude Skills通过模块化设计、渐进式加载和文件系统驱动架构，系统性解决了大语言模型应用中的低效、资源浪费和知识复用问题。
+
+Qí chuàng xīn diǎn zài yú jiāng zhuān yè zhī shi zhuǎn huà wéi kě fù yòng de néng lì bāo, jì bǎo chí le mó xíng de líng huó xìng, yòu tí shēng le yìng yòng de zhuān yè xìng hé xiào lǜ.
+其创新点在于将专业知识转化为可复用的能力包，既保持了模型的灵活性，又提升了应用的专业性和效率。
+
+Cóng shí jiàn jiǎo dù, Skills jiàng dī le kāi fā zhě de jì shù mén kǎn, pǔ tōng yòng hù tōng guò biān xiě Markdown wén dàng jí kě chuàng jiàn zì dìng yì Skill, tóng shí zhī chí kuà píng tái shǐ yòng, wèi qǐ yè hé gè rén yòng hù tí gōng le gāo xiào de néng lì kuò zhǎn fāng àn.
+从实践角度，Skills降低了开发者的技术门槛，普通用户通过编写Markdown文档即可创建自定义Skill，同时支持跨平台使用，为企业和个人用户提供了高效的能力扩展方案。
+
+Suí zhe Skills shēng tài de bù duàn wán shàn, yù jì jiāng zài gèng duō zhuān yè lǐng yù tuī dòng dà yǔ yán mó xíng de shēn dù yìng yòng.
+随着Skills生态的不断完善，预计将在更多专业领域推动大语言模型的深度应用。
+
+Zài tǎo lùn Skills de jú xiàn xìng zhī qián, wǒ xiǎng xiān fēn xī yī xià wǒ men gāng gāng liǎo jiě de zhēn shí àn lì.
+在讨论Skills的局限性之前，我想先分析一下我们刚刚了解的真实案例。
+
+Cionic AI de ML shí yàn zhī shi guǎn lǐ àn lì fēi cháng diǎn xíng.
+Cionic AI的ML实验知识管理案例非常典型。
+
+Tā men tōng guò liǎng ge guān jiàn mìng lìng jiě jué le yán jiū tuán duì miàn lín de chóng fù shí yàn wèn tí.
+他们通过两个关键命令解决了研究团队面临的重复实验问题。
+
+Advice mìng lìng shí xiàn shí yàn qián zī xún, ràng yán jiū yuán kě yǐ zhí jiē huò qǔ zuì yōu cān shù, bì miǎn chóng fù gōng zuò.
+Advice命令实现实验前咨询，让研究员可以直接获取最优参数，避免重复工作。
+
+Retrospective mìng lìng zé yòng yú shí yàn hòu zhī shi chén diàn, zì dòng shēng chéng jié gòu huà Skill wén jiàn bìng chuàng jiàn GitHub PR.
+Retrospective命令则用于实验后知识沉淀，自动生成结构化Skill文件并创建GitHub PR。
+
+Zhè zhǒng fāng àn de shè jì fēi cháng qiǎo miào, tè bié shì shī bài àn lì yōu xiān de shè jì sī lù hé kě fù zhì de pèi zhì, shǐ tuán duì zài cān shù tiáo yōu shí jiān shàng shí xiàn le 24 bèi de tí shēng, zhī shi chén diàn hào shí jiàng dī le 60 bèi.
+这种方案的设计非常巧妙，特别是失败案例优先的设计思路和可复制的配置，使团队在参数调优时间上实现了24倍的提升，知识沉淀耗时降低了60倍。
+
+Shì de, zhè ge àn lì zhǎn shì le Skills zài zhuān yè lǐng yù zhī shi guǎn lǐ zhōng de jià zhí.
+是的，这个案例展示了Skills在专业领域知识管理中的价值。
+
+Lìng wài, Anthropic guān fāng de wén dàng chǔ lǐ Skills, rú PPTX, XLSX, DocX, PDF, yě zhí dé guān zhù.
+另外，Anthropic官方的文档处理Skills，如PPTX、XLSX、DocX、PDF，也值得关注。
+
+Zhè xiē Skills yù zhuāng le xiāng guān kù, tí gōng le mú bǎn hé zuì jiā shí jiàn, bìng néng chǔ lǐ cháng jiàn cuò wù.
+这些Skills预装了相关库，提供了模板和最佳实践，并能处理常见错误。
+
+Yòng hù tǐ yàn yǒu le zhì de tí shēng, cóng yuán běn xū yào duō lún duì huà hé kě néng chū cuò de guò chéng, biàn chéng le yī cì qǐng qiú jí kě zì dòng wán chéng.
+用户体验有了质的提升，从原本需要多轮对话和可能出错的过程，变成了一次请求即可自动完成。
+
+Dài mǎ shěn chá Skill de àn lì yě hěn diǎn xíng, tōng guò jié hé jiǎo běn hé mú bǎn, tā kě yǐ zì dòng jìn xíng ān quán sǎo miáo, dài mǎ fēng gé jiǎn chá hé fù zá dù fēn xī, shēng chéng jié gòu huà de shěn chá bào gào.
+代码审查Skill的案例也很典型，通过结合脚本和模板，它可以自动进行安全扫描、代码风格检查和复杂度分析，生成结构化的审查报告。
+
+Tóng shí jiāng Token xiāo hào cóng chuán tǒng fāng shì de 15000 ge, jiàng dī dào yuē 3000 dào 8000 ge.
+同时将Token消耗从传统方式的15000个，降低到约3000到8000个。
+
+Zhè xiē àn lì dōu biǎo míng Skills néng xiǎn zhù tí shēng xiào lǜ, jiàng dī Token xiāo hào, tí gāo shū chū zhì liàng.
+这些案例都表明Skills能显著提升效率，降低Token消耗，提高输出质量。
+
+Shuō dào zhè lǐ, wǒ men yīng gāi tǎo lùn yī xià Claude Skills de jú xiàn xìng.
+说到这里，我们应该讨论一下Claude Skills的局限性。
+
+Shǒu xiān zài jì shù xiàn zhì fāng miàn, Skills suī rán qiáng dà, dàn mù qián réng yǒu yī xiē míng xiǎn de duǎn bǎn.
+首先在技术限制方面，Skills虽然强大，但目前仍有一些明显的短板。
+
+Yī ge zhǔ yào wèn tí shì wú fǎ jìn xíng wǎng luò fǎng wèn, chú fēi tōng guò MCP huò qí tā fāng shì tí gōng API lián jiē, Skills wú fǎ huò qǔ shí shí shù jù.
+一个主要问题是无法进行网络访问，除非通过MCP或其他方式提供API连接，Skills无法获取实时数据。
+
+Zhè yì wèi zhe zài chǔ lǐ xū yào zuì xīn xìn xī de rèn wu shí, Skills bì xū yǔ qí tā jì shù pèi hé shǐ yòng.
+这意味着在处理需要最新信息的任务时，Skills必须与其他技术配合使用。
+
+Lìng wài Skills de kuà huà huà chí jiǔ xìng yě shì ge tiǎo zhàn, měi cì huà huà kāi shǐ shí dōu xū yào chóng xīn jiā zǎi Skills, quē fá cháng qī jì yì néng lì.
+另外Skills的跨会话持久性也是个挑战，每次会话开始时都需要重新加载Skills，缺乏长期记忆能力。
+
+Wén jiàn dà xiǎo xiàn zhì yě shì ge wèn tí, suī rán jiàn jìn shì jiā zǎi jī zhì kě yǐ huǎn jiě bù fèn yā lì, dàn duì yú fēi cháng fù zá de gōng zuò liú, kě néng xū yào chāi fēn chéng duō ge Skill, zēng jiā guǎn lǐ nán dù.
+文件大小限制也是个问题，虽然渐进式加载机制可以缓解部分压力，但对于非常复杂的工作流，可能需要拆分成多个Skill，增加管理难度。
+
+Ān quán fēng xiǎn yě shì yī ge bù kě hū shì de wèn tí.
+安全风险也是一个不可忽视的问题。
+
+Yóu yú Skills kě yǐ zhí xíng rèn yì dài mǎ, rú guǒ bù jiā shěn chá dì shǐ yòng dì sān fāng Skills, kě néng yǐn rù è yì dài mǎ.
+由于Skills可以执行任意代码，如果不加审查地使用第三方Skills，可能引入恶意代码。
+
+Tè bié shì zài shēng tài fā zhǎn chū qī, quē fá yán gé de shěn hé jī zhì, shǐ yòng wèi jīng yàn zhèng de Skills cún zài ān quán yǐn huàn.
+特别是在生态发展初期，缺乏严格的审核机制，使用未经验证的Skills存在安全隐患。
+
+Cǐ wài, suī rán Skills néng jiàng dī Token xiāo hào, dàn chù fā bù bì yào de Skill réng huì dǎo zhì é wài chéng běn, yóu qí shì dāng Skill miáo shù bù gòu jīng què huò guò yú kuān fàn shí, kě néng bèi cuò wù chù fā.
+此外，虽然Skills能降低Token消耗，但触发不必要的Skill仍会导致额外成本，尤其是当Skill描述不够精确或过于宽泛时，可能被错误触发。
+
+Zài shǐ yòng jiàn yì fāng miàn, wǒ men yīng gāi yōu xiān xuǎn zé guān fāng huò jīng guò shěn hé de Skills, duì wèi zhī lái yuán de Skills jìn xíng dài mǎ shěn chá, hé lǐ shè jì Skill de description, què bǎo jīng zhǔn chù fā, lì yòng jiàn jìn shì jiā zǎi jī zhì, jiāng dà xíng wén dàng fàng zài references mù lù, ér fēi zhí jiē fàng zài Skill.md zhōng, duì yú fù zá gōng zuò liú, kǎo lǜ chāi fēn chéng duō ge xiāng hù guān lián de Skills.
+在使用建议方面，我们应该优先选择官方或经过审核的Skills，对未知来源的Skills进行代码审查，合理设计Skill的Description，确保精准触发，利用渐进式加载机制，将大型文档放在references目录，而非直接放在Skill.md中，对于复杂工作流，考虑拆分成多个相互关联的Skills。
+
+Cóng shè qū píng jià hé tǎo lùn lái kàn, yè jiè pǔ biàn rèn wéi Skills shì Anthropic de yī xiàng zhòng yào chuàng xīn.
+从社区评价和讨论来看，业界普遍认为Skills是Anthropic的一项重要创新。
+
+Jì shù bó zhǔ Simon Willison rèn wéi, Skills kě néng bǐ MCP gèng zhòng yào.
+技术博主Simon Willison认为，Skills可能比MCP更重要。
+
+Tā qiáng diào le Skills de jiǎn jié xìng hé Token xiào lǜ yōu shì.
+他强调了Skills的简洁性和Token效率优势。
+
+Lín Hán cháng zé cóng jià gòu jiǎo dù zhǐ chū, Skills shí jì shàng shì tōng guò Prompt Injection xiū gǎi duì huà shàng xià wén de yuán gōng jù.
+林翰长则从架构角度指出，Skills实际上是通过Prompt Injection修改对话上下文的元工具。
+
+Xíng yè méi tǐ yě duì Skills jǐ yǔ le gāo dù guān zhù.
+行业媒体也对Skills给予了高度关注。
+
+VentureBeat hé Silicon Angle dōu bào dào le Anthropic jiāng Skills kāi fàng biāo zhǔn huà de dòng zuò, bìng yǔ duō jiā qǐ yè jiàn lì hé zuò.
+VentureBeat和Silicon Angle都报道了Anthropic将Skills开放标准化的动作，并与多家企业建立合作。
+
+Reddit shè qū tǎo lùn zhōng, yòng hù pǔ biàn rèn wéi, Skills bǐ MCP jiǎn dān yì yòng, qiě liǎng zhě jié hé kě yǐ xíng chéng lǐ xiǎng de jiě jué fāng àn.
+Reddit社区讨论中，用户普遍认为，Skills比MCP简单易用，且两者结合可以形成理想的解决方案。
+
+Dàn yě yǒu rén duì Skills de ān quán xìng biǎo shì dān yōu.
+但也有人对Skills的安全性表示担忧。
+
+Qǐ yè cǎi yòng fāng miàn, yǐ yǒu bāo kuò Atlassian, Canva, Cloudflare, Figma děng zài nèi de duō jiā qǐ yè jí chéng le Skills, fēn bié yòng yú xiàng mù guǎn lǐ, chuàng yì shè jì, DevOps, UX děng bù tóng chǎng jǐng.
+企业采用方面，已有包括Atlassian、Canva、Cloudflare、Figma等在内的多家企业集成了Skills，分别用于项目管理、创意设计、DevOps、UX等不同场景。
+
+Kāi fā zhě shè qū fǎn xiǎng yě xiāng dàng jī jí, GitHub shàng xiāng guān cāng kù yǐ huò dé chāo guò 26000 gè xīng biāo.
+开发者社区反响也相当积极，GitHub上相关仓库已获得超过26000个星标。
+
+Zhèng miàn fǎn kuì zhǔ yào jí zhōng zài shǐ yòng jiǎn biàn xìng, gōng zuò liú fù yòng néng lì, Token xiào lǜ hé kuà píng tái zhī chí shàng.
+正面反馈主要集中在使用简便性、工作流复用能力、Token效率和跨平台支持上。
+
+Gǎi jìn jiàn yì zé bāo kuò xī wàng zhī chí bǎn běn guǎn lǐ, gèng hǎo de tiáo shì gōng jù hé cè shì kuàng jià.
+改进建议则包括希望支持版本管理、更好的调试工具和测试框架。
+
+Pī píng yì jiàn zhǔ yào zhēn duì Claude.ai de Skills bù néng tuán duì gòng xiǎng, API wǎng luò xiàn zhì guò yán děng wèn tí.
+批评意见主要针对Claude.ai的Skills不能团队共享、API网络限制过严等问题。
+
+Zhí dé zhù yì de shì, jù yán jiū fā xiàn, OpenAI yǐ zài ChatGPT hé Codex CLI zhōng cǎi yòng le lèi sì Skills de jià gòu, zhè kě néng yì wèi zhe Skills jiāng chéng wéi háng yè shì shí biāo zhǔn, cù jìn kuà mó xíng, kuà píng tái de néng lì fù yòng.
+值得注意的是，据研究发现，OpenAI已在ChatGPT和Codex CLI中采用了类似Skills的架构，这可能意味着Skills将成为行业事实标准，促进跨模型、跨平台的能力复用。
+
+Zài shí jì yìng yòng chǎng jǐng fāng miàn, Skills tè bié shì hé sān lèi diǎn xíng chǎng jǐng.
+在实际应用场景方面，Skills特别适合三类典型场景。
+
+Shǒu xiān shì qǐ yè biāo zhǔn huà gōng zuò liú, rú kè hù zhī chí, gōng dān chǔ lǐ.
+首先是企业标准化工作流，如客户支持、工单处理。
+
+Tōng guò tǒng yī de fèn nèi xiǎng yìng mú bǎn hé zì dòng huà jiǎo běn, néng ràng xīn yuán gōng kuài sù shàng shǒu, jiǎn shǎo xiǎng yìng shí jiān, jiàng dī cuò wù lǜ.
+通过统一的分内响应模板和自动化脚本，能让新员工快速上手，减少响应时间，降低错误率。
+
+Dì èr lèi shì shù jù fēn xī hé bào gào shēng chéng, tōng guò yù dìng yì de shù jù shōu jí fēn xī bù zhòu hé bào gào mú bǎn, kě jiāng bào gào shēng chéng shí jiān cóng 8 xiǎo shí jiàng zhì 30 fēn zhōng, tóng shí tí shēng shù jù zhǔn què xìng hé yī zhì xìng.
+第二类是数据分析和报告生成，通过预定义的数据收集分析步骤和报告模板，可将报告生成时间从8小时降至30分钟，同时提升数据准确性和一致性。
+
+Dì sān lèi shì dài mǎ guī fàn shěn chá, jié hé ān quán shěn jì, xìng néng fēn xī hé fēng gé jiǎn chá, què bǎo dài mǎ zhì liàng hé ān quán xìng.
+第三类是代码规范审查，结合安全审计、性能分析和风格检查，确保代码质量和安全性。
+
+Zhè xiē chǎng jǐng dōu yǒu gòng tóng tè diǎn: gāo chóng fù xìng, xū yào biāo zhǔn huà liú chéng, tuán duì xié zuò xū qiú gāo.
+这些场景都有共同特点：高重复性，需要标准化流程，团队协作需求高。
+
+Zhǎn wàng wèi lái, Claude Skills yǒu jǐ ge kě néng de fā zhǎn fāng xiàng.
+展望未来，Claude Skills有几个可能的发展方向。
+
+Shǒu xiān shì kāi fàng biāo zhǔn huà.
+首先是开放标准化。
+
+Anthropic yǐ yú 2025 nián 12 yuè 18 rì xuān bù yǔ duō jiā qǐ yè hé zuò, tuī dòng Skills biāo zhǔn huà.
+Anthropic已于2025年12月18日宣布与多家企业合作，推动Skills标准化。
+
+Zhè kě néng shǐ Skills chéng wéi AI Agent néng lì kuò zhǎn de tōng yòng fāng àn.
+这可能使Skills成为AI Agent能力扩展的通用方案。
+
+Qǐ yè jí gōng néng fāng miàn, kě yǐ yù jiàn jiāng huì jiā qiáng tuán duì xié zuò, bǎn běn kòng zhì, quán xiàn guǎn lǐ hé hé guī jiān kòng děng gōng néng.
+企业级功能方面，可以预见将会加强团队协作、版本控制、权限管理和合规监控等功能。
+
+Jì shù yǎn jìn kě néng bāo kuò zhī chí gèng fù zá de gōng zuò liú biān pái, gǎi jìn chí jiǔ huà néng lì, jiā qiáng zì dòng huà cè shì gōng jù děng.
+技术演进可能包括支持更复杂的工作流编排、改进持久化能力、加强自动化测试工具等。
+
+Shè qū shēng tài fāng miàn, yù jì huì chū xiàn Skills shì chǎng, zhuān yè lǐng yù de Skills kù, yǐ jí gèng duō shè qū gòng xiàn de gōng jù hé kuàng jià.
+社区生态方面，预计会出现Skills市场、专业领域的Skills库，以及更多社区贡献的工具和框架。
+
+Cǐ wài, Skills hái kě néng yǔ qí tā jì shù róng hé, rú yǔ MCP xié yì de shēn dù zhěng hé, yǔ shǐ liàng shù jù kù jié hé shí xiàn zhì néng jiǎn suǒ, yǔ běn dì RAG xì tǒng jié hé děng.
+此外，Skills还可能与其他技术融合，如与MCP协议的深度整合，与矢量数据库结合实现智能检索，与本地RAG系统结合等。
+
+Zǒng jié yī xià Claude Skills.
+总结一下Claude Skills。
+
+Zuò wéi yī zhǒng mó kuài huà de néng lì kuò zhǎn jī zhì, tōng guò wén jiàn xì tǒng qū dòng jià gòu hé jiàn jìn shì pī lù shè jì, yǒu xiào jiě jué le dà yǔ yán mó xíng yìng yòng zhōng de chóng fù xìng gōng zuò dī xiào, shàng xià wén chuāng kǒu làng fèi hé zhuān yè lǐng yù zhī shi fù yòng kùn nán de wèn tí.
+作为一种模块化的能力扩展机制，通过文件系统驱动架构和渐进式披露设计，有效解决了大语言模型应用中的重复性工作低效、上下文窗口浪费和专业领域知识复用困难的问题。
+
+Yǔ chuán tǒng fāng fǎ hé qí tā jiě jué fāng àn xiāng bǐ, Skills zài Token xiào lǜ, zhī shi fù yòng hé zhuān yè huà chéng dù shàng jù yǒu xiǎn zhù yōu shì.
+与传统方法和其他解决方案相比，Skills在Token效率、知识复用和专业化程度上具有显著优势。
+
+Suī rán mù qián cún zài yī xiē jì shù xiàn zhì hé ān quán fēng xiǎn, dàn tōng guò hé lǐ shè jì hé shèn shèng shǐ yòng, zhè xiē wèn tí dōu kě yǐ dé dào yǒu xiào huǎn jiě.
+虽然目前存在一些技术限制和安全风险，但通过合理设计和审慎使用，这些问题都可以得到有效缓解。
+
+Suí zhe kāi fàng biāo zhǔn de tuī dòng hé shè qū shēng tài de fā zhǎn, Skills yǒu wàng chéng wéi AI Agent néng lì kuò zhǎn de tōng yòng biāo zhǔn, cù jìn dà yǔ yán mó xíng zài gèng duō zhuān yè lǐng yù de shēn dù yìng yòng.
+随着开放标准的推动和社区生态的发展，Skills有望成为AI Agent能力扩展的通用标准，促进大语言模型在更多专业领域的深度应用。
+
+Shì de, Claude Skills dài biǎo le AI jì shù zài shí jì yìng yòng zhōng de zhòng yào jìn bù, tā bù jǐn shì yī ge jì shù chuàng xīn, gèng shì yī zhǒng sī wéi fāng shì de zhuǎn biàn, cóng měi cì chóng xīn jiào dǎo AI rú hé gōng zuò, dào gòu jiàn kě fù yòng de néng lì kù.
+是的，Claude Skills代表了AI技术在实际应用中的重要进步，它不仅是一个技术创新，更是一种思维方式的转变，从每次重新教导AI如何工作，到构建可复用的能力库。
+
+Zhè zhǒng zhuǎn biàn shǐ de qǐ yè hé gè rén yòng hù néng gòu jiāng zhuān yè zhī shi xì tǒng huà, jié gòu huà, bìng zài xū yào shí gāo xiào diào yòng, zhēn zhèng fā huī AI zuò wéi xié zuò huǒ bàn de jià zhí.
+这种转变使得企业和个人用户能够将专业知识系统化、结构化，并在需要时高效调用，真正发挥AI作为协作伙伴的价值。
+
+Suí zhe gèng duō qǐ yè hé kāi fā zhě jiā rù zhè yī shēng tài, wǒ men yǒu lǐ yóu xiāng xìn, Skills jiāng zài wèi lái jǐ nián chéng wéi tuī dòng AI luò dì yìng yòng de guān jiàn jì shù zhī yī.
+随着更多企业和开发者加入这一生态，我们有理由相信，Skills将在未来几年成为推动AI落地应用的关键技术之一。
+
+Fēi cháng gǎn xiè gè wèi tīng zhòng shōu tīng běn qī bō kè, xī wàng zhè cì de shēn dù jiě dú, néng bāng zhù dà jiā gèng hǎo de lǐ jiě hé yìng yòng Claude Skills.
+非常感谢各位听众收听本期播客，希望这次的深度解读，能帮助大家更好的理解和应用Claude Skills。
+
+Wǒ men xià qī zài huì.
+我们下期再会。

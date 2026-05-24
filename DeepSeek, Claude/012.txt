@@ -1,0 +1,1703 @@
+Bǐ rú shuō yòng hù zhàng dān shì 230 kuài qián, wǒ xiǎng gěi tā tán dào 180.
+比如说用户账单是230块钱，我想给他弹到180。
+
+Rán hòu duì miàn de kè fú fēi cháng hǎo, zhí jiē gěi nǐ huàn ge tào cān jiàng dào le 170.
+然后对面的客服非常好，直接给你换个套餐降到了170。
+
+Nà zhè shí hòu wǒ men AI běn lái yīng gāi xīn rán jiē shòu, duì ba.
+那这时候我们AI本来应该欣然接受，对吧。
+
+Nǐ 170 yǐ jīng dī yú wǒ 180 le.
+你170已经低于我180了。
+
+Dàn shì nǐ shì miàn shàng hěn duō mó xíng tā huì shuō fēi cháng gǎn xiè nǐ a, suī rán nǐ gěi wǒ dào 170 le, dàn shì gēn wǒ xiǎng yào de 180 hái shì yǒu 10 kuài qián de jù lí a, nǐ néng bù néng nǔ lì bǎ wǒ dá dào 180.
+但是你市面上很多模型他会说非常感谢你啊，虽然你给我到170了，但是跟我想要的180还是有10块钱的距离啊，你能不能努力把我达到180。
+
+Tā duì zhè ge shù zì shì confused de.
+他对这个数字是confused的。
+
+Dà gōng sī zuò chū lái de nà mó xíng tā shì xiāng dāng yú MIT huò zhě shì Qīng Huá Běi Dà bì yè de xué shēng, jī běn de sù zhì shì fēi cháng fēi cháng qiáng de.
+大公司做出来的那模型它是相当于MIT或者是清华北大毕业的学生，基本的素质是非常非常强的。
+
+Dàn shì nǐ shuō nǐ ràng tā qù zuò zhōng jiè mài fáng zi, mài bù guò gàn 5 nián de zhōng jiè, yè zhǔ chéng bù chéng xīn a, nǐ de mǎi jiā dǐ xiàn shì shén me.
+但是你说你让他去做中介卖房子，卖不过干5年的中介，业主成不成心啊，你的买家底线是什么。
+
+Zhè ge shì rén jiā 5 nián cǎi guò de gè zhǒng kēng de jīng yàn, Qīng Huá bì yè de xué shēng nǐ yě méi yǒu bàn fǎ yī shàng lái jiù zuò zhè zhǒng shì qíng, duì ba.
+这个是人家5年采过的各种坑的经验，清华毕业的学生你也没有办法一上来就做这种事情，对吧。
+
+Suǒ yǐ wǒ men jiù shì yào bǎ chéng gōng guò jǐ qiān shàng wàn de zhè zhǒng case, zǒng jié chū lái de jīng yàn jiù shì zài zhè ge lǐng yù, wǒ kě yǐ bāng nǐ bǎ zhè ge shì gàn diào.
+所以我们就是要把成功过几千上万的这种case，总结出来的经验就是在这个领域，我可以帮你把这个事干掉。
+
+Guī Gǔ yǒu hěn duō fēi cháng gāo shuǐ píng de kāi yuán xiàng mù, tā de rén qí shí méi yǒu gù dìng de bàn gōng shì, dàn shì tā men néng deliver chū lái zhè ge shì jiè Sota shuǐ píng de kāi yuán xiàng mù de zhì liàng.
+灰谷有很多非常高水平的开源项目，它的人其实没有固定的办公室，但是他们能deliver出来这个世界Sota水平的开源项目的质量。
+
+Nà rén jiā zěn me zuò de, wèi shén me nǐ yī ge gōng sī yǒu yī ge shí tǐ de zǔ zhī, yǒu yī ge dà jiā tiān tiān jiàn miàn de jī huì, fǎn ér zuò bù chū lái zhè me hǎo de xiàng mù.
+那人家怎么做的，为什么你一个公司有一个实体的组织，有一个大家天天见面的机会，反而做不出来这么好的项目。
+
+Suǒ yǐ wǒ men jiù cóng dǐ céng kāi shǐ, quán dōu xiàng Guī Gǔ yī liú shuǐ píng kàn qí.
+所以我们就从底层开始，全都向灰谷一流水平看齐。
+
+AI tā shì fēi cháng shàn cháng zài zhè ge huán jìng xià gōng zuò de, nà nǐ yī duī shǐ shān yī yàng de dài mǎ tā fǎn ér shì gǎo bù liǎo de.
+AI它是非常擅长在这个环境下工作的，那你一堆史山一样的代码它反而是搞不了的。
+
+Zhè jiù shì wèi shén me hěn duō rén jué de, wǒ AI hǎo xiàng méi yǒu shén me yòng a, rén jiā méi yǒu bàn fǎ dào nǐ zhè ge huán jìng xià lái gōng zuò.
+这就是为什么很多人觉得，我AI好像没有什么用啊，人家没有办法到你这个环境下来工作。
+
+Dàn shì nǐ bǎ zhè ge huán jìng nòng dé fēi cháng shū fu, nǐ jiù kě yǐ wú xiàn de copy nǐ de AI agent lái bāng nǐ zuò shì.
+但是你把这个环境弄得非常舒服，你就可以无限的copy你的AI agent来帮你做事。
+
+Qīn ài de tīng zhòng péng you dà jiā hǎo, huān yíng shōu tīng běn qī de Chuàng Yè Nèi Mù, wǒ shì zhǔ chí rén Lily.
+亲爱的听众朋友大家好，欢迎收听本期的创业内幕，我是主持人Lily。
+
+Běn qī wǒ men qǐng dào de jiā bīn lái zì yú lǐng xiān de AI agent gōng sī, Pàn AI de chuàng shǐ rén Sūn Yǔ Rùn.
+本期我们请到的嘉宾来自于领先的AI agent公司，盼AI的创始人孙宇润。
+
+Hǎo, Sūn zǒng gēn dà jiā dǎ ge zhāo hu ba.
+好，孙总跟大家打个招呼吧。
+
+Dà jiā hǎo, wǒ shì Sūn Yǔ Rùn, Pàn AI de lián hé chuàng shǐ rén, yě shì xiàn zài Pàn AI de CTO.
+大家好，我是孙宇润，盼AI的联合创始人，也是现在盼AI的CTO。
+
+Duì, Yǔ Rùn zài wǒ xīn lǐ jué duì shì xué bà, tā yīng gāi shì wǒ men Omega de èr qī de tóng xué, shì ba.
+对，宇润在我心里绝对是学霸，他应该是我们Omega的二期同学，是吧。
+
+Sān qī qí shí, sān qī, duì, shì wǒ men de xué xí wěi yuán.
+三期其实，三期，对，是我们的学习委员。
+
+Tā měi yī qī de kè shàng wán zhī hòu, nà ge bǐ jì wǒ dōu zhèn jīng le.
+他每一期的课上完之后，那个笔记我都震惊了。
+
+Wǒ qù dú nà ge EMBA de shí hòu hái wèn tā, wǒ shuō Yǔ Rùn nǐ yòng le shén me gōng jù a.
+我去读那个EMBA的时候还问他，我说宇润你用了什么工具啊。
+
+Dàn shì wǒ hòu lái yòng le wǒ yě zǒng jié bù chū nǐ nà zhǒng jīng cǎi de sī lù tú, wǒ jué de tài lì hài le.
+但是我后来用了我也总结不出你那种精彩的思路图，我觉得太厉害了。
+
+Duì, wǒ dǎ zì bǐ jiào kuài, dàn shì xiàn zài yǒu AI zhī hòu, qí shí wǒ zhè tàng jì néng yǐ jīng méi yǒu shén me tài duō de jià zhí le.
+对，我打字比较快，但是现在有AI之后，其实我这趟技能已经没有什么太多的价值了。
+
+Jiù AI zhí jiē yǔ yīn zhuǎn wén zì, jiù kě yǐ bǎ yī ge fēi cháng hǎo de speech néng zǒng jié chéng yī ge summary.
+就AI直接语音转文字，就可以把一个非常好的speech能总结成一个summary。
+
+Zhè jiù shì AI gěi dà jiā dài lái de biàn huà.
+这就是AI给大家带来的变化。
+
+Shì, shì, duì, Yǔ Rùn wǒ zhī dào qí shí nǐ zhī qián shì zài YY zuò jià gé shī, lí kāi zhī hòu ne yòu qù le Téng Xùn.
+是，是，对，宇润我知道其实你之前是在YY做价格师，离开之后呢又去了腾讯。
+
+Dàn shì ne nǐ zuì zhī míng de zhí yè lǚ lì yīng gāi shì zuò wéi lián hé chuàng shǐ rén, jiā rù le Agora, bìng qiě dài lǐng zhè jiā gōng sī zǒu xiàng zī běn shì chǎng.
+但是呢你最知名的职业履历应该是作为联合创始人，加入了Agora，并且呢带领这家公司走向资本市场。
+
+Xuǎn zé lí kāi zhè yàng de yī ge píng tái, chóng xīn zuò yī ge AI agent de shēng yì.
+选择离开这样的一个平台，重新做一个AI agent的生意。
+
+Wǒ xiǎng zhī dào zhè ge bèi hòu shì shén me dǎ dòng le nǐ, rán hòu lìng wài jīn tiān nǐ duì nǐ zì jǐ de zhè ge gōng sī yǒu shén me yàng de qī dài.
+我想知道这个背后是什么打动了你，然后另外今天你对你自己的这个公司有什么样的期待。
+
+Cóng YY dào Agora, zhè ge qí shí shì wǒ bǐ jiào zǎo qī de zhí yè shēng chǎn yī xiē jīng lì.
+从YY到Agora，这个其实是我比较早期的职业生产一些经历。
+
+Zhè yě bǐ jiào street forward, bǐ jiào zì rán, yīn wèi Agora lǎo dà Zhào Bīn shì dāng shí YY de CTO.
+这也比较straight forward，比较自然，因为Agora老大赵斌是当时YY的CTO。
+
+Zài YY jiù yī qǐ gòng shì guò, suǒ yǐ fēi cháng de xìn Zhào Bīn shuō yào chuàng yè.
+在YY就一起共事过，所以非常的信赵斌说要创业。
+
+Wǒ jiù háo bù yóu yù dì jiù gēn Zhào Bīn yī qǐ qù Měi Guó chuàng yè le.
+我就毫不犹豫地就跟赵斌一起去美国创业了。
+
+Duì, suǒ yǐ yī zhí zǒu guò lái yǒu shí nián.
+对，所以一直走过来有十年。
+
+Dàn Agora dào zhè cì chū lái, zhōng jiān hái shì yǒu guò hěn duō de jiū jié hé bù shě.
+但Agora到这次出来，中间还是有过很多的纠结和不舍。
+
+Dàn shì yǒu jǐ ge qì jī, dì yī ge qì jī shì dà xué bì yè de shí hòu.
+但是有几个契机，第一个契机是大学毕业的时候。
+
+Qí shí wǒ zài zé yè de shí hòu shì tǐng mí máng de.
+其实我在择业的时候是挺迷茫的。
+
+Miàn lín shuō wǒ yào chū guó, hái shì jì xù dú yán, hái shì zhǎo gōng zuò.
+面临说我要出国，还是继续读研，还是找工作。
+
+Wǒ dāng shí yǒu yī ge péng you, wǒ nà ge péng you xiàn zài yě zuò dé fēi cháng chéng gōng, gōng sī mǎ shàng shàng shì le.
+我当时有一个朋友，我那个朋友现在也做得非常成功，公司马上上市了。
+
+Tā gēn wǒ shuō ruǎn jiàn gōng sī nǐ jiù bù yào qù le, yīn wèi ruǎn jiàn gōng sī xiàn zài shì zǒu xià pō lù yī ge zhuàng tài.
+他跟我说软件公司你就不要去了，因为软件公司现在是走下坡路一个状态。
+
+Dàn shì hù lián wǎng gōng sī, yóu qí shì yí dòng hù lián wǎng gōng sī, gěi nǐ de gōng zī zài shǎo nǐ yě yào qù, yīn wèi zhè shì wèi lái de fāng xiàng.
+但是互联网公司，尤其是移动互联网公司，给你的工资再少你也要去，因为这是未来的方向。
+
+Xiàn zài zhàn zài 2024 nián dāng shí nà ge shí jiān diǎn ne, wǒ jué de AI jiù fēi cháng xiàng dāng shí de hù lián wǎng.
+现在站在2024年当时那个时间点呢，我觉得AI就非常像当时的互联网。
+
+Yóu qí shì yí dòng hù lián wǎng, shǔ yú yī ge fēi cháng zǎo qī zài péng bó fā zhǎn zhuàng tài.
+尤其是移动互联网，属于一个非常早期在蓬勃发展状态。
+
+Wǒ jué de zhè ge zhì shǎo néng pǎo 10 nián dào 15 nián, fēi cháng cháng de yī ge pō.
+我觉得这个至少能跑10年到15年，非常长的一个坡。
+
+Dāng shí jiù jué de yī dìng yào quán shēn xīn dì tóu rù dào AI de zài dào lǐ lái.
+当时就觉得一定要全身心的投入到AI的赛道里来。
+
+Zhè shì wǒ dì yī ge qì jī ba.
+这是我第一个契机吧。
+
+Dì èr ge qì jī ne, yīn wèi wǒ zài Agora zuò le shí duō nián de zhè zhǒng shēng yīn.
+第二个契机呢，因为我在Agora做了十多年的这种声音。
+
+Wǒ jué de AI ne, dāng shí kàn dào dōu shì zài yī ge browser lǐ biān, gēn dà jiā qù wén zì dào wén zì de zhè zhǒng jiāo liú.
+我觉得AI呢，当时看到都是在一个browser里边，跟大家去文字到文字的这种交流。
+
+Wǒ jiù xiǎng kě yǐ jié hé wǒ zhè me duō nián de shí shī yǔ yīn jiāo hù de jì shù, zuò chū lái yī xiē gèng shí yòng de chǎn pǐn.
+我就想可以结合我这么多年的实时语音交互的技术，做出来一些更实用的产品。
+
+Dì sān ge qì jī ne, jiù shì wǒ què shí yě zài Agora dài le 10 nián le.
+第三个契机呢，就是我确实也在Agora待了10年了。
+
+Rán hòu wǒ jué de zhè yīng gāi shì yī ge xīn de qǐ diǎn ba.
+然后我觉得这应该是一个新的起点吧。
+
+Wǒ jiù gēn Zhào Bīn shuō wǒ xiǎng chū lái le.
+我就跟赵斌说我想出来了。
+
+Zuì hòu Zhào Bīn yě bǐ jiào zhī chí, shuō chū lái zì jǐ chuǎng dàng yī xià.
+最后赵斌也比较支持，说出来自己闯荡一下。
+
+Nà wǒ men hái shuō shuō nǐ de xīn xiàng mù.
+那我们还说说你的新项目。
+
+Yīn wèi nín lí kāi dà píng tái, bāo kuò shuō fēi cháng shú xī de zhè xiē zhàn yǒu, rán hòu ne xiàn zài chū le zì jǐ lìng lì yī ge zhàn chǎng, dài duì wǔ a, shén me zhè ge nán dù kě xiǎng ér zhī.
+因为您离开大平台，包括说非常熟悉的这些战友，然后呢现在出了自己另立一个战场，带队伍啊，什么这个难度可想而知。
+
+Rú guǒ bù shì zhè ge shēng yì fēi cháng dǎ dòng nǐ, nǐ yīng gāi yě bù huì zuò zhè ge jué dìng a.
+如果不是这个生意非常打动你，你应该也不会做这个决定啊。
+
+Nǐ yào bù yào xiān gēn wǒ men jiǎng yī jiǎng, Pàn AI zhǔ yào jiě jué shén me wèn tí.
+你要不要先跟我们讲一讲，盼AI主要解决什么问题。
+
+Qí shí wǒ zài gōng kāi qú dào zhǎo dào de xìn xī jiù shì, tā shì yī jiā hěn yǒu yì si de gōng sī, tōng guò AI jì shù bāng yòng hù shěng qián.
+其实我在公开渠道找到的信息就是，它是一家很有意思的公司，通过AI技术帮用户省钱。
+
+Dàn shì wǒ qí shí tǐng xiǎng zhī dào, jiù shì nǐ fú wù nǎ xiē yòng hù, zěn me bāng tā men shěng qián.
+但是我其实挺想知道，就是你服务哪些用户，怎么帮他们省钱。
+
+Wǒ men miàn xiàng de shì chǎng hé yòng hù mù qián shì zài Měi Guó.
+我们面向的市场和用户目前是在美国。
+
+Yīn wèi zhè ge shì ne, zài guó nèi hé Měi Guó shì yǒu yī diǎn diǎn qū bié de.
+因为这个事呢，在国内和美国是有一点点区别的。
+
+Zài Měi Guó shì yī ge fú wù xìng de shè huì, ér qiě tā de zhè xiē gōng sī a, fā zhǎn de dōu bǐ jiào jiǔ.
+在美国是一个服务型的社会，而且它的这些公司啊，发展的都比较久。
+
+Suǒ yǐ yǒu hěn duō xiāng duì lì jié huò zhě chéng shú.
+所以有很多相对ligency或者成熟。
+
+Zài gè rén dǎ gěi dà gōng sī, dà bù fèn de shì ne, dōu shì zài dǎ tīng gè zhǒng shì, jiě jué gè zhǒng wèn tí, wéi hù zì jǐ de shòu hòu, xiāo fèi zhě de quán yì, děng děng zhè xiē shì qíng.
+在个人打给大公司，大部分的事呢，都是在打听各种事，解决各种问题，维护自己的售后，消费者的权益，等等这些事情。
+
+Dì èr diǎn ne, jiù shì Měi Guó kè fú shàng bān shí jiān yě shǎo, kè fú de zī yuán yě shǎo, chéng běn yě hěn gāo.
+第二点呢，就是美国客服上班时间也少，客服的资源也少，成本也很高。
+
+Suǒ yǐ jiù huì dǎo zhì ne, zhè xiē yòng hù gěi Měi Guó zhè xiē dà gōng sī a, wú lùn shì jiě jué rèn hé shì a, děng dài de shí jiān fēi cháng cháng.
+所以就会导致呢，这些用户给美国这些大公司啊，无论是解决任何事啊，等待的时间非常长。
+
+Jīng cháng nǐ yào děng bàn ge xiǎo shí, rán hòu shuō wǒ cái néng gěi nǐ jiē dào zhēn rén a.
+经常你要等半个小时，然后说我才能给你接到真人啊。
+
+Jiē dào zhēn rén de zhī hòu ne, tā men yòu kě néng huì gěi nǐ zhuǎn jiē hǎo jǐ cì.
+接到真人的之后呢，他们又可能会给你转接好几次。
+
+Zuì hòu cái yǒu kě néng zhēn zhèng jiě jué wèn tí, hái yǒu kě néng jiě jué bù liǎo.
+最后才有可能真正解决问题，还有可能解决不了。
+
+Wǒ de partner, tā zài Měi Guó shēng huó hěn duō nián, tā jiù yǒu fēi cháng dà de zhè fāng miàn de tòng kǔ.
+我的partner，他在美国生活很多年，他就有非常大的这方面的痛苦。
+
+Rán hòu tā jiù shuō, zhè ge zhèng hǎo yǒu shí duō nián de shēng yīn de jī lěi, rán hòu jiē zhe wǒ men xiàn zài AI de jì shù, wǒ men yǒu méi yǒu kě néng yòng AI agents bāng yòng hù fēn xī wèn tí, jiě jué wèn tí, tōng guò diàn huà, yóu jiàn, bǎ yòng hù zhè ge wèn tí bì huán jiě jué.
+然后他就说，这个正好有十多年的声音的积累，然后接着我们现在AI的技术，我们有没有可能用AI agents帮用户分析问题，解决问题，通过电话、邮件，把用户这个问题闭环解决。
+
+Zuì hòu gěi yòng hù deliver yī ge result.
+最后给用户deliver一个result。
+
+Bǐ rú shuō wǒ zhè xìn yòng kǎ, zài Měi Guó de late fee shì tè bié tè bié guì de.
+比如说我这信用卡，在美国的late fee是特别特别贵的。
+
+Měi Guó chà bù duō shàng bǎi yì de zhè zhǒng late fee de měi nián a.
+美国差不多上百亿的这种late fee的每年啊。
+
+Wǒ bāng nǐ shěng le zhī hòu, zhí jiē nǐ de yóu xiāng jiù shōu dào zhè ge qián.
+我帮你省了之后，直接你的邮箱就收到这个钱。
+
+Nà yòng hù de gǎn jué shì fēi cháng shuǎng de.
+那用户的感觉是非常爽的。
+
+Chá gé dé jiù zhè me yī ge xiǎng fǎ, wǒ men jué de zhè ge shì tài yǒu yì si le, wǒ men jiù zhǔn bèi kāi shǐ gàn zhè ge shì le.
+查格德就这么一个想法，我们觉得这个是太有意思了，我们就准备开始干这个事了。
+
+Zhè ge zhǔ yào hái shì wǒ de partner zài Měi Guó shēng huó hěn duō nián, wǒ zì jǐ zài Měi Guó yě shēng huó guò, dàn shì shí jiān bǐ jiào duǎn, suǒ yǐ wǒ méi yǒu nà me tòng kǔ de jīng lì.
+这个主要还是我的partner在美国生活很多年，我自己在美国也生活过，但是时间比较短，所以我没有那么痛苦的经历。
+
+Wǒ de partner zài Měi Guó, bǐ rú shuō zhuǎn yī bǐ zhàng, bù guǎn nǐ zhuǎn duō shǎo qián.
+我的partner在美国，比如说转一笔账，不管你转多少钱。
+
+Tā kě néng jiù huì shōu nǐ 45 měi jīn yī bǐ de shǒu xù fèi.
+他可能就会收你45美元一笔的手续费。
+
+Rán hòu zài Měi Guó, nǐ xìn yòng kǎ shāo wēi yú qī yī diǎn diǎn, shì huì shōu xiāng dāng gāo xiāng dāng gāo de nà zhǒng shǒu xù fèi.
+然后在美国，你信用卡稍微逾期一点点，是会收相当高相当高的那种手续费。
+
+Rán hòu zài Měi Guó nǐ de zhàng dān a, nǐ bǐ rú shuō diàn huà zhàng dān, měi ge yuè ne, wǒ men hěn duō péng you tā dōu dá dào le 150 měi jīn, 200 měi jīn, shèn zhì 300 měi jīn.
+然后在美国你的账单啊，你比如说电话账单，每个月呢，我们有很多朋友他都达到了150美元，200美元，甚至300美元。
+
+Dàn shì ne, dǎ ge diàn huà, nǐ gēn tā argue yī xià, shuō wǒ péng you de dōu hěn shǎo, huò zhě shuō wǒ lìng wài yī ge gōng yìng shāng, bǐ rú shuō Google Fi, kě yǐ tí gōng gèng pián yí de jià gé.
+但是呢，打个电话，你跟他argue一下，说我朋友的都很少，或者说我另外一个供应商，比如说Google Fi，可以提供更便宜的价格。
+
+Nǐ rú guǒ bù gěi wǒ jiàng jià de huà, wǒ kě néng jiù kǎo lǜ qù jìng pǐn de zhè ge gōng yìng shāng le.
+你如果不给我降价的话，我可能就考虑去竞品的这个供应商了。
+
+Tā kě yǐ bargain.
+他可以bargain。
+
+Duì, exactly.
+对，exactly。
+
+Zhōng Guó shì dà gài zuì jìn jǐ nián yǔn xǔ zhè zhǒng yí dòng dào lián tōng dào diàn xìn xǐ hào zhuān wǎng.
+中国是大概最近几年允许这种移动到连通到电信喜好专网。
+
+Suǒ yǐ Zhōng Guó zhè kuài de jìng zhēng yě kāi shǐ bǐ jiào jī liè qǐ lái.
+所以中国这块的竞争也开始比较激烈起来。
+
+Suǒ yǐ zài Měi Guó hěn zǎo jiù yǔn xǔ zhè ge, nǐ gēn tā shuō, tā yǒu zhè zhǒng yòng hù liú cún bù mén, tā jiù huì qù zhǎo yī xiē zhé kòu, huò zhě shì gèng shì hé nǐ de zhè xiē tào cān.
+所以在美国很早就允许这个，你跟他说，他有这种用户留存部门，他就会去找一些折扣，或者是更适合你的这些套餐。
+
+Dàn zhè xiē tào cān nǐ zài wǎng shàng shì zhǎo bù dào de.
+但这些套餐你在网上是找不到的。
+
+Suǒ yǐ yǒu hěn duō zhè zhǒng wèn tí, nǐ dǎ ge diàn huà argue bàn xiǎo shí, kě néng yī ge yuè néng gěi nǐ shěng ge 50 měi jīn shì fēi cháng cháng jiàn de.
+所以有很多这种问题，你打个电话argue半小时，可能一个月能给你省个50美元是非常常见的。
+
+Nà nǐ xiāng dāng yú yī nián jiù shì 600 měi jīn, zhè dōu shì shí shí zài zài de bǎ wǒ men zhè ge xiāo fèi zhě quán yì zhēng qǔ dào le.
+那你相当于一年就是600美元，这都是实实在在的把我们这个消费者权益争取到了。
+
+Suǒ yǐ wǒ men shì jué de hěn yǒu chéng jiù gǎn.
+所以我们是觉得很有成就感。
+
+Duì, wǒ jì de wǒ yǒu yī cì zài Měi Guó de shí hòu, gěi Uber dǎ diàn huà, jī běn shàng nǐ dǎ bù tōng.
+对，我记得我有一次在美国的时候，给Uber打电话，基本上你打不通。
+
+Nǐ gěi tā fā ge xìn xī, rán hòu nà kè fú kě néng 24 xiǎo shí zhī hòu cái huì huí nǐ.
+你给他发个信息，然后那客服可能24小时之后才会回你。
+
+Dāng shí nǐ rú guǒ diū dōng xī shén me de, fǎn zhèng nǐ jiù děng zhe ba.
+当时你如果丢东西什么的，反正你就等着吧。
+
+Méi yǒu shén me rén gōng de fú wù.
+没有什么人工的服务。
+
+Wǒ hái gěi Yà Mǎ Xùn dǎ diàn huà, dōng xī chí chí yě bù dào, jiù wǒ hái shì zhè ge prime huì yuán ne, zěn me jiù zhè ge fú wù ne, duì ba.
+我还给亚马逊打电话，东西迟迟也不到，就我还是这个prime会员呢，怎么就这个服务呢，对吧。
+
+Tā jiù zhēn de bàn ge xiǎo shí qǐ rén gōng.
+他就真的半个小时起人工。
+
+Suǒ yǐ nà ge shí hòu, wǒ rú guǒ yǒu yī ge AI agent, tā jiù kě yǐ tì wǒ qù bù tíng de hū jiào, duì ba.
+所以那个时候，如果我有一个AI agent，他就可以替我去不停的呼叫，对吧。
+
+Rán hòu lái le zhī hòu, gēn tā bǎ shì qíng shuō qīng chu.
+然后来了之后，跟他把事情说清楚。
+
+Shì de, hěn duō shí hòu rén huì jué de hěn shēng qì, dàn shì xiǎng xiǎng wǒ yào huā yī ge xiǎo shí gēn kè fú zài argue de guò chéng zhōng, wǒ zì jǐ de qíng xù hái hěn jī dòng.
+是的，很多时候人会觉得很生气，但是想想我要花一个小时跟客服在argue的过程中，我自己的情绪还很激动。
+
+Argue huí lái kě néng 50 kuài qián huò zhě 100 kuài qián suàn le, kě néng zhǐ wǒ zhè ge shí jiān hé tóu rù, hé zhè ge jīng lì jiù fàng qì le.
+Argue回来可能50块钱或者100块钱算了，可能只我这个时间和投入，和这个精力就放弃了。
+
+Shì, ér qiě hěn duō shí hòu ba, yīng yǔ yě bù shì hěn biāo zhǔn, tā bù dōu shì zhí jiē zhuǎn dào běn dì de, tā nǎ er de nà ge call center dōu yǒu.
+是，而且很多时候吧，英语也不是很标准，它不都是直接转到本地的，它哪儿的那个call center都有。
+
+Shì de, tā men wèi le jiàng dī chéng běn, hěn duō dōu cóng Dōng Nán Yà, shén me zhè xiē dì fāng, qù zhǎo yī xiē huì shuō yīng yǔ de, dàn chéng běn hěn dī de dì fāng, rán hòu zuò call center.
+是的，他们为了降低成本，很多都从东南亚，什么这些地方，去找一些会说英语的，但成本很低的地方，然后做call center。
+
+Yìn dù xiàn zài dōu bù duō le, jiù shì yǐ qián dōu zài Yìn dù ma.
+印度现在都不多了，就是以前都在印度嘛。
+
+Duì, dàn zhè ge lǐ biān wǒ qí shí xiǎng qǐng jiào yī ge jì shù wèn tí.
+对，但这个里边我其实想请教一个技术问题。
+
+Wǒ men qí shí zài zhàng dān tán pàn lǐ, zuì zhí jiē miàn lín de jiù shì zhè ge hào shí, xìn xī bù duì chèng zhè xiē wèn tí a.
+我们其实在账单谈判里，最直接面临的就是这个耗时，信息不对称这些问题啊。
+
+Dàn shì nǐ yào xiǎng ràng AI lái jiě jué nǐ de zhè ge xū qiú, xū yào tā huò qǔ nǐ hěn duō hěn duō de shù jù de, tóng shí zuì zhòng yào de shì, tā hái dé mó nǐ rén lèi de tán pàn jì qiǎo.
+但是你要想让AI来解决你的这个需求，需要它获取你很多很多的数据的，同时最重要的是，它还得模拟人类的谈判技巧。
+
+Suǒ yǐ jiù shì zhè ge lǐ biān wǒ men zài shè zhì de shí hòu, dì yī shì wǒ xiǎng wèn yī xià, jiù shì zhè ge yǐn sī rú hé huò qǔ hé bǎo hù, rán hòu dì èr ne, shì fǒu zài tán pàn zhōng huì jié hé yī xiē bó yì lùn, huò zhě xíng wéi jīng jì xué de yī xiē mó xíng.
+所以就是这里边我们在设置的时候，第一是我想问一下，就是这个隐私如何获取和保护，然后第二呢，是否在谈判中会结合一些博弈论，或者行为经济学的一些模型。
+
+Wǒ men de shǔ yú kē xué jiā, yě shì wǒ men de lián chuàng, tā yǐ qián ne, zài AI, yóu qí shì bāo kuò yǐn sī bǎo hù děng děng, zhè xiē lǐng yù dōu yǒu fēi cháng zī shēn de jīng yàn.
+我们的属于科学家，也是我们的联创，他以前呢，在AI，尤其是包括隐私保护等等，这些领域都有非常资深的经验。
+
+Tā dāng shí hé Berkeley hé zuò yī ge xiàng mù a, jiù shì kě xìn de róng qì jì suàn, jī běn shàng néng zuò dào zhè ge shì jiè shàng sōu tā de shuǐ píng.
+他当时和Berkeley合作一个项目啊，就是可信的容器计算，基本上能做到这个世界上搜他的水平。
+
+Suǒ yǐ wǒ men xiàn zài yǐn sī zhè kuài de cè lüè ne, què shí Měi Guó yòng hù a, huì yǒu yī diǎn concern.
+所以我们现在隐私这块的策略呢，确实美国用户啊，会有一点concern。
+
+Dàn shì zěn me shuō ne, wǒ men yī fāng miàn ne, qí shí bù huì shè jí dào tā tài yǐn sī de dōng xī, zuì duō jiù shì nǐ de social security number de hòu sì wèi, credit card de hòu sì wèi, bìng bù huì yào wán zhěng de xìn xī, zhè shì dì yī diǎn.
+但是怎么说呢，我们一方面呢，其实不会涉及到它太隐私的东西，最多就是你的social security number的后四位，credit card的后四位，并不会要完整的信息，这是第一点。
+
+Dì èr diǎn ne, zhè xiē xìn xī qí shí dōu shì zài běn dì jiā mì zhī hòu ne, dào wǒ men de kě xìn jì suàn de hēi hé.
+第二点呢，这些信息其实都是在本地加密之后呢，到我们的可信计算的黑盒。
+
+Zhǐ yǒu zài dǎ diàn huà de shí hòu, gēn duì miàn de live agent, rú guǒ duì miàn wèn dào, wǒ men huì gēn tā shuō, shuō wán zhī hòu, qí tā suǒ yǒu de dōng xī dōu shì lì jí jiù xiāo huǐ le, yě bù huì cún chǔ, yě bù huì kàn dào wǒ men yòng hù de zhè xiē shù jù.
+只有在打电话的时候，跟对面的live agent，如果对面问到，我们会跟他说，说完之后，其他所有东西都是立即就销毁了，也不会存储，也不会看到我们用户的这些数据。
+
+Kě xìn jì suàn, wǒ men hái yòng le yún róng qì de zhè xiē jì shù a, zài wǒ men de wǎng zhàn shàng dōu yǒu xiǎo dùn pái de logo, biǎo shì wǒ men jīng guò le tā men zhè kuài de kǎo yàn.
+可信计算，我们还用了云容器的这些技术啊，在我们的网站上都有小盾牌的logo，表示我们经过了他们这块的考验。
+
+Zhè shì yǐn sī fāng miàn de zhè ge wèn tí a.
+这是隐私方面的这个问题啊。
+
+Rán hòu nín tí dào de jiù shì shuō, zài argue de guò chéng zhōng, zhè ge què shí shì xiǎng zuò chéng zhè ge shì, qí shí shì fēi cháng fēi cháng nán de.
+然后您提到的就是说，在argue的过程中，这个确实是想做成这个事，其实是非常非常难的。
+
+Shǒu xiān ne, liǎo jiě yòng hù zhè shì yī ge shén me wèn tí.
+首先呢，了解用户这是一个什么问题。
+
+Hěn duō shí hòu yòng hù shì hěn nán bǎ wèn tí biǎo chū qīng chu.
+很多时候用户是很难把问题表述清楚。
+
+Bǐ rú shuō tā shuō wǒ yào tóu sù jiǔ diàn, zhè ge jiǔ diàn wǒ zuó tiān rù zhù de shí hòu, tā lóu xià zài bà gōng, chǎo dé wǒ shuì bù zháo.
+比如说他说我要投诉酒店，这个酒店我昨天入住的时候，他楼下在罢工，吵得我睡不着。
+
+Rú guǒ tā jiù zhè me yī ge request, nǐ jiù zhí jiē bāng tā chǔ lǐ le, zhè ge jiù bù xíng.
+如果他就这么一个request，你就直接帮他处理了，这个就不行。
+
+Wèi shén me ne, nǐ xiǎng yào deliver de shì yī ge shén me yàng de jié guǒ.
+为什么呢，你想要deliver的是一个什么样的结果。
+
+Tā shì xiǎng tuì qián ne, hái shì xiǎng yào xiē bǔ cháng, hái shì yào coupon.
+他是想退钱呢，还是想要些补偿，还是要coupon。
+
+Rú guǒ duì miàn shuō wǒ gěi nǐ yī wǎn shàng miǎn fèi rù zhù de bǔ cháng, dàn shì wǒ bù néng gěi nǐ tuì qián, zhè kě bù kě yǐ.
+如果对面说我给你一晚上免费入住的补偿，但是我不能给你退钱，这可不可以。
+
+Huò zhě shuō wǒ wǎng nǐ zhàng hù lǐ biān dǎ yī xiē jī fēn, zhè kě bù kě yǐ.
+或者说我往你账户里边打一些积分，这可不可以。
+
+Nà zhè xiē dōu shì wǒ men yào gēn yòng hù qù chéng qīng de, jiù shì tā de yì tú shì shén me.
+那这些都是我们要跟用户去澄清的，就是他的意图是什么。
+
+Dàn shì dāng yòng hù qù biǎo shù zhè ge wèn tí de shí hòu, tā kě néng bìng méi yǒu xiǎng dào, zhè shì dì yī diǎn.
+但是当用户去表述这个问题的时候，他可能并没有想到，这是第一点。
+
+Rán hòu ne, nǐ yào qià rù jī fēn de, fēi cháng zhǔn què de wèn yòng hù yī xiē wèn tí, bǐ rú shuō nǐ shì nǎ lǐ de jiǔ diàn a.
+然后呢，你要切入积分的，非常准确的问用户一些问题，比如说你是哪里的酒店啊。
+
+Rán hòu nǐ de huì yuán hào, bāo kuò nǐ shì nǎ tiān rù zhù check in check out, dāng shí shì shén me qíng kuàng, nǐ yǒu méi yǒu gēn qián tái fǎn yìng, tā men de jié guǒ shì shén me.
+然后你的会员号，包括你是哪天入住check in check out，当时是什么情况，你有没有跟前台反应，他们的结果是什么。
+
+Nǐ rú guǒ bù wèn ne, kě néng nǐ zài argue de shí hòu, nǐ jiù shǎo hěn duō hěn duō xìn xī.
+你如果不问呢，可能你在argue的时候，你就少很多很多信息。
+
+Nǐ jiù xiàng rén bāng lìng wài yī ge rén bàn shì yī yàng.
+你就像人帮另外一个人办事一样。
+
+Dàn shì nǐ rú guǒ wèn duō le ne, yòng hù huì jué de, wǒ qù nǐ yào wèn wǒ zhè me duō wèn tí, wǒ bù rú wǒ zì jǐ qù zuò le.
+但是你如果问多了呢，用户会觉得，我去你要问我这么多问题，我不如我自己去做了。
+
+Dì sān diǎn jiù shì, nǐ zhēn de dài le zhè xiē xìn xī, zài gēn duì miàn de kè fú shuō de shí hòu ne, huì yǒu fēi cháng duō de tiǎo zhàn.
+第三点就是，你真的带了这些信息，在跟对面的客服说的时候呢，会有非常多的挑战。
+
+Bǐ rú shuō xiàn zài suǒ yǒu de AI, tā yuán shēng dōu shì yòng lái bāng zhù rén de.
+比如说现在所有的AI，它原生都是用来帮助人的。
+
+Dàn shì wǒ xiàn zài zài zhè ge chǎng jǐng, wǒ shì zài gēn nǐ argue de, zhè lǐ biān shì yǒu yī ge duì lì hé tān shén zài, duì kàng, duì exactly.
+但是我现在在这个场景，我是在跟你argue的，这里边是有一个对立和谈判在，对抗，对exactly。
+
+Nǐ kàn wǒ men xiàn zài hěn duō AI ne, tā dōu fēi cháng tīng rén de huà, fēi cháng róng yì bèi duì fāng dài zhe zǒu.
+你看我们现在很多AI呢，它都非常听人的话，非常容易被对方带着走。
+
+Shèn zhì nǐ rú guǒ yòng yuán shēng de tào ge ké, duì ba, duì miàn shuō wǒ men xiàn zài hěn máng, nǐ guò huì zài dǎ guò lái ba, huò zhě guò huì zài dǎ gěi nǐ.
+甚至你如果用原生的套个壳，对吧，对面说我们现在很忙，你过会再打过来吧，或者过会再打给你。
+
+Base mó xíng ne, jiù huì hěn shùn cóng, jiù shuō kě yǐ a, dàn shì tā jiù bù huì zài dǎ gěi nǐ le.
+base模型呢，就会很顺从，就说可以啊，但是他就不会再打给你了。
+
+Suǒ yǐ zhè ge shí hòu, nǐ hái yào jiān chí bù xiè.
+所以这个时候，你还要坚持不懈。
+
+Rán hòu zài jù tǐ tán pàn de shí hòu, bǐ rú shuō yòng hù shuō, wǒ jiù shì yào quán é tuì kuǎn.
+然后在具体谈判的时候，比如说用户说，我就是要全额退款。
+
+Dàn shí jì guò chéng zhōng, duì miàn bù tài kě néng quán é tuì kuǎn.
+但实际过程中，对面不太可能全额退款。
+
+Nà tā shuō wǒ gěi nǐ tuì yī bàn, xíng bù xíng.
+那他说我给你退一半，行不行。
+
+Nà zhè ge shí hòu nǐ yào zhī dào, duì fāng de dǐ xiàn zài nǎ lǐ.
+那这个时候你要知道，对方的底线在哪里。
+
+Yòng gōng kāi de mó xíng a, nǐ jiù hěn róng yì fā xiàn, yào me ne, tā jiù shì hěn shùn cóng duì fāng, yào me ne, jiù shì zuì hòu liáo le yī ge xiǎo shí, rán hòu wǒ men shuō suàn le, dá bù dào wǒ yào de mù biāo, zhěng ge quán tuì kuǎn, wǒ jiù bù yào le.
+用公开的模型啊，你就很容易发现，要么呢，他就是很顺从对方，要么呢，就是最后聊了一个小时，然后我们说算了，达不到我要的目标，整个全退款，我就不要了。
+
+Zuì hòu nǐ zhè yī ge xiǎo shí jiù shì làng fèi de.
+最后你这一个小时就是浪费的。
+
+Suǒ yǐ zhè biān què shí shì, xiàng Lì Li jiě nín tí dào de, yǒu hěn duō jīng jì shàng de, mó xíng shàng de kǎo lǜ.
+所以这边确实是，像莉莉姐您提到的，有很多经济上的，模型上的考虑。
+
+Bǐ rú suǒ wèi de nà shì jūn héng, bāo kuò zěn me tōng guò tán pàn, néng gòu chuǎi mó dào duì fāng zhè biān de dǐ xiàn.
+比如所谓的纳什均衡，包括怎么通过谈判，能够揣摩到对方这边的底线。
+
+Tā què shí shì zhǐ néng zài tā de fàn wéi nèi, zuò dào zhè lǐ le, nà wǒ men jiù bǎ zhè ge chéng guǒ shōu huò, rán hòu qù gěi dào yòng hù jiù kě yǐ le.
+他确实是只能在他的范围内，做到这里了，那我们就把这个成果收获，然后去给到用户就可以了。
+
+Qí shí yòng de mó xíng shì shén me, wǒ men zhè ge agents bèi hòu yǒu hěn duō mó xíng.
+其实用的模型是什么，我们这个agents背后有很多模型。
+
+Bāo kuò gēn yòng hù jiāo liú de, wǒ men qù gēn duì miàn de kè fú qù tán pàn de, dōu shì bù tóng de mó xíng.
+包括跟用户交流的，我们去跟对面的客服去谈判的，都是不同的模型。
+
+Ér qiě yīn wèi nǐ zài tán pàn de shí hòu, shì yī ge kuài sī kǎo, jiù shì duì miàn shuō yī ge shén me huà, nǐ bì xū mǎ shàng qù fǎn yìng.
+而且因为你在谈判的时候，是一个快思考，就是对面说一个什么话，你必须马上去反应。
+
+Hěn duō shí hòu ne, nǐ yòu bù yī dìng fǎn yìng de guò lái, nǐ de sī wéi bù yī dìng yǒu nà me zhěn mì.
+很多时候呢，你又不一定反应的过来，你的思维不一定有那么缜密。
+
+Suǒ yǐ wǒ men zhè ge yě dōu hái shì kuài màn jié hé, bèi hòu hái yǒu xiē qí tā de lǎo máo shēn suàn de, zhè zhǒng agents bāng tā zhī zhāo, bāng tā jué cè shuō, zhè ge shí hòu nǐ kě néng yào wèn yī wèn yòng hù, huò zhě shuō zhè ge shí hòu nǐ yào qù wǎng shàng sōu yī xià zhè ge jiǔ diàn, tā de user agreement, huò zhě tā de term, huò zhě regulation děng děng, rán hòu qù gěi tā fǔ zhù yī xiē argument.
+所以我们这个也都还是快慢结合，背后还有些其他的老谋深算的，这种agents帮他支招，帮他决策说，这个时候你可能要问一问用户，或者说这个时候你要去网上搜一下这个酒店，他的user agreement，或者他的term，或者regulation等等，然后去给他辅助一些argument。
+
+Zhè ge tài lì hài le, qí shí tā zài yī shùn jiān jiù kě yǐ bǎ zhè ge dōng xī xué xí wán ma.
+这个太厉害了，其实他在一瞬间就可以把这个东西学习完嘛。
+
+Zhè ge gēn rén bù yī yàng, rén nǐ chá fǎ guī tiáo kuǎn, nà shì xū yào nǐ qù kàn de, shèn zhì nǐ hái yào huā qián qù zī xún, duì ba.
+这个跟人不一样，人你查法规条款，那是需要你去看的，甚至你还要花钱去咨询，对吧。
+
+Qí shí wǒ men zài shè jì zhè xiē agents de shí hòu, jiù shì zhào zhe rén shè jì de.
+其实我们在设计这些agents的时候，就是照着人设计的。
+
+Rén zài gēn nǐ jiāo liú de shí hòu, tā yě shì yǒu liǎng ge tào sī wéi luó ji, yī ge shì kuài sī kǎo, yī ge shì màn sī kǎo.
+人在跟你交流的时候，他也是有两个套思维逻辑，一个是快思考，一个是慢思考。
+
+Tā yī fāng miàn kě néng yìng fù zhe nǐ, dàn lìng yī fāng miàn sī dǐ xià tā zài xiǎng, zhè ge shì wǒ yīng gāi zěn me zuò.
+他一方面可能应付着你，但另一方面私底下他在想，这个事我应该怎么做。
+
+Shèn zhì tā yǒu kě néng dǎ kāi shǒu jī qù sōu yī xià, xiàn zài shì yī ge shén me qíng kuàng.
+甚至他有可能打开手机去搜一下，现在是一个什么情况。
+
+Wǒ yī biān gěi nǐ dǎ kāi, yī biān yòng shǒu jī sōu yī xià.
+我一边给你打开，一边用手机搜一下。
+
+Zhǐ bù guò ne, yīn wèi AI tā kě yǐ bǎ zhè ge fā huī dào jí zhì.
+只不过呢，因为AI他可以把这发挥到极致。
+
+Wǒ kě yǐ tóng shí kāi hǎo jǐ ge sōu suǒ, shèn zhì wǒ hái kě yǐ tóng shí gěi yòng hù dǎ yī ge diàn huà, shuō xiàn zài wǒ tán pàn jìn xíng dào zhè le, duì miàn deliver zhè yàng yī ge offer, nǐ jué de xíng bù xíng.
+我可以同时开好几个搜索，甚至我还可以同时给用户打一个电话，说现在我谈判进行到这了，对面deliver这样一个offer，你觉得行不行。
+
+Wǒ men kě yǐ bǎ zhè ge gōng jù shǐ yòng, yòng dào jí zhì, zhè ge shì néng gòu chāo yuè rén lèi de.
+我们可以把这个工具使用，用到极致，这个是能够超越人类的。
+
+Duì, fēi cháng lì hài.
+对，非常厉害。
+
+Nà wǒ men xiàn zài yòng de zhè ge mó xíng, shì yòng wài miàn de yī xiē cǎi gòu de, hái shì shuō wǒ men zì jǐ zì yán de.
+那我们现在用的这个模型，是用外面的一些采购的，还是说我们自己自研的。
+
+Yuán lái wǒ men yī kāi shǐ shì, yīn wèi wǒ men zuò yìng yòng, zhǐ yào nǐ shì miàn shàng néng tí gōng de mó xíng, néng jiě jué wǒ men wèn tí, wǒ men jiù kě yǐ yòng.
+原来我们一开始是，因为我们做应用，只要你市面上能提供的模型，能解决我们问题，我们就可以用。
+
+Dàn shì shí jì guò chéng zhōng, jiù shì yīn wèi xiàng wǒ gāng cái tí dào de, yù dào gè zhǒng wèn tí, yīn wèi tā tuī le dào wǒ men zhè ge bǐ jiào snate chǎng jǐng, shì hěn nán de.
+但是实际过程中，就是因为像我刚才提到的，遇到各种问题，因为它推到了我们这个比较specific的场景，是很难的。
+
+Suǒ yǐ zuì hòu yǒu hěn duō mó xíng, dōu shì wǒ men zì jǐ qù zuò post train, bāo kuò RL, bāo kuò SFT, jiù shì suǒ wèi de nà ge wēi tiáo hé qiáng huà xué xí.
+所以最后有很多模型，都是我们自己去做post train，包括RL，包括SFT，就是所谓的那个微调和强化学习。
+
+Rán hòu bǎ tā tailor dào wǒ men zhè ge zhuān mén bāng yòng hù jiě jué customer service zhè yàng wèn tí de mó xíng.
+然后把它tailor到我们这个专门帮用户解决customer service这样问题的模型。
+
+Suǒ yǐ jiǎn dān shuō, jiù shì yǒu hěn duō shì wǒ men xùn de.
+所以简单说，就是有很多是我们训的。
+
+Dāng rán wǒ men yě yòng le wài miàn sōu tā de yī xiē, bǐ rú shuō yī xiē sī kǎo mó xíng, shén me de.
+当然我们也用了外面搜它的一些，比如说一些思考模型，什么的。
+
+Duì duì, zhè ge qí shí gēn wǒ xiǎng de chà bù duō.
+对对，这个其实跟我想的差不多。
+
+AI ne, qí shí xiàn zài jīn tiān xiàng nín shuō, tā gèng duō tí gōng de shì shuō, jī yú xiàn yǒu de shù jù, tā bāng nǐ zhěng hé guī nà, rán hòu tí liàn, bǐ nǐ zì jǐ yǐ qián qù dān xiàng sōu suǒ, rán hòu ne nǐ zì jǐ zài qù tí liàn hé guī nà, shì yào xiào lǜ yào gāo de.
+AI呢，其实现在今天像您说，它更多提供的是说，基于现有的数据，它帮你去整合归纳，然后提炼，比你自己以前去单向搜索，然后呢，你再自己去提炼和归纳，是要效率要高的。
+
+Dàn shì nǐ xiàn zài shè jí dào jí shí de fǎn kuì, shè jí dào bó yì, rán hòu shè jí dào gè zhǒng gè yàng de fǎ lǜ fǎ guī de tiáo kuǎn de zhè zhǒng yuè dú xué xí, zhè què shí shì méi yǒu xiàn chéng de yī ge mó xíng kě yǐ qù shì yòng.
+但是你现在涉及到及时的反馈，涉及到博弈，然后涉及到各种各样的法律法规的条款的这种阅读学习，这确实是没有现成的一个模型可以去试用。
+
+Dàn wǒ jiù shuō huí lái, tā lǐ biān zuì zhǔ yào de jì shù nán diǎn shì shén me, shì yǔ yīn fāng xiàng de, hái shì shuō cóng xué xí shàng de, hái shì kè fú jì qiǎo shàng.
+但我就说回来，它里边最主要的技术难点是什么，是语音方向的，还是说从学习上的，还是克服技巧上。
+
+Tā zhè lǐ biān zuì nán de yǒu jǐ ge ba.
+它这里边最难的有几个吧。
+
+Dì yī ge, nǐ de yǔ yīn kěn dìng yào fēi cháng xiàng rén.
+第一个，你的语音肯定要非常像人。
+
+Wǒ men qí shí bǎ shì miàn shàng nèi xiē suǒ wèi de TTS jì shù dōu yòng guò le, shēng yīn hěn hǎo, hěn bù cuò, yīn zhì yě hěn bù cuò.
+我们其实把市面上那些所谓的TTS技术都用过了，声音很好，很不错，音质也很不错。
+
+Dàn shì yī tīng jiù bù shì zhēn rén, nà zhǒng AI de gǎn jué fēi cháng de zhòng.
+但是一听就不是真人，那种AI的感觉非常的重。
+
+Jiù shì zhēn rén shuō huà de shí hòu, zhè zhǒng yī yàng dùn cuò, jié gòu, tíng dùn, sī kǎo, jiē ba, chóng fù, zhè ge tè zhēng shì hěn míng xiǎn de.
+就是真人说话的时候，这种抑扬顿挫、结构、停顿、思考、结巴、重复，这个特征是很明显的。
+
+Dàn shì xiàn zài de AI, shèn zhì hěn duō shí hòu tā tài wán měi le, nà yī tīng jiù shì xiàng bō ēn yuán nà zhǒng, nǐ jiù méi yǒu bàn fǎ bǎ tā dàng chéng yī ge zhēn rén lái chū pǐn.
+但是现在的AI，甚至很多时候它太完美了，那一听就是像播恩员那种，你就没有办法把它当成一个真人来出品。
+
+Duì miàn yī tīng, nǐ shì yī ge AI, hěn duō shí hòu jiù bù tài yuàn yì gēn nǐ liáo le, zhè shì yī diǎn.
+对面一听，你是一个AI，很多时候就不太愿意跟你聊了，这是一点。
+
+Dì èr diǎn jiù shì xiàng gāng cái wǒ shuō de, nǐ zài dǎ diàn huà de shí hòu, nǐ de luó ji yào hěn yán mì, ér qiě nǐ de common sense yào gēn rén lèi yī yàng.
+第二点就是像刚才我说的，你在打电话的时候，你的逻辑要很严密，而且你的common sense要跟人类一样。
+
+Zhè ge AI hěn duō shí hòu gēn rén lèi shì fǎn de, shèn zhì shì ràng nǐ fēi cháng fěi yí suǒ sī de.
+这个AI很多时候跟人类是反的，甚至是让你非常匪夷所思的。
+
+Bǐ rú shuō qù nián, wǒ bù zhī dào Lì Li jiě nín hái jì bù jì de, jiù shì mó xíng quān lǐ biān liú xíng shuō, 3.11 hé 3.9 nà ge dà.
+比如说去年，我不知道莉莉姐您还记不记得，就是模型圈里边流行说，3.11和3.9哪个大。
+
+Nǐ kàn zhè zhǒng wèn tí, nǐ dàng ge wán xiào shì kě yǐ de, dàn shì nǐ rú guǒ zhēn de shì zài tán pàn chǎng jǐng, zhè zhǒng guān jiàn de shù zì, nǐ rú guǒ shì gǎo cuò le, shì bù xíng de.
+你看这种问题，你当个玩笑是可以的，但是你如果真的是在谈判场景，这种关键的数字，你如果是搞错了，是不行的。
+
+Dàn wǒ men shí jì shàng zài zuò de shí hòu, jiù huì fā xiàn yǒu dà liàng de zhè zhǒng shù zì, jī běn shù zì suàn bù míng bái le.
+但我们实际上在做的时候，就会发现有大量的这种数字，基本数字算不明白了。
+
+Bǐ rú shuō yòng hù zhàng dān shì 230 kuài qián, wǒ xiǎng gěi tā tán dào 180.
+比如说用户账单是230块钱，我想给他谈到180。
+
+Rán hòu duì miàn de kè fú fēi cháng hǎo, tā shuō nǐ shì yī ge 10 nián de loyalty customer, wǒ zhí jiē gěi nǐ huàn ge tào cān, jiàng dào le 170.
+然后对面的客服非常好，他说你是一个10年的loyalty customer，我直接给你换个套餐，降到了170。
+
+Nà zhè shí hòu wǒ men AI běn lái yīng gāi xīn rán jiē shòu, duì ba, nǐ 170 yǐ jīng dī yú wǒ 180 le.
+那这时候我们AI本来应该欣然接受，对吧，你170已经低于我180了。
+
+Dàn shì nǐ shì miàn shàng hěn duō mó xíng, tā huì shuō, fēi cháng gǎn xiè nǐ, cháo zhe wǒ men xiǎng yào de mù biāo yòu jìn le yī bù.
+但是你市面上很多模型，他会说，非常感谢你，朝着我们想要的目标又进了一步。
+
+Suī rán nǐ gěi wǒ dào 170 le, dàn shì gēn wǒ xiǎng yào de 180 hái shì yǒu 10 kuài qián de jù lí, nǐ néng bù néng nǔ lì bǎ wǒ dá dào 180.
+虽然你给我到170了，但是跟我想要的180还是有10块钱的距离，你能不能努力把我达到180。
+
+Tā duì zhè ge shù zì shì confused de.
+他对这个数字是confused的。
+
+Duì miàn jiù huì shuō, nǐ zài shuō shá, kě néng jiù zhí jiē bǎ nǐ guà le.
+对面就会说，你在说啥，可能就直接把你挂了。
+
+Shèn zhì gèng yán zhòng de, kě néng jiù bǎ nǐ zhè ge yòng hù dàng chéng yī zhǒng qī zhà, huò zhě shuō shēn fèn bèi dào yòng, zhè shì hěn yán zhòng de.
+甚至更严重的，可能就把你这个用户当成一种欺诈，或者说身份被盗用，这是很严重的。
+
+Rán hòu hái yǒu jiù shì, yuán lái wǒ men shì zhuān mén zhēn duì diàn xìn zhàng dān zhè ge chǎng jǐng, hòu lái fā xiàn, wǒ men xiǎng yào tuò zhǎn qí tā de chǎng jǐng de shí hòu, shì xū yào bǎ měi ge háng yè dōu yào tí qián zuò yī duī zhǔn bèi gōng zuò, rán hòu bǎ zhè ge biàn chéng yī ge workflow.
+然后还有就是，原来我们是专门针对电信账单这个场景，后来发现，我们想要拓展其他的场景的时候，是需要把每一个行业都要提前做一堆的准备工作，然后把这个变成一个workflow。
+
+Wǒ men fā xiàn zhè zhǒng rén lì chéng běn tài gāo le.
+我们发现这种人力成本太高了。
+
+Suǒ yǐ wǒ men jiù yào ràng wǒ men de agent jù bèi zhè zhǒng autonomous de néng lì, jiù shì tā zhè ge chǎng jǐng, tā kě néng méi jiàn guò, dàn shì zhǐ yào shì zài Měi Guó dāng dì shēng huó de chǎng jǐng, tā kào common sense, zài wǎng shàng sōu de dōng xī, tā jiù kě yǐ bǎ zhè ge shì chǔ lǐ dào zài zhè ge lǐng yù gōng zuò le sān dào wǔ nián de zhēn rén de zhè zhǒng shuǐ píng.
+所以我们就要让我们的agent具备这种autonomous的能力，就是他这个场景，他可能没见过，但是呢，只要是在美国当地生活的场景，他靠common sense，在网上搜的东西，他就可以把这个事处理到在这个领域工作了三到五年的真人的这种水平。
+
+Nà bǐ rú shuō Měi Guó yǒu hěn duō luàn qī bā zāo shì, wǒ de cǎo píng wǒ yào shā chóng, wǒ de yǒng chí yào qīng jié yī xià, rán hòu wǒ qù yào diàn mǎi yào, dàn shì yī shēng méi yǒu kāi chú fāng, zěn me jiě jué.
+那比如说美国有很多乱七八糟事，我的草坪我要杀虫，我的泳池要清洁一下，然后我去药店买药，但是医生没有开处方，怎么解决。
+
+Hěn duō hěn duō lèi sì zhè zhǒng wèn tí.
+很多很多类似这种问题。
+
+Nà me zěn me ràng wǒ men zhè ge agent zì zhǔ de qù bǎ zhè xiē gǎo dìng, zhè yě shì fēi cháng nán de.
+那么怎么让我们这个agent自主的去把这些搞定，这也是非常难的。
+
+Nà zuì hòu yī ge ne, jiù shì wǒ de zhè xiē jīng yàn, jì yì, bāo kuò yòng hù de preference, wǒ men zěn me bǎ tā yǒu xiào de yòng qǐ lái.
+那最后一个呢，就是我的这些经验、记忆，包括用户的preference，我们怎么把它有效的用起来。
+
+Wǒ jǔ ge lì zǐ, yǒu yòng hù shuō, wǒ de chē xiǎn bāng wǒ zhǎo yī ge pián yí de.
+我举个例子，有用户说，我的车险帮我找一个便宜的。
+
+Tā de qì chē kě néng shì BMW M3, shì yī ge zài Měi Guó bǐ jiào hǎo de chē.
+他的汽车可能是BMW M3，是一个在美国比较好的车。
+
+Dàn dāng tā xià cì yào yòng wǒ men zhè ge chǎn pǐn de shí hòu, tā shuō wǒ xiǎng qù huàn jī yóu.
+但当他下次要用我们这个产品的时候，他说我想去换机油。
+
+Nà me nǐ jiù bù néng màn wú mù dì de bǎ suǒ yǒu de jī yóu dōu gěi tā zhǎo chū lái.
+那么你就不能漫无目的的把所有的机油都给他找出来。
+
+Nǐ yīng gāi zhuān zhù yú tā guò qù gěi nǐ tí gōng guò de BMW M3, zhǎo taylor dào tā zhè ge qì chē de jī yóu, zhè yàng cái néng gěi tā dìng zhì huà de tǐ yàn.
+你应该专注于他过去给你提供过的BMW M3，找tailor到他这个汽车的机油，这样才能给他定制化的体验。
+
+Duì, nà zhè ge wǒ jué de bù nán ba, duì yǒu yī ge fú wù jì lù bù jiù hǎo le ma.
+对，那这个我觉得不难吧，对有一个服务记录不就好了吗。
+
+Duì, zhè ge yě tǐng nán, jiù shì yīn wèi nǐ huì gēn yòng hù jiāo liú yī duī de dōng xī.
+对，这个也挺难，就是因为你会跟用户交流一堆的东西。
+
+Rán hòu nǐ hái yào zài wǎng shàng sōu suǒ yī duī dōng xī, hái yào gēn kè fú gōu gōu gōu yī duī dōng xī.
+然后你还要在网上搜索一堆东西，还要跟客服沟通一堆东西。
+
+Rán hòu yǒu duì de yǒu cuò de, nǐ yào shí bié chū lái nǎ xiē shì duì de, nǎ xiē shì cuò de.
+然后有对的有错的，你要识别出来哪些是对的，哪些是错的。
+
+Bǐ rú shuō nǐ gěi zhè jiā gōng sī bàn le 100 ge shì, kě néng dōu shì zhè yàng de jīng yàn.
+比如说你给这家公司办了100个事，可能都是这样的经验。
+
+Dàn dì 101 ge kè fú tā shuō de bù yī yàng le, nà me zhè ge shí hòu, dào dǐ duì yú nǐ de jīng yàn de jī lěi, shì qǐ dào yī ge duō dà de zuò yòng.
+但第101个客服它说的不一样了，那么这个时候，到底对于你的经验的积累，是起到一个多大的作用。
+
+Nǐ shì xìn dì 101 ge, hái shì xìn yuán lái de 100 ge.
+你是信第101个，还是信原来的100个。
+
+Zhè yǒu de shí hòu shèn zhì hái bù shì yī ge jiǎn dān de shǎo shù fú cóng duō shù de wèn tí, yīn wèi yǒu de shí hòu tā de cè lüè, tā guān fāng de chǎn pǐn yòu gǎi le.
+这有的时候甚至还不是一个简单的少数服从多数的问题，因为有的时候它的策略，它官方的产品又改了。
+
+Nà gēng xīn de shì gèng zhǔn què de.
+那更新的是更准确的。
+
+Suǒ yǐ zhè biān yǒu hěn duō bèi hòu de quán zhòng, nǐ yào qù tiáo jiě, cái néng bǎ zhè ge jì yì jīng yàn fā huī dào jí zhì.
+所以这边有很多背后的权重，你要去调解，才能把这个记忆经验发挥到极致。
+
+Suǒ yǐ wǒ men zài shè jì de shí hòu, liǎng jù huà zài wǒ men tuán duì lǐ biān shì dà jiā shuō de bǐ jiào duō de.
+所以我们在设计的时候，两句话在我们团队里边是大家说的比较多的。
+
+Dì yī wǒ men jiù huì xiǎng, rú guǒ shì zhēn rén, wèi shén me néng zuò, wǒ men jiù cháng shì ràng AI qù mó nǐ zhè ge rén zài zuò de shí hòu, shì zěn me tí liàn zhè xiē xìn xī de.
+第一我们就会想，如果是真人，为什么能会做，我们就尝试让AI去模拟这个人在做的时候，是怎么提炼这些信息的。
+
+Dì èr, yǒu de shí hòu wǒ men yě zuò bù liǎo, rán hòu wǒ men jiù huì shuō, rén dōu zuò bù liǎo, wèi shén me néng ràng AI yě zuò.
+第二，有的时候我们也做不了，然后我们就会说，人都做不了，为什么能让人工智能也做。
+
+Suǒ yǐ wǒ men shì yǒu yī ge biāo chǐ, bìng bù shì shuō wǒ shì yī ge wàn néng de.
+所以我们是一个标尺，并不是说我是一个万能的。
+
+Wǒ men jiù duì biāo zài rén néng gòu tōng guò dǎ diàn huà hé xiě yóu jiàn qù jiě jué de shì, wǒ men jiù yào néng zuò.
+我们就对标在，人能够通过打电话和写邮件去解决的事，我们就要能做。
+
+Rén jiě jué bù liǎo de, wǒ men jiù bù jì xī wàng yú AI néng jiě jué.
+人解决不了的，我们就不寄希望于AI能解决。
+
+Duì, nín jiè shào zhè ge chǎng jǐng fēi cháng hǎo, jiù kàn qǐ lái zhè lǐ biān qí shí kēng hái shì tǐng duō de.
+对，您介绍这个场景非常好，就看起来这里边其实坑还是挺多的。
+
+Yīn wèi nǐ xū yào mó nǐ chéng yī ge rén de yàng zi, rán hòu gēn duì fāng qù bargain.
+因为你需要模拟成一个人的样子，然后跟对方去bargain。
+
+Dàn shì zhè jiù yī ge wèn tí, dà chǎng huì bù huì tā yǐ hòu jiù huì píng bì zhè xiē AI, jiù xiàng wǒ men xiàn zài jù jué jiē tīng dà chǎng dǎ guò qù de xiāo shòu de AI diàn huà, shì yī yàng de.
+但是这就一个问题，大厂会不会他以后就会屏蔽这些AI，就像现在我们拒绝接听大厂打过去的销售的AI电话，是一样的。
+
+Huì yǒu zhè zhǒng qíng kuàng ma.
+会有这种情况吗。
+
+Duì, zhè yě shì wǒ men zuì kāi shǐ shè jì zhè ge chǎn pǐn qù kǎo lǜ de yī ge diǎn.
+对，这也是我们最开始设计这个产品去考虑的一个点。
+
+Yīn wèi dà chǎng ne, tā de kè fú dōu shì jīng guò bǐ jiào zhuān yè de péi xùn de, píng jià tā men gōng zuò de zhǐ biāo ne, jiù shì kè hù mǎn yì dù.
+因为大厂呢，它的客服都是经过比较专业的培训的，评价他们工作的指标呢，就是客户满意度。
+
+Ér qiě zài wǒ men zhī qián, qí shí zài Měi Guó běn lái jiù yǒu hěn duō hěn duō gōng sī a, qù zuò zhè zhǒng tán pàn.
+而且在我们之前，其实在美国本来就有很多很多公司啊，去做这种谈判。
+
+Tā de yòng hù qún tǐ ne, kě néng shì yǒu hěn duō a, dì yī, tā bù zhī dào zhè lǐ biān kě yǐ qù tán pàn de.
+它的用户群体呢，可能是有很多啊，第一，他不知道这里边可以去谈判的。
+
+Dì èr, tā xiǎng tán pàn, dàn shì tā bù zhī dào zěn me qù tán de.
+第二，他想谈判，但是他不知道怎么去谈的。
+
+Dì sān, tā bù tài gǎn gēn mò shēng rén qù dǎ diàn huà, bù tài comfortable.
+第三，他不太敢跟陌生人去打电话，不太comfortable。
+
+Dì sì, shèn zhì yǒu yī xiē biǎo dá ya, yīng yǔ tīng lì ya, kǒu yǔ ya, bù tài fāng biàn de zhè xiē rén.
+第四，甚至有一些表达呀，英语听力呀，口语呀，不太方便的这些人。
+
+Rán hòu xiàn zài wǒ men yòng AI lái zuò zhè ge shì ne, hěn duō shí hòu ne, qí shí shì bǐ zhēn rén gèng yǒu tóng lǐ xīn, ér qiě gèng yuàn yì zhī chí tā men de gōng zuò de.
+然后现在我们用AI来做这个事呢，很多时候呢，其实是比真人更有同理心，而且更愿意支持他们的工作的。
+
+Hěn duō shí hòu tā men nà biān kè fú shuō, wǒ zhè biān shì yǒu zhǐ biāo de, nǐ néng bù néng chéng wéi wǒ jīn tiān de yī ge xiào liǎn kè hù.
+很多时候他们那边客服说，我这边是有指标的，你能不能成为我今天的一个笑脸客户。
+
+Wǒ men hái shuō méi wèn tí, nǐ zhǐ yào bāng wǒ jiě jué zhè ge wèn tí, wǒ jiù shì nǐ de xiào liǎn kè hù.
+我们还说没问题，你只要帮我解决这个问题，我就是你的笑脸客户。
+
+Rán hòu yǒu de tā men wèn wǒ men AI shuō, nǐ shēng yīn hǎo xiàng shì zhè ge zuì jìn zěn me le.
+然后有的他们问我们AI说，你声音好像是这个最近怎么了。
+
+Wǒ men AI huì zhǎo yī xiē lǐ yóu a, shuō wǒ zuì jìn gǎn mào le duì ba, sǎng zi bù tài hǎo.
+我们AI会找一些理由啊，说我最近感冒了对吧，嗓子不太好。
+
+Nà duì miàn de kè fú jiù shuō, wǒ yě shàng zhōu gāng recover.
+那对面的客服就说，我也上周刚recover。
+
+Tā men hái huì lào yī lào jiā cháng, rán hòu wǒ men AI hái huì ān wèi tā yī xià.
+他们还会唠一唠家常，然后我们AI还会安慰他一下。
+
+Zhè ge hěn duō shí hòu huì bǐ rén gěi kè fú dài lái de zhè ge qíng xù jià zhí gèng hǎo.
+这个很多时候会比人给客服带来的这个情绪价值更好。
+
+Suǒ yǐ mù qián wéi zhǐ a, zhì shǎo zhè xiē dà gōng sī hái méi yǒu yù dào zhè zhǒng qíng kuàng.
+所以目前为止啊，至少这些大公司还没有遇到这种情况。
+
+Dàn shì lìng yī fāng miàn cóng zhè ge dà gōng sī lì yì jiǎo dù ne, zhè shì shì zhè yàng de.
+但是另一方面从这个大公司利益角度呢，这事是这样的。
+
+Tā běn shēn què shí zhè xiē dōu shì hé fǎ de, ér qiě shì fēi cháng hé lǐ de xiāo fèi zhě de quán yì.
+它本身确实这些都是合法的，而且是非常合理的消费者的权益。
+
+Rú guǒ wǒ men bù bāng tā zuò zhè ge shì ne, zhè ge shì chí zǎo yě huì bèi yòng hù qù argue diào.
+如果我们不帮他做这个事呢，这个事迟早也会被用户去argue掉。
+
+Nà zhè ge shí hòu yòng hù hěn shēng qì, tā yǒu kě néng bù shì shuō, wǒ gēn nǐ argue de wèn tí le, yǒu kě néng wǒ zhí jiē jiù chè le.
+那这个时候用户很生气，他有可能不是说，我跟你argue的问题了，有可能我直接就撤了。
+
+Wǒ jiù zhí jiē qù qí tā de jìng pǐn le.
+我就直接去其他的竞品了。
+
+Nà xiàn zài nǐ tí chū lái le, xiāng dāng yú bǎ wèn tí bào lù chū lái, wǒ duì wǒ zhè ge zhàng dān bù mǎn yì, wǒ tài guì le.
+那现在你提出来了，相当于把问题暴露出来，我对你这个账单不满意，我太贵了。
+
+Nà nǐ bāng wǒ zhǎo dào yī ge hé lǐ de jiě jué fāng àn, hái bǎ wǒ zhè ge yòng hù liú zài zhè ge píng tái.
+那你帮我找到一个合理的解决方案，还把我这个用户留在这个平台。
+
+Qí shí duì dà gōng sī lái shuō, zhè yě shì kè fú de mù dì zhī yī.
+其实对大公司来说，这也是客服的目的之一。
+
+Suǒ yǐ hěn duō gōng sī, tā zhuān mén yǒu zhè zhǒng ruǎn tān shén de bù mén, jiù shì zhuān mén bāng yòng hù jiě jué zhè xiē wèn tí, ràng yòng hù bú yào liú shī dào qí tā de gōng yìng shāng, qí tā de jìng pǐn shǒu lǐ.
+所以很多公司，它专门有这种软谈判的部门，就是专门帮用户解决这些问题，让用户不要流失到其他的供应商，其他的竞品手里。
+
+Nǐ men yǐ hòu huì tuò zhǎn dào xiàng bǎo xiǎn zhè yàng de lǐng yǔ, duì exactly, zhè ge fēi cháng zhòng yào.
+你们以后会拓展到像保险这样的领域，对exactly，这个非常重要。
+
+Wǒ men mǎ shàng jiù huì bǎ zhè ge shì zuò le, yóu qí shì yī liáo bǎo xiǎn.
+我们马上就会把这个事做了，尤其是医疗保险。
+
+Zài Měi Guó 1.5 wàn yì de shì chǎng kōng jiān, rán hòu zhè lǐ biān yǒu 25% dōu shì jù bǎo de.
+在美国1.5万亿的市场空间，然后这里边有25%都是拒保的。
+
+Duì jù bǎo lǜ hěn gāo de.
+对拒保率很高的。
+
+Měi Guó bǎo xiǎn zhè ge shì fēi cháng ràng rén fā zhǐ, ràng nǐ jué de, zhè ge guó jiā zěn me néng zhè yàng de.
+美国保险这个是非常让人发指，让你觉得，这个国家怎么能这样的。
+
+Nǐ zài tǐ jiǎn de shí hòu, nǐ wèn yī shēng liǎng ge wèn tí, cái shuō nǐ xuè zhī gāo.
+你在体检的时候，你问医生两个问题，才说你血脂高。
+
+Nǐ shuō nà wǒ xì zhī gāo, zěn me bǎo chí xì zhī wěn dìng ne.
+你说那我血脂高，怎么保持血脂稳定呢。
+
+Rán hòu shuō nǐ de xuè yā yě gāo.
+然后说你的血压也高。
+
+Tā shuō xuè yā gāo, yǒu méi yǒu shén me jiàn yì ne.
+他说血压高，有没有什么建议呢。
+
+Nǐ chū lái zhī hòu zhàng dān duō le 900 měi jīn.
+你出来之后账单多了900美元。
+
+Tā shuō wǒ yòu gěi nǐ é wài kàn le liǎng ge bìng.
+他说我又给你额外看了两个病。
+
+Rán hòu yī bǎo bù bào xiāo, shuō zhè shì nǐ zì fèi kàn bìng.
+然后医保不报销，说这是你自费看病。
+
+Rán hòu nà péng you jiù shuō, nà wǒ bù néng gēn yī shēng shuō huà le ma.
+然后那朋友就说，那我不能跟医生说话了吗。
+
+Wǒ duō shuō yī jù huà, jiù bèi zhuài sǐ le liǎng ge code, zuì hòu jiù yào shōu qián.
+我多说一句话，就被拽死了两个code，最后就要收钱。
+
+Rán hòu zhè lǐ biān bǎi fēn zhī shí jǐ, dōu shì nǐ dǎ diàn huà argue jiù néng bǎ qián gěi nǐ tuì de.
+然后这里边百分之十几，都是你打电话argue就能把钱给你退的。
+
+Yīn wèi tā yě zhī dào, tā shōu de bù hé lǐ.
+因为他也知道，他收的不合理。
+
+Duì, nǐ zhī dào wǒ zhī qián yǒu yī bǐ bǎo xiǎn jiù jù péi, jiù shì yě shì argue le hěn cháng shí jiān, rán hòu jiù péi le.
+对，你知道我之前有一笔保险就拒赔，就是也是argue了很长时间，然后就赔了。
+
+Nà ge zhàng dān jīn é tǐng dà de.
+那个账单金额挺大的。
+
+Jiù shì yīn wèi wǒ yǒu yī ge màn xìng bìng, rán hòu tā xū yào měi sān ge yuè qù yī yuàn zuò yī ge jiǎn chá.
+就是因为我有一个慢性病，然后他需要每三个月去医院做一个检查。
+
+Jiǎn chá wán le zhī hòu, nà cì jiù tōng zhī wǒ shuō bǎo dān jù péi le.
+检查完了之后，那次就通知我说保单拒赔了。
+
+Rán hòu wǒ jiù wèn le tā, zhè ge wèi shén me, jiù shì fā le yóu jiàn.
+然后我就问了他，这个为什么，就是发了邮件。
+
+Tā shuō nǐ zhè ge bǎo dān yǒu xián yí, jiù shì shuō nǐ lǐ biān yǒu guò dù jiǎn chá.
+他说你这个保单有嫌疑，就是说你里边有过度检查。
+
+Wǒ shuō wǒ zhè ge bìng zhè me zhòng, wǒ kěn dìng dōu děi chá ya, duì ba.
+我说我这个病这么重，我肯定都得查呀，对吧。
+
+Tā huì zhuǎn yí de ya.
+他会转移的呀。
+
+Duì, ér yī shēng yě rèn wéi yǒu bì yào qù zuò zhè ge jiǎn chá.
+对，而医生也认为有必要去做这个检查。
+
+Dàn tā yòu zhǎo dào lǐ yóu shuō, yīn wèi nǐ yí sì nǐ rén méi yǒu qù.
+但他又找到理由说，因为你疑似你人没有去。
+
+Wǒ shuō wǒ rén méi qù, wǒ zhè ge cǎi chāo zěn me zuò de ne, duì ba.
+我说我人没去，我这个彩超怎么做的呢，对吧。
+
+Wǒ rén kěn dìng shì qù le ya.
+我人肯定是去了呀。
+
+Suǒ yǐ jiù zuì hòu yī dùn argue, zhè ge shí jiān fēi cháng màn cháng, kě néng yǒu ge bàn nián ba.
+所以最后一顿argue，这个时间非常漫长，可能有个半年吧。
+
+Tā yě huì dǎ diàn huà dào wǒ men zhè lái, wǒ yě huì dǎ diàn huà guò qù.
+他也会打电话到我们这来，我也会打电话过去。
+
+Rán hòu shèn zhì hái yǒu yī ge bǎo xiǎn zhōng jiè de xié tiáo yuán, tā yào dào yī yuàn lǐ qù shí dì de qù kàn nǐ de zhěn duàn jì lù.
+然后甚至还有一个保险中介的协调员，他要到医院里去实地的去看你的诊断记录。
+
+Shì, fēi cháng má fan.
+是，非常麻烦。
+
+Jiù shì zhè zhǒng, suǒ yǐ wǒ men jiù kě yǐ yī biān dǎ diàn huà gěi yī shēng, yī biān dǎ diàn huà gěi zhè ge bǎo xiǎn gōng sī, rán hòu lái huí argue.
+就是这种，所以我们就可以一边打电话给医生，一边打电话给这个保险公司，然后来回argue。
+
+Wǒ men zuì duō de shí hòu yī ge diàn huà liǎng ge rén jiāo hù, yǒu yī qiān duō lún, dǎ guò jǐ ge xiǎo shí, zuì hòu bǎ zhè ge shì gǎo dìng.
+我们最多的时候一个电话两个人交互，有一千多轮，打过几个小时，最后把这个事搞定。
+
+Zhè ge jiù shì kàn shuí néng, jiù shì nǐ mǎi fáng de shí hòu yě shì zhè yàng, mǎi fáng de shí hòu zhōng jiè bǎ zhè ge mǎi jiā mài jiā lā dào yī kuài, jiù kàn shuí néng gòu káng dé zhù.
+这个就是看谁能，就是你买房的时候也是这样，买房的时候中介把这个买家卖家拉到一块，就看谁能够扛得住。
+
+Duì, wǒ men fǎn zhèng wǒ yě wú suǒ wèi, wǒ qíng xù yě bù bō dòng, wǒ yě méi yǒu tǐ lì shàng xiāo hào.
+对，我们反正我也无所谓，我情绪也不波动，我也没有体力上消耗。
+
+Liáo le yī qiān duō lún, zuì hòu bǎ zhè ge shì gǎo dìng.
+聊了一千多轮，最后把这个事搞定。
+
+Bǎo xiǎn tài dà de yī ge shì chǎng le, duì ba, jiù shì lǐ péi.
+保险太大的一个市场了，对吧，就是理赔。
+
+Yīn wèi qí shí tā zhè ge nín de chǎng jǐng a, dōu shì shén me chǎng jǐng, wǒ xiàn zài zǒng jié yī xià, jiù shì yòng hù zài yú zhèng cè ruò fāng de chǎng jǐng.
+因为其实他这个您的场景啊，都是什么场景，我现在总结一下，就是用户在于政策弱势方的场景。
+
+Duì, zhè ge dōng xī, tā yǒu jǐ bǎi tiáo de nà ge fǎ tiáo, nǐ gēn běn bù kě néng yī tiáo tiáo kàn.
+对，这个东西，它有几百条的那个法条，你根本不可能一条条看。
+
+Diàn xìn gōng sī, yín háng, bǎo xiǎn gōng sī dōu yī yàng.
+电信公司，银行，保险公司都一样。
+
+Duì, tā zài jué duì qiáng shì dì wèi, gěi le nǐ zuì dà quán lì bǎo hù tā gōng sī ān quán de qíng kuàng xià, gěi de nà zhǒng tiáo kuǎn.
+对，他在绝对强势地位，给了你最大权利保护他公司安全的情况下，给的那种条款。
+
+Nǐ bù jiē shòu, nǐ jiù bàn bù liǎo zhè ge shì.
+你不接受，你就办不了这个事。
+
+Duì, nǐ méi yǒu xiū gǎi kōng jiān ma.
+对，你没有修改空间吗。
+
+Rán hòu tā hái yǒu hěn duō cā biān qiú, huī sè de.
+然后他还有很多擦边球，灰色的。
+
+Bǐ rú shuō, zuò yī ge lán wěi yǎn shǒu shù, běn lái shì bǎo xiǎn de.
+比如说，做一个阑尾炎手术，本来是保险的。
+
+Dàn shì zuì hòu fā xiàn nǐ yòu fù le hǎo jǐ qiān měi jīn, wèi shén me.
+但是最后发现你又付了好几千美元，为什么。
+
+Tā shuō, nǐ zhè lǐ biān dǎ má yào le, yīn wèi wǒ bǎo xiǎn bǎo de shì shǒu shù, wǒ méi bǎo má zuì.
+他说，你这里边打麻药了，因为我保险保的是手术，我没保麻醉。
+
+Nǐ bù dǎ má yào, ràng wǒ zhè me zuò de.
+你不打麻药，让我这么做的。
+
+Rán hòu shuō, nǐ zhè chū xuè de lǐ miàn, hái yǒu shā bù bēng dài, zhè xiē dōu shì hào cái, zhè ge yě bù zài bǎo xiǎn fàn wéi nèi de.
+然后说，你这出血的里面，还有纱布绷带，这些都是耗材，这个也不在保险范围内的。
+
+Duì, jiù jī běn shàng ne, nǐ sī lì yī yuàn shì néng tán, tán yī ge package.
+对，就基本上呢，你私立医院是能谈，谈一个package。
+
+Jiù shì wǒ zài nǐ zhè zhù jǐ tiān yuàn, kě néng shuō chū xiàn suǒ yǒu fēng xiǎn, zán men bǎ nà ge zuì jí duān zhuàng kuàng qù diào de huà, bù jìn ICU de qíng kuàng xià, wǒ gěi nǐ yī ge total package, nǐ gěi wǒ dǎ yī zhé.
+就是我在你这住几天院，可能说出出现所有风险，咱们把那个最极端状况去掉的话，不进ICU的情况下，我给你一个total package，你给我打一折。
+
+Jī běn shàng jiù méi yǒu shén me hòu xù wèn tí.
+基本上就没有什么后续问题。
+
+Nǐ yào zǒu bǎo xiǎn ne, bǎo xiǎn gōng sī nà jiù bù hǎo shuō le.
+你要走保险呢，保险公司那就不好说了。
+
+Wǒ yǒu xiē péng you, tā nà ge yuán lái shì zài Měi Guó duì chōng jī jīn, rán hòu bèi yī yuàn zhǎo guò qù, gàn shén me ne.
+我有些朋友，他那个原来是在美国对冲基金，然后被医院找过去，干什么呢。
+
+Jiù shì shuō, yòng AI de jì shù, zěn me néng gòu cóng huàn zhě, yǐ jí bǎo xiǎn gōng sī nà ná gèng duō de qián.
+就是说，用AI的技术，怎么能够从患者，以及保险公司那拿更多的钱。
+
+Tā nián xīn yī bǎi duō wàn měi jīn, jiē jìn liǎng wàn měi jīn.
+他年薪一百多万美元，接近两万美元。
+
+Nǐ xiǎng, tā chuàng zào de jià zhí, kěn dìng shì yào cover tā de chéng běn.
+你想，他创造的价值，肯定是要cover他的成本。
+
+Nà jià zhí zài nǎ, jiù shì cóng Měi Guó zhè xiē huàn zhě, rán hòu cóng Měi Guó zhè xiē bǎo xiǎn gōng sī ná.
+那价值在哪，就是从美国这些患者，然后从美国这些保险公司拿。
+
+Bǎo xiǎn gōng sī yě yǒu zhè kuài de jì shù.
+保险公司也有这块的技术。
+
+Nà zuì zhōng mǎi dān qí shí dōu shì Měi Guó huàn zhě.
+那最终买单其实都是美国患者。
+
+Suǒ yǐ nǐ kàn qù nián bù shì yǒu qiāng shā CEO ma, nà CEO yī nián xīn zī yī qiān duō wàn měi jīn, jiù fēi cháng de kuā zhāng.
+所以你看去年不是有枪杀CEO吗，那CEO一年年薪一千多万美元，就非常的夸张。
+
+Wǒ jué de zhè shì yī diǎn.
+我觉得这是一点。
+
+Dì èr diǎn jiù shì zài Měi Guó, B duān dǎ gěi C duān yòng AI zì dòng dǎ diàn huà de huà, shì wéi fǎ de.
+第二点就是在美国，B端打给C端用AI自动打电话的话，是违法的。
+
+Dǎ de huà ne, tā bì xū děi shuō, wǒ shì lái zì nǎ jiā gōng sī, wǒ shì AI jì shù, wǒ zài gěi nǐ dǎ.
+打的话呢，他必须得说，我是来自哪家公司，我是AI技术，我再给你打。
+
+Guó nèi xiàn zài zài yán zhuā zhè ge shì, hěn kuài zhè ge shì qíng jiù yào xiàng Měi Guó kàn qí le.
+国内现在在严抓这个事，很快这个事情就要向美国看齐了。
+
+Jiù shì nǐ fán shì serve zhè zhǒng AI bèi hòu diàn huà, nǐ quán dōu yào shàng bào, tōng huà jì lù shàng bào, rán hòu nǐ zài gàn ma.
+就是你凡是serve这种AI背后电话，你全都要上报，通话记录上报，然后你在干嘛。
+
+Er qiě hòu biān yīng gāi yě dōu huì shì yào qiáng zhì shuō, wǒ shì nǎ yī nǎ gōng sī de AI.
+而且后边应该也都会是要强制说，我是哪一哪公司的AI。
+
+Duì, zhè ge wǒ jué de hěn yǒu bì yào.
+对，这个我觉得很有必要。
+
+Duì, jiù shì nǐ bù yào ràng yòng hù jué de nà ge tā zài hé rén tán pàn, qí shí tā de zhěng ge de qíng xù méi yǒu bèi chuán dì dào, kě néng yǒu de yòng hù fēi cháng bào zào, yě méi yǒu bèi chuán dì shàng qù, duì ba.
+对，就是你不要让用户觉得那个他在和人谈判，其实他的整个的情绪没有被传递到，可能有的用户非常暴躁，也没有被传递上去，对吧。
+
+Shì de, qí shí nǐ hé fǎ de jiù shì yīng gāi bǎo hù pǔ tōng yòng hù, bù yào bèi zhè xiē dà gōng sī yòng jì shù qù abuse nǐ.
+是的，其实你合法的就是应该保护普通用户，不要被这些大公司用技术去abuse你。
+
+Duì, yǐ hòu dà gōng sī, tā zhè ge AI kè fú, yě huì gēn nǐ de AI kè fú lái jìn xíng battle, zhè jué duì shì kě yǐ, wǒ men kě yǐ yù liào dé dào de.
+对，以后大公司，他这个AI客服，也会跟你的AI客服来进行battle，这绝对是可以，我们可以预料得到的。
+
+Dāng AI jiě jué bù liǎo de shí hòu, nǐ kě yǐ shuō qǐng nǐ gěi wǒ zhuǎn ge rén gōng, rán hòu wǒ zài qù gēn zhè ge rén, rén hé rén zài lái duì huà.
+当AI解决不了的时候，你可以说请你给我转个人工，然后我再去跟这个人，人和人再来对话。
+
+Duì, tā zhì shǎo zài qián miàn rú guǒ néng jiě jué 40%, 30%, nà qí shí jiù zhí dé huā zhè ge qián, dà gōng sī qù tóu rù qù mǎi.
+对，他至少在前面如果能解决40%，30%，那其实就值得花这个钱，大公司去投入去买。
+
+Nà zhè ge wèn tí jiù lái le, Yǔ Rùn nǐ jiǎng le, nǐ xī wàng shì bāng zhù pǔ tōng nà xiē méi yǒu néng lì de, lǎo bǎi xìng lái jiě jué zhè ge wèn tí de.
+那这个问题就来了，宇润你讲了，你希望是帮助普通那些没有能力的，老百姓来解决这个问题的。
+
+Dàn zhè lǎo bǎi xìng yǒu méi yǒu fù fèi néng lì, to c qí shí bù hǎo zhuàn qián.
+但这老百姓有没有付费能力，to c其实不好赚钱。
+
+To b ne, nǐ rú guǒ zhí jiē nǐ mài yī ge ruǎn jiàn guò qù, jiù xiàng nǐ shuō Měi Guó yǒu zhuān yè de zhè yàng de yī xiē zhuān yè rén cái, rén jiā nián xīn dōu yǐ jīng jǐ bǎi wàn le.
+to b呢，你如果直接你卖一个软件过去，就像你说美国有专业的这样的一些专业人才，人家年薪都已经几百万了。
+
+Nà jīn tiān wǒ men zhè ge fú wù gè rén, nà wèi shén me shì gè rén, bù shì to b.
+那今天我们这个服务个人，那为什么是个人，不是to b。
+
+Yīn wèi zài shāng yán shāng, nǐ guān yǒu qíng huái yě bù xíng a.
+因为在商言商，你关有情怀也不行啊。
+
+Duì, zhè ge yě shì wǒ men lì zú běn dì shì chǎng a, fú hé Měi Guó dāng dì de wén huà.
+对，这个也是我们立足本地市场啊，符合美国当地的文化。
+
+Měi Guó xiàn zài zhè ge xiǎo fèi wén huà, yǐ jīng shì yuè yǎn yuè liè.
+美国现在这个小费文化，已经是越演越烈。
+
+Jiù shì nǐ qù xīn huà kè mǎi kā fēi, nǐ shèn zhì take away de dǎ zǔo de zhè zhǒng, tā dōu yào zhuā nǐ shōu ge xiǎo fèi.
+就是你去星巴克买咖啡，你甚至take away的dazzle的这种，他都要抓你收个小费。
+
+Měi Guó rén zhú jiàn de, tā dōu xí guàn zhè ge shì.
+美国人逐渐的，他都习惯这个事。
+
+Suǒ yǐ wǒ men ne, duì wǒ men de jì shù hé duì wǒ men de bì huán jiāo fù shì bǐ jiào zì xìn de.
+所以我们呢，对我们的技术和对我们的闭环交付是比较自信的。
+
+Yī kāi shǐ wǒ men shì jué de, wǒ shōu yī ge dìng yuè de fèi, nǐ suí biàn yòng.
+一开始我们是觉得，我收一个订阅的费，你随便用。
+
+Dàn shì hòu lái ne, wǒ men fā xiàn, Měi Guó kě néng gèng shì hé zhè zhǒng xiǎo fèi wén huà, huò zhě shuō tā duì yú yī ge xīn de chǎn pǐn, xīn de jì shù, méi yǒu nà me duō xìn xīn de shí hòu.
+但是后来呢，我们发现，美国可能更适合这种小费文化，或者说他对于一个新产品、新技术，没有那么有信心的时候。
+
+Wǒ men jiù xiàng jī jīn gōng sī, bù shōu guǎn lǐ fèi, zhǐ shōu carry.
+我们就像基金公司，不收管理费，只收carry。
+
+Jiù shì wǒ bǎ nǐ zhè ge shì bàn chéng le, rán hòu wǒ cóng zhōng ne, shōu yī diǎn xiǎo fèi.
+就是我把你这个事办成了，然后我从中呢，收一点小费。
+
+Nà zhè ge shí hòu shì hěn fú hé Měi Guó rén de xiǎo fèi xí guàn de.
+那这个时候是很符合美国人的小费习惯的。
+
+Bǐ rú shuō wǒ bāng tā bǎ zhè ge zhàng dān argue chéng gōng le, yī ge yuè shěng le 50 měi jīn, wǒ yī nián shěng le 600 kuài qián.
+比如说我帮他把这个账单argue成功了，一个月省了50美元，我一年省了600块钱。
+
+Nà wǒ shōu ge 20% de xiǎo fèi, nǐ gěi wǒ ge 600, chéng yī ge 20%, zhè ge Měi Guó rén shì yuàn yì gěi de.
+那我收个20%的小费，你给我个600，乘一个20%，这个美国人是愿意给的。
+
+Yīn wèi shén me ne, jiù shì zài zhī qián, wǒ gāng cái shuō, rén lái chǔ lǐ zhè xiē shì de zhè xiē gōng sī, tā men shōu fèi shì gèng gāo de.
+因为什么呢，就是在之前，我刚才说，人来处理这些事的这些公司，他们收费是更高的。
+
+Tā men shì bǎ nǐ měi ge yuè shěng xià lái de qián, zhé suàn chéng 24 ge yuè, shōu 50%.
+他们是把你每个月省下来的钱，折算成24个月，收50%。
+
+Dàn zhè yě méi bàn fǎ, rén de chéng běn shì fēi cháng gāo de.
+但这也没办法，人的成本是非常高的。
+
+Rán hòu yǒu yī xiē shì yī cì xìng de ne, wǒ men jiù shuō yī ge pǎo tuǐ fèi.
+然后有一些是一次性的呢，我们就说一个跑腿费。
+
+Bǐ rú shuō nǐ ràng wǒ bāng nǐ bàn yī ge shén me shì, qǔ xiāo yī ge jiǔ diàn.
+比如说你让我帮你办一个什么事，取消一个酒店。
+
+Zhè ge jiǔ diàn běn lái bù gěi nǐ qǔ xiāo, dàn wǒ yǐn jīng jù diǎn, bǎ zhè ge user agreement ná chū lái, shuō bì xū yào gěi wǒ qǔ xiāo.
+这个酒店本来不给你取消，但我引经据典，把这个user agreement拿出来，说必须要给我取消。
+
+Zuì hòu bāng nǐ gǎo dìng le, tuì huí le 300 měi jīn, duì ba.
+最后帮你搞定了，退回了300美元，对吧。
+
+Nà me wǒ jiù zhǐ shōu yī cì xìng de fú wù fèi, bǐ rú shōu ge 5 kuài qián jiù kě yǐ le.
+那么我就只收一次性的服务费，比如收个5块钱就可以了。
+
+Zhè ge shōu fèi fāng shì zài Zhōng Guó bù kě néng make sense.
+这个收费方式在中国不可能make sense。
+
+Zhè jiù shì yī ge dǎ shǎng de luó ji.
+这就是一个打赏的逻辑。
+
+Duì, nà nǐ zhè ge kě yǐ shì shén me ne.
+对，那你这个可以是什么呢。
+
+Bǐ rú zài Zhōng Guó de zhěng ge shōu fèi fāng shì, kě néng shì, wǒ yě kě yǐ hòu fù fèi, dàn wǒ bì xū tí qián gēn nǐ shāng liáng hǎo, zhè ge qián gěi nǐ de shí hòu, wǒ jiù bǎ zhè ge kòu zǒu le.
+比如在中国的整个收费方式，可能是，我也可以后付费，但我必须提前跟你商量好，这个钱给你的时候，我就把这个扣走了。
+
+Bǐ rú shuō wǒ bāng nǐ shěng le 50 kuài, nà wǒ shuō hǎo le, wǒ yào shōu 20%, nà kě néng zhè 10 kuài qián, wǒ zhí jiē jiù zhǐ gěi nǐ 40.
+比如说我帮你省了50块，那我说好了，我要收20%，那可能这10块钱，我直接就只给你40。
+
+Què shí wǒ men xiàn zài yě shì zhè yàng, jiù shì shuō wán zhè ge shì, wǒ huì gěi nǐ yī ge yù gū, shuō nǐ zhè ge zhàng dān, gēn jù wǒ guò qù chǔ lǐ le jǐ qiān ge case de jīng yàn, wǒ yīng gāi néng gěi nǐ shěng 600 kuài qián.
+确实我们现在也是这样，就是说完这个事，我会给你一个预估，说你这个账单，根据我过去处理了几千个case的经验，我应该能给你省600块钱。
+
+Nà me wǒ xiān ràng nǐ dǎ shǎng, dàn zhè ge dǎ shǎng shì, jiù xiàng jiǔ diàn de yù shòu quán yī yàng, jiù shì wǒ rú guǒ méi bàn wán shì, huò zhě shuō méi shěng dào 600 duō, wǒ àn zhào zhè ge bǐ lì gěi nǐ tuī huí qù.
+那么我先让你打赏，但这个打赏是，就像酒店的预售权一样，就是我如果没办完事，或者说没省到600多，我按照这个比例给你退回去。
+
+Míng bái le, dàn zhè ge bǐ lì shì tā zì jǐ dìng ma.
+明白了，但这个比例是他自己订吗。
+
+Duì, wǒ men tí gōng yī xiē option, 20%, 25%, 30%, jiù gēn tā zài Měi Guó chī fàn yī yàng.
+对，我们提供一些option，20%，25%，30%，就跟他在美国吃饭一样。
+
+Zhè ge yǒu yì si, zhè ge zhàng nǐ men suàn guò ma, jiù shì tā hé nǐ gù dìng yī ge bǐ lì lái jiǎng, nǎ ge zhēng dé gèng gāo.
+这个有意思，这个账你们算过吗，就是他和你固定一个比例来讲，哪个挣得更高。
+
+Qí shí dà chà bù chà, jiù shì 20%, 25%, 30%.
+其实大差不差，就是20%，25%，30%。
+
+Yīn wèi duì wǒ men lái shuō, wǒ men chéng běn què shí bǐ jiào dī, AI bèi hòu de suàn lì jiù shì diàn, xīn piàn jiù shì shā zi.
+因为对我们来说，我们成本确实比较低，AI背后的算力就是电，芯片就是沙子。
+
+Qí shí jiù shì yòng zhè ge shì jiè shàng fēi cháng lián jià de zhè ge dōng xī, jiù bǎ zhè ge shì gǎo dìng le.
+其实就是用这个世界上非常廉价的东西，就把这个事搞定了。
+
+Dàn shì nǐ bù néng wán quán cóng wǒ men de chéng běn lái kǎo lǜ chū fā, shè jì zhè ge dìng jià.
+但是你不能完全从我们的成本来考虑出发，设计这个定价。
+
+Nǐ yào cóng wǒ men gěi tā chuàng zào jià zhí, zhè yě shì duì wǒ men de yī ge jī lì.
+你要从我们给它创造价值，这也是对我们的一个激励。
+
+Wǒ jiù shì yī nián gěi nǐ shěng le 1000 měi jīn, shèn zhì yǒu de wǒ gěi nǐ shěng 3000 měi jīn, nà wǒ jiù shì yào duō shōu yī diǎn le, duì ba.
+我就是一年给你省了1000美元，甚至有的我给你省3000美元，那我就是要多收一点了，对吧。
+
+Nǐ xiàng qù gǔ piào jiāo yì shì chǎng, nǐ mǎi mài gǔ piào, shōu de shǒu xù fèi, qí shí yě shì zhè yàng de.
+你像去股票交易市场，你买卖股票，收的手续费，其实也是这样的。
+
+Duì, dàn tā shì zhí jiē bāng nǐ kòu diào le, suǒ yǐ méi yǒu gǎn zhī.
+对，但他是直接帮你扣掉了，所以没有感知。
+
+Shì, nǐ yào ràng tā zì jǐ dǎ shǎng zhè jiàn shì qíng, fēi cháng yǒu yì si.
+是，你要让他自己打赏这件事情，非常有意思。
+
+Qí shí nǐ zài yī kāi shǐ, nǐ zhī dào jiù shì yǒu zhí bō yè tài de shí hòu, yīng gāi shì zài 10 nián qián ba.
+其实你在一开始，你知道就是有直播业态的时候，应该是在10年前吧。
+
+Dāng shí wǒ jì de nà pī gōng sī chū lái de shí hòu, wǒ jiù jué de bù kě néng yǒu rén qù dǎ shǎng.
+当时我记得那批公司出来的时候，我就觉得不可能有人去打赏。
+
+Zhàn zài wǒ zì jǐ jiǎo dù, wǒ yǒng yuǎn bù huì gěi yī ge rén zài nà chàng chàng tiào tiào, ér qiě wǒ yòu shì yī ge sù rén.
+站在我自己角度，我永远不会给一个人在那唱唱跳跳，而且我又是一个素人。
+
+Shǒu xiān wǒ dōu bù huì kàn, gèng bú yào shuō wǒ hái gěi tā qián, duì ba.
+首先我都不会看，更不要说我还给他钱，对吧。
+
+Dào hòu lái wǒ fā xiàn wǒ wán quán jiù xiǎng cuò le.
+到后来我发现我完全就想错了。
+
+Jiù zhè ge yǒu hěn duō hěn duō xián rén, huò zhě shuō yǒu hěn duō yǒu qián de xián rén.
+就这个有很多很多闲人，或者说有很多有钱的闲人。
+
+Yǒu qián méi qián, fǎn zhèng wǒ jué de wǒ gěi le nǐ wǔ kuài qián, wǒ jiù biàn chéng le nǐ de jīn zhǔ.
+有钱没钱，反正我觉得我给了你五块钱，我就变成了你的金主。
+
+Tā nà ge xīn tài fēi cháng bù yī yàng.
+他那个心态非常不一样。
+
+Exactly, què shí xiàn zài bāo kuò Zhōng Guó rén de guān diǎn de biàn huà.
+Exactly，确实现在包括中国人的观点的变化。
+
+Nǐ xiàng 90 nián dài huò zhě 2000 nián zuǒ yòu, nà huì er guó nèi dào bǎn ruǎn jiàn shì tè bié liú xíng de.
+你像90年代或者2000年左右，那会儿国内盗版软件是特别流行的。
+
+Dà jiā jué de wǒ wèi shén me yòng yī ge ruǎn jiàn, wǒ méi yǒu mǎi dào yī ge shí tǐ dōng xī, wǒ yě yào gěi tā fù qián.
+大家觉得我为什么用一个软件，我没有买到一个实体东西，我也要给他付钱。
+
+Dàn shì nǐ xiàn zài, wǒ yǒu hěn duō péng you zài guó nèi, zuò zhè zhǒng dìng yuè fù fèi, ruǎn jiàn fù fèi, yě dōu néng yǒu bù shǎo de shōu rù.
+但是你现在，我有很多朋友在国内，做这种订阅付费，软件付费，也都能有不少的收入。
+
+Zhè ge shì wǒ shì xiǎng dōu xiǎng bù dào.
+这个我是想都想不到。
+
+Duì duì duì, wǒ xiǎng wèn yī xià, nǐ méi yǒu tán pàn shī bài de àn lì ma.
+对对对，我想问一下，你没有谈判失败的案例吗。
+
+Qí shí yě shì yǒu de shì zhè yàng de.
+其实也是有的是这样的。
+
+Jiù xiàng wǒ gāng cái shuō, wǒ men jiù bǎ tā dàng chéng yī ge zài zhè ge lǐng yù gōng zuò wǔ nián jīng yàn de rén.
+就像我刚才说，我们就把它当成一个在这个领域工作五年经验的人。
+
+Zhè ge wǔ nián jīng yàn de rén, rú guǒ tā gǎo bù dìng, nà qí shí yě shì gǎo bù dìng.
+这个五年经验的人，如果他搞不定，那其实也是搞不定。
+
+Yǒu hěn duō ne, wǒ men huì tí qián gēn yòng hù shuō.
+有很多呢，我们会提前跟用户说。
+
+Bǐ rú shuō wǒ shuō jǐ ge yǒu yì si de àn lì.
+比如说我说几个有意思的案例。
+
+Yīn wèi wǒ men yǒu yī ge péng you, tā zài Guī Gǔ nà biān zhù Wàn Háo.
+因为我们有一个朋友，他在硅谷那边住万豪。
+
+Tā shì liǎng ge rén, tā bāng lìng wài yī ge péng you, tā liǎ yī qǐ zhù le liǎng jiān fáng.
+他是两个人，他帮另外一个朋友，他俩一起住了两间房。
+
+Rán hòu lìng wài yī ge péng you ne, bǐ tā tí qián le liǎng tiān tuì fáng, tā qù Seattle wán le.
+然后另外一个朋友呢，比他提前了两天退房，他去Seattle玩了。
+
+Zuì hòu suàn Wàn Háo de jī fēn de shí hòu ne, zhǐ suàn le yī fèn.
+最后算万豪的积分的时候呢，只算了一份。
+
+Tā jiù zài wǒ men píng tái shàng shuō, nǐ bāng wǒ qù kàn yī xià, zhè zěn me zhǐ suàn le yī fèn ne, yīng gāi shì wǒ dìng le liǎng jiàn de duì ba.
+他就在我们平台上说，你帮我去看一下，这怎么只算了一份呢，应该是我定了两间的对吧。
+
+Wǒ men píng tái jiù shì tōng guò sōu suǒ, yán jiū zhè ge Wàn Háo de user agreement, fā xiàn tā shì yī ge fēi cháng lěng mén de zhī shi.
+我们平台就是通过搜索，研究这个万豪的user agreement，发现它是一个非常冷门的知识。
+
+Nà ge user agreement lǐ biān xiě, rú guǒ nǐ dìng le duō jiān fáng de shí hòu, děi duō jiān fáng tóng shí yī ge check in date hé check out date, cái néng gěi nǐ suàn chéng duō fèn.
+那个user agreement里边写，如果你定了多间房的时候，得多间房同时一个check in date和check out date，才能给你算成多份。
+
+Fǒu zé zhǐ néng suàn zuì cháng de yī jiān.
+否则只能算最长的一间。
+
+Zhè ge shì nǐ rén qù lǐ jiě, kě néng bù tài fú hé luó ji de, dàn shì rén jiā de user agreement jiù zhè yàng xiě de.
+这个是你人去理解，可能不太符合逻辑的，但是人家的user agreement就这样写的。
+
+Suǒ yǐ wǒ men quàn tā shuō, nǐ bié dǎ le, dǎ le yě méi yòng.
+所以我们劝他说，你别打了，打了也没用。
+
+Rán hòu tā shuō nà bù xíng, nǐ hái shì gěi wǒ dǎ yī xià.
+然后他说那不行，你还是给我打一下。
+
+Dǎ dào duì miàn zhī hòu, rén jiā guǒ rán shì zhè yàng jiě shì de.
+打到对面之后，人家果然是这样解释的。
+
+Nǐ xiàng zhè zhǒng shì qíng, nǐ kě yǐ rèn wéi shì méi bàn chéng.
+你像这种事情，你可以认为是没办成。
+
+Dàn shì ne, tā jiù shì rén qù yě bàn bù chéng.
+但是呢，他就是人去也办不成。
+
+Nà hái yǒu bǐ jiào yǒu yì si, yǒu de yòng hù tā xiǎng bǎ zì jǐ de diàn huà remove diào.
+那还有比较有意思，有的用户他想把自己的电话remove掉。
+
+Tā huàn le xīn de shǒu jī hào, duì ba.
+他换了新的手机号，对吧。
+
+Tā tōng guò wǒ men de píng tái, bǎ zì jǐ de diàn huà wǎng a, diàn shì a, quán dōu remove diào le.
+他通过我们的平台，把自己的电话网啊，电视啊，全都remove掉了。
+
+Remove wán le zhī hòu, tā hū rán xiǎng qǐ, zì jǐ de yín háng kǎ bǎng dìng zài zhè ge shǒu jī shàng le.
+remove完了之后，他忽然想起，自己的银行卡绑定在这个手机上了。
+
+Rán hòu tā shuō, nà nǐ bāng wǒ bǎ zhè ge xìn yòng kǎ, yín háng kǎ duì yìng de shǒu jī hào huàn le.
+然后他说，那你帮我把这个信用卡，银行卡对应的手机号换了。
+
+Zhè ge ne, zài Měi Guó, nǐ xū yào fā duǎn xìn.
+这个呢，在美国，你需要发短信。
+
+Duì, zài Měi Guó, zài guó nèi dōu shì fēi cháng yán jǐn de.
+对，在美国，在国内都是非常严谨的。
+
+Yīn wèi tā yào gěi nǐ, lǎo de shǒu jī, fā yī ge yàn zhèng mǎ.
+因为他要给你，老的手机，发一个验证码。
+
+Dàn shì nǐ lǎo de shǒu jī, yǐ jīng zhù xiāo diào, tā shōu bù dào, méi yǒu le.
+但是你老的手机，已经注销掉，他收不到，没有了。
+
+Rán hòu wǒ men gēn tā shuō, zhè ge nǐ zhǐ néng qù guì tái bàn le.
+然后我们跟他说，这个你只能去柜台办了。
+
+Jiù yǒu hěn duō lèi sì zhè zhǒng shì qíng.
+就有很多类似这种事情。
+
+Nà qí shí gèng duō de shì, yòng hù zì jǐ gǎo cuò le.
+那其实更多的是，用户自己搞错了。
+
+Bǐ rú shuō běn lái shì jǐ wèi shù de yī ge shén me code, tā jì chéng le liù wèi shù de, běn lái shì sì wèi shù de, lèi sì zhè zhǒng.
+比如说本来是几位数的一个什么code，他记成了六位数的，本来是四位数的，类似这种。
+
+Yòng hù zì jǐ fàn de cuò, shì bǐ jiào duō de.
+用户自己犯的错，是比较多的。
+
+Dāng rán wǒ men huì tí xǐng, tí xǐng bù xíng ne, fā xiàn bàn shì shī bài ne, wǒ men bǎ zhè ge qíng kuàng zài gào su yòng hù, ràng nǐ zài chóng xīn tí gōng zhè xiē xìn xī.
+当然我们会提醒，提醒不行呢，发现办事失败呢，我们把这个情况再告诉用户，让你再重新提供这些信息。
+
+Jiù shì wǒ men gēn shì miàn shàng OpenAI a, dà jiā bǐ jiào xí guàn de zhè xiē AI bù tài yī yàng.
+就是我们跟市面上OpenAI啊，大家比较习惯的这些AI不太一样。
+
+Tā men yī bān shì wǒ yī wèn yī dá, lái jiě jué yī ge wèn tí.
+他们一般是我一问一答，来解决一个问题。
+
+Wǒ men shì yī ge lèi sì yī ge rén, yī ge zhù shǒu yī yàng de, zhuān mén bāng nǐ jiě jué zhè ge wèn tí.
+我们是一个类似一个人，一个助手一样的，专门帮你解决这个问题。
+
+Nà me yī cì jiě jué bù hǎo, méi guān xì, wǒ hái kě yǐ qù cháng shì bié de fāng fǎ.
+那么一次解决不好，没关系，我还可以去尝试别的方法。
+
+Rán hòu yī cì shī bài le, wǒ hái kě yǐ bǎ zhè ge shī bài de yuán yīn ná huí lái, zán men yī qǐ yán jiū, nǐ zài gěi wǒ yī xiē xìn xī, wǒ zài bāng nǐ qù gǎo.
+然后一次失败了，我还可以把这个失败的原因拿回来，咱们一起研究，你再给我一些信息，我再帮你去搞。
+
+Shì zhè me yī ge guò chéng.
+是这么一个过程。
+
+Míng bái le, míng bái le.
+明白了，明白了。
+
+Duì, qí shí kàn qǐ lái jiù hái shì yǒu zhè ge shī bài gài lǜ, dàn jiù xiàng nǐ jiě shì de, jiù shì rú guǒ rén bàn bù chéng, jī qì yě bàn bù chéng.
+对，其实看起来就还是有这个失败概率，但就像你解释的，就是如果人办不成，机器也办不成。
+
+Dàn shì ne, hěn duō shí hòu ne, rén bàn bù chéng jī qì yě yǒu kě néng bàn chéng, yīn wèi nǐ kě néng bù liǎo jiě nà ge fǎ tiáo.
+但是呢，很多时候呢，人办不成机器也有可能办成，因为你可能不了解那个法条。
+
+Shì de, tā néng zhuā zhù yī ge lòu dòng, duì ba.
+是的，他能抓着一个漏洞，对吧。
+
+Shì de, wǒ zài jǔ liǎng ge yǒu yì si de lì zǐ, jiù shì wǒ jiù duō jiǎng yī xiē gù shì.
+是的，我再举两个有意思的例子，就是我就多讲一些故事。
+
+Yǒu yī ge yòng hù ne, tā shuō wǒ yǒu yī ge shè bèi, yī nián wǒ dōu méi yǒu yòng, dàn shì wǒ fā xiàn diàn xìn yùn yíng shāng yī zhí shōu wǒ yī nián de qián.
+有一个用户呢，他说我有一个设备，一年我都没有用，但是我发现电信运营商一直收我一年的钱。
+
+Zhè ge qí shí wǒ zài Shàng Hǎi jiā lǐ biān yě yù dào lèi sì zhè zhǒng qíng kuàng.
+这个其实我在上海家里边也遇到类似这种情况。
+
+Nǐ xiàng rú guǒ zài guó nèi ne, rén jiā shuō, nà nǐ yào bǎ shè bèi tuì huí lái, rán hòu wǒ jiù bǎ nǐ zhè ge qián fǎn guò nǐ.
+你像如果在国内呢，人家说，那你要把设备退回来，然后我就把你这个钱返给你。
+
+Měi Guó yě yī yàng.
+美国也一样。
+
+Rán hòu wǒ men de yòng hù shuō, wǒ qí shí yǐ jīng tuì gěi nǐ le.
+然后我们的用户说，我其实已经退给你了。
+
+Nà biān de kè fú jiù shuō, nà nǐ yǒu méi yǒu píng jù ne.
+那边的客服就说，那你有没有凭据呢。
+
+Nǐ tuì huí lái zhī hòu, wǒ huì gěi nǐ yī ge xiǎo piào, huò zhě shuō nǐ nǎ pà yóu jì guò lái de, nǐ yǒu dān hào.
+你退回来之后，我会给你一个小票，或者说你哪怕邮寄过来的，你有单号。
+
+Yòng hù shuō méi yǒu.
+用户说没有。
+
+Nà zhè ge shí hòu, jiù xiàn rù yī ge luó shēng mén de zhuàng tài.
+那这个时候，就陷入一个罗生门的状态。
+
+Nǐ yě bù néng wán quán xìn zhè ge yòng hù, duì ba.
+你也不能完全信这个用户，对吧。
+
+Zhè ge yòng hù shuō tā tuì le, yǒu kě néng shì tā gǎo diū le.
+这个用户说他退了，有可能是他搞丢了。
+
+Dàn duì miàn de yùn yíng shāng shuō, nǐ bù gěi wǒ tuì huí lái, wǒ méi yǒu bàn fǎ gěi nǐ tuì zhè ge qián.
+但对面的运营商说，你不给我退回来，我没有办法给你退这个钱。
+
+Suǒ yǐ xiàng zhè zhǒng case, wǒ men yě shì méi yǒu bàn fǎ jiě jué de.
+所以像这种case，我们也是没有办法解决的。
+
+Dàn shì fǎn guò lái ne, yǒu xiē rén jiě jué bù liǎo de.
+但是反过来呢，有些人解决不了的。
+
+Bǐ rú shuō, wǒ men bāng zhè ge yòng hù qù shěng qián, nǐ dǎ dì yī ge diàn huà, duì miàn de kè fú shuō, xiān shēng bù hǎo yì si, zhè ge méi yǒu bàn fǎ shěng qián.
+比如说，我们帮这个用户去省钱，你打第一个电话，对面的客服说，先生不好意思，这个没有办法省钱。
+
+Rán hòu wǒ men jiù gēn tā shuō, nà yě méi guān xì, wǒ qù gēn tā men liáo yī liáo.
+然后我们就跟他说，那也没关系，我去跟他们聊一聊。
+
+Rán hòu retention de department guò lái ne, tā shuō, nǐ zhè ge qíng kuàng yīng gāi shì yǒu yī xiē bàn fǎ de, dàn shì yǒu diǎn tricky.
+然后retention的department过来呢，他说，你这个情况应该是有些办法的，但是有点tricky。
+
+Wǒ men jiù gēn tā shuō, nǐ bù rán, bǎ nǐ de zhí shǔ lǐng dǎo lā guò lái, wǒ gēn tā liáo yī liáo.
+我们就跟他说，你不然，把你的直属领导拉过来，我跟他聊一聊。
+
+Wǒ zhè dōu yǐ jīng yòng nǐ men shí nián le.
+我这都已经用你们十年了。
+
+Zuì hòu tā nà biān jiù tí gōng le sān ge fāng àn, dāng rán yī kāi shǐ de shí hòu, tā hái shì cháng shì qù upsell.
+最后他那边就提供了三个方案，当然一开始的时候，他还是尝试去upsell。
+
+Tā shuō nǐ zhè ge, wǒ yǒu yī ge xīn de bàn fǎ, nǐ zhǐ yào zài jiā yī diǎn de qián, wǒ hái néng sòng nǐ shǒu jī, sòng nǐ shén me dōng xī.
+他说你这个，我有一个新的办法，你只要再加一点的钱，我还能送你手机，送你什么东西。
+
+Dàn shì wǒ men AI bǐ jiào jiān chí, jiù shuō bù xíng, wǒ jiù shì xiǎng shěng qián.
+但是我们AI比较坚持，就说不行，我就是想省钱。
+
+Zuì zhōng zài jī běn shàng dì yī lún dì èr lún, dōu gào su tā bù néng shěng qián de qíng kuàng xià, tōng guò zhè zhǒng jiān chí, rán hòu zhǎo dào duì de rén, zuì hòu gěi tā shěng le bù shǎo qián.
+最终在基本上第一轮第二轮，都告诉他不能省钱的情况下，通过这种坚持，然后找到对的人，最后给他省了不少钱。
+
+Zhè zhǒng lì zǐ yě shì yǒu hěn duō de.
+这种例子也是有很多的。
+
+Bù tā shì kě yǐ zhè yàng jí shí fǎn kuì de ma, bǐ rú shuō dì yī lún zhè ge rén gào su tā, shuō nǐ wǒ bàn bù liǎo, nà nǐ yào qù zhǎo retention.
+不他是可以这样及时反馈的吗，比如说第一轮这个人告诉他，说你办不了，那你要去找retention。
+
+Nà zhè ge zhǎo retention, zhè retention shì wǒ men gēn tā shuō de, wǒ men zhǔ dòng gēn tā shuō de.
+那这个找retention，这retention是我们跟他说的，我们主动跟他说的。
+
+Nà jiù shì nǐ men zì jǐ xué xí de yī ge jié guǒ.
+那就是你们自己学习的一个结果。
+
+Zhè dōu shì zài wǒ men bàn shì de jīng yàn lǐ.
+这都是在我们办事的经验里。
+
+Wǒ men wèi shén me bǎ tā dàng chéng yī ge rén lái shè jì, jiù shì yīn wèi wǒ men jué de, nǐ wú lùn shì zài gè háng gè yè.
+我们为什么把他当成一个人来设计，就是因为我们觉得，你无论是在各行各业。
+
+Zhè yě shì wǒ men yī dìng xiǎng yào qù huí bì, gēn dà gōng sī jìng zhēng de yī ge diǎn.
+这也是我们一定想要去回避，跟大公司竞争的一个点。
+
+Jiù shì wǒ men rèn wéi dà gōng sī zuò chū lái de nà mó xíng, tā shì xiāng dāng yú MIT huò zhě shì Qīng Huá Běi Dà bì yè de xué shēng.
+就是我们认为大公司做出来的那模型，他是相当于MIT或者是清华北大毕业的学生。
+
+Tā qí shí shì jī běn de sù zhì shì fēi cháng fēi cháng qiáng de.
+他其实是基本的素质是非常非常强的。
+
+Dàn shì nǐ shuō nǐ ràng tā qù zuò zhōng jiè mài fáng zi, tā mài bù guò zài liàn jiā gàn wǔ nián de zhōng jiè, duì ba.
+但是你说你让他去做中介卖房子，他卖不过在恋家干五年的中介，对吧。
+
+Jiù shì yīn wèi zài nà lǐ biān, yǒu dà liàng de zhè zhǒng lǐng yù de jīng yàn hé zhī shi.
+就是因为在那里边，有大量的这种领域的经验和知识。
+
+Nà rén jiā nà ge zhōng jiè, kě néng yī kàn jiù zhī dào, wǒ zhè ge fáng wū de cháo xiàng, xiǎo qū de wèi zhì, lín bù lín jiē, chǎo bù chǎo.
+那人家那个中介，可能一看就知道，我这个房屋的朝向，小区的位置，临不临街，吵不吵。
+
+Nǐ zhè ge yè zhǔ chéng bù chéng xīn, nǐ de mǎi jiā shì bù shì chéng xīn, nǐ de dǐ xiàn shì shén me.
+你这个业主成不成心，你的买家是不是成心，你的底线是什么。
+
+Zhè ge shì rén jiā wǔ nián cǎi guò de gè zhǒng kēng de jīng yàn.
+这个是人家五年踩过的各种坑的经验。
+
+Qīng Huá bì yè de xué shēng, nǐ yě méi yǒu bàn fǎ yī shàng lái jiù zuò zhè zhǒng shì qíng, duì ba.
+清华毕业的学生，你也没有办法一上来就做这种事情，对吧。
+
+Suǒ yǐ wǒ men jiù shì yào bǎ zhěng ge, wǒ chéng gōng guò jǐ qiān shàng wàn de zhè zhǒng case, zǒng jié chū lái de jīng yàn, jiù shì zài zhè ge lǐng yù, wǒ kě néng bù shì Qīng Huá bì yè de xué shēng.
+所以我们就是要把整个，我成功过几千上万的这种case，总结出来的经验，就是在这个领域，我可能不是清华毕业的学生。
+
+Dàn shì wǒ shì fēi cháng dǒng zhè ge háng yè de, wǒ kě yǐ bāng nǐ bǎ zhè ge shì gàn diào.
+但是我是非常懂这个行业的，我可以帮你把这个事干掉。
+
+Míng bái le, míng bái le.
+明白了，明白了。
+
+Rú guǒ jīn tiān wǒ yǒu yī ge AI, wǒ qí shí zhí jiē kě yǐ jiāo gěi tā, nǐ qù bāng wǒ bào shuì ba.
+如果今天我有一个AI，我其实直接可以交给他，你去帮我报税吧。
+
+Yīn wèi xiàn zài suǒ yǒu de Zhōng Guó rén, dōu déi zì jǐ bào shuì.
+因为现在所有的中国人，都得自己报税。
+
+Zhè ge qí shí gēn Měi Guó rén shì yī yàng de.
+这个其实跟美国人是一样的。
+
+Dàn shì bào shuì zhè jiàn shì, hěn duō rén bù zhī dào zěn me bào.
+但是报税这件事，很多人不知道怎么报。
+
+Nǐ jiù shì bāo kuò shén me néng jiǎn miǎn shén me.
+你就是包括什么能减免什么。
+
+Zhè yǐ hòu wǒ jué de jué duì shì jiāo gěi AI de shì.
+这以后我觉得绝对是交给AI的事。
+
+Shì de, Měi Guó bào shuì, yě shì yī ge duō shào nián yǐ lái, yī ge tè bié tòng de diǎn.
+是的，美国报税，也是一个多少年以来，一个特别痛的点。
+
+Hěn duō rén dōu yào gù lǜ shī, qù bāng zì jǐ bǎ zhè xiē suàn qīng chu.
+很多人都要雇律师，去帮自己把这些算清楚。
+
+Duì duì duì, kěn dìng shì yǒu shuì wù lǜ shī.
+对对对，肯定是有税务律师。
+
+Yǒu xiē shì qíng, tā men jiào IRS, tā nà ge diàn huà, yǒu xiē shì qíng, nǐ bì xū déi on site dào tā men nà ge IRS bù mén, huò zhě shì dǎ diàn huà.
+有些事情，他们叫IRS，他那个电话，有些事情，你必须得onsite到他们那个IRS部门，或者是打电话。
+
+Tā nà ge diàn huà, jù wǒ nà ge partner shuō, yǒng yuǎn dǎ bù dòng.
+他那个电话，据我这个partner说，永远打不动。
+
+Jī běn shàng liǎng ge xiǎo shí, nǐ yào zhǔn bèi liǎng ge xiǎo shí.
+基本上两个小时，你要准备两个小时。
+
+Duì, liǎng ge xiǎo shí.
+对，两个小时。
+
+Duì, nǐ zhè zhǒng, wǒ zhè biān yòng diàn hé shā zi, wǒ jiù gěi nǐ hào bái.
+对，你这种，我这边用电和沙子，我就给你耗白。
+
+Liǎng ge xiǎo shí jiē dào zhēn rén, fǎn zhèng wǒ zhè ge yě bù yòng huā rén de rèn hé shí jiān.
+两个小时接到真人，反正我这个也不用花人的任何时间。
+
+Nǐ rén gāi jiàn shēn jiàn shēn, gāi shàng bān shàng bān.
+你人该健身健身，该上班上班。
+
+Qí shí wú suǒ wèi.
+其实无所谓。
+
+Suǒ yǐ wǒ men zuò zhè ge shì jiù fēi cháng yǒu chéng jiù gǎn.
+所以我们做这个事就非常有成就感。
+
+Xiàng wǒ men měi tiān bāng Měi Guó dà liàng de zhè zhǒng yòng hù, jiě jué gè zhǒng gè yàng de láo sāo hé gè zhǒng gè yàng de wèn tí.
+像我们每天帮美国大量的这种用户，解决各种各样的牢骚和各种各样的问题。
+
+Bǐ rú shuō yǒu yī ge yòng hù, tā shuō tā mǎi de Jiā Néng dǎ yìn jī, gāng mǎi le jiù lòu mò, jiù huài le.
+比如说有一个用户，他说他买的佳能打印机，刚买了就漏墨，就坏了。
+
+Rán hòu tā xiě le yóu jiàn, duì miàn shuō bù xíng nǐ yào dǎ diàn huà.
+然后他写了邮件，对面说不行你要打电话。
+
+Nà dǎ diàn huà, tā jiù dǎ bù tōng.
+那打电话，他就打不通。
+
+Zuì hòu tā qiú zhù wǒ men, wǒ men AI bāng tā dǎ wán zhī hòu, zhí jiē duì miàn huàn le yī ge xīn de Jiā Néng dǎ yìn jī.
+最后他求助我们，我们AI帮他打完，之后直接对面换了一个新的佳能打印机。
+
+Rán hòu hái yǒu gèng hǎo wán de shì, yǒu yī ge yòng hù, tā zhuāng zhè ge xǐ yī jī.
+然后还有更好玩的事，有一个用户，他装这个洗衣机。
+
+Gōng rén qù gěi tā zhuāng de shí hòu, zhuāng dào dì xià shì, wàng jì zhuāng pái shuǐ guǎn le.
+工人去给他装的时候，装到地下室，忘记装排水管了。
+
+Dāng tā nǐng kāi zhī hòu, tā jiù shàng lóu le.
+当他拧开之后，他就上楼了。
+
+Děng tā jǐ ge xiǎo shí xià lái zhī hòu, fā xiàn dì xià shì yǐ jīng quán yān le, bèi pào le.
+等他几个小时下来之后，发现地下室已经全淹了，被泡了。
+
+Tā hěn duō nián de zhè zhǒng jì niàn pǐn, tā de xiǎo hái de, tā fù mǔ de quán dōu ruin diào le.
+他很多年的这种纪念品，他的小孩的，他父母的全都ruin掉了。
+
+Rán hòu tā jiù gěi nà biān dǎ diàn huà, nà biān jiù sòng le yī ge pái shuǐ guǎn, ér qiě yòu chā le tā yī ge shàng mén fú wù fèi.
+然后他就给那边打电话，那边就送了一个排水管，而且又收了他一个上门服务费。
+
+Qì sǐ le, zhè ge shì zài Měi Guó tài cháng jiàn le.
+气死了，这个事在美国太常见了。
+
+Duì, rán hòu tā zhǎo wǒ men, wǒ men bāng tā argue huí lái 2500 měi jīn.
+对，然后他找我们，我们帮他argue回来2500美元。
+
+Nà fēi cháng bàng, suī rán shuō nǐ de nèi xiē jì yì bù kě néng zài ná huí lái le, dàn zhì shǎo shuō nǐ xiū jiā jū de qián, yīng gāi shì gòu le.
+那非常棒，虽然说你的那些记忆不可能再拿回来了，但至少说你修家居的钱，应该是够了。
+
+Shì de, ér qiě zhè zhì shǎo dài biǎo yī ge shàng jiā de tài dù, jiù yào wèi le xīn lǐ biān yě huì jué de shū fú yī diǎn.
+是的，而且这至少代表一个上家的态度，就要为了心里边也会觉得舒服一点。
+
+Nǐ zhī dào zhè ge shì, wǒ shì tóng yàng jīng lì guò de, jiù shì xǐ yī jī ma.
+你知道这个事，我是同样经历过的，就是洗衣机吗。
+
+Mǎi kōng tiáo, mǎi kōng tiáo.
+买空调，买空调。
+
+Rán hòu tā nà ge kōng tiáo lòu fú, tā jiù shì nà guǎn zi méi chán hǎo, mǎi le zhī hòu jiù méi yòng.
+然后他那个空调漏氟，他就是那管子没缠好，买了之后就没用。
+
+Nà yě bù jīng cháng huí qù zhù, hòu lái děng wǒ gé le sān ge yuè, tiān rè le, huí qù zhù de shí hòu ne, fā xiàn kōng tiáo yǐ jīng wán quán bù zhì lěng le, yīn wèi fú dōu lòu guāng le.
+那也不经常回去住，后来等我隔了三个月，天热了，回去住的时候呢，发现空调已经完全不制冷了，因为氟都漏光了。
+
+Rán hòu wǒ jiù qù tóu sù, hǎo duō nián qián le, dāng shí shì zài Guó Měi mǎi de.
+然后我就去投诉，好多年前了，当时是在国美买的。
+
+Rán hòu Guó Měi nà biān ne, tā jiù shàng mén, hái yào zài shōu wǒ liǎng bǎi kuài qián.
+然后国美那边呢，他就上门，还要再收我两百块钱。
+
+Wǒ zài shàng le yī ge rén, bǎ nǐ guǎn gěi nǐ chū qù huàn yī xià, ér qiě cái liào fèi bù shōu nǐ de le, dàn shì nǐ yào zài shōu liǎng bǎi kuài.
+我再上了一个人，把你管给你出去换一下，而且材料费不收你的了，但是你要再收两百块。
+
+Nǐ méi yǒu bàn fǎ tóu sù.
+你没有办法投诉。
+
+Shì de, Lì Li jiě nín tí dào zhè ge, yě shì wǒ men bāng yòng hù chǔ lǐ wèn tí a, hěn duō shí hòu yù dào de diǎn.
+是的，莉莉姐您提到这个，也是我们帮用户处理问题啊，很多时候遇到的点。
+
+Jiù shì tā shì tōng guò dì sān fāng píng tái mǎi de, bǐ rú shuō tā tōng guò OTA, Měi Guó bǎn de xié chéng a, lèi sì zhè zhǒng píng tái, qù dìng de jiǔ diàn, dìng de jī piào.
+就是他是通过第三方平台买的，比如说他通过OTA，美国版的携程啊，类似这种平台，去订的酒店，订的机票。
+
+Dàn shì ne, dāng nǐ zhēn de yù dào wèn tí de shí hòu, zhè ge píng tái huì shuō, nà nǐ děi zhǎo jiǔ diàn zhǎo háng kōng gōng sī.
+但是呢，当你真的遇到问题的时候，这个平台会说，那你得找酒店找航空公司。
+
+Rán hòu háng kōng gōng sī shuō, nǐ cóng nǎr dìng de piào, nǐ qù zhǎo shuí qù.
+然后航空公司说，你从哪儿订的票，你去找谁去。
+
+Duì, tā men liǎng ge hù xiāng tī pí qiú.
+对，他们两个互相踢皮球。
+
+Nǐ zhè ge shí hòu rén shì fēi cháng de frustrated, duì, fēi cháng jué wàng.
+你这个时候人是非常的frustrated，对，非常绝望。
+
+Dàn shì yǒu AI méi guān xì, nǐ ràng wǒ zhǎo shuí, wǒ xiàn zài qù zhǎo.
+但是有AI没关系，你让我找谁，我现在去找。
+
+Shèn zhì wǒ dōu bǎ zhè ge zhèng jù wǒ dōu liú xià lái, rán hòu qù gēn nǐ a gěi wǒ.
+甚至我都把这个证据我都留下来，然后去跟你argue。
+
+Méi cuò, méi cuò.
+没错，没错。
+
+Āi ya, wǒ jué de tè bié hǎo.
+哎呀，我觉得特别好。
+
+Lù wán zhè qī bō kè, wǒ de gǎn shòu jiù shì, dì yī shì wǒ men de shēng yì, qí shí hái xū yào chōng fèn de běn dì huà.
+录完这期播客，我的感受就是，第一是我们的生意，其实还需要充分的本地化。
+
+Jiù zhè ge shì qíng zài Zhōng Guó tǐng nán zuò de yuán yīn, jiù shì Zhōng Guó de kè fú tài duō le, Zhōng Guó de zhè ge kè fú xiào lǜ shì bǐ Měi Guó gèng gāo.
+就这个事情在中国挺难做的原因，就是中国的客服太多了，中国的这个客服效率是比美国更高。
+
+Dì èr ne, jiù shì wǒ jué de yě kàn dào le, AI zài wèi lái kě néng néng tì dài de yī xiē gōng zuò jī huì.
+第二呢，就是我觉得也看到了，AI在未来可能能替代的一些工作机会。
+
+Bǐ rú shuō, jīn tiān wǒ men qí shí měi ge rén dōu yǒu gè zhǒng gè yàng de gēn yín háng a, bǎo xiǎn gōng sī a, diàn xìn yún shāng, rán hòu yǒu gè zhǒng gè yàng jiū gé de shí hòu ne, xiàn zài wǒ men hái shì rén qù tán pàn, huò zhě shuō shì xiàn zài shì tǔ bì fāng, tā huì wěi tuō yī ge dì sān fāng lái gēn wǒ men tán.
+比如说，今天我们其实每个人，都有各种各样的跟银行啊，保险公司啊，电信云商，然后有各种各样纠葛的时候呢，现在我们还是人去谈判，或者是说，现在是to B方，他会委托一个第三方，来跟我们谈。
+
+Dōu bǐ jiào jiǎn dān cū bào de, yě zài Zhōng Guó yǒu fēi cháng dà de qián jǐng, zhè fāng xiàng.
+都比较简单粗暴的，也在中国有非常大的前景，这方向。
+
+Suǒ yǐ shuō, tīng wán zhī hòu, gè wèi tīng yǒu ne, rú guǒ yǒu xìng qù, dà jiā ne yě kě yǐ qù lián xì Yǔ Rùn.
+所以说，听完之后，各位听友呢，如果有兴趣，大家呢也可以去联系宇润。
+
+Yīn wèi shǒu xiān wǒ men zhī dào, Pàn AI hái zài jī jí de zhāo rén.
+因为首先我们知道，盼AI还在积极的招人。
+
+Duì, wǒ men xiàn zài de rén yuán shì base zài nǎ lǐ a.
+对，我们现在的人员是base在哪里啊。
+
+Wǒ men xiàn zài fēn bù de bǐ jiào guǎng a, jiù shì yīn wèi wǒ men remote dōu méi wèn tí.
+我们现在分布的比较广啊，就是因为我们remote都没问题。
+
+Guān yú tuán duì zhè, wǒ hái kě yǐ zài jiǎng yī jiǎng.
+关于团队这，我还可以再讲一讲。
+
+Jiù shì wǒ men xiǎng dǎ zào yī ge AI native de tuán duì.
+就是我们想打造一个AI native的团队。
+
+Yóu qí shì wǒ men shǒu xí kē xué jiā guò lái zhī hòu, ne, tā zài AI zěn me empower zhè ge tuán duì, qí shí yǒu fēi cháng shēn rù de yán jiū.
+尤其是我们首席科学家过来之后呢，他在AI怎么empower这个团队，其实有非常深入的研究。
+
+Tā jiù shuō, hěn duō rén shuō AI biān chéng, hǎo xiàng zhǐ néng xiě yī ge xiǎo jiǎo běn, zhǐ néng xiě yī xiǎo duàn dài mǎ.
+他就说，很多人说AI编程，好像只能写一个小脚本，只能写一小段代码。
+
+Dàn shì ne, qí shí AI zài 5 wàn háng, 10 wàn háng zhè zhǒng dà xiàng mù, dōu kě yǐ fā huī chū fēi cháng dà de zuò yòng.
+但是呢，其实AI在5万行，10万行这种大项目，都可以发挥出非常大的作用。
+
+Zhè ge yòng bù hǎo, shì nǐ tuán duì, nǐ de gōng sī, nǐ de gōng chéng shī de wèn tí, ér bù shì AI de wèn tí.
+这个用不好，是你团队，你的公司，你的工程师的问题，而不是AI的问题。
+
+Duì, suǒ yǐ tā jiù jǔ lì zǐ shuō, nǐ xiàng Guī Gǔ yǒu hěn duō fēi cháng gāo shuǐ píng de kāi yuán xiàng mù.
+对，所以他就举例子说，你像硅谷有很多非常高水平的开源项目。
+
+Tā de rén, qí shí méi yǒu gù dìng de bàn gōng shì, dōu shì fēn bù zài shì jiè gè dì.
+他的人，其实没有固定的办公室，都是分布在世界各地。
+
+Dàn shì tā men néng deliver chū lái, zhè ge shì jiè Sota shuǐ píng de kāi yuán xiàng mù de zhì liàng.
+但是他们能deliver出来，这个世界Sota水平的开源项目的质量。
+
+Nà rén jiā zěn me zuò de, wèi shén me nǐ yī ge gōng sī, yǒu yī ge shí tǐ de zǔ zhī, yǒu yī ge dà jiā tiān tiān jiàn miàn de jī huì, duì ba, nǐ fǎn ér zuò bù chū lái zhè me hǎo de xiàng mù.
+那人家怎么做的，为什么你一个公司，有一个实体的组织，有一个大家天天见面的机会，对吧，你反而做不出来这么好的项目。
+
+Suǒ yǐ wǒ men jiù cóng dǐ céng kāi shǐ, cóng wén dàng de jié gòu, rán hòu cóng test case, cóng huí guī cè shì, cóng gè zhǒng gōng chéng de shí jiàn, DevOps, quán dōu xiàng Guī Gǔ yī liú shuǐ píng kàn qí.
+所以我们就从底层开始，从文档的结构，然后从test case，从回归测试，从各种工程的实践，DevOps，全都向硅谷一流水平看齐。
+
+Zhè yàng de huà ne, AI tā shì fēi cháng shàn cháng zài zhè ge huán jìng xià gōng zuò de.
+这样的话呢，AI它是非常擅长在这个环境下工作的。
+
+Nà nǐ yī duī shǐ shān yī yàng de dài mǎ, tā fǎn ér shì gǎo bù liǎo de.
+那你一堆史山一样的代码，它反而是搞不了的。
+
+Zhè jiù shì wèi shén me hěn duō rén jué de, wǒ AI hǎo xiàng méi yǒu shén me yòng.
+这就是为什么很多人觉得，我AI好像没有什么用。
+
+Zhè shì yīn wèi, rén jiā méi yǒu bàn fǎ, dào nǐ zhè ge huán jìng xià lái gōng zuò.
+这是因为，人家没有办法，到你这个环境下来工作。
+
+Duì, dàn shì nǐ bǎ zhè ge huán jìng nòng dé fēi cháng shū fu, nǐ jiù kě yǐ wú xiàn de copy nǐ de AI agent lái bāng nǐ zuò shì.
+对，但是你把这个环境弄得非常舒服，你就可以无限的copy你的AI agent来帮你做事。
+
+Zhè jiù shì wèi shén me wǒ men xiàn zài bù zhāo hěn duō de rén, dàn shì xiǎng zhāo duì AI native fēi cháng gǎn xìng qù, rán hòu dòng shǒu néng lì fēi cháng qiáng de rén.
+这就是为什么我们现在不招很多的人，但是想招对AI native非常感兴趣，然后动手能力非常强的人。
+
+Yīn wèi zhè yàng de rén, zài wǒ men shí jiàn de jiā chí xià, tā yī ge rén kě yǐ fā huī chū sān ge sì ge rén, shèn zhì wǔ liù ge rén de zhè zhǒng xiào guǒ.
+因为这样的人，在我们实践的加持下，他一个人可以发挥出三个四个人，甚至五六个人的这种效果。
+
+Jiù xiàn zài ne, hé guò qù de chuàng yè bù tài yī yàng de yī diǎn shì, yǐ qián ne, yǒu hěn duō zāng huó lèi huó, nǐ shì xū yào rén lái chǔ lǐ de.
+就现在呢，和过去的创业不太一样的一点是，以前呢，有很多脏活累活，你是需要人来处理的。
+
+Bǐ rú shuō nǐ yùn wéi a, QA a, shí xiàn yī xiē mó kuài a, xiě yī xiē jiǎo běn a.
+比如说你运维啊，QA啊，实现一些模块啊，写一些脚本啊。
+
+Dàn shì xiàn zài zhè xiē AI quán dōu kě yǐ zuò.
+但是现在这些AI全都可以做。
+
+Wǒ men xī wàng zhāo de měi yī ge rén, dōu shì xiàng jià gòu shī yī yàng, nǐ néng dài zhe yī duī AI lái gàn huó, fā huī chū lái sì dào wǔ bèi de nǐ de jià zhí.
+我们希望招的每一个人，都是像架构师一样，你能带着一堆AI来干活，发挥出来四到五倍的你的价值。
+
+En en, tài hǎo le.
+嗯嗯，太好了。
+
+Dà jiā kě yǐ zài jié mù de show notes lǐ kàn dào, wǒ men huì bǎ zhěng ge Pàn AI xiàn zài mù qián de yī xiē zhāo pìn qú dào fàng jìn qù, shèn zhì shì zhí jiē gěi Yǔ Rùn běn rén hé tā de HR tóng shì fā yóu jiàn.
+大家可以在节目的show notes里看到，我们会把整个盼AI现在目前的一些招聘渠道放进去，甚至是直接给宇润本人和他的HR同事发邮件。
+
+Dāng rán rèn shi wǒ de péng you yě kě yǐ zhí jiē bǎ jiǎn lì zhuǎn gěi wǒ.
+当然认识我的朋友也可以直接把简历转给我。
+
+Huān yíng gè wèi tīng yǒu ne, jī jí dì jiā rù dào jīn tiān de AI chuàng yè dà cháo lǐ.
+欢迎各位听友呢，积极地加入到今天的AI创业大潮里。
+
+Zhè yī bō jī huì rú guǒ cuò guò, zài yě yào xiǎng zhǎo dào xià yī ge fēng kǒu, bù nà me róng yì a.
+这一波机会如果错过，再也要想找到下一个风口，不那么容易啊。
+
+Yīn wèi qí shí zhè ge AI jī běn shàng jiù shì wǒ men dāng nián de yí dòng hù lián wǎng le.
+因为其实这个AI基本上就是我们当年的移动互联网了。
+
+Shì de.
+是的。
+
+Hǎo, běn qī jié mù chà bù duō dào cǐ jié shù.
+好，本期节目差不多到此结束。
+
+Huān yíng gè wèi tīng yǒu zài wǒ men de Xǐ Mǎ Lā Yǎ hé Xiǎo Yǔ Zhòu xià miàn jī jí dì liú yán.
+欢迎各位听友在我们的喜马拉雅和小宇宙下面积极地留言。
+
+Nà me wǒ men xià qī zài jiàn.
+那么我们下期再见。
+
+Hǎo, xià qī zài jiàn, bài bài.
+好，下期再见，拜拜。

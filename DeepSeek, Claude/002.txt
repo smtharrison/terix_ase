@@ -1,0 +1,777 @@
+科技慢半拍的听众们, 大家好啊
+Kējì màn bàn pāi de tīngzhòngmen, dàjiā hǎo a
+
+最近从事各种职业的朋友, 特别是那些坐在办公室里不会被风吹雨淋的白领员工, 有没有感受到被人工智能这个命运之神开始逐个敲门的感觉?
+Zuìjìn cóngshì gè zhǒng zhíyè de péngyou, tèbié shì nàxiē zuò zài bàngōngshì lǐ bù huì bèi fēng chuī yǔ lín de báilǐng yuángōng, yǒu méiyǒu gǎnshòu dào bèi réngōng zhìnéng zhège mìngyùn zhī shén kāishǐ zhúge qiāomén de gǎnjué?
+
+之前是翻译,美工,编辑,秘书, 现在变成了程序员, 歌手,演员, 咨询顾问, 而且这个范围正在迅速扩大
+Zhīqián shì fānyì, měigōng, biānjí, mìshū, xiànzài biànchéng le chéngxùyuán, gēshǒu, yǎnyuán, zīxún gùwèn, érqiě zhège fànwéi zhèngzài xùnsù kuòdà
+
+这种感觉,我们就好像在一艘行驶的大船上, 比如像泰坦尼克号, 快速撞向了冰山, 或者说是冰山撞向了我们
+Zhè zhǒng gǎnjué, wǒmen jiù hǎoxiàng zài yī sōu xíngshǐ de dà chuán shàng, bǐrú xiàng Tàitǎnníkè hào, kuàisù zhuàng xiàng le bīngshān, huòzhě shuō shì bīngshān zhuàng xiàng le wǒmen
+
+而这一切发生的非常非常快, 置身世外的人也许毫无感受, 但如果你就在这条船上呢?
+Ér zhè yīqiè fāshēng de fēicháng fēicháng kuài, zhìshēn shìwài de rén yěxǔ háo wú gǎnshòu, dàn rúguǒ nǐ jiù zài zhè tiáo chuán shàng ne?
+
+或是乘客,或是水手, 或是只是来船上演奏音乐的乐手, 这时候你该做出什么样的选择?
+Huò shì chéngkè, huò shì shuǐshǒu, huò shì zhǐshì lái chuán shàng yǎnzòu yīnyuè de yuèshǒu, zhè shíhou nǐ gāi zuò chū shénme yàng de xuǎnzé?
+
+现在经常有些专家会和你说, 未来是会使用AI的人, 替代不会使用AI的人
+Xiànzài jīngcháng yǒuxiē zhuānjiā huì hé nǐ shuō, wèilái shì huì shǐyòng AI de rén, tìdài bù huì shǐyòng AI de rén
+
+可问题是, AI真的是能被我们使用的吗?
+Kě wèntí shì, AI zhēn de shì néng bèi wǒmen shǐyòng de ma?
+
+就像那座冰山, 你不能改变它, 使用它
+Jiù xiàng nà zuò bīngshān, nǐ bùnéng gǎibiàn tā, shǐyòng tā
+
+你唯一能做的, 就是接受它, 适应它, 以及与它共生
+Nǐ wéiyī néng zuò de, jiùshì jiēshòu tā, shìyìng tā, yǐjí yǔ tā gòngshēng
+
+就像泰坦尼克电影里表现的那样, 每个人都要在撞击冰山的那一刻做出自己的选择
+Jiù xiàng Tàitǎnníkè diànyǐng lǐ biǎoxiàn de nàyàng, měi ge rén dōu yào zài zhuàngjī bīngshān de nà yīkè zuò chū zìjǐ de xuǎnzé
+
+当然也有人什么选择都不做, 他们还留在船舱中默默地接受一切
+Dāngrán yě yǒu rén shénme xuǎnzé dōu bù zuò, tāmen hái liú zài chuáncāng zhōng mòmò de jiēshòu yīqiè
+
+但是一些想要活下去的人会拼命地抓住栏杆, 或者跳上救生船
+Dànshì yīxiē xiǎng yào huó xiàqù de rén huì pīnmìng de zhuā zhù lángān, huòzhě tiào shàng jiùshēng chuán
+
+再或者像杰克一样奋力留在船上, 努力地找到它可能存活的位置
+Zài huòzhě xiàng Jiékè yīyàng fènlì liú zài chuán shàng, nǔlì de zhǎodào tā kěnéng cúnhuó de wèizhì
+
+推测这艘船会以什么样的角度入水, 它和Rose应该待在船的什么位置上
+Tuīcè zhè sōu chuán huì yǐ shénme yàng de jiǎodù rù shuǐ, tā hé Rose yīnggāi dài zài chuán de shénme wèizhì shàng
+
+只有这样的话, 它才能让自己存活的几率更大
+Zhǐyǒu zhèyàng de huà, tā cáinéng ràng zìjǐ cúnhuó de jǐlǜ gèng dà
+
+也许能活下来, 也许不能
+Yěxǔ néng huó xiàlái, yěxǔ bùnéng
+
+过去我们说技术进步通常意味着工具变强了
+Guòqù wǒmen shuō jìshù jìnbù tōngcháng yìwèizhe gōngjù biàn qiáng le
+
+比如更快的电脑, 更方便的软件, 更高效的流程
+Bǐrú gèng kuài de diànnǎo, gèng fāngbiàn de ruǎnjiàn, gèng gāoxiào de liúchéng
+
+但这一次有点不一样
+Dàn zhè yī cì yǒudiǎn bù yīyàng
+
+这一次的变化是工具开始做原本人在做的事情
+Zhè yī cì de biànhuà shì gōngjù kāishǐ zuò yuánběn rén zài zuò de shìqíng
+
+所以问题就不再只是效率会不会提升, 而变成了一个更直接的问题
+Suǒyǐ wèntí jiù bù zài zhǐshì xiàolǜ huì bù huì tíshēng, ér biànchéng le yī ge gèng zhíjiē de wèntí
+
+如果这个东西可以完成我正在做的工作, 那我在这个体系里的位置是什么
+Rúguǒ zhège dōngxi kěyǐ wánchéng wǒ zhèngzài zuò de gōngzuò, nà wǒ zài zhège tǐxì lǐ de wèizhì shì shénme
+
+这些变化不是新闻, 也不新鲜
+Zhèxiē biànhuà bùshì xīnwén, yě bù xīnxiān
+
+但它带来的是一种很微妙, 很难说清楚的感觉
+Dàn tā dài lái de shì yī zhǒng hěn wēimiào, hěn nán shuō qīngchu de gǎnjué
+
+我越来越觉得这一轮AI带来的冲击, 本质上不是技术问题, 而是一个很典型的心理过程
+Wǒ yuè lái yuè juéde zhè yī lún AI dài lái de chōngjī, běnzhì shàng bùshì jìshù wèntí, ér shì yī ge hěn diǎnxíng de xīnlǐ guòchéng
+
+而且这个过程在不同职业之间几乎是同步发生的
+Érqiě zhège guòchéng zài bùtóng zhíyè zhī jiān jīhū shì tóngbù fāshēng de
+
+今天这一期我想做的事情其实很简单, 我们不去讨论AI有多强, 也不去预测未来会怎么样
+Jīntiān zhè yī qī wǒ xiǎng zuò de shìqíng qíshí hěn jiǎndān, wǒmen bù qù tǎolùn AI yǒu duō qiáng, yě bù qù yùcè wèilái huì zěnmeyàng
+
+我想带你一起看一看, 当AI开始进入一个行业的时候, 一个人通常会经历怎样的心理变化
+Wǒ xiǎng dài nǐ yīqǐ kàn yī kàn, dāng AI kāishǐ jìnrù yī ge hángyè de shíhou, yī ge rén tōngcháng huì jīnglì zěnyàng de xīnlǐ biànhuà
+
+为什么有些人会陷入焦虑, 有些人会选择对抗, 而还有一小部分人开始找到新的位置
+Wèishénme yǒuxiē rén huì xiànrù jiāolǜ, yǒuxiē rén huì xuǎnzé duìkàng, ér hái yǒu yī xiǎo bùfen rén kāishǐ zhǎodào xīn de wèizhì
+
+以及更重要的一个问题, 当这件事轮到我们自己的时候, 我们应该用什么样的方式去面对
+Yǐjí gèng zhòngyào de yī ge wèntí, dāng zhè jiàn shì lún dào wǒmen zìjǐ de shíhou, wǒmen yīnggāi yòng shénme yàng de fāngshì qù miànduì
+
+如果我们把这个过程往前推一点, 你会发现大多数人面对AI的第一反应, 其实并不是恐慌, 而是不太相信
+Rúguǒ wǒmen bǎ zhège guòchéng wǎng qián tuī yīdiǎn, nǐ huì fāxiàn dà duōshù rén miànduì AI de dì yī fǎnyìng, qíshí bìng bùshì kǒnghuāng, ér shì bù tài xiāngxìn
+
+插画师会说, AI生成的东西看起来还可以, 但它没有真正的风格, 只是拼出来的
+Chāhuà shī huì shuō, AI shēngchéng de dōngxi kàn qǐlái hái kěyǐ, dàn tā méiyǒu zhēnzhèng de fēnggé, zhǐshì pīn chūlái de
+
+做音乐的会说, 它可以模仿, 但它不懂情绪, 更不可能真正创作
+Zuò yīnyuè de huì shuō, tā kěyǐ mófǎng, dàn tā bù dǒng qíngxù, gèng bù kěnéng zhēnzhèng chuàngzuò
+
+设计师会觉得, 客户可能会玩一玩, 但最后还是需要专业的人来做判断
+Shèjì shī huì juéde, kèhù kěnéng huì wán yī wán, dàn zuìhòu háishì xūyào zhuānyè de rén lái zuò pànduàn
+
+程序员会说, AI可以写简单代码, 但复杂系统它是做不了的
+Chéngxùyuán huì shuō, AI kěyǐ xiě jiǎndān dàimǎ, dàn fùzá xìtǒng tā shì zuò bù liǎo de
+
+写作者也会有类似的判断, AI可以生成一些内容, 但它没有观点, 也没有真正的思考
+Xiězuò zhě yě huì yǒu lèisì de pànduàn, AI kěyǐ shēngchéng yīxiē nèiróng, dàn tā méiyǒu guāndiǎn, yě méiyǒu zhēnzhèng de sīkǎo
+
+演员是有不可替代性的, 尤其是好的演员
+Yǎnyuán shì yǒu bù kě tìdài xìng de, yóuqí shì hǎo de yǎnyuán
+
+就像一个角色, 那一句台词每个人都能说, 那为什么最后出来的, 大家记住的是它
+Jiù xiàng yī ge juésè, nà yī jù táicí měi ge rén dōu néng shuō, nà wèishénme zuìhòu chūlái de, dàjiā jì zhù de shì tā
+
+我觉得它不会完全取代真人演员
+Wǒ juéde tā bù huì wánquán qǔdài zhēnrén yǎnyuán
+
+那么只要有观众喜欢真人, 那么真人演员这个表演, 还是会一直存在
+Nàme zhǐyào yǒu guānzhòng xǐhuan zhēnrén, nàme zhēnrén yǎnyuán zhège biǎoyǎn, háishì huì yīzhí cúnzài
+
+从去年就开始暗暗的恐慌, 尽量还是要加快速度, 和找到方法论去提高自己
+Cóng qùnián jiù kāishǐ àn àn de kǒnghuāng, jǐnliàng háishì yào jiākuài sùdù, hé zhǎodào fāngfǎlùn qù tígāo zìjǐ
+
+这是最近一些演员对于AI能否取代真人演员的一些表述
+Zhè shì zuìjìn yīxiē yǎnyuán duìyú AI néngfǒu qǔdài zhēnrén yǎnyuán de yīxiē biǎoshù
+
+你会发现, 这些说法听起来都很有道理, 而且在某种程度上, 它们也确实是对的
+Nǐ huì fāxiàn, zhèxiē shuōfǎ tīng qǐlái dōu hěn yǒu dàolǐ, érqiě zài mǒu zhǒng chéngdù shàng, tāmen yě quèshí shì duì de
+
+但有意思的地方在于, 这些判断往往并不是一个纯粹理性的分析, 而更像是一种下意识的反应
+Dàn yǒuyìsi de dìfāng zàiyú, zhèxiē pànduàn wǎngwǎng bìng bùshì yī ge chúncuì lǐxìng de fēnxī, ér gèng xiàng shì yī zhǒng xiàyìshí de fǎnyìng
+
+说到这里, 我想讲一个特别典型的例子
+Shuō dào zhèlǐ, wǒ xiǎng jiǎng yī ge tèbié diǎnxíng de lìzi
+
+2015年8月, 欧洲围棋冠军樊辉收到一封从伦敦发来的邮件
+2015 nián 8 yuè, Ōuzhōu wéiqí guànjūn Fán Huī shōu dào yī fēng cóng Lúndūn fā lái de yóujiàn
+
+一家叫DeepMind的科技公司, 邀请他去总部参与一项围棋科研项目
+Yī jiā jiào DeepMind de kējì gōngsī, yāoqǐng tā qù zǒngbù cānyù yī xiàng wéiqí kēyán xiàngmù
+
+樊辉当时的第一反应是, 这不会是诈骗吧
+Fán Huī dāngshí de dì yī fǎnyìng shì, zhè bù huì shì zhàpiàn ba
+
+他早年在国家少年队和古力等人一同训练, 后来去法国定居, 拿过连续三届欧洲围棋冠军, 在欧洲没有敌手
+Tā zǎonián zài guójiā shàonián duì hé Gǔ Lì děng rén yītóng xùnliàn, hòulái qù Fǎguó dìngjū, ná guò liánxù sān jiè Ōuzhōu wéiqí guànjūn, zài Ōuzhōu méiyǒu díshǒu
+
+所以他心想, 我和计算机下棋, 还不是分分钟的事
+Suǒyǐ tā xīn xiǎng, wǒ hé jìsuànjī xià qí, hái bù shì fēn fēn zhōng de shì
+
+电脑怎么可能把围棋研究明白
+Diànnǎo zěnme kěnéng bǎ wéiqí yánjiū míngbai
+
+结果到了伦敦, 第一盘棋, 他本想三两下解决对手
+Jiéguǒ dào le Lúndūn, dì yī pán qí, tā běn xiǎng sān liǎng xià jiějué duìshǒu
+
+却发现对面这个没有感情的机器, 好像是很多位围棋大师的结合体
+què fāxiàn duìmiàn zhège méiyǒu gǎnqíng de jīqì, hǎoxiàng shì hěnduō wèi wéiqí dàshī de jiéhétǐ
+
+行棋思路缜密, 毫无破绽
+Xíng qí sīlù zhěnmì, háo wú pòzhàn
+
+布局阶段, 就让他吃了苦头
+Bùjú jiēduàn, jiù ràng tā chī le kǔtou
+
+第二盘, 他下得很勇强, 很撑, 但AI总能轻描淡写地找到他的漏洞, 不紧不慢地让他亏损, 最后满盘欲碎
+Dì èr pán, tā xià de hěn yǒngqiáng, hěn chēng, dàn AI zǒng néng qīngmiáodànxiě de zhǎodào tā de lòudòng, bù jǐn bù màn de ràng tā kuīsǔn, zuìhòu mǎn pán yù suì
+
+五盘棋全部输掉之后, 樊辉双手抱头沉默了一分钟, 然后对坐在对面微笑的黄博士说, 我要出去静一静
+Wǔ pán qí quánbù shū diào zhīhòu, Fán Huī shuāng shǒu bào tóu chénmò le yī fēnzhōng, ránhòu duì zuò zài duìmiàn wēixiào de Huáng bóshì shuō, wǒ yào chūqù jìng yī jìng
+
+他在那几分钟里想了很多, 他知道围棋界不会放过他, 会质疑他的棋力, 甚至诋毁他的信誉
+Tā zài nà jǐ fēnzhōng lǐ xiǎng le hěnduō, tā zhīdào wéiqí jiè bù huì fàngguò tā, huì zhìyí tā de qílì, shènzhì dǐhuǐ tā de xìnyù
+
+但转念一想, 他很快想明白了, 新的围棋时代开始了
+Dàn zhuǎnniàn yī xiǎng, tā hěnkuài xiǎng míngbai le, xīn de wéiqí shídài kāishǐ le
+
+于是他毅然接受了DeepMind的邀请, 成为AlphaGo的项目顾问
+Yúshì tā yìrán jiēshòu le DeepMind de yāoqǐng, chéngwéi AlphaGo de xiàngmù gùwèn
+
+然而这件事在当时并没有立刻公开, 消息慢慢传到了国内围棋圈, 你猜大家的第一反应是什么?
+Rán'ér zhè jiàn shì zài dāngshí bìng méiyǒu lìkè gōngkāi, xiāoxī màn man chuán dào le guónèi wéiqí quān, nǐ cāi dàjiā de dì yī fǎnyìng shì shénme?
+
+不是震惊, 不是警觉, 而是嘲笑和口诛笔伐
+Bùshì zhènjīng, bùshì jǐngjué, ér shì cháoxiào hé kǒuzhū-bǐfá
+
+棋圣聂卫平直接说樊辉丢脸, 表示自己不相信AI能打败人类顶尖棋手
+Qí shèng Niè Wèipíng zhíjiē shuō Fán Huī diū liǎn, biǎoshì zìjǐ bù xiāngxìn AI néng dǎbài rénlèi dǐngjiān qíshǒu
+
+而当时刚拿到世界冠军, 隐约有成为第一人趋势的柯洁九段, 更不留情面
+Ér dāngshí gāng ná dào shìjiè guànjūn, yǐnyuē yǒu chéngwéi dì yī rén qūshì de Kē Jié jiǔ duàn, gèng bù liú qíngmiàn
+
+他在一次直播中复盘樊辉的棋, 狠批樊辉棋臭, 不太会下围棋, 还直言自己就是在批斗樊辉, 旁边几个人都在笑
+Tā zài yī cì zhíbō zhōng fùpán Fán Huī de qí, hěn pī Fán Huī qí chòu, bù tài huì xià wéiqí, hái zhíyán zìjǐ jiùshì zài pīdòu Fán Huī, pángbiān jǐ ge rén dōu zài xiào
+
+很多棋手和棋迷觉得, 樊辉不过是个欧洲冠军, 水平本来就不够, 输给AI只能说明他自己菜, 根本说明不了AI有多强
+Hěnduō qíshǒu hé qímí juéde, Fán Huī bùguò shì ge Ōuzhōu guànjūn, shuǐpíng běnlái jiù bù gòu, shū gěi AI zhǐ néng shuōmíng tā zìjǐ cài, gēnběn shuōmíng bù liǎo AI yǒu duō qiáng
+
+这种戏谑的背后, 其实就是一种典型的否认
+Zhè zhǒng xìxuè de bèihòu, qíshí jiùshì yī zhǒng diǎnxíng de fǒurèn
+
+大家并不是真的在评估AI的实力, 而是在用“他不够强”这个理由, 来维持一个让自己安心的判断: AI还没到那个程度
+Dàjiā bìng bùshì zhēn de zài pínggū AI de shílì, ér shì zài yòng “tā bù gòu qiáng” zhège lǐyóu, lái wéichí yī ge ràng zìjǐ ānxīn de pànduàn: AI hái méi dào nàge chéngdù
+
+面对这些指责和谩骂, 樊辉什么也没说, 他默默等待着
+Miànduì zhèxiē zhǐzé hé mànmà, Fán Huī shénme yě méi shuō, tā mòmò děngdài zhe
+
+在AlphaGo和李世石的五番棋之前, 棋界几乎所有人都认为, 李世石将轻松取胜, 5比0是预测最多的比分
+Zài AlphaGo hé Lǐ Shìshí de wǔ fān qí zhīqián, qí jiè jīhū suǒyǒu rén dōu rènwéi, Lǐ Shìshí jiāng qīngsōng qǔshèng, 5 bǐ 0 shì yùcè zuì duō de bǐfēn
+
+整个中国围棋界, 只有一位在北大读哲学研究生的棋手李喆唱了反调, 他认为AlphaGo会赢, 并说了一句话: 人类终将会被自己的情绪打败
+Zhěnggè Zhōngguó wéiqí jiè, zhǐyǒu yī wèi zài Běidà dú zhéxué yánjiūshēng de qíshǒu Lǐ Zhé chàng le fǎndiào, tā rènwéi AlphaGo huì yíng, bìng shuō le yī jù huà: rénlèi zhōngjiāng huì bèi zìjǐ de qíngxù dǎbài
+
+果然, 最终比分1比4, 李世石大比分落败
+Guǒrán, zuìzhōng bǐfēn 1 bǐ 4, Lǐ Shìshí dà bǐfēn luòbài
+
+樊辉坐在裁判席中央, 见证了一切
+Fán Huī zuò zài cáipàn xí zhōngyāng, jiànzhèng le yīqiè
+
+一盆凉水, 从头到脚, 泼在了整个围棋界
+Yī pén liáng shuǐ, cóng tóu dào jiǎo, pō zài le zhěnggè wéiqí jiè
+
+讲完了11年前发生在围棋圈的这个故事, 我们再回过头来看看, 作为人类的我们, 当遇到AI冲击时的心理变化过程
+Jiǎng wán le 11 nián qián fāshēng zài wéiqí quān de zhège gùshì, wǒmen zài huíguò tóu lái kàn kàn, zuòwéi rénlèi de wǒmen, dāng yù dào AI chōngjī shí de xīnlǐ biànhuà guòchéng
+
+因为当一个人说 “AI做不了我的工作” 的时候, 他真正想表达的, 其实是另一句话: “我希望它做不了”
+Yīnwèi dāng yī ge rén shuō “AI zuò bù liǎo wǒ de gōngzuò” de shíhou, tā zhēnzhèng xiǎng biǎodá de, qíshí shì lìng yī jù huà: “wǒ xīwàng tā zuò bù liǎo”
+
+这背后其实有一个很典型的心理机制
+Zhè bèihòu qíshí yǒu yī ge hěn diǎnxíng de xīnlǐ jīzhì
+
+每一个人, 在长期的工作过程中, 都会慢慢建立起一种自我认同: 我是谁, 我的价值在哪里, 我为什么能在这个领域立足
+Měi yī ge rén, zài chángqī de gōngzuò guòchéng zhōng, dōu huì màn man jiànlì qǐ yī zhǒng zìwǒ rèntóng: wǒ shì shuí, wǒ de jiàzhí zài nǎlǐ, wǒ wèishénme néng zài zhège lǐngyù lìzú
+
+而当AI开始触碰这些能力边界的时候, 它挑战的不只是技能本身, 而是这个人对自己的理解
+Ér dāng AI kāishǐ chùpèng zhèxiē nénglì biānjiè de shíhou, tā tiǎozhàn de bù zhǐshì jìnéng běnshēn, ér shì zhège rén duì zìjǐ de lǐjiě
+
+所以否认并不是无知, 很多时候, 否认是一种保护
+Suǒyǐ fǒurèn bìng bùshì wúzhī, hěnduō shíhou, fǒurèn shì yī zhǒng bǎohù
+
+它让我们可以在变化真正到来之前, 先暂时维持住一个稳定的世界观
+Tā ràng wǒmen kěyǐ zài biànhuà zhēnzhèng dào lái zhīqián, xiān zànshí wéichí zhù yī ge wěndìng de shìjièguān
+
+但问题在于, 当现实开始一点点发生变化, 这种稳定, 往往维持不了太久
+Dàn wèntí zàiyú, dāng xiànshí kāishǐ yīdiǎndiǎn fāshēng biànhuà, zhè zhǒng wěndìng, wǎngwǎng wéichí bù liǎo tài jiǔ
+
+通常, 这种稳定感被打破, 并不是在一个宏大的时刻, 而是发生在一些很具体, 甚至有点日常的瞬间
+Tōngcháng, zhè zhǒng wěndìng gǎn bèi dǎpò, bìng bùshì zài yī ge hóngdà de shíkè, ér shì fāshēng zài yīxiē hěn jùtǐ, shènzhì yǒudiǎn rìcháng de shùnjiān
+
+就像我前面提到的那些朋友的经历, 你花了几个小时甚至几天才能完成的东西, AI几分钟就给出了一个够用的版本
+Jiù xiàng wǒ qiánmian tí dào de nàxiē péngyou de jīnglì, nǐ huā le jǐ ge xiǎoshí shènzhì jǐ tiān cáinéng wánchéng de dōngxi, AI jǐ fēnzhōng jiù gěi chū le yī ge gòuyòng de bǎnběn
+
+这个对比一旦出现, 之前那种 “它不行” 的判断就会开始松动, 慢慢变成一个更深层的疑问: 如果它继续变强呢?
+Zhège duìbǐ yīdàn chūxiàn, zhīqián nà zhǒng “tā bù xíng” de pànduàn jiù huì kāishǐ sōngdòng, màn man biànchéng yī ge gèng shēn céng de yíwèn: rúguǒ tā jìxù biàn qiáng ne?
+
+这就是很多研究里提到的职业不安全感
+Zhè jiùshì hěnduō yánjiū lǐ tí dào de zhíyè bù ānquán gǎn
+
+你并没有失去工作, 但你第一次清晰地意识到, 你可能会失去
+Nǐ bìng méiyǒu shīqù gōngzuò, dàn nǐ dì yī cì qīngxī de yìshi dào, nǐ kěnéng huì shīqù
+
+而当这种不安持续积累, 大多数人的反应并不是立刻去拥抱变化, 而是进入一种更情绪化的阶段: 对抗
+Ér dāng zhè zhǒng bù'ān chíxù jīlěi, dà duōshù rén de fǎnyìng bìng bùshì lìkè qù yōngbào biànhuà, ér shì jìnrù yī zhǒng gèng qíngxù huà de jiēduàn: duìkàng
+
+这种对抗有显性的, 也有隐性的
+Zhè zhǒng duìkàng yǒu xiǎnxìng de, yě yǒu yǐnxìng de
+
+显性的很好辨认: “这不算真正的创作”, “没有灵魂的东西走不远” —— 这类说法在各个行业都在反复出现
+Xiǎnxìng de hěn hǎo biànrèn: “zhè bù suàn zhēnzhèng de chuàngzuò”, “méiyǒu línghún de dōngxi zǒu bù yuǎn” —— zhè lèi shuōfǎ zài gè gè hángyè dōu zài fǎnfù chūxiàn
+
+隐性的则更微妙: 有人会刻意不用AI, 哪怕它确实能提高效率; 有人会把AI限制在边缘工作里, 不让它碰核心流程; 还有人会不断去挑AI的毛病, 用它的缺点来安慰自己
+Yǐnxìng de zé gèng wēimiào: yǒurén huì kèyì bù yòng AI, nǎpà tā quèshí néng tígāo xiàolǜ; yǒurén huì bǎ AI xiànzhì zài biānyuán gōngzuò lǐ, bù ràng tā pèng héxīn liúchéng; háiyǒu rén huì bùduàn qù tiāo AI de máobìng, yòng tā de quēdiǎn lái ānwèi zìjǐ
+
+这些反应表面上是在讨论技术好坏, 但本质上是一种心理防御
+Zhèxiē fǎnyìng biǎomiàn shàng shì zài tǎolùn jìshù hǎohuài, dàn běnzhì shàng shì yī zhǒng xīnlǐ fángyù
+
+因为一旦完全承认AI的能力, 紧接着就要面对一个更难回答的问题: 那我怎么办?
+Yīnwèi yīdàn wánquán chéngrèn AI de nénglì, jǐnjiēzhe jiù yào miànduì yī ge gèng nán huídá de wèntí: nà wǒ zěnme bàn?
+
+对抗的作用, 就是在这个问题被真正回答之前, 先把它压住
+Duìkàng de zuòyòng, jiùshì zài zhège wèntí bèi zhēnzhèng huídá zhīqián, xiān bǎ tā yā zhù
+
+通过否定AI来维持自己的位置, 通过强调人类独有的东西来重新确认自己的意义
+Tōngguò fǒudìng AI lái wéichí zìjǐ de wèizhì, tōngguò qiángdiào rénlèi dúyǒu de dōngxi lái chóngxīn quèrèn zìjǐ de yìyì
+
+所以这并不是人与AI之间的冲突, 而是一个人在面对不确定的未来时, 和自己之间的拉扯
+Suǒyǐ zhè bìng bùshì rén yǔ AI zhī jiān de chōngtū, ér shì yī ge rén zài miànduì bù quèdìng de wèilái shí, hé zìjǐ zhī jiān de lāchě
+
+但问题在于, 当AI的能力持续提升, 这种对抗很难一直撑下去
+Dàn wèntí zàiyú, dāng AI de nénglì chíxù tíshēng, zhè zhǒng duìkàng hěn nán yīzhí chēng xiàqù
+
+现实会不断逼着你回到那个被回避的问题: 如果它真的可以做, 那你的位置到底在哪里?
+Xiànshí huì bùduàn bī zhe nǐ huí dào nàge bèi huíbì de wèntí: rúguǒ tā zhēn de kěyǐ zuò, nà nǐ de wèizhì dàodǐ zài nǎlǐ?
+
+当这个问题无法再回避的时候, 事情就会进入一个非常关键的阶段, 也是整个过程里, 真正开始分出差异的阶段
+Dāng zhège wèntí wúfǎ zài huíbì de shíhou, shìqíng jiù huì jìnrù yī ge fēicháng guānjiàn de jiēduàn, yě shì zhěnggè guòchéng lǐ, zhēnzhèng kāishǐ fēn chū chāyì de jiēduàn
+
+在同一个行业里, 你会慢慢看到一种很明显的变化: 大家面对的是同一个AI, 但走向的却是完全不同的三条路
+Zài tóng yī ge hángyè lǐ, nǐ huì màn man kàn dào yī zhǒng hěn míngxiǎn de biànhuà: dàjiā miànduì de shì tóng yī ge AI, dàn zǒuxiàng de què shì wánquán bùtóng de sān tiáo lù
+
+第一类人会继续对抗, 坚持原有的工作方式, 尽量不去使用AI, 或者只是象征性地接触一下
+Dì yī lèi rén huì jìxù duìkàng, jiānchí yuányǒu de gōngzuò fāngshì, jǐnliàng bù qù shǐyòng AI, huòzhě zhǐshì xiàngzhēng xìng de jiēchù yīxià
+
+短期内这种选择是可以维持的, 甚至在某些强调纯手工、原教旨的领域里, 还可能获得一部分认同
+Duǎnqī nèi zhè zhǒng xuǎnzé shì kěyǐ wéichí de, shènzhì zài mǒuxiē qiángdiào chún shǒugōng、yuán jiào zhǐ de lǐngyù lǐ, hái kěnéng huòdé yī bùfen rèntóng
+
+但这种路径基本是封闭的, 随着时间推移, 可选择的空间会越来越小
+Dàn zhè zhǒng lùjìng jīběn shì fēngbì de, suízhe shíjiān tuīyí, kě xuǎnzé de kōngjiān huì yuè lái yuè xiǎo
+
+第二类人会开始使用AI
+Dì èr lèi rén huì kāishǐ shǐyòng AI
+
+他们很快意识到, 既然这个工具已经存在, 不用反而是一种劣势
+Tāmen hěnkuài yìshi dào, jìrán zhège gōngjù yǐjīng cúnzài, bù yòng fǎn'ér shì yī zhǒng lièshì
+
+于是他们把AI引入自己的工作流程: 插画师用它做草图, 设计师用它做方向探索, 程序员用它写基础代码, 写作者用它做初稿整理
+Yúshì tāmen bǎ AI yǐnrù zìjǐ de gōngzuò liúchéng: chāhuà shī yòng tā zuò cǎotú, shèjì shī yòng tā zuò fāngxiàng tànsuǒ, chéngxùyuán yòng tā xiě jīchǔ dàimǎ, xiězuò zhě yòng tā zuò chūgǎo zhěnglǐ
+
+他们的效率明显提升了, 能接更多任务, 产出也更快
+Tāmen de xiàolǜ míngxiǎn tíshēng le, néng jiē gèng duō rènwù, chǎnchū yě gèng kuài
+
+但这里有一个隐含的问题: 他们仍然停留在执行者的位置上, 只是从纯人工执行变成了借助AI执行
+Dàn zhèlǐ yǒu yī ge yǐnhán de wèntí: tāmen réngrán tíngliú zài zhíxíng zhě de wèizhì shàng, zhǐshì cóng chún réngōng zhíxíng biànchéng le jièzhù AI zhíxíng
+
+而第三类人是最少的一类
+Ér dì sān lèi rén shì zuì shǎo de yī lèi
+
+他们做的事情不只是用AI, 而是开始重新思考一件事: 这项工作的本质到底是什么?
+Tāmen zuò de shìqíng bù zhǐshì yòng AI, ér shì kāishǐ chóngxīn sīkǎo yī jiàn shì: zhè xiàng gōngzuò de běnzhì dàodǐ shì shénme?
+
+插画师不再只是画一张图, 而是去定义一种风格、一套视觉语言, 让AI去生成
+Chāhuà shī bù zài zhǐshì huà yī zhāng tú, ér shì qù dìngyì yī zhǒng fēnggé、yī tào shìjué yǔyán, ràng AI qù shēngchéng
+
+编曲者不再只是写旋律, 而是去设计情绪的起伏, 让AI去完成具体的配器
+Biānqǔ zhě bù zài zhǐshì xiě xuánlǜ, ér shì qù shèjì qíngxù de qǐfú, ràng AI qù wánchéng jùtǐ de pèiqì
+
+设计师不再只是做页面, 而是去思考用户如何理解信息, 然后让AI生成不同方案
+Shèjì shī bù zài zhǐshì zuò yèmiàn, ér shì qù sīkǎo yònghù rúhé lǐjiě xìnxī, ránhòu ràng AI shēngchéng bùtóng fāng'àn
+
+程序员不再只关注一行一行代码, 而是站在系统层面做结构设计
+Chéngxùyuán bù zài zhǐ guānzhù yī háng yī háng dàimǎ, ér shì zhàn zài xìtǒng céngmiàn zuò jiégòu shèjì
+
+写作者从写具体内容, 转向构建观点、框架和表达结构
+Xiězuò zhě cóng xiě jùtǐ nèiróng, zhuǎnxiàng gòujiàn guāndiǎn、kuàngjià hé biǎodá jiégòu
+
+你会发现, 这一类人的变化, 并不是效率更高这么简单, 而是他们的工作重心发生了迁移: 从直接产出结果, 变成了设计结果是如何被产出的
+Nǐ huì fāxiàn, zhè yī lèi rén de biànhuà, bìng bùshì xiàolǜ gèng gāo zhème jiǎndān, ér shì tāmen de gōngzuò zhòngxīn fāshēng le qiānyí: cóng zhíjiē chǎnchū jiéguǒ, biànchéng le shèjì jiéguǒ shì rúhé bèi chǎnchū de
+
+这其实就是一个很关键的分界线
+Zhè qíshí jiùshì yī ge hěn guānjiàn de fēnjiè xiàn
+
+有的人在用AI做事, 有的人在用AI重构做事的方式
+Yǒu de rén zài yòng AI zuò shì, yǒu de rén zài yòng AI chónggòu zuò shì de fāngshì
+
+从长期来看, 这两种路径走向的是完全不同的结果
+Cóng chángqī lái kàn, zhè liǎng zhǒng lùjìng zǒuxiàng de shì wánquán bùtóng de jiéguǒ
+
+前者效率会越来越高, 但也越来越容易被替代; 后者反而会变得更稀缺, 因为他们定义了系统本身
+Qiánzhě xiàolǜ huì yuè lái yuè gāo, dàn yě yuè lái yuè róngyì bèi tìdài; hòuzhě fǎn'ér huì biàn dé gèng xīquē, yīnwèi tāmen dìngyì le xìtǒng běnshēn
+
+所以如果把这一轮变化说得更直接一点, AI带来的并不是简单的替代, 而是一种更深层的东西: 它在重新划分每一个行业里的层级
+Suǒyǐ rúguǒ bǎ zhè yī lún biànhuà shuō dé gèng zhíjiē yīdiǎn, AI dài lái de bìng bùshì jiǎndān de tìdài, ér shì yī zhǒng gèng shēn céng de dōngxi: tā zài chóngxīn huàfēn měi yī ge hángyè lǐ de céngjí
+
+当这种分化逐渐变得清晰之后, 很多人会进入一个更深一层、也更难受的阶段
+Dāng zhè zhǒng fēnhuà zhújiàn biàn dé qīngxī zhīhòu, hěnduō rén huì jìnrù yī ge gèng shēn yī céng、yě gèng nánshòu de jiēduàn
+
+它不像前面的焦虑那么外显, 也不像对抗那样可以表达出来, 它更像是一种慢慢发生的失重感
+Tā bù xiàng qiánmian de jiāolǜ nàme wài xiǎn, yě bù xiàng duìkàng nàyàng kěyǐ biǎodá chūlái, tā gèng xiàng shì yī zhǒng màn man fāshēng de shīzhòng gǎn
+
+你会开始意识到一件事: 原来支撑你这么多年的那一套东西, 好像没有以前那么稳固了
+Nǐ huì kāishǐ yìshi dào yī jiàn shì: yuánlái zhīchēng nǐ zhème duō nián de nà yī tào dōngxi, hǎoxiàng méiyǒu yǐqián nàme wěngù le
+
+于是一个很少被正面讨论的问题就浮出来了: 如果“我会做这件事”不再构成稀缺性, 那我是谁?
+Yúshì yī ge hěn shǎo bèi zhèngmiàn tǎolùn de wèntí jiù fú chūlái le: rúguǒ “wǒ huì zuò zhè jiàn shì” bù zài gòuchéng xīquē xìng, nà wǒ shì shuí?
+
+这其实就是一种典型的身份问题
+Zhè qíshí jiùshì yī zhǒng diǎnxíng de shēnfèn wèntí
+
+在心理学里有一个概念叫做身份认同, 它不是一个抽象的标签, 而是一个人用来理解自己的核心结构
+Zài xīnlǐ xué lǐ yǒu yī ge gàiniàn jiàozuò shēnfèn rèntóng, tā bùshì yī ge chōuxiàng de biāoqiān, ér shì yī ge rén yòng lái lǐjiě zìjǐ de héxīn jiégòu
+
+我们之所以知道自己是谁, 很大一部分是通过我们长期在做的事情来确认的
+Wǒmen zhī suǒyǐ zhīdào zìjǐ shì shuí, hěn dà yī bùfen shì tōngguò wǒmen chángqī zài zuò de shìqíng lái quèrèn de
+
+但当这些事情被AI部分甚至大量接管之后, 原本那种稳定的自我叙述就会开始松动
+Dàn dāng zhèxiē shìqíng bèi AI bùfen shènzhì dàliàng jiēguǎn zhīhòu, yuánběn nà zhǒng wěndìng de zìwǒ xùshù jiù huì kāishǐ sōngdòng
+
+你可能会发现你还是在做同样的工作, 但心态已经不一样了
+Nǐ kěnéng huì fāxiàn nǐ háishì zài zuò tóngyàng de gōngzuò, dàn xīntài yǐjīng bù yīyàng le
+
+你不再那么确定这件事是否值得长期投入, 也不再那么确定这条路径是否还通向未来
+Nǐ bù zài nàme quèdìng zhè jiàn shì shìfǒu zhídé chángqī tóurù, yě bù zài nàme quèdìng zhè tiáo lùjìng shìfǒu hái tōngxiàng wèilái
+
+这就是为什么有些人即使还没有被替代, 也已经开始产生一种提前到来的疲惫感
+Zhè jiùshì wèishénme yǒuxiē rén jíshǐ hái méiyǒu bèi tìdài, yě yǐjīng kāishǐ chǎnshēng yī zhǒng tíqián dào lái de píbeì gǎn
+
+不是因为工作变多了, 而是因为意义变得不那么清晰了
+Bùshì yīnwèi gōngzuò biàn duō le, ér shì yīnwèi yìyì biàn dé bù nàme qīngxī le
+
+从外部看一切都还在正常运转, 但从内部看, 一个人和自己之间的关系已经发生了变化
+Cóng wàibù kàn yīqiè dōu hái zài zhèngcháng yùnzhuǎn, dàn cóng nèibù kàn, yī ge rén hé zìjǐ zhī jiān de guānxì yǐjīng fāshēng le biànhuà
+
+而这个阶段往往是最关键的一个分水岭, 因为接下来会出现两种完全不同的走向
+Ér zhège jiēduàn wǎngwǎng shì zuì guānjiàn de yī ge fēnshuǐlǐng, yīnwèi jiē xiàlái huì chūxiàn liǎng zhǒng wánquán bùtóng de zǒuxiàng
+
+有的人会在这种不确定中慢慢消耗, 试图回到过去的稳定状态; 而有的人会开始尝试重新回答那个问题: 如果原来的定义不成立了, 我能不能重新定义一次自己?
+Yǒu de rén huì zài zhè zhǒng bù quèdìng zhōng màn man xiāohào, shìtú huí dào guòqù de wěndìng zhuàngtài; ér yǒu de rén huì kāishǐ chángshì chóngxīn huídá nàge wèntí: rúguǒ yuánlái de dìngyì bù chénglì le, wǒ néng bùnéng chóngxīn dìngyì yī cì zìjǐ?
+
+当一个人开始认真面对问题的时候, 事情其实就进入了一个完全不同的阶段
+Dāng yī ge rén kāishǐ rènzhēn miànduì wèntí de shíhou, shìqíng qíshí jiù jìnrù le yī ge wánquán bùtóng de jiēduàn
+
+不再是情绪主导, 而是开始出现一种更冷静、甚至有点理性重建的过程
+Bù zài shì qíngxù zhǔdǎo, ér shì kāishǐ chūxiàn yī zhǒng gèng lěngjìng、shènzhì yǒudiǎn lǐxìng chóngjiàn de guòchéng
+
+这些变化表面上看是工作方式的调整, 但更深一层其实是一个很关键的转变: 那就是关注点从“产出”转向了“定义”
+Zhèxiē biànhuà biǎomiàn shàng kàn shì gōngzuò fāngshì de tiáozhěng, dàn gèng shēn yī céng qíshí shì yī ge hěn guānjiàn de zhuǎnbiàn: nà jiùshì guānzhù diǎn cóng “chǎnchū” zhuǎnxiàng le “dìngyì”
+
+过去我们的价值很大程度上来自于“我能不能把一件事情做好”, 而现在这个问题正在被替换成另一个问题: “我能不能定义什么才算做好”
+Guòqù wǒmen de jiàzhí hěn dà chéngdù shàng láizì yú “wǒ néng bùnéng bǎ yī jiàn shìqíng zuò hǎo”, ér xiànzài zhège wèntí zhèngzài bèi tìhuàn chéng lìng yī ge wèntí: “wǒ néng bùnéng dìngyì shénme cái suàn zuò hǎo”
+
+这两者的差别其实非常大
+Zhè liǎng zhě de chābié qíshí fēicháng dà
+
+前者是在一个既定框架里把事情做得更好, 后者是在参与甚至决定这个框架本身
+Qiánzhě shì zài yī ge jìdìng kuàngjià lǐ bǎ shìqíng zuò dé gèng hǎo, hòuzhě shì zài cānyù shènzhì juédìng zhège kuàngjià běnshēn
+
+而AI的出现加速了这个转变, 因为当产出变得越来越容易的时候, 真正稀缺的就不再是执行能力, 而是判断能力
+Ér AI de chūxiàn jiāsù le zhège zhuǎnbiàn, yīnwèi dāng chǎnchū biàn dé yuè lái yuè róngyì de shíhou, zhēnzhèng xīquē de jiù bù zài shì zhíxíng nénglì, ér shì pànduàn nénglì
+
+所以你会看到那些逐渐适应的人并不是变得更忙, 反而在某种程度上开始往上走
+Suǒyǐ nǐ huì kàn dào nàxiē zhújiàn shìyìng de rén bìng bùshì biàn dé gèng máng, fǎn'ér zài mǒu zhǒng chéngdù shàng kāishǐ wǎng shàng zǒu
+
+他们不再沉在细节里, 而是把更多精力放在定义问题、选择方向、做出取舍上
+Tāmen bù zài chén zài xìjié lǐ, ér shì bǎ gèng duō jīnglì fàng zài dìngyì wèntí、xuǎnzé fāngxiàng、zuò chū qǔshě shàng
+
+也正是在这个阶段, 一个新的结构慢慢形成了: AI负责生成各种可能性, 而人负责在这些可能性中做出判断
+Yě zhèng shì zài zhège jiēduàn, yī ge xīn de jiégòu màn man xíngchéng le: AI fùzé shēngchéng gè zhǒng kěnéng xìng, ér rén fùzé zài zhèxiē kěnéng xìng zhōng zuò chū pànduàn
+
+这其实是一种新的分工方式, 也可以说是一种新的人机关系
+Zhè qíshí shì yī zhǒng xīn de fēngōng fāngshì, yě kěyǐ shuō shì yī zhǒng xīn de rén jī guānxì
+
+所以如果把这一轮变化总结成一句话, 可能是: 过去我们通过做事情来证明自己的价值, 而未来我们更多是通过决定做什么事情来体现自己的价值
+Suǒyǐ rúguǒ bǎ zhè yī lún biànhuà zǒngjié chéng yī jù huà, kěnéng shì: guòqù wǒmen tōngguò zuò shìqíng lái zhèngmíng zìjǐ de jiàzhí, ér wèilái wǒmen gèng duō shì tōngguò juédìng zuò shénme shìqíng lái tǐxiàn zìjǐ de jiàzhí
+
+这听起来像是一种升级, 但它也意味着一个现实: 并不是每一个人都会自动完成这个转变
+Zhè tīng qǐlái xiàng shì yī zhǒng shēngjí, dàn tā yě yìwèizhe yī ge xiànshí: bìng bùshì měi yī ge rén dōu huì zìdòng wánchéng zhège zhuǎnbiàn
+
+它需要主动选择, 也需要时间, 更需要重新训练自己看待世界的方式
+Tā xūyào zhǔdòng xuǎnzé, yě xūyào shíjiān, gèng xūyào chóngxīn xùnliàn zìjǐ kàndài shìjiè de fāngshì
+
+我们再回到围棋的故事, 来看看这十年间围棋行业发生的变化
+Wǒmen zài huí dào wéiqí de gùshì, lái kàn kàn zhè shí nián jiān wéiqí hángyè fāshēng de biànhuà
+
+AlphaGo击败李世石之后, 围棋界经历的不只是一场比赛的失利, 而是整个行业秩序的崩塌与重建
+AlphaGo jībài Lǐ Shìshí zhīhòu, wéiqí jiè jīnglì de bù zhǐshì yī chǎng bǐsài de shīlì, ér shì zhěnggè hángyè zhìxù de bēngtā yǔ chóngjiàn
+
+2017年初, AlphaGo的升级版Master以60盘全胜的战绩, 横扫中日韩所有顶尖棋手, 包括柯洁、古力、朴廷桓在内, 无一幸免
+2017 nián chū, AlphaGo de shēngjí bǎn Master yǐ 60 pán quánshèng de zhànjì, héngsǎo Zhōng Rì Hán suǒyǒu dǐngjiān qíshǒu, bāokuò Kē Jié, Gǔ Lì, Piǎo Tínghuán zài nèi, wú yī xìngmiǎn
+
+这一次没有人再嘲笑谁了, 因为每个人都输了
+Zhè yī cì méiyǒu rén zài cháoxiào shuí le, yīnwèi měi ge rén dōu shū le
+
+紧接着, 柯洁在乌镇正式挑战AlphaGo, 结果是0比3
+Jǐnjiēzhe, Kē Jié zài Wūzhèn zhèngshì tiǎozhàn AlphaGo, jiéguǒ shì 0 bǐ 3
+
+赛后他在棋盘前掩面痛哭, 他后来说: 他太完美了, 我感觉自己离他越来越远
+Sài hòu tā zài qípán qián yǎnmiàn tòngkū, tā hòulái shuō: tā tài wánměi le, wǒ gǎnjué zìjǐ lí tā yuè lái yuè yuǎn
+
+AI摧毁了围棋界所有存在的秩序, 然后又开始重建
+AI cuīhuǐ le wéiqí jiè suǒyǒu cúnzài de zhìxù, ránhòu yòu kāishǐ chóngjiàn
+
+而现在, 几乎所有职业棋手都在用AI训练
+Ér xiànzài, jīhū suǒyǒu zhíyè qíshǒu dōu zài yòng AI xùnliàn
+
+围棋学院里学生人手一个iPad, AI会实时展示最佳走法, 记录哪些步下得好、哪些不好
+Wéiqí xuéyuàn lǐ xuéshēng rén shǒu yī ge iPad, AI huì shíshí zhǎnshì zuìjiā zǒufǎ, jìlù nǎxiē bù xià de hǎo、nǎxiē bù hǎo
+
+年轻棋手借助AI迅速掌握高阶技巧, 传统的师徒制逐渐被AI辅助训练取代
+Niánqīng qíshǒu jièzhù AI xùnsù zhǎngwò gāojiē jìqiǎo, chuántǒng de shītú zhì zhújiàn bèi AI fǔzhù xùnliàn qǔdài
+
+有研究发现, AlphaGo击败李世石之前, 人类棋手的判断品质在66年内基本保持平稳; 但2016年之后, 棋手的判断品质开始明显爬升
+Yǒu yánjiū fāxiàn, AlphaGo jībài Lǐ Shìshí zhīqián, rénlèi qíshǒu de pànduàn pǐnzhí zài 66 nián nèi jīběn bǎochí píngwěn; dàn 2016 nián zhīhòu, qíshǒu de pànduàn pǐnzhí kāishǐ míngxiǎn páshēng
+
+AI确实让人类下得更好了
+AI quèshí ràng rénlèi xià dé gèng hǎo le
+
+围棋这个行业给我们提供了一个完整的样本: 从否认到嘲笑, 到被碾压, 到痛苦, 再到接受和重建
+Wéiqí zhège hángyè gěi wǒmen tígōng le yī ge wánzhěng de yàngběn: cóng fǒurèn dào cháoxiào, dào bèi niǎnyā, dào tòngkǔ, zài dào jiēshòu hé chóngjiàn
+
+这个过程和今天很多行业正在经历的几乎是一模一样的
+Zhège guòchéng hé jīntiān hěnduō hángyè zhèngzài jīnglì de jīhū shì yī mú yī yàng de
+
+作为我们一个非围棋行业的人, 之前没有被命运所敲门, 所以也与他们无法感同身受
+Zuòwéi wǒmen yī ge fēi wéiqí hángyè de rén, zhīqián méiyǒu bèi mìngyùn suǒ qiāomén, suǒyǐ yě yǔ tāmen wúfǎ gǎntóngshēnshòu
+
+但在今天我们不得不面对各个行业都已经被AI这个命运之神敲自己家门的时候
+Dàn zài jīntiān wǒmen bùdé bù miànduì gè gè hángyè dōu yǐjīng bèi AI zhège mìngyùn zhī shén qiāo zìjǐ jiāmén de shíhou
+
+在这个变化已经不可逆的环境里, 如果我们不想被动的被推着走, 有没有一些更具体的方式, 可以让自己慢慢完成这个转变呢?
+Zài zhège biànhuà yǐjīng bù kě nì de huánjìng lǐ, rúguǒ wǒmen bù xiǎng bèidòng de bèi tuī zhe zǒu, yǒu méiyǒu yīxiē gèng jùtǐ de fāngshì, kěyǐ ràng zìjǐ màn man wánchéng zhège zhuǎnbiàn ne?
+
+如果说前面那条分化线是客观存在的, 那接下来更实际的问题就是: 一个普通人怎么走到线的另一边?
+Rúguǒ shuō qiánmian nà tiáo fēnhuà xiàn shì kèguān cúnzài de, nà jiē xiàlái gèng shíjì de wèntí jiùshì: yī ge pǔtōng rén zěnme zǒu dào xiàn de lìng yī biān?
+
+这里没有一个标准答案, 但你会发现那些慢慢完成转变的人, 往往做了几件相似的事情
+Zhèlǐ méiyǒu yī ge biāozhǔn dá'àn, dàn nǐ huì fāxiàn nàxiē màn man wánchéng zhuǎnbiàn de rén, wǎngwǎng zuò le jǐ jiàn xiāngsì de shìqíng
+
+不是一次性的决定, 而是一系列可以重复的小动作
+Bùshì yīcì xìng de juédìng, ér shì yī xìliè kěyǐ chóngfù de xiǎo dòngzuò
+
+第一件事是开始重新拆解自己的工作
+Dì yī jiàn shì shì kāishǐ chóngxīn chāijiě zìjǐ de gōngzuò
+
+不是笼统的说“我是一名设计师”或者“我是程序员”, 而是更具体一点去看: 我每天在做的事情, 具体有哪些? 哪些是重复性的? 哪些是有明确规则的? 哪些是可以被描述成步骤的?
+Bùshì lǒngtǒng de shuō “wǒ shì yī míng shèjì shī” huòzhě “wǒ shì chéngxùyuán”, ér shì gèng jùtǐ yīdiǎn qù kàn: wǒ měi tiān zài zuò de shìqíng, jùtǐ yǒu nǎxiē? Nǎxiē shì chóngfù xìng de? Nǎxiē shì yǒu míngquè guīzé de? Nǎxiē shì kěyǐ bèi miáoshù chéng bùzhòu de?
+
+当你这样拆开之后, 很多事情会变得很直观
+Dāng nǐ zhèyàng chāi kāi zhīhòu, hěnduō shìqíng huì biàn dé hěn zhíguān
+
+有一部分工作其实已经非常接近AI可以完成的范围, 而另一部分还依赖你的判断、经验和取舍
+Yǒu yī bùfen gōngzuò qíshí yǐjīng fēicháng jiējìn AI kěyǐ wánchéng de fànwéi, ér lìng yī bùfen hái yīlài nǐ de pànduàn、jīngyàn hé qǔshě
+
+这一步的目的不是让你焦虑, 而是让你看清边界, 因为只有看清了, 你才知道该往哪边移动
+Zhè yī bù de mùdì bùshì ràng nǐ jiāolǜ, ér shì ràng nǐ kàn qīng biānjiè, yīnwèi zhǐyǒu kàn qīng le, nǐ cái zhīdào gāi wǎng nǎ biān yídòng
+
+第二件事, 是主动把AI引入你的工作, 而不是等它来替代你
+Dì èr jiàn shì, shì zhǔdòng bǎ AI yǐnrù nǐ de gōngzuò, ér bùshì děng tā lái tìdài nǐ
+
+很多人的问题在于, 他们是在被动接受变化
+Hěnduō rén de wèntí zàiyú, tāmen shì zài bèidòng jiēshòu biànhuà
+
+但那些完成转变的人, 往往会做一个反过来动作: 我来决定, 让AI进入我的哪一部分工作
+Dàn nàxiē wánchéng zhuǎnbiàn de rén, wǎngwǎng huì zuò yī ge fǎn guòlái de dòngzuò: wǒ lái juédìng, ràng AI jìnrù wǒ de nǎ yī bùfen gōngzuò
+
+一开始可以很简单, 比如让它帮你做初稿, 帮你做方案探索, 帮你生成多个可能性
+Yī kāishǐ kěyǐ hěn jiǎndān, bǐrú ràng tā bāng nǐ zuò chūgǎo, bāng nǐ zuò fāng'àn tànsuǒ, bāng nǐ shēngchéng duō ge kěnéng xìng
+
+重点不在于它做得多好, 而在于你开始习惯一种新的工作方式: 先生成, 再判断
+Zhòngdiǎn bù zàiyú tā zuò dé duō hǎo, ér zàiyú nǐ kāishǐ xíguàn yī zhǒng xīn de gōngzuò fāngshì: xiān shēngchéng, zài pànduàn
+
+第三件事, 是刻意训练判断力
+Dì sān jiàn shì, shì kèyì xùnliàn pànduàn lì
+
+因为当生成变得容易之后, 真正拉开差距的, 不再是谁做得多, 而是谁选得对
+Yīnwèi dāng shēngchéng biàn dé róngyì zhīhòu, zhēnzhèng lākāi chājù de, bù zài shì shuí zuò dé duō, ér shì shuí xuǎn dé duì
+
+你可以问自己一些更基础的问题: 为什么这个方案是好的? 如果换一个方向会发生什么? 什么样的结果才算真正解决了问题?
+Nǐ kěyǐ wèn zìjǐ yīxiē gèng jīchǔ de wèntí: wèishénme zhège fāng'àn shì hǎo de? Rúguǒ huàn yī ge fāngxiàng huì fāshēng shénme? Shénme yàng de jiéguǒ cái suàn zhēnzhèng jiějué le wèntí?
+
+这些问题过去可能是隐性的, 但现在需要变成你主动思考的部分
+Zhèxiē wèntí guòqù kěnéng shì yǐnxìng de, dàn xiànzài xūyào biànchéng nǐ zhǔdòng sīkǎo de bùfen
+
+第四件事, 是慢慢提高自己的抽象层级
+Dì sì jiàn shì, shì màn man tígāo zìjǐ de chōuxiàng céngjí
+
+简单说就是不要一直停留在“做什么”, 而是开始多问一句: 我做的这件事, 本质是在解决什么问题?
+Jiǎndān shuō jiùshì bùyào yīzhí tíngliú zài “zuò shénme”, ér shì kāishǐ duō wèn yī jù: wǒ zuò de zhè jiàn shì, běnzhì shì zài jiějué shénme wèntí?
+
+插画不只是画一张图, 而是在传达一种视觉信息
+Chāhuà bù zhǐshì huà yī zhāng tú, ér shì zài chuándá yī zhǒng shìjué xìnxī
+
+写代码不只是实现功能, 而是在构建一个可运行的系统
+Xiě dàimǎ bù zhǐshì shíxiàn gōngnéng, ér shì zài gòujiàn yī ge kě yùnxíng de xìtǒng
+
+写文章不只是表达内容, 而是在影响别人的理解方式
+Xiě wénzhāng bù zhǐshì biǎodá nèiróng, ér shì zài yǐngxiǎng biéren de lǐjiě fāngshì
+
+当你开始从这个角度看问题的时候, 很多原本看起来会被替代的技能, 会慢慢变成更高一层能力的一部分
+Dāng nǐ kāishǐ cóng zhège jiǎodù kàn wèntí de shíhou, hěnduō yuánběn kàn qǐlái huì bèi tìdài de jìnéng, huì màn man biànchéng gèng gāo yī céng nénglì de yī bùfen
+
+最后一件事, 是给自己留出第二条路径
+Zuìhòu yī jiàn shì, shì gěi zìjǐ liú chū dì èr tiáo lùjìng
+
+也就是不把未来完全绑定在某一个单一技能上
+Yě jiùshì bù bǎ wèilái wánquán bǎngdìng zài mǒu yī ge dānyī jìnéng shàng
+
+这不一定意味着你要立刻转行, 而是说你可以开始尝试一些相邻的方向
+Zhè bù yīdìng yìwèizhe nǐ yào lìkè zhuǎnháng, ér shì shuō nǐ kěyǐ kāishǐ chángshì yīxiē xiānglín de fāngxiàng
+
+在原有技能之上增加一点新的能力, 在熟悉的领域里探索不同的角色, 或者尝试把自己的经验用另一种方式表达出来
+Zài yuányǒu jìnéng zhī shàng zēngjiā yīdiǎn xīn de nénglì, zài shúxī de lǐngyù lǐ tànsuǒ bùtóng de juésè, huòzhě chángshì bǎ zìjǐ de jīngyàn yòng lìng yī zhǒng fāngshì biǎodá chūlái
+
+这一步的意义在于, 它会让你在变化来临的时候, 不是只有一种选择
+Zhè yī bù de yìyì zàiyú, tā huì ràng nǐ zài biànhuà láilín de shíhou, bùshì zhǐyǒu yī zhǒng xuǎnzé
+
+如果把这几件事情放在一起看, 其实它们指向的是同一个方向
+Rúguǒ bǎ zhè jǐ jiàn shìqíng fàng zài yīqǐ kàn, qíshí tāmen zhǐxiàng de shì tóng yī ge fāngxiàng
+
+你不再只是把事情做好, 而是在慢慢建立一种能力: 在变化中重新组织自己的能力结构
+Nǐ bù zài zhǐshì bǎ shìqíng zuò hǎo, ér shì zài màn man jiànlì yī zhǒng nénglì: zài biànhuà zhōng chóngxīn zǔzhī zìjǐ de nénglì jiégòu
+
+这听起来不像一个短期可以完成的任务, 它更像是一个过程
+Zhè tīng qǐlái bù xiàng yī ge duǎnqī kěyǐ wánchéng de rènwù, tā gèng xiàng shì yī ge guòchéng
+
+但也正因为是过程, 它才有一个很重要的特点: 你可以从很小的地方开始
+Dàn yě zhèng yīnwèi shì guòchéng, tā cái yǒu yī ge hěn zhòngyào de tèdiǎn: nǐ kěyǐ cóng hěn xiǎo de dìfāng kāishǐ
+
+不需要等到完全看清未来, 也不需要等到准备好了再行动
+Bù xūyào děng dào wánquán kàn qīng wèilái, yě bù xūyào děng dào zhǔnbèi hǎo le zài xíngdòng
+
+只需要在你今天的工作里, 稍微做一点点不同的选择
+Zhǐ xūyào zài nǐ jīntiān de gōngzuò lǐ, shāowēi zuò yīdiǎndiǎn bùtóng de xuǎnzé
+
+而这些选择慢慢累积起来, 就会把你带到那条分化线的另一边
+Ér zhèxiē xuǎnzé màn man lěijī qǐlái, jiù huì bǎ nǐ dài dào nà tiáo fēnhuà xiàn de lìng yī biān
+
+研究和实践告诉我们, 为了成功让从业者适应AI的冲击, 企业和社会也应该同时发挥作用
+Yánjiū hé shíjiàn gàosu wǒmen, wèile chénggōng ràng cóngyè zhě shìyìng AI de chōngjī, qǐyè hé shèhuì yě yīnggāi tóngshí fāhuī zuòyòng
+
+首先, 已经有一些企业和高校推出了AI+职业的课程和实训项目, 来帮助从业者快速上手
+Shǒuxiān, yǐjīng yǒu yīxiē qǐyè hé gāoxiào tuīchū le AI+ zhíyè de kèchéng hé shíxùn xiàngmù, lái bāngzhù cóngyè zhě kuàisù shàngshǒu
+
+数据也显示, 那些感受到企业对自己技能进行投资的员工, 安全感和参与度会明显更高
+Shùjù yě xiǎnshì, nàxiē gǎnshòu dào qǐyè duì zìjǐ jìnéng jìnxíng tóuzī de yuángōng, ānquán gǎn hé cānyù dù huì míngxiǎn gèng gāo
+
+其次, 是心理层面的支持和组织文化的建设
+Qícì, shì xīnlǐ céngmiàn de zhīchí hé zǔzhī wénhuà de jiànshè
+
+企业需要提供有效的心理疏导渠道, 比如说EAP项目、同伴互助小组、或者经验分享会, 来帮助员工缓解焦虑
+Qǐyè xūyào tígōng yǒuxiào de xīnlǐ shūdǎo qúdào, bǐrú shuō EAP xiàngmù、tóngbàn hùzhù xiǎozǔ、huòzhě jīngyàn fēnxiǎng huì, lái bāngzhù yuángōng huǎnjiě jiāolǜ
+
+管理层在这个阶段的角色尤其关键, 需要不断给予员工信心和方向, 同时鼓励员工参与AI项目的设计, 让他们看到自己在未来体系中的价值, 而不是被动地等待被替代
+Guǎnlǐ céng zài zhège jiēduàn de juésè yóuqí guānjiàn, xūyào bùduàn jǐyǔ yuángōng xìnxīn hé fāngxiàng, tóngshí gǔlì yuángōng cānyù AI xiàngmù de shèjì, ràng tāmen kàn dào zìjǐ zài wèilái tǐxì zhōng de jiàzhí, ér bùshì bèidòng de děngdài bèi tìdài
+
+第三, 是再培训与职业转型, 尤其是对那些从事高度标准化工作的高危群体
+Dì sān, shì zài péixùn yǔ zhíyè zhuǎnxíng, yóuqí shì duì nàxiē cóngshì gāodù biāozhǔn huà gōngzuò de gāowēi qúntǐ
+
+要建立制度化的再培训路径, 政府和企业可以合作推出订单式培训, 由企业明确需求, 高校或培训机构开展针对性课程, 形成学习-认证-就业的闭环, 同时配合补贴政策来降低转型成本
+Yào jiànlì zhìdù huà de zài péixùn lùjìng, zhèngfǔ hé qǐyè kěyǐ hézuò tuīchū dìngdān shì péixùn, yóu qǐyè míngquè xūqiú, gāoxiào huò péixùn jīgòu kāizhǎn zhēnduì xìng kèchéng, xíngchéng xuéxí-rènzhèng-jiùyè de bìhuán, tóngshí pèihé bǔtiē zhèngcè lái jiàngdī zhuǎnxíng chéngběn
+
+第四, 是跨界人才的培养
+Dì sì, shì kuàjiè réncái de péiyǎng
+
+随着AI不断创造新的职业方向, 全员AI通识教育变得越来越重要
+Suízhe AI bùduàn chuàngzào xīn de zhíyè fāngxiàng, quányuán AI tōngshí jiàoyù biàn dé yuè lái yuè zhòngyào
+
+即使是非技术专业的人, 也需要掌握基本的计算思维、数据素养和伦理基础
+Jíshǐ shì fēi jìshù zhuānyè de rén, yě xūyào zhǎngwò jīběn de jìsuàn sīwéi、shùjù sùyǎng hé lúnlǐ jīchǔ
+
+企业也需要有意识地培养复合型人才, 让员工跨界学习
+Qǐyè yě xūyào yǒu yìshi de péiyǎng fùhé xíng réncái, ràng yuángōng kuàjiè xuéxí
+
+总的来说, 培训+心理关怀+岗位重塑这个组合, 是目前被认为最能增强个体韧性和适应力的方式
+Zǒng de lái shuō, péixùn + xīnlǐ guānhuái + gǎngwèi chóngsù zhège zǔhé, shì mùqián bèi rènwéi zuì néng zēngqiáng gètǐ rènxìng hé shìyìng lì de fāngshì
+
+在企业层面, 短期可以建立AI工具试用室、开设研讨会、明确沟通渠道、倾听员工反馈; 中期则需要重构岗位和绩效考核体系, 让人机协作的成果可视化, 设立岗位轮换和内部创业机制, 同时持续监测员工的焦虑状态; 长期则通过产教融合和创新孵化来构建可持续的人才生态
+Zài qǐyè céngmiàn, duǎnqī kěyǐ jiànlì AI gōngjù shìyòng shì、kāishè yántǎo huì、míngquè gōutōng qúdào、qīngtīng yuángōng fǎnkuì; zhōngqī zé xūyào chónggòu gǎngwèi hé jìxiào kǎohé tǐxì, ràng rén jī xiézuò de chéngguǒ kěshì huà, shèlì gǎngwèi lúnhuàn hé nèibù chuàngyè jīzhì, tóngshí chíxù jiāncè yuángōng de jiāolǜ zhuàngtài; chángqī zé tōngguò chǎn jiāo rónghé hé chuàngxīn fúhuà lái gòujiàn kě chíxù de réncái shēngtài
+
+在政策层面, 政府应该尽快建立AI就业影响监测平台, 发布职业风险预警, 制定补贴和税收优惠来鼓励企业投入培训, 完善失业保险和转职补贴制度, 推动教育体系改革, 将AI素养纳入必修课程
+Zài zhèngcè céngmiàn, zhèngfǔ yīnggāi jǐnkuài jiànlì AI jiùyè yǐngxiǎng jiāncè píngtái, fābù zhíyè fēngxiǎn yùjǐng, zhìdìng bǔtiē hé shuìshōu yōuhuì lái gǔlì qǐyè tóurù péixùn, wánshàn shīyè bǎoxiǎn hé zhuǎnzhí bǔtiē zhìdù, tuīdòng jiàoyù tǐxì gǎigé, jiāng AI sùyǎng nàrù bìxiū kèchéng
+
+短期优先扶持高风险行业的就业, 中长期则关注数字落差, 为边缘人群提供免费的在线培训资源
+Duǎnqī yōuxiān fúchí gāo fēngxiǎn hángyè de jiùyè, zhōng chángqī zé guānzhù shùzì luòchà, wèi biānyuán rénqún tígōng miǎnfèi de zàixiàn péixùn zīyuán
+
+归根结底, 应对AI带来的职业冲击, 需要个体主动、企业引导、政策保障, 三方协同
+Guīgēnjiédǐ, yìngduì AI dài lái de zhíyè chōngjī, xūyào gètǐ zhǔdòng、qǐyè yǐndǎo、zhèngcè bǎozhàng, sān fāng xiétóng
+
+通过及时的监测与干预, 把被动挨打转变为主动适应, 才能将阵痛期缩到最短, 实现技术进步与人的发展的双赢
+Tōngguò jíshí de jiāncè yǔ gānyù, bǎ bèidòng áidǎ zhuǎnbiàn wéi zhǔdòng shìyìng, cáinéng jiāng zhèntòng qī suō dào zuì duǎn, shíxiàn jìshù jìnbù yǔ rén de fāzhǎn de shuāngyíng
+
+聊了这么多, 我们来总结一下
+Liáo le zhème duō, wǒmen lái zǒngjié yīxià
+
+回头看刚才这一路的变化, 你会发现一件挺有意思的事情: 一开始我们讨论的是AI会不会替代某些职业, 但走到最后, 问题已经悄悄变成了: 人在变化面前, 如何重新理解自己
+Huí tóu kàn gāngcái zhè yī lù de biànhuà, nǐ huì fāxiàn yī jiàn tǐng yǒuyìsi de shìqíng: yī kāishǐ wǒmen tǎolùn de shì AI huì bù huì tìdài mǒuxiē zhíyè, dàn zǒu dào zuìhòu, wèntí yǐjīng qiāoqiāo biànchéng le: rén zài biànhuà miànqián, rúhé chóngxīn lǐjiě zìjǐ
+
+所以也许我们可以换一个角度, 把这件事情再看一遍
+Suǒyǐ yěxǔ wǒmen kěyǐ huàn yī ge jiǎodù, bǎ zhè jiàn shìqíng zài kàn yī biàn
+
+插画师没有消失, 音乐人没有消失, 设计师、程序员、写作者也都没有消失
+Chāhuà shī méiyǒu xiāoshī, yīnyuè rén méiyǒu xiāoshī, shèjì shī、chéngxùyuán、xiězuò zhě yě dōu méiyǒu xiāoshī
+
+真正发生变化的, 是这些职业内部, 对什么是核心能力的定义
+Zhēnzhèng fāshēng biànhuà de, shì zhèxiē zhíyè nèibù, duì shénme shì héxīn nénglì de dìngyì
+
+过去一个人之所以有价值, 往往是因为他能稳定地做出某种结果
+Guòqù yī ge rén zhī suǒyǐ yǒu jiàzhí, wǎngwǎng shì yīnwèi tā néng wěndìng de zuò chū mǒuzhǒng jiéguǒ
+
+但现在这种稳定产出的能力, 正在被不断稀释
+Dàn xiànzài zhè zhǒng wěndìng chǎnchū de nénglì, zhèngzài bèi bùduàn xīshì
+
+于是价值开始往另外一个方向转移: 不再是“你能不能做”, 而是“你能不能决定什么值得被做”
+Yúshì jiàzhí kāishǐ wǎng lìng wài yī ge fāngxiàng zhuǎnyí: bù zài shì “nǐ néng bùnéng zuò”, ér shì “nǐ néng bùnéng juédìng shénme zhídé bèi zuò”
+
+这听起来像是一种提升, 但它也意味着一个更直接的现实: 每一个人都需要在某种程度上, 重新做一次选择
+Zhè tīng qǐlái xiàng shì yī zhǒng tíshēng, dàn tā yě yìwèizhe yī ge gèng zhíjiē de xiànshí: měi yī ge rén dōu xūyào zài mǒu zhǒng chéngdù shàng, chóngxīn zuò yī cì xuǎnzé
+
+有的人会尽量延续过去的路径, 有的人会在中间找到一个过渡位置, 也有的人会主动往一个更高的抽象层级走
+Yǒu de rén huì jǐnliàng yánxù guòqù de lùjìng, yǒu de rén huì zài zhōngjiān zhǎodào yī ge guòdù wèizhì, yě yǒu de rén huì zhǔdòng wǎng yī ge gèng gāo de chōuxiàng céngjí zǒu
+
+这些选择本身没有绝对的对错, 但它们会慢慢把人带向不同的结果
+Zhèxiē xuǎnzé běnshēn méiyǒu juéduì de duì cuò, dàn tāmen huì màn man bǎ rén dài xiàng bùtóng de jiéguǒ
+
+所以如果一定要给这一轮变化一个更简化的理解, 也许可以这样说: AI并没有在一夜之间改变世界, 它只是让很多原本缓慢发生的变化被加速了
+Suǒyǐ rúguǒ yīdìng yào gěi zhè yī lún biànhuà yī ge gèng jiǎnhuà de lǐjiě, yěxǔ kěyǐ zhèyàng shuō: AI bìng méiyǒu zài yī yè zhī jiān gǎibiàn shìjiè, tā zhǐshì ràng hěnduō yuánběn huǎnmàn fāshēng de biànhuà bèi jiāsù le
+
+那些本来就更偏执行的工作, 会更快被压缩; 那些需要判断、取舍、定义的问题会变得更重要; 而人在这个过程中的位置, 其实始终没有消失, 只是从做事情的人, 慢慢变成了决定事情怎么被做的人
+Nàxiē běnlái jiù gèng piān zhíxíng de gōngzuò, huì gèng kuài bèi yāsuō; nàxiē xūyào pànduàn、qǔshě、dìngyì de wèntí huì biàn dé gèng zhòngyào; ér rén zài zhège guòchéng zhōng de wèizhì, qíshí shǐzhōng méiyǒu xiāoshī, zhǐshì cóng zuò shìqíng de rén, màn man biànchéng le juédìng shìqíng zěnme bèi zuò de rén
+
+如果把时间再拉长一点看, 这种变化其实并不是第一次发生
+Rúguǒ bǎ shíjiān zài lā cháng yīdiǎn kàn, zhè zhǒng biànhuà qíshí bìng bùshì dì yī cì fāshēng
+
+每一次重要的技术进步, 都会带来类似的调整, 只是这一次它来得更快, 也更直接
+Měi yī cì zhòngyào de jìshù jìnbù, dōu huì dài lái lèisì de tiáozhěng, zhǐshì zhè yī cì tā lái dé gèng kuài, yě gèng zhíjiē
+
+我们可以用一个更简单的方式, 来结束今天的讨论: 不是去问AI会不会取代你, 而是换一个问题: 在一个很多事情都可以被完成的世界里, 你希望自己扮演一个什么样的角色?
+Wǒmen kěyǐ yòng yī ge gèng jiǎndān de fāngshì, lái jiéshù jīntiān de tǎolùn: bùshì qù wèn AI huì bù huì qǔdài nǐ, ér shì huàn yī ge wèntí: zài yī ge hěnduō shìqíng dōu kěyǐ bèi wánchéng de shìjiè lǐ, nǐ xīwàng zìjǐ bànyǎn yī ge shénme yàng de juésè?
+
+这个问题没有标准答案, 但它很可能是接下来很长一段时间里, 每一个人都需要反复去回答的问题
+Zhège wèntí méiyǒu biāozhǔn dá'àn, dàn tā hěn kěnéng shì jiē xiàlái hěn cháng yī duàn shíjiān lǐ, měi yī ge rén dōu xūyào fǎnfù qù huídá de wèntí
+
+如果把这个问题再往前推一步, 其实还可以再具体一点
+Rúguǒ bǎ zhège wèntí zài wǎng qián tuī yī bù, qíshí hái kěyǐ zài jùtǐ yīdiǎn
+
+很多人会下意识地把它理解成一种选择题, 好像我们需要在某几个方向里选一个最正确的答案
+Hěnduō rén huì xiàyìshí de bǎ tā lǐjiě chéng yī zhǒng xuǎnzé tí, hǎoxiàng wǒmen xūyào zài mǒu jǐ ge fāngxiàng lǐ xuǎn yī ge zuì zhèngquè de dá'àn
+
+但现实往往不是这样运作的
+Dàn xiànshí wǎngwǎng bùshì zhèyàng yùnzuò de
+
+大多数情况下, 人并不是在某一个时刻做出一个彻底改变人生的决定, 而是在很多细小的节点上, 做出一些不那么显眼的调整
+Dà duōshù qíngkuàng xià, rén bìng bùshì zài mǒu yī ge shíkè zuò chū yī ge chèdǐ gǎibiàn rénshēng de juédìng, ér shì zài hěnduō xìxiǎo de jiédiǎn shàng, zuò chū yīxiē bù nàme xiǎnyǎn de tiáozhěng
+
+比如今天你是不是愿意多花一点时间, 去理解一个新的工具; 下一次工作时, 你会否尝试用一种不同的方式去完成; 当你发现某一部分工作可以被替代时, 你是回避, 还是顺着它往下走一步
+Bǐrú jīntiān nǐ shì bù shì yuànyì duō huā yīdiǎn shíjiān, qù lǐjiě yī ge xīn de gōngjù; xià yī cì gōngzuò shí, nǐ huì fǒu chángshì yòng yī zhǒng bùtóng de fāngshì qù wánchéng; dāng nǐ fāxiàn mǒu yī bùfen gōngzuò kěyǐ bèi tìdài shí, nǐ shì huíbì, háishì shùn zhe tā wǎng xià zǒu yī bù
+
+这些选择在当下看起来都很小, 甚至不会立刻带来什么明显的变化, 但它们会慢慢累积出一个结果: 你和变化之间的关系会一点一点发生偏移
+Zhèxiē xuǎnzé zài dāngxià kàn qǐlái dōu hěn xiǎo, shènzhì bù huì lìkè dài lái shénme míngxiǎn de biànhuà, dàn tāmen huì màn man lěijī chū yī ge jiéguǒ: nǐ hé biànhuà zhī jiān de guānxì huì yīdiǎn yīdiǎn fāshēng piānyí
+
+有的人会始终站在变化的外面, 把它当成一个需要应对的外部压力; 也有的人会逐渐走到变化的里面, 把它当成自己工作方式的一部分
+Yǒu de rén huì shǐzhōng zhàn zài biànhuà de wàimiàn, bǎ tā dàng chéng yī ge xūyào yìngduì de wàibù yālì; yě yǒu de rén huì zhújiàn zǒu dào biànhuà de lǐmiàn, bǎ tā dàng chéng zìjǐ gōngzuò fāngshì de yī bùfen
+
+这两种状态的差别一开始并不明显, 但随着时间推移, 它们之间的距离会被不断拉大
+Zhè liǎng zhǒng zhuàngtài de chābié yī kāishǐ bìng bù míngxiǎn, dàn suízhe shíjiān tuīyí, tāmen zhī jiān de jùlí huì bèi bùduàn lā dà
+
+也许更现实的一种理解是: 我们并不是在等待某一个关键时刻, 而是在经历一个持续发生的过程
+Yěxǔ gèng xiànshí de yī zhǒng lǐjiě shì: wǒmen bìng bùshì zài děngdài mǒu yī ge guānjiàn shíkè, ér shì zài jīnglì yī ge chíxù fāshēng de guòchéng
+
+在这个过程中, 没有人是完全准备好了, 每个人都是一边理解, 一边尝试, 一边修正
+Zài zhège guòchéng zhōng, méiyǒu rén shì wánquán zhǔnbèi hǎo le, měi ge rén dōu shì yī biān lǐjiě, yī biān chángshì, yī biān xiūzhèng
+
+也正因为如此, 这件事情才没有那么绝对
+Yě zhèng yīnwèi rúcǐ, zhè jiàn shìqíng cái méiyǒu nàme juéduì
+
+你不需要一开始就站在最优位置, 也不需要立刻完成一次彻底的转型
+Nǐ bù xūyào yī kāishǐ jiù zhàn zài zuì yōu wèizhì, yě bù xūyào lìkè wánchéng yī cì chèdǐ de zhuǎnxíng
+
+你只需要确保一件事: 当变化发生的时候, 你没有停在原地
+Nǐ zhǐ xūyào quèbǎo yī jiàn shì: dāng biànhuà fāshēng de shíhou, nǐ méiyǒu tíng zài yuándì
+
+如果把今天这一期压缩成一个更简单的结论, 可能是: AI带来的并不只是效率的提升, 也不只是职业结构的变化, 它更像是在不断地提醒我们, 原来我们一直以为稳定的东西, 其实是可以被重新定义的
+Rúguǒ bǎ jīntiān zhè yī qī yāsuō chéng yī ge gèng jiǎndān de jiélùn, kěnéng shì: AI dài lái de bìng bù zhǐshì xiàolǜ de tíshēng, yě bù zhǐshì zhíyè jiégòu de biànhuà, tā gèng xiàng shì zài bùduàn de tíxǐng wǒmen, yuánlái wǒmen yīzhí yǐwéi wěndìng de dōngxi, qíshí shì kěyǐ bèi chóngxīn dìngyì de
+
+而当这些定义开始松动的时候, 每一个人其实都获得了一种机会: 不是去变成别人, 而是去重新设计一次自己和这个世界的关系
+Ér dāng zhèxiē dìngyì kāishǐ sōngdòng de shíhou, měi yī ge rén qíshí dōu huòdé le yī zhǒng jīhuì: bùshì qù biànchéng biéren, ér shì qù chóngxīn shèjì yī cì zìjǐ hé zhège shìjiè de guānxì
+
+AI不会替你做出选择, 但它会让你不做选择这件事变得越来越难
+AI bù huì tì nǐ zuò chū xuǎnzé, dàn tā huì ràng nǐ bù zuò xuǎnzé zhè jiàn shì biàn dé yuè lái yuè nán
+
+有的人会被这件事情推着走, 也有的人会慢慢学会自己去决定方向
+Yǒu de rén huì bèi zhè jiàn shìqíng tuī zhe zǒu, yě yǒu de rén huì màn man xuéhuì zìjǐ qù juédìng fāngxiàng
+
+而这两种人几年之后, 很可能会生活在两个完全不同的世界里
+Ér zhè liǎng zhǒng rén jǐ nián zhīhòu, hěn kěnéng huì shēnghuó zài liǎng ge wánquán bùtóng de shìjiè lǐ
+
+所以比AI会不会取代你更重要的其实是: 当变化已经发生的时候, 你是选择站在原地, 还是往前走一步, 哪怕只是一步
+Suǒyǐ bǐ AI huì bù huì qǔdài nǐ gèng zhòngyào de qíshí shì: dāng biànhuà yǐjīng fāshēng de shíhou, nǐ shì xuǎnzé zhàn zài yuándì, háishì wǎng qián zǒu yī bù, nǎpà zhǐshì yī bù
+
+好, 今天的节目就到这里
+Hǎo, jīntiān de jiémù jiù dào zhèlǐ
+
+如果您对我们的节目内容感兴趣, 希望您可以点赞、评论、订阅和转发, 我们下期节目再见
+Rúguǒ nín duì wǒmen de jiémù nèiróng gǎn xìngqù, xīwàng nín kěyǐ diǎn zàn、pínglùn、dìngyuè hé zhuǎnfā, wǒmen xià qī jiémù zàijiàn
+
