@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="8269ChinaScribe.ChinaScribe" ProcessorArchitecture="x86" Publisher="CN=A054BB08-AE63-45FB-9EEE-4E3AB0DC6B49" Version="2.1.0.0" />
+  <Properties>
+    <DisplayName>ChinaScribe</DisplayName>
+    <PublisherDisplayName>David Mead</PublisherDisplayName>
+    <Description>ChinaScribe</Description>
+    <Logo>Assets\Logo44x44.png</Logo>
+  </Properties>
+  <Resources>
+    <Resource Language="en-US" />
+  </Resources>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.14257.0" MaxVersionTested="10.0.22621.0" />
+  </Dependencies>
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust" />
+  </Capabilities>
+  <Applications>
+    <Application Id="com.embarcadero.ChinaScribe" Executable="ChinaScribe.exe" EntryPoint="Windows.FullTrustApplication">
+      <uap:VisualElements BackgroundColor="#464646" DisplayName="ChinaScribe" Square150x150Logo="Assets\Logo150x150.png" Square44x44Logo="Assets\Logo44x44.png" Description="ChinaScribe" />
+    </Application>
+  </Applications>
+  <mp:PhoneIdentity PhoneProductId="b9e6870c-ddd4-4d88-8438-e0f579bde1e5" PhonePublisherId="6cdfd678-dd13-4a60-8923-c633e20244aa" />
+</Package>
